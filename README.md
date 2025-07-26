@@ -69,7 +69,7 @@
 - [builtbybel/Appcopier](https://github.com/builtbybel/Appcopier) - Back up key things on your Windows PC, perform a reset or simply go back in time.
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [tmayoff/Readarr](https://github.com/tmayoff/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
-- [apteryxxyz/jellyfin-plugin-air-times](https://github.com/apteryxxyz/jellyfin-plugin-air-times) - Localise Jellyfin series air times.
+- [apteryxxyz/jellyfin-air-times](https://github.com/apteryxxyz/jellyfin-air-times) - Localise Jellyfin series air times.
 - [TypNull/Tubifarry](https://github.com/TypNull/Tubifarry) - Tubifarry is a Lidarr plugin that enhances your music library by fetching music from YouTube, integrating with Slskd for Soulseek access, automating Spotify playlist imports, converting files, and ret
 - [NooNameR/Jellyfin.Plugin.LocalPosters](https://github.com/NooNameR/Jellyfin.Plugin.LocalPosters) - 
 - [audiamus/BookLibConnect](https://github.com/audiamus/BookLibConnect) - A standalone Audible downloader and decrypter
@@ -303,6 +303,7 @@
 
 ## Others 
 
+- [gugutab/TvOverlay](https://github.com/gugutab/TvOverlay) - 
 - [energywave/multinotify](https://github.com/energywave/multinotify) - Multinotify service for Home Assistant
 - [RatingPosterDB/Jellyfin.Plugin.RPDB](https://github.com/RatingPosterDB/Jellyfin.Plugin.RPDB) - Jellyfin Plugin for Rating Poster Database
 - [fejich/unraid-fclones](https://github.com/fejich/unraid-fclones) - This is a unRAID plugin for the fclones binary executable
@@ -366,6 +367,7 @@
 
 ## Python 
 
+- [mhaowork/amblegpt](https://github.com/mhaowork/amblegpt) - Video surveilance footage analyst powered by GPT-4o
 - [ice413/hass-photoprism](https://github.com/ice413/hass-photoprism) - Home assistant integration for photoprism
 - [watkins-matt/home-assistant-google-keep-sync](https://github.com/watkins-matt/home-assistant-google-keep-sync) - Custom component for Home Assistant that enables bidirectional synchronization with Google Keep lists.
 - [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible) - A custom component to enable using S3 compatible endpoints for home assistant backups
