@@ -33,6 +33,7 @@
 - [dart](#dart)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [developer-tools](#developer-tools)
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
@@ -327,6 +328,11 @@
 ## deep-learning 
 
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
+
+## developer-tools 
+
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## discord 
 
