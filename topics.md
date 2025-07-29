@@ -41,6 +41,7 @@
 - [electron](#electron)
 - [ember](#ember)
 - [emulator](#emulator)
+- [finance](#finance)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -401,6 +402,10 @@
 ## emulator 
 
 - [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
+
+## finance 
+
+- [soloam/ha-fireflyiii-integration](https://github.com/soloam/ha-fireflyiii-integration) - FireflyIII Integration for Home Assistant
 
 ## firefox 
 
@@ -799,6 +804,7 @@
 
 ## others 
 
+- [wildenrou/home-assistant-fileflows](https://github.com/wildenrou/home-assistant-fileflows) - Custom FileFlows integration for Home Assistant
 - [gugutab/TvOverlay](https://github.com/gugutab/TvOverlay) - 
 - [EBOOZ/TeamsStatus](https://github.com/EBOOZ/TeamsStatus) - Monitoring your Microsoft Teams status with PowerShell
 - [builtbybel/Appcopier](https://github.com/builtbybel/Appcopier) - Back up key things on your Windows PC, perform a reset or simply go back in time.
@@ -1140,6 +1146,7 @@
 
 ## python 
 
+- [soloam/ha-fireflyiii-integration](https://github.com/soloam/ha-fireflyiii-integration) - FireflyIII Integration for Home Assistant
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - Device Tools: Create, modify and merge your Home Assistant devices.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management.
