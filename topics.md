@@ -106,6 +106,7 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [shell](#shell)
+- [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [statistics](#statistics)
@@ -160,6 +161,7 @@
 
 ## angular 
 
+- [booklore-app/BookLore](https://github.com/booklore-app/BookLore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 
 ## api 
@@ -639,6 +641,7 @@
 
 ## java 
 
+- [booklore-app/BookLore](https://github.com/booklore-app/BookLore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
@@ -804,6 +807,8 @@
 
 ## others 
 
+- [FoxxMD/slsk-batchdl](https://github.com/FoxxMD/slsk-batchdl) - A batch downloader for Soulseek
+- [dvankley/firefly-plaid-connector-2](https://github.com/dvankley/firefly-plaid-connector-2) - Connector to pull Plaid financial data into the Firefly finance tool
 - [wildenrou/home-assistant-fileflows](https://github.com/wildenrou/home-assistant-fileflows) - Custom FileFlows integration for Home Assistant
 - [gugutab/TvOverlay](https://github.com/gugutab/TvOverlay) - 
 - [EBOOZ/TeamsStatus](https://github.com/EBOOZ/TeamsStatus) - Monitoring your Microsoft Teams status with PowerShell
@@ -843,7 +848,6 @@
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [audiamus/BookLibConnect](https://github.com/audiamus/BookLibConnect) - A standalone Audible downloader and decrypter
 - [audiamus/AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) - Convert Audible aax files to mp3 and m4a/m4b
-- [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
 - [kennethsible/mkvpriority](https://github.com/kennethsible/mkvpriority) - Automatically Prioritize Audio/Subtitle Tracks in MKV Files
 - [SpaceinvaderOne/unraid_vm_icons](https://github.com/SpaceinvaderOne/unraid_vm_icons) - To download and install custom vm icons onto an Unraid server
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - FlareSolverr drop-in replacement with FastAPI and nodriver
@@ -1236,6 +1240,7 @@
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [booklore-app/BookLore](https://github.com/booklore-app/BookLore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and AI
 - [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
@@ -1266,6 +1271,10 @@
 ## shell 
 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## spring-boot 
+
+- [booklore-app/BookLore](https://github.com/booklore-app/BookLore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 
 ## sql 
 
