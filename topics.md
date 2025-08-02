@@ -535,6 +535,7 @@
 
 ## home-assistant 
 
+- [mrk-its/homeassistant-blitzortung](https://github.com/mrk-its/homeassistant-blitzortung) - Custom Component for fetching lightning data from blitzortung.org
 - [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices
 - [jcwillox/hassio-rclone-backup](https://github.com/jcwillox/hassio-rclone-backup) - Home Assistant addon to automatically sync backups to remote locations using Rclone
 - [watkins-matt/home-assistant-google-keep-sync](https://github.com/watkins-matt/home-assistant-google-keep-sync) - Custom component for Home Assistant that enables bidirectional synchronization with Google Keep lists.
