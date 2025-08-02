@@ -373,6 +373,7 @@
 
 ## Python 
 
+- [mrk-its/homeassistant-blitzortung](https://github.com/mrk-its/homeassistant-blitzortung) - Custom Component for fetching lightning data from blitzortung.org
 - [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices
 - [soloam/ha-fireflyiii-integration](https://github.com/soloam/ha-fireflyiii-integration) - FireflyIII Integration for Home Assistant
 - [wildenrou/home-assistant-fileflows](https://github.com/wildenrou/home-assistant-fileflows) - Custom FileFlows integration for Home Assistant
