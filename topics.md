@@ -133,6 +133,7 @@
 
 ## ai 
 
+- [sakowicz/actual-ai](https://github.com/sakowicz/actual-ai) - Categorise transactions in Actual Budget using AI.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [sbenodiz/ai_agent_ha](https://github.com/sbenodiz/ai_agent_ha) - A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant insta
@@ -814,6 +815,8 @@
 
 ## others 
 
+- [mmatongo/unraid-cloudflared](https://github.com/mmatongo/unraid-cloudflared) - Installs Cloudflared as an unRAID plugin.
+- [dreulavelle/Prowlarr-Indexers](https://github.com/dreulavelle/Prowlarr-Indexers) - Prowlarr Indexers used by Cardigann
 - [bfordham/jellyfin-plugin-bookshelf](https://github.com/bfordham/jellyfin-plugin-bookshelf) - 
 - [FoxxMD/slsk-batchdl](https://github.com/FoxxMD/slsk-batchdl) - A batch downloader for Soulseek
 - [dvankley/firefly-plaid-connector-2](https://github.com/dvankley/firefly-plaid-connector-2) - Connector to pull Plaid financial data into the Firefly finance tool
