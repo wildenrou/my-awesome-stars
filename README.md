@@ -239,6 +239,7 @@
 - [fabricionaweb/un.recyclarr](https://github.com/fabricionaweb/un.recyclarr) - Run Recyclarr binary on Unraid
 - [DumbWareio/DumbPad](https://github.com/DumbWareio/DumbPad) - A Dumb Pad with collaborative editing, fuzzy search, & markdown preview functionality
 - [CallMeBruce/nightwalker](https://github.com/CallMeBruce/nightwalker) - A dark but not black qBittorrent WebUI
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 - [ad3m3r5/scratch-map](https://github.com/ad3m3r5/scratch-map) - An open-source scratch-off style map to track your travels.
 - [bsharper/atv-desktop-remote](https://github.com/bsharper/atv-desktop-remote) - A simple app to allow you to control an Apple TV from your desktop
 - [thurasw/airwave](https://github.com/thurasw/airwave) - Share Files between iOS and Windows without hassle.
@@ -309,6 +310,7 @@
 
 ## Others 
 
+- [dreulavelle/Prowlarr-Indexers](https://github.com/dreulavelle/Prowlarr-Indexers) - Prowlarr Indexers used by Cardigann
 - [gugutab/TvOverlay](https://github.com/gugutab/TvOverlay) - 
 - [energywave/multinotify](https://github.com/energywave/multinotify) - Multinotify service for Home Assistant
 - [RatingPosterDB/Jellyfin.Plugin.RPDB](https://github.com/RatingPosterDB/Jellyfin.Plugin.RPDB) - Jellyfin Plugin for Rating Poster Database
@@ -347,6 +349,7 @@
 
 ## PHP 
 
+- [mmatongo/unraid-cloudflared](https://github.com/mmatongo/unraid-cloudflared) - Installs Cloudflared as an unRAID plugin.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [Commifreak/unraid-appdata.backup](https://github.com/Commifreak/unraid-appdata.backup) - UNRAID AppData backup plugin
@@ -449,7 +452,6 @@
 - [KBlixt/subcleaner](https://github.com/KBlixt/subcleaner) - removes ads from subtitle files cleanly.
 - [Hantick/ticktick-home-assistant](https://github.com/Hantick/ticktick-home-assistant) - Home Assistant TickTick Integration
 - [AlexxIT/PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 - [cmathews393/spotify-to-plex](https://github.com/cmathews393/spotify-to-plex) - A python script/app to sync Spotify Playlists into Plex (optionally via Lidarr)
 - [bdraco/yalexs-ble](https://github.com/bdraco/yalexs-ble) - Bluetooth control of Yale and August locks
 - [dvd-dev/hilo](https://github.com/dvd-dev/hilo) - Home Assistant Hilo Integration via HACS
@@ -652,6 +654,7 @@
 
 ## TypeScript 
 
+- [sakowicz/actual-ai](https://github.com/sakowicz/actual-ai) - Categorise transactions in Actual Budget using AI.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo
 - [antontanderup/mediocre-hass-media-player-cards](https://github.com/antontanderup/mediocre-hass-media-player-cards) - Media Player Cards for Homeassistant.
