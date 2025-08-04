@@ -56,6 +56,7 @@
 
 ## C 
 
+- [qvr/nonraid](https://github.com/qvr/nonraid) - NonRAID - unRAID storage array kernel driver fork
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - ESP32 Music streaming based on Squeezelite, with support for multi-room sync, AirPlay, Bluetooth, Hardware buttons, display and more
 - [linux-on-mac/mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed on all MacBook/MacBook Pros (probably all Apple computers) for Linux Kernel 3 and newer
@@ -66,6 +67,7 @@
 
 ## C# # 
 
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [bfordham/jellyfin-plugin-bookshelf](https://github.com/bfordham/jellyfin-plugin-bookshelf) - 
 - [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
 - [FoxxMD/slsk-batchdl](https://github.com/FoxxMD/slsk-batchdl) - A batch downloader for Soulseek
