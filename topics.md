@@ -165,7 +165,7 @@
 
 ## angular 
 
-- [booklore-app/BookLore](https://github.com/booklore-app/BookLore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
+- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 
 ## api 
@@ -226,6 +226,7 @@
 
 ## bash 
 
+- [koter84/HomeAssistant_Blueprints_Update](https://github.com/koter84/HomeAssistant_Blueprints_Update) - This is a script to automatically check for updates for your HA Blueprints
 - [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A very simple webhook server launching shell scripts.
 - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
 
@@ -544,7 +545,7 @@
 - [jcwillox/hassio-rclone-backup](https://github.com/jcwillox/hassio-rclone-backup) - Home Assistant addon to automatically sync backups to remote locations using Rclone
 - [watkins-matt/home-assistant-google-keep-sync](https://github.com/watkins-matt/home-assistant-google-keep-sync) - Custom component for Home Assistant that enables bidirectional synchronization with Google Keep lists.
 - [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible) - A custom component to enable using S3 compatible endpoints for home assistant backups
-- [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - Device Tools: Create, modify and merge your Home Assistant devices.
+- [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - A powerful custom Home Assistant integration that provides comprehensive device management capabilities, allowing users to modify device attributes, reorganize entities, create virtual devices, and me
 - [sbenodiz/ai_agent_ha](https://github.com/sbenodiz/ai_agent_ha) - A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant insta
 - [domalab/ha-unraid-connect](https://github.com/domalab/ha-unraid-connect) - Unraid Connect Integration for Home Assistant
 - [energywave/multinotify](https://github.com/energywave/multinotify) - Multinotify service for Home Assistant
@@ -652,7 +653,7 @@
 
 ## java 
 
-- [booklore-app/BookLore](https://github.com/booklore-app/BookLore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
+- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
@@ -822,6 +823,10 @@
 
 ## others 
 
+- [Loriage/Beszel-Swift-App](https://github.com/Loriage/Beszel-Swift-App) - 
+- [Vito0912/abs-autoconverter](https://github.com/Vito0912/abs-autoconverter) - 
+- [Vito0912/absToolbox](https://github.com/Vito0912/absToolbox) - A collection of tools designed to assist with Audiobookshelf-related tasks.
+- [bengalih/ABS-scripts](https://github.com/bengalih/ABS-scripts) - Various scripts and tools for managing Audiobookshelf libraries and other assorted audiobook management
 - [qvr/nonraid](https://github.com/qvr/nonraid) - NonRAID - unRAID storage array kernel driver fork
 - [mmatongo/unraid-cloudflared](https://github.com/mmatongo/unraid-cloudflared) - Installs Cloudflared as an unRAID plugin.
 - [dreulavelle/Prowlarr-Indexers](https://github.com/dreulavelle/Prowlarr-Indexers) - Prowlarr Indexers used by Cardigann
@@ -1173,7 +1178,7 @@
 ## python 
 
 - [soloam/ha-fireflyiii-integration](https://github.com/soloam/ha-fireflyiii-integration) - FireflyIII Integration for Home Assistant
-- [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - Device Tools: Create, modify and merge your Home Assistant devices.
+- [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - A powerful custom Home Assistant integration that provides comprehensive device management capabilities, allowing users to modify device attributes, reorganize entities, create virtual devices, and me
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management.
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
@@ -1263,7 +1268,7 @@
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
-- [booklore-app/BookLore](https://github.com/booklore-app/BookLore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
+- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and AI
 - [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
@@ -1297,7 +1302,7 @@
 
 ## spring-boot 
 
-- [booklore-app/BookLore](https://github.com/booklore-app/BookLore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
+- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 
 ## sql 
 
