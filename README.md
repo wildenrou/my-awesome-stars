@@ -378,6 +378,8 @@
 
 ## Python 
 
+- [eXPerience83/pollenlevels](https://github.com/eXPerience83/pollenlevels) - Home Assitant Pollen Levels
+- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 A Calm and Clean Theme for Home Assistant
 - [bengalih/ABS-scripts](https://github.com/bengalih/ABS-scripts) - Various scripts and tools for managing Audiobookshelf libraries and other assorted audiobook management
 - [mrk-its/homeassistant-blitzortung](https://github.com/mrk-its/homeassistant-blitzortung) - Custom Component for fetching lightning data from blitzortung.org
 - [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices
@@ -406,7 +408,7 @@
 - [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [kennethsible/mkvpriority](https://github.com/kennethsible/mkvpriority) - Automatically Prioritize Audio/Subtitle Tracks in MKV Files
-- [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - FlareSolverr drop-in replacement with FastAPI and nodriver
+- [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management.
 - [gchehab/Apple_iBooks](https://github.com/gchehab/Apple_iBooks) - Calibre plugin to copy ebooks to Apple iBooks/Books mac os application
 - [kamaradclimber/geovelo-homeassistant](https://github.com/kamaradclimber/geovelo-homeassistant) - An integration for homeassistant to expose information about geovelo account
@@ -601,6 +603,7 @@
 
 ## Shell 
 
+- [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [koter84/HomeAssistant_Blueprints_Update](https://github.com/koter84/HomeAssistant_Blueprints_Update) - This is a script to automatically check for updates for your HA Blueprints
 - [SpaceinvaderOne/TailVault](https://github.com/SpaceinvaderOne/TailVault) - A simple Apline container to be used by tailscale ssh for a backup location on a remote server
 - [SpaceinvaderOne/Unraid-Rsync-Backup-and-Sync-Tool](https://github.com/SpaceinvaderOne/Unraid-Rsync-Backup-and-Sync-Tool) - Backup script for Unraid using rsync, supports local/remote, hardlink versioning, and deletion tracking
@@ -659,6 +662,7 @@
 
 ## TypeScript 
 
+- [ntoporcov/iQbit](https://github.com/ntoporcov/iQbit) - 
 - [Vito0912/abs-autoconverter](https://github.com/Vito0912/abs-autoconverter) - 
 - [Vito0912/absToolbox](https://github.com/Vito0912/absToolbox) - A collection of tools designed to assist with Audiobookshelf-related tasks.
 - [sakowicz/actual-ai](https://github.com/sakowicz/actual-ai) - Categorise transactions in Actual Budget using AI.
