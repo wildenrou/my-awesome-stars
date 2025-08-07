@@ -540,6 +540,8 @@
 
 ## home-assistant 
 
+- [eXPerience83/pollenlevels](https://github.com/eXPerience83/pollenlevels) - Home Assitant Pollen Levels
+- [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 A Calm and Clean Theme for Home Assistant
 - [mrk-its/homeassistant-blitzortung](https://github.com/mrk-its/homeassistant-blitzortung) - Custom Component for fetching lightning data from blitzortung.org
 - [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices
 - [jcwillox/hassio-rclone-backup](https://github.com/jcwillox/hassio-rclone-backup) - Home Assistant addon to automatically sync backups to remote locations using Rclone
@@ -823,6 +825,8 @@
 
 ## others 
 
+- [ntoporcov/iQbit](https://github.com/ntoporcov/iQbit) - 
+- [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [Loriage/Beszel-Swift-App](https://github.com/Loriage/Beszel-Swift-App) - 
 - [Vito0912/abs-autoconverter](https://github.com/Vito0912/abs-autoconverter) - 
 - [Vito0912/absToolbox](https://github.com/Vito0912/absToolbox) - A collection of tools designed to assist with Audiobookshelf-related tasks.
@@ -874,7 +878,7 @@
 - [audiamus/AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) - Convert Audible aax files to mp3 and m4a/m4b
 - [kennethsible/mkvpriority](https://github.com/kennethsible/mkvpriority) - Automatically Prioritize Audio/Subtitle Tracks in MKV Files
 - [SpaceinvaderOne/unraid_vm_icons](https://github.com/SpaceinvaderOne/unraid_vm_icons) - To download and install custom vm icons onto an Unraid server
-- [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - FlareSolverr drop-in replacement with FastAPI and nodriver
+- [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [gchehab/Apple_iBooks](https://github.com/gchehab/Apple_iBooks) - Calibre plugin to copy ebooks to Apple iBooks/Books mac os application
 - [shinji257/unraid_pkgs](https://github.com/shinji257/unraid_pkgs) - 
 - [rmcrackan/Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
