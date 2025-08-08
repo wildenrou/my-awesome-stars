@@ -67,6 +67,7 @@
 
 ## C# # 
 
+- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - Jellyfin plugin for AudioMuse-AI
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [bfordham/jellyfin-plugin-bookshelf](https://github.com/bfordham/jellyfin-plugin-bookshelf) - 
 - [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
@@ -218,6 +219,7 @@
 
 ## Java 
 
+- [saltpi/iPlay](https://github.com/saltpi/iPlay) - A cross-platform media player
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [badaix/snapdroid](https://github.com/badaix/snapdroid) - Snapcast client for Android
 - [anthonyraymond/joal](https://github.com/anthonyraymond/joal) - An open source command line RatioMaster with an optional WebUI.
@@ -226,6 +228,7 @@
 
 ## JavaScript 
 
+- [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Infraviored/alexa_list_ha_import](https://github.com/Infraviored/alexa_list_ha_import) - 
 - [thiagobruch/HA_Addons](https://github.com/thiagobruch/HA_Addons) - 
@@ -662,6 +665,7 @@
 
 ## TypeScript 
 
+- [streamyfin/optimized-versions-server](https://github.com/streamyfin/optimized-versions-server) - A streamyfin companion server program to transcode videos into a supported format before downloading
 - [ntoporcov/iQbit](https://github.com/ntoporcov/iQbit) - 
 - [Vito0912/abs-autoconverter](https://github.com/Vito0912/abs-autoconverter) - 
 - [Vito0912/absToolbox](https://github.com/Vito0912/absToolbox) - A collection of tools designed to assist with Audiobookshelf-related tasks.
