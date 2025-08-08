@@ -711,6 +711,7 @@
 
 ## llm 
 
+- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - Jellyfin plugin for AudioMuse-AI
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
@@ -825,6 +826,9 @@
 
 ## others 
 
+- [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
+- [streamyfin/optimized-versions-server](https://github.com/streamyfin/optimized-versions-server) - A streamyfin companion server program to transcode videos into a supported format before downloading
+- [saltpi/iPlay](https://github.com/saltpi/iPlay) - A cross-platform media player
 - [ntoporcov/iQbit](https://github.com/ntoporcov/iQbit) - 
 - [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [Loriage/Beszel-Swift-App](https://github.com/Loriage/Beszel-Swift-App) - 
@@ -1352,6 +1356,7 @@
 
 ## tensorflow 
 
+- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - Jellyfin plugin for AudioMuse-AI
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
