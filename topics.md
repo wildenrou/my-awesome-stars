@@ -400,6 +400,7 @@
 
 ## electron 
 
+- [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
 - [m0ngr31/jellyamp](https://github.com/m0ngr31/jellyamp) - Desktop client for listening to music from a Jellyfin server
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
@@ -444,6 +445,7 @@
 
 ## frontend 
 
+- [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 
 ## game 
@@ -666,6 +668,7 @@
 
 ## javascript 
 
+- [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -809,6 +812,7 @@
 
 ## open-source 
 
+- [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
@@ -830,6 +834,7 @@
 
 ## others 
 
+- [TaylorJns/Actual-Budget-iOS-Widget](https://github.com/TaylorJns/Actual-Budget-iOS-Widget) - An iOS widget for Actual Budget. Requires ‘actual-http-api’ repo.
 - [infinityofspace/jellyfin_alexa_skill](https://github.com/infinityofspace/jellyfin_alexa_skill) - Selfhosted Alexa media player skill for Jellyfin
 - [dianlight/srat](https://github.com/dianlight/srat) - SRAT (SambaNAS REST Administration Tool) is a new system designed to provide a simplified user interface for configuring SAMBA. It has been developed to work within Home Assistant.
 - [TheFes/ha-blueprints](https://github.com/TheFes/ha-blueprints) - Home Assistant Blueprints for (voice) commands
@@ -990,7 +995,6 @@
 - [dhniceday/obsidian-sticky-notes](https://github.com/dhniceday/obsidian-sticky-notes) - Sticky Notes for Obsidian
 - [brandonzylstra/Unraid-NerdUtilities](https://github.com/brandonzylstra/Unraid-NerdUtilities) - The packages Unraid forgot.
 - [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - ESP32 Music streaming based on Squeezelite, with support for multi-room sync, AirPlay, Bluetooth, Hardware buttons, display and more
-- [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [team-unstablers/xrdp-brew-formulas](https://github.com/team-unstablers/xrdp-brew-formulas) - homebrew formulas for xrdp
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [keatontaylor/alexa-actions](https://github.com/keatontaylor/alexa-actions) - A README and associated code to get actionable notifications setup for Alexa devices.
