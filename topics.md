@@ -834,6 +834,7 @@
 
 ## others 
 
+- [unityfire/alexa-ha](https://github.com/unityfire/alexa-ha) - An Amazon Echo skill for controlling your Home Automation via voice
 - [TaylorJns/Actual-Budget-iOS-Widget](https://github.com/TaylorJns/Actual-Budget-iOS-Widget) - An iOS widget for Actual Budget. Requires ‘actual-http-api’ repo.
 - [infinityofspace/jellyfin_alexa_skill](https://github.com/infinityofspace/jellyfin_alexa_skill) - Selfhosted Alexa media player skill for Jellyfin
 - [dianlight/srat](https://github.com/dianlight/srat) - SRAT (SambaNAS REST Administration Tool) is a new system designed to provide a simplified user interface for configuring SAMBA. It has been developed to work within Home Assistant.
