@@ -703,7 +703,6 @@
 ## linux 
 
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
-- [G-grbz/Jellyfin-Media-Slider](https://github.com/G-grbz/Jellyfin-Media-Slider) - A customizable web component that adds a media slider, music player, pause screen, and DiceBear avatar generator to Jellyfin.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -917,6 +916,7 @@
 - [cleverdevil/plexyfin](https://github.com/cleverdevil/plexyfin) - A Jellyfin plug-in to integrate with a Plex Media Server
 - [b1ggi/plex-nfo-creator](https://github.com/b1ggi/plex-nfo-creator) - Create .nfo files from Plex containing imdb/tmdb/tvdb links for Jellyfin migration
 - [wilmardo/migrate-plex-to-jellyfin](https://github.com/wilmardo/migrate-plex-to-jellyfin) - Migrate watched status from Plex to Jellyfin
+- [G-grbz/Jellyfin-Media-Slider](https://github.com/G-grbz/Jellyfin-Media-Slider) - A customizable web component that adds a media slider, music player, pause screen, and DiceBear avatar generator to Jellyfin.
 - [ghomasHudson/Jellyfin-Auto-Collections](https://github.com/ghomasHudson/Jellyfin-Auto-Collections) - Automatically make jellyfin collections from IMDB, Letterboxd lists and more.
 - [ccmorris/unraid-gui-responsive](https://github.com/ccmorris/unraid-gui-responsive) - Style overrides for Unraid GUI for responsive design
 - [fejich/unraid-fclones](https://github.com/fejich/unraid-fclones) - This is a unRAID plugin for the fclones binary executable
@@ -1438,7 +1438,6 @@
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-- [G-grbz/Jellyfin-Media-Slider](https://github.com/G-grbz/Jellyfin-Media-Slider) - A customizable web component that adds a media slider, music player, pause screen, and DiceBear avatar generator to Jellyfin.
 - [Benisgo/Symbolic11](https://github.com/Benisgo/Symbolic11) - Symbolic11 is a user-friendly GUI tool for creating symbolic, hard, and junction links on Windows 10 and 11. The tool features a modern design inspired by Windows 11 and streamlines the link creation 
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
