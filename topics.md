@@ -81,6 +81,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [objective-c](#objective-c)
+- [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -544,6 +545,7 @@
 
 ## home-assistant 
 
+- [msinhore/adaptive_climate](https://github.com/msinhore/adaptive_climate) - Advanced Home Assistant integration that automatically adjusts HVAC systems based on the ASHRAE 55 adaptive comfort standard. This intelligent climate control provides 15-30% energy savings while main
 - [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
 - [eXPerience83/pollenlevels](https://github.com/eXPerience83/pollenlevels) - Home Assitant Pollen Levels
 - [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 A Calm and Clean Theme for Home Assistant
@@ -804,6 +806,11 @@
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
+## obsidian-md 
+
+- [Qwyntex/doubleshift](https://github.com/Qwyntex/doubleshift) - Obsidian Plugin to open the command palette by pressing shift twice
+- [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
+
 ## obsidian-plugin 
 
 - [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
@@ -834,6 +841,7 @@
 
 ## others 
 
+- [chozeur/KVM-QEMU-Sonoma-Hackintosh](https://github.com/chozeur/KVM-QEMU-Sonoma-Hackintosh) - This repo aims to guide you through the setup of a macOS Sonoma 14.3 virtual machine. We'll deploy it using KVM and QEMU under an UNRAID server.
 - [unityfire/alexa-ha](https://github.com/unityfire/alexa-ha) - An Amazon Echo skill for controlling your Home Automation via voice
 - [TaylorJns/Actual-Budget-iOS-Widget](https://github.com/TaylorJns/Actual-Budget-iOS-Widget) - An iOS widget for Actual Budget. Requires ‘actual-http-api’ repo.
 - [infinityofspace/jellyfin_alexa_skill](https://github.com/infinityofspace/jellyfin_alexa_skill) - Selfhosted Alexa media player skill for Jellyfin
@@ -993,7 +1001,6 @@
 - [fondberg/spotcast](https://github.com/fondberg/spotcast) - Home assistant custom component to start Spotify playback on an idle chromecast device as well as control spotify connect devices
 - [craigstjean/ObsidianCalendarSync](https://github.com/craigstjean/ObsidianCalendarSync) - Tool to sync an Outlook calendar to Obsidian Full Calendar markdown files
 - [mikevanes/spotify-card-v2](https://github.com/mikevanes/spotify-card-v2) - Spotify playlist card for Home Assistant card
-- [Qwyntex/doubleshift](https://github.com/Qwyntex/doubleshift) - Obsidian Plugin to open the command palette by pressing shift twice
 - [ad3m3r5/scratch-map](https://github.com/ad3m3r5/scratch-map) - An open-source scratch-off style map to track your travels.
 - [dhniceday/obsidian-sticky-notes](https://github.com/dhniceday/obsidian-sticky-notes) - Sticky Notes for Obsidian
 - [brandonzylstra/Unraid-NerdUtilities](https://github.com/brandonzylstra/Unraid-NerdUtilities) - The packages Unraid forgot.
