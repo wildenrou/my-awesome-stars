@@ -1148,6 +1148,7 @@
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 - [robweber/xbmcbackup](https://github.com/robweber/xbmcbackup) - Backup Addon for Kodi
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
+- [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
 - [michalleptuch/calendar-flyout](https://github.com/michalleptuch/calendar-flyout) - Official issue-only repo for Calendar Flyout
 - [BeryJu/hass-ticktick](https://github.com/BeryJu/hass-ticktick) - Home Assistant Integration for TickTick
 - [epfromer/pst-extractor](https://github.com/epfromer/pst-extractor) - Extract objects from MS Outlook/Exchange PST files
