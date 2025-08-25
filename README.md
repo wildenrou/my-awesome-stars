@@ -223,7 +223,7 @@
 
 ## Java 
 
-- [saltpi/iPlay](https://github.com/saltpi/iPlay) - A cross-platform media player
+- [saltpi/iPlay](https://github.com/saltpi/iPlay) - Enjoy Media Everywhere, On Every Platform 👀
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 - [badaix/snapdroid](https://github.com/badaix/snapdroid) - Snapcast client for Android
 - [anthonyraymond/joal](https://github.com/anthonyraymond/joal) - An open source command line RatioMaster with an optional WebUI.
@@ -588,7 +588,7 @@
 - [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor for passive BLE sensors
 - [kkr16/hass-stm-custom-component](https://github.com/kkr16/hass-stm-custom-component) - Custom HomeAssistant component for the STM (Société de transport de Montréal) metro lines status monitoring.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-- [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart Component with simplified SmartThings API Support configurable from User Interface.
+- [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart integration with SmartThings API Support.
 - [gcobb321/icloud3_v3](https://github.com/gcobb321/icloud3_v3) - iCloud3 v3 - Development Version - iDevice Tracker - This is the development version of new and updated features. It is not the official release of iCloud3 v3.
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [haijeploeg/excludarr](https://github.com/haijeploeg/excludarr) - Excludarr manages your libraries in Radarr/Sonarr. It keeps track of your library and checks if your movies and series are also available on a configured streaming provider. It can exclude the movies 
@@ -713,7 +713,7 @@
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [jbrodriguez/unbalance](https://github.com/jbrodriguez/unbalance) - Go/React/Tailwind app to move folders/files between Unraid disks
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [rabrain/ai-chat](https://github.com/rabrain/ai-chat) - Open AI Chat Bot in the Menu Bar: ChatGPT desktop app for Windows, Mac, and Linux
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [custom-cards/spotify-card](https://github.com/custom-cards/spotify-card) - Spotify playlist card for Home Assistant card
