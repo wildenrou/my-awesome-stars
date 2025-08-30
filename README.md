@@ -477,7 +477,7 @@
 - [Hantick/ticktick-home-assistant](https://github.com/Hantick/ticktick-home-assistant) - Home Assistant TickTick Integration
 - [AlexxIT/PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
 - [cmathews393/spotify-to-plex](https://github.com/cmathews393/spotify-to-plex) - A python script/app to sync Spotify Playlists into Plex (optionally via Lidarr)
-- [bdraco/yalexs-ble](https://github.com/bdraco/yalexs-ble) - Bluetooth control of Yale and August locks
+- [Yale-Libs/yalexs-ble](https://github.com/Yale-Libs/yalexs-ble) - Bluetooth control of Yale and August locks
 - [dvd-dev/hilo](https://github.com/dvd-dev/hilo) - Home Assistant Hilo Integration via HACS
 - [domo-quebec/domo-quebec](https://github.com/domo-quebec/domo-quebec) - 
 - [fondberg/spotcast](https://github.com/fondberg/spotcast) - Home assistant custom component to start Spotify playback on an idle chromecast device as well as control spotify connect devices
@@ -523,7 +523,7 @@
 - [ldotlopez/ha-hnap-device](https://github.com/ldotlopez/ha-hnap-device) - Home Assistant component for HNAP devices
 - [ldotlopez/python-hnap](https://github.com/ldotlopez/python-hnap) - Generic HNAP client and specialized clients for  motion sensorts, sirens, routers, water detectors and more.
 - [ageof/MyDlink-API-Python](https://github.com/ageof/MyDlink-API-Python) - MyDlink Cloud Python API
-- [lwbeam/water_sensors](https://github.com/lwbeam/water_sensors) - Python script to monitor orphaned D-Link DCH-S160 Water Sensor.
+- [lwbeam/water_sensors](https://github.com/lwbeam/water_sensors) - Python script to monitor orphaned D-Link DCH-S160 water sensor.
 - [vingerha/gtfs2](https://github.com/vingerha/gtfs2) - Support GTFS in Home Assistant GUI-only
 - [zacs/ha-gtfs-rt](https://github.com/zacs/ha-gtfs-rt) - Real-time transit information for Home Assistant
 - [rosskouk/asknavidrome](https://github.com/rosskouk/asknavidrome) - An Alexa skill to allow streaming of music from Subsonic API compatible media servers on Amazon Echo devices.
