@@ -1001,7 +1001,7 @@
 - [Commifreak/unraid-appdata.backup](https://github.com/Commifreak/unraid-appdata.backup) - UNRAID AppData backup plugin
 - [davidedmundson/kiot](https://github.com/davidedmundson/kiot) - Linux (KDE?) integration for Home Assistant via MQTT
 - [cmathews393/spotify-to-plex](https://github.com/cmathews393/spotify-to-plex) - A python script/app to sync Spotify Playlists into Plex (optionally via Lidarr)
-- [bdraco/yalexs-ble](https://github.com/bdraco/yalexs-ble) - Bluetooth control of Yale and August locks
+- [Yale-Libs/yalexs-ble](https://github.com/Yale-Libs/yalexs-ble) - Bluetooth control of Yale and August locks
 - [MartinPham/FindMySync](https://github.com/MartinPham/FindMySync) - 
 - [phrz/lg-washer-dryer-card](https://github.com/phrz/lg-washer-dryer-card) - Lovelace cards for use with the Home Assistant LG ThinQ Integration
 - [fondberg/spotcast](https://github.com/fondberg/spotcast) - Home assistant custom component to start Spotify playback on an idle chromecast device as well as control spotify connect devices
@@ -1253,7 +1253,7 @@
 
 ## raspberry-pi 
 
-- [lwbeam/water_sensors](https://github.com/lwbeam/water_sensors) - Python script to monitor orphaned D-Link DCH-S160 Water Sensor.
+- [lwbeam/water_sensors](https://github.com/lwbeam/water_sensors) - Python script to monitor orphaned D-Link DCH-S160 water sensor.
 
 ## react 
 
