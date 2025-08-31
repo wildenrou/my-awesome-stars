@@ -930,7 +930,7 @@
 - [cleverdevil/plexyfin](https://github.com/cleverdevil/plexyfin) - A Jellyfin plug-in to integrate with a Plex Media Server
 - [b1ggi/plex-nfo-creator](https://github.com/b1ggi/plex-nfo-creator) - Create .nfo files from Plex containing imdb/tmdb/tvdb links for Jellyfin migration
 - [wilmardo/migrate-plex-to-jellyfin](https://github.com/wilmardo/migrate-plex-to-jellyfin) - Migrate watched status from Plex to Jellyfin
-- [G-grbz/Jellyfin-Media-Slider](https://github.com/G-grbz/Jellyfin-Media-Slider) - A customizable web component that adds a media slider, music player, pause screen, and DiceBear avatar generator to Jellyfin.
+- [G-grbz/Jellyfin-Media-Slider](https://github.com/G-grbz/Jellyfin-Media-Slider) - An all-in-one JavaScript toolkit for Jellyfin, featuring a customizable Media Slider builder, music player, Netflix-style pause screen, Netflix-like HoverVideo, quality labels on cards, DiceBear avata
 - [ghomasHudson/Jellyfin-Auto-Collections](https://github.com/ghomasHudson/Jellyfin-Auto-Collections) - Automatically make jellyfin collections from IMDB, Letterboxd lists and more.
 - [ccmorris/unraid-gui-responsive](https://github.com/ccmorris/unraid-gui-responsive) - Style overrides for Unraid GUI for responsive design
 - [fejich/unraid-fclones](https://github.com/fejich/unraid-fclones) - This is a unRAID plugin for the fclones binary executable
