@@ -243,7 +243,7 @@
 - [Vansmak/mediarr-card](https://github.com/Vansmak/mediarr-card) - custom home assistant card
 - [bogenpirat/remote-torrent-adder](https://github.com/bogenpirat/remote-torrent-adder) - A handy Chrome extension to add torrent files to torrent clients
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
-- [G-grbz/Jellyfin-Media-Slider](https://github.com/G-grbz/Jellyfin-Media-Slider) - A customizable web component that adds a media slider, music player, pause screen, and DiceBear avatar generator to Jellyfin.
+- [G-grbz/Jellyfin-Media-Slider](https://github.com/G-grbz/Jellyfin-Media-Slider) - An all-in-one JavaScript toolkit for Jellyfin, featuring a customizable Media Slider builder, music player, Netflix-style pause screen, Netflix-like HoverVideo, quality labels on cards, DiceBear avata
 - [BobHasNoSoul/Jellyfin-PauseScreen](https://github.com/BobHasNoSoul/Jellyfin-PauseScreen) - a pause screen for jellyfin that adds the logo and the disc and the description when paused that dissapears when playback is resumed or the video is exited.
 - [fastxl2024/mass-search-card](https://github.com/fastxl2024/mass-search-card) - 
 - [wildenrou/widget-do-it](https://github.com/wildenrou/widget-do-it) - 
