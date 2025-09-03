@@ -189,6 +189,7 @@
 
 ## automation 
 
+- [helv-io/ha-bluebubbles](https://github.com/helv-io/ha-bluebubbles) - A Home Assistant custom integration for sending iMessages via a BlueBubbles server
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
@@ -550,6 +551,8 @@
 
 ## home-assistant 
 
+- [helv-io/ha-bluebubbles](https://github.com/helv-io/ha-bluebubbles) - A Home Assistant custom integration for sending iMessages via a BlueBubbles server
+- [vgcouso/ha-tracker](https://github.com/vgcouso/ha-tracker) - HA Tracker allows advanced management of user tracking, their positions and zones through which they pass
 - [msinhore/adaptive_climate](https://github.com/msinhore/adaptive_climate) - Advanced Home Assistant integration that automatically adjusts HVAC systems based on the ASHRAE 55 adaptive comfort standard. This intelligent climate control provides 15-30% energy savings while main
 - [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
 - [eXPerience83/pollenlevels](https://github.com/eXPerience83/pollenlevels) - Home Assitant Pollen Levels
@@ -846,6 +849,7 @@
 
 ## others 
 
+- [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper) - A helper for the BlueBubbles macOS Server App to hook into private APIs
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [chozeur/KVM-QEMU-Sonoma-Hackintosh](https://github.com/chozeur/KVM-QEMU-Sonoma-Hackintosh) - This repo aims to guide you through the setup of a macOS Sonoma 14.3 virtual machine. We'll deploy it using KVM and QEMU under an UNRAID server.
 - [unityfire/alexa-ha](https://github.com/unityfire/alexa-ha) - An Amazon Echo skill for controlling your Home Automation via voice
