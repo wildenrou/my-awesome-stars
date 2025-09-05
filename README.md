@@ -678,6 +678,7 @@
 
 ## Swift 
 
+- [airy10/FindMyDevices](https://github.com/airy10/FindMyDevices) - Send FindMy devices and items (AirTag) locations to Home Assistant
 - [Loriage/Beszel-Swift-App](https://github.com/Loriage/Beszel-Swift-App) - 
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
