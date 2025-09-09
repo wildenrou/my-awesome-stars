@@ -860,6 +860,8 @@
 
 ## others 
 
+- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A jellyfin plugin to enhance your Jellyfin Web experience.
+- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) - A Jellyfin plugin to inject Javascript
 - [jeffc/hassmic](https://github.com/jeffc/hassmic) - An application for Home Assistant that allows you to use an android device as a voice assist satellite
 - [pflajszer/ticktick-exporter](https://github.com/pflajszer/ticktick-exporter) - 
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
