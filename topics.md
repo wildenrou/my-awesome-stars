@@ -559,7 +559,6 @@
 
 - [helv-io/ha-bluebubbles](https://github.com/helv-io/ha-bluebubbles) - A Home Assistant custom integration for sending iMessages via a BlueBubbles server
 - [vgcouso/ha-tracker](https://github.com/vgcouso/ha-tracker) - HA Tracker allows advanced management of user tracking, their positions and zones through which they pass
-- [msinhore/adaptive_climate](https://github.com/msinhore/adaptive_climate) - Advanced Home Assistant integration that automatically adjusts HVAC systems based on the ASHRAE 55 adaptive comfort standard. This intelligent climate control provides 15-30% energy savings while main
 - [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
 - [eXPerience83/pollenlevels](https://github.com/eXPerience83/pollenlevels) - Home Assitant Pollen Levels
 - [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 A Calm and Clean Theme for Home Assistant
@@ -860,6 +859,8 @@
 
 ## others 
 
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [Light1Knight/jellyzam-plugin](https://github.com/Light1Knight/jellyzam-plugin) - Jellyfin plugin for music identification using Shazam API with automatic file organization
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A jellyfin plugin to enhance your Jellyfin Web experience.
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) - A Jellyfin plugin to inject Javascript
 - [jeffc/hassmic](https://github.com/jeffc/hassmic) - An application for Home Assistant that allows you to use an android device as a voice assist satellite
