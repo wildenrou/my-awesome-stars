@@ -237,7 +237,7 @@
 
 ## JavaScript 
 
-- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A jellyfin plugin to enhance your Jellyfin Web experience.
+- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
 - [vgcouso/ha-tracker](https://github.com/vgcouso/ha-tracker) - HA Tracker allows advanced management of user tracking, their positions and zones through which they pass
 - [unityfire/alexa-ha](https://github.com/unityfire/alexa-ha) - An Amazon Echo skill for controlling your Home Automation via voice
 - [TaylorJns/Actual-Budget-iOS-Widget](https://github.com/TaylorJns/Actual-Budget-iOS-Widget) - An iOS widget for Actual Budget. Requires ‘actual-http-api’ repo.
@@ -632,6 +632,7 @@
 
 ## Shell 
 
+- [feederbox826/stash-s6](https://github.com/feederbox826/stash-s6) - stashapp/stash docker rewrite
 - [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [koter84/HomeAssistant_Blueprints_Update](https://github.com/koter84/HomeAssistant_Blueprints_Update) - This is a script to automatically check for updates for your HA Blueprints
 - [SpaceinvaderOne/TailVault](https://github.com/SpaceinvaderOne/TailVault) - A simple Apline container to be used by tailscale ssh for a backup location on a remote server
