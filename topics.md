@@ -83,6 +83,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [objective-c](#objective-c)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
@@ -743,6 +744,7 @@
 
 ## mac 
 
+- [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [linux-on-mac/mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed on all MacBook/MacBook Pros (probably all Apple computers) for Linux Kernel 3 and newer
 
 ## machine-learning 
@@ -821,6 +823,13 @@
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
+## obsidian 
+
+- [Abdo-reda/obsidian-sticky-notes-plugin](https://github.com/Abdo-reda/obsidian-sticky-notes-plugin) - Obsidian Sticky Notes Plugin
+- [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
+- [eightHundreds/obsidian-dida-sync](https://github.com/eightHundreds/obsidian-dida-sync) - 滴答清单同步到obsidian(ticktick sync to obsidian)
+- [LBF38/obsidian-syncthing-integration](https://github.com/LBF38/obsidian-syncthing-integration) - Obsidian plugin for Syncthing integration
+
 ## obsidian-md 
 
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
@@ -860,6 +869,7 @@
 
 ## others 
 
+- [dinki/View-Assist](https://github.com/dinki/View-Assist) - View Assist provides visual feedback for the Home Assistant Assist Voice Assistant
 - [feederbox826/stash-s6](https://github.com/feederbox826/stash-s6) - stashapp/stash docker rewrite
 - [Superkikim/nexus-ai-chat-importer](https://github.com/Superkikim/nexus-ai-chat-importer) - 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -1280,6 +1290,7 @@
 
 ## react 
 
+- [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [jbrodriguez/unbalance](https://github.com/jbrodriguez/unbalance) - Go/React/Tailwind app to move folders/files between Unraid disks
 - [rabrain/ai-chat](https://github.com/rabrain/ai-chat) - Open AI Chat Bot in the Menu Bar: ChatGPT desktop app for Windows, Mac, and Linux
@@ -1306,6 +1317,7 @@
 
 ## rust 
 
+- [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -1394,6 +1406,7 @@
 
 ## tailwind 
 
+- [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [jbrodriguez/unbalance](https://github.com/jbrodriguez/unbalance) - Go/React/Tailwind app to move folders/files between Unraid disks
 
 ## tailwindcss 
@@ -1471,6 +1484,7 @@
 
 ## windows 
 
+- [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
