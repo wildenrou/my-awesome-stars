@@ -26,6 +26,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -310,6 +311,12 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
+## cloud 
+
+- [jcwillox/hassio-rclone-backup](https://github.com/jcwillox/hassio-rclone-backup) - Home Assistant addon to automatically sync backups to remote locations using Rclone
+- [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
 ## computer-science 
 
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -524,7 +531,6 @@
 ## hacktoberfest 
 
 - [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - HA Add-on / Docker container that solves indoor positions with mqtt data received from multiple ESPresense nodes
@@ -870,6 +876,8 @@
 
 ## others 
 
+- [corpnewt/EFI-Backup-Restore](https://github.com/corpnewt/EFI-Backup-Restore) - A smallish script that can backup EFI partitions - and eventually restore them (hopefully).
+- [Andrecall/esphome-sonicare](https://github.com/Andrecall/esphome-sonicare) - Esphome packages
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for email archiving and eDiscovery.
 - [dinki/View-Assist](https://github.com/dinki/View-Assist) - View Assist provides visual feedback for the Home Assistant Assist Voice Assistant
 - [feederbox826/stash-s6](https://github.com/feederbox826/stash-s6) - stashapp/stash docker rewrite
