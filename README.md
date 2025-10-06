@@ -223,7 +223,6 @@
 ## HTML 
 
 - [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext) - 
-- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 - [BoKKeR/UnraidAPI-RE](https://github.com/BoKKeR/UnraidAPI-RE) - A WIP open source Node JS API for controlling UNraid
 
 ## Java 
@@ -381,6 +380,7 @@
 
 - [unraid/unraid-tailscale](https://github.com/unraid/unraid-tailscale) - Installs Tailscale as an unRAID plugin. This allows connection via Tailscale even if the array is stopped.
 - [mmatongo/unraid-cloudflared](https://github.com/mmatongo/unraid-cloudflared) - Installs Cloudflared as an unRAID plugin.
+- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [Commifreak/unraid-appdata.backup](https://github.com/Commifreak/unraid-appdata.backup) - UNRAID AppData backup plugin
