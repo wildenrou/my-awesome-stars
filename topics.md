@@ -880,7 +880,7 @@
 - [unraid/unraid-tailscale](https://github.com/unraid/unraid-tailscale) - Installs Tailscale as an unRAID plugin. This allows connection via Tailscale even if the array is stopped.
 - [corpnewt/EFI-Backup-Restore](https://github.com/corpnewt/EFI-Backup-Restore) - A smallish script that can backup EFI partitions - and eventually restore them (hopefully).
 - [Andrecall/esphome-sonicare](https://github.com/Andrecall/esphome-sonicare) - Esphome packages
-- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for email archiving and eDiscovery.
+- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [dinki/View-Assist](https://github.com/dinki/View-Assist) - View Assist provides visual feedback for the Home Assistant Assist Voice Assistant
 - [feederbox826/stash-s6](https://github.com/feederbox826/stash-s6) - stashapp/stash docker rewrite
 - [Superkikim/nexus-ai-chat-importer](https://github.com/Superkikim/nexus-ai-chat-importer) - 
