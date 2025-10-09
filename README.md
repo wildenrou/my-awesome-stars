@@ -69,6 +69,7 @@
 
 ## C# # 
 
+- [BitlessByte0/prowlarr-abb](https://github.com/BitlessByte0/prowlarr-abb) - 
 - [Light1Knight/jellyzam-plugin](https://github.com/Light1Knight/jellyzam-plugin) - Jellyfin plugin for music identification using Shazam API with automatic file organization
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) - A Jellyfin plugin to inject Javascript
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
@@ -174,6 +175,7 @@
 
 ## Dart 
 
+- [OpenBubbles/openbubbles-app](https://github.com/OpenBubbles/openbubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android and PC!
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -237,6 +239,7 @@
 
 ## JavaScript 
 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [dinki/View-Assist](https://github.com/dinki/View-Assist) - View Assist provides visual feedback for the Home Assistant Assist Voice Assistant
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
 - [vgcouso/ha-tracker](https://github.com/vgcouso/ha-tracker) - HA Tracker allows advanced management of user tracking, their positions and zones through which they pass
@@ -700,6 +703,7 @@
 
 ## TypeScript 
 
+- [KartoffelChipss/Jellyfin-Cover-Maker](https://github.com/KartoffelChipss/Jellyfin-Cover-Maker) - Easily create covers and posters for your Jellyfin libraries!
 - [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React.
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
