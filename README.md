@@ -231,7 +231,7 @@
 ## Java 
 
 - [saltpi/iPlay](https://github.com/saltpi/iPlay) - Enjoy Media Everywhere, On Every Platform 👀
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
+- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [badaix/snapdroid](https://github.com/badaix/snapdroid) - Snapcast client for Android
 - [anthonyraymond/joal](https://github.com/anthonyraymond/joal) - An open source command line RatioMaster with an optional WebUI.
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
