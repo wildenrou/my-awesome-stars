@@ -249,7 +249,6 @@
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
 - [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [Infraviored/alexa_list_ha_import](https://github.com/Infraviored/alexa_list_ha_import) - 
 - [thiagobruch/HA_Addons](https://github.com/thiagobruch/HA_Addons) - 
 - [Vansmak/mediarr-card](https://github.com/Vansmak/mediarr-card) - custom home assistant card
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
@@ -435,6 +434,7 @@
 - [sbenodiz/ai_agent_ha](https://github.com/sbenodiz/ai_agent_ha) - A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant insta
 - [DavidBilodeau1/saguenay_collection](https://github.com/DavidBilodeau1/saguenay_collection) - Home Assistant integration for the city of Saguenay's waste collection schedule
 - [domalab/ha-unraid-connect](https://github.com/domalab/ha-unraid-connect) - Unraid Connect Integration for Home Assistant
+- [Infraviored/alexa_list_ha_import](https://github.com/Infraviored/alexa_list_ha_import) - 
 - [wildenrou/movie-theme-clipper](https://github.com/wildenrou/movie-theme-clipper) - Automatically generates theme clips from movie collections using AI analysis
 - [madmachinations/home-assistant-alexa-shopping-list](https://github.com/madmachinations/home-assistant-alexa-shopping-list) - A custom component for Home Assistant which synchronises your Alexa Shopping List
 - [jlvcm/ha-actualbudget](https://github.com/jlvcm/ha-actualbudget) - Actual Budget integration for Home Assistant
