@@ -576,7 +576,7 @@
 - [helv-io/ha-bluebubbles](https://github.com/helv-io/ha-bluebubbles) - A Home Assistant custom integration for sending iMessages via a BlueBubbles server
 - [vgcouso/ha-tracker](https://github.com/vgcouso/ha-tracker) - HA Tracker allows advanced management of user tracking, their positions and zones through which they pass
 - [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
-- [eXPerience83/pollenlevels](https://github.com/eXPerience83/pollenlevels) - Home Assitant Pollen Levels
+- [eXPerience83/pollenlevels](https://github.com/eXPerience83/pollenlevels) - Home Assistant Pollen Levels
 - [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 A Calm and Clean Theme for Home Assistant
 - [mrk-its/homeassistant-blitzortung](https://github.com/mrk-its/homeassistant-blitzortung) - Custom Component for fetching lightning data from blitzortung.org
 - [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices
