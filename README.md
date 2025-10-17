@@ -416,7 +416,7 @@
 - [pflajszer/ticktick-exporter](https://github.com/pflajszer/ticktick-exporter) - 
 - [helv-io/ha-bluebubbles](https://github.com/helv-io/ha-bluebubbles) - A Home Assistant custom integration for sending iMessages via a BlueBubbles server
 - [infinityofspace/jellyfin_alexa_skill](https://github.com/infinityofspace/jellyfin_alexa_skill) - Selfhosted Alexa media player skill for Jellyfin
-- [eXPerience83/pollenlevels](https://github.com/eXPerience83/pollenlevels) - Home Assitant Pollen Levels
+- [eXPerience83/pollenlevels](https://github.com/eXPerience83/pollenlevels) - Home Assistant Pollen Levels
 - [TilmanGriesel/graphite](https://github.com/TilmanGriesel/graphite) - 🌿 A Calm and Clean Theme for Home Assistant
 - [bengalih/ABS-scripts](https://github.com/bengalih/ABS-scripts) - Various scripts and tools for managing Audiobookshelf libraries and other assorted audiobook management
 - [mrk-its/homeassistant-blitzortung](https://github.com/mrk-its/homeassistant-blitzortung) - Custom Component for fetching lightning data from blitzortung.org
