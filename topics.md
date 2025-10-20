@@ -1000,7 +1000,7 @@
 - [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import) - Import playlists from Spotify in Jellyfin
 - [kamilkosek/jellyplist](https://github.com/kamilkosek/jellyplist) - A  utility to help you sync playlists from spotify to your jellyfin server
 - [SenorSmartyPants/jellyfin-plugin-refreshsparse](https://github.com/SenorSmartyPants/jellyfin-plugin-refreshsparse) - Refresh Sparse items Plugin for Jellyfin
-- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
+- [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
 - [tedhinklater/finimalism](https://github.com/tedhinklater/finimalism) - Jellyfin Theme CSS
 - [litinoveweedle/hassio-addons](https://github.com/litinoveweedle/hassio-addons) - 
 - [MxMarx/lidarr-beets](https://github.com/MxMarx/lidarr-beets) - lidarr script for grabbing gazelle metadata and running beets
