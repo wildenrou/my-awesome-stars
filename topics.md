@@ -884,6 +884,7 @@
 
 ## others 
 
+- [gmcouto/mediaddrr](https://github.com/gmcouto/mediaddrr) - A webhook middleware for improving autobrr integration with arr instances
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [OpenBubbles/openbubbles-app](https://github.com/OpenBubbles/openbubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android and PC!
 - [KartoffelChipss/Jellyfin-Cover-Maker](https://github.com/KartoffelChipss/Jellyfin-Cover-Maker) - Easily create covers and posters for your Jellyfin libraries!
