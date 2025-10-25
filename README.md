@@ -776,7 +776,7 @@
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome with Google Drive support.
 - [epfromer/pst-extractor](https://github.com/epfromer/pst-extractor) - Extract objects from MS Outlook/Exchange PST files
-- [lucasvtiradentes/gcal-sync](https://github.com/lucasvtiradentes/gcal-sync) - 🔄 add an one way synchronization from github commits to google calendar and track your progress effortlessly.
+- [lucasvtiradentes/gcal-sync](https://github.com/lucasvtiradentes/gcal-sync) - 🔄 add an one way synchronization from github commits to google calendar and track your progress effortlessly
 
 ## Vue 
 
