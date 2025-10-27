@@ -566,6 +566,7 @@
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
 - [KartoffelToby/better_thermostat](https://github.com/KartoffelToby/better_thermostat) - This custom component for Home Assistant will add crucial features to your climate-controlling TRV (Thermostatic Radiator Valves) to save you the work of creating automations to make it smart. It comb
+- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [haijeploeg/excludarr](https://github.com/haijeploeg/excludarr) - Excludarr manages your libraries in Radarr/Sonarr. It keeps track of your library and checks if your movies and series are also available on a configured streaming provider. It can exclude the movies 
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
@@ -1202,7 +1203,6 @@
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [L1ghtmann/libimobiledevice](https://github.com/L1ghtmann/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [picklepete/pyicloud](https://github.com/picklepete/pyicloud) - A Python + iCloud wrapper to access iPhone and Calendar data.
-- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [kkr16/hass-stm-custom-component](https://github.com/kkr16/hass-stm-custom-component) - Custom HomeAssistant component for the STM (Société de transport de Montréal) metro lines status monitoring.
 - [poochie89/SnipDo-Extensions](https://github.com/poochie89/SnipDo-Extensions) - SnipDo extensions and advanced guide
 - [gcobb321/icloud3_v3](https://github.com/gcobb321/icloud3_v3) - iCloud3 v3 - Development Version - iDevice Tracker - This is the development version of new and updated features. It is not the official release of iCloud3 v3.
