@@ -106,6 +106,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
@@ -183,6 +184,7 @@
 
 ## api 
 
+- [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel RestAPI integration for HomeAssistant
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [qoomon/gmail-rss-feed](https://github.com/qoomon/gmail-rss-feed) - Google Scripts Project to generate a RSS feed based on labeled emails in your GMail Account
@@ -802,6 +804,7 @@
 
 ## monitoring 
 
+- [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel RestAPI integration for HomeAssistant
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
@@ -886,6 +889,7 @@
 
 ## others 
 
+- [Obamium69/hassio-beszel_agent](https://github.com/Obamium69/hassio-beszel_agent) - 
 - [gmcouto/mediaddrr](https://github.com/gmcouto/mediaddrr) - A webhook middleware for improving autobrr integration with arr instances
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [OpenBubbles/openbubbles-app](https://github.com/OpenBubbles/openbubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android and PC!
@@ -1332,6 +1336,10 @@
 ## reactjs 
 
 - [rabrain/ai-chat](https://github.com/rabrain/ai-chat) - Open AI Chat Bot in the Menu Bar: ChatGPT desktop app for Windows, Mac, and Linux
+
+## rest-api 
+
+- [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel RestAPI integration for HomeAssistant
 
 ## reverse-engineering 
 
