@@ -185,6 +185,7 @@
 
 ## Dockerfile 
 
+- [Obamium69/hassio-beszel_agent](https://github.com/Obamium69/hassio-beszel_agent) - 
 - [hassio-addons/addon-mqtt-io](https://github.com/hassio-addons/addon-mqtt-io) - MQTT IO - Home Assistant Community Add-ons
 - [linuxserver/docker-spotube](https://github.com/linuxserver/docker-spotube) - Web accessible Spotube inside a Debian Container
 - [jehy/hass-addons](https://github.com/jehy/hass-addons) - This is a repository for my own home assistant addons
@@ -412,6 +413,7 @@
 
 ## Python 
 
+- [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel RestAPI integration for HomeAssistant
 - [corpnewt/EFI-Backup-Restore](https://github.com/corpnewt/EFI-Backup-Restore) - A smallish script that can backup EFI partitions - and eventually restore them (hopefully).
 - [pflajszer/ticktick-exporter](https://github.com/pflajszer/ticktick-exporter) - 
 - [helv-io/ha-bluebubbles](https://github.com/helv-io/ha-bluebubbles) - A Home Assistant custom integration for sending iMessages via a BlueBubbles server
