@@ -435,7 +435,6 @@
 - [maxexcloo/beszel-homeassistant-integration](https://github.com/maxexcloo/beszel-homeassistant-integration) - Beszel Integration for Home Assistant
 - [sbenodiz/ai_agent_ha](https://github.com/sbenodiz/ai_agent_ha) - A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant insta
 - [DavidBilodeau1/saguenay_collection](https://github.com/DavidBilodeau1/saguenay_collection) - Home Assistant integration for the city of Saguenay's waste collection schedule
-- [domalab/ha-unraid-connect](https://github.com/domalab/ha-unraid-connect) - Unraid Connect Integration for Home Assistant
 - [Infraviored/alexa_list_ha_import](https://github.com/Infraviored/alexa_list_ha_import) - 
 - [wildenrou/movie-theme-clipper](https://github.com/wildenrou/movie-theme-clipper) - Automatically generates theme clips from movie collections using AI analysis
 - [madmachinations/home-assistant-alexa-shopping-list](https://github.com/madmachinations/home-assistant-alexa-shopping-list) - A custom component for Home Assistant which synchronises your Alexa Shopping List
@@ -510,7 +509,7 @@
 - [eschava/psmqtt](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT
 - [keatontaylor/alexa-actions](https://github.com/keatontaylor/alexa-actions) - A README and associated code to get actionable notifications setup for Alexa devices.
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
-- [domalab/ha-unraid](https://github.com/domalab/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
+- [ruaan-deysel/ha-unraid](https://github.com/ruaan-deysel/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
 - [ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr, readarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
 - [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress) - Home Assistant ingress feature, add additional ingress panels to your Home Assistant frontend.
 - [21hsmw/FlareSolverr](https://github.com/21hsmw/FlareSolverr) - Proxy server to bypass Cloudflare protection
