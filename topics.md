@@ -888,6 +888,7 @@
 
 ## others 
 
+- [StergiosBinopoulos/jellyfin-plugin-bettermix](https://github.com/StergiosBinopoulos/jellyfin-plugin-bettermix) - A Jellyfin plugin for better Instant Mix.
 - [Obamium69/hassio-beszel_agent](https://github.com/Obamium69/hassio-beszel_agent) - 
 - [gmcouto/mediaddrr](https://github.com/gmcouto/mediaddrr) - A webhook middleware for improving autobrr integration with arr instances
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
