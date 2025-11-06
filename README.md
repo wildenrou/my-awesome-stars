@@ -160,6 +160,7 @@
 
 ## CSS 
 
+- [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [dohnutt/unraid-gui-responsive](https://github.com/dohnutt/unraid-gui-responsive) - Style overrides for Unraid GUI for responsive design
 - [Hogster/BPS](https://github.com/Hogster/BPS) - A BLE positioning sytem for Homeassistant providing realtime tracking indoors. Dependent on the Bermuda component built by @agattins.
 - [ccmorris/unraid-gui-responsive](https://github.com/ccmorris/unraid-gui-responsive) - Style overrides for Unraid GUI for responsive design
@@ -414,6 +415,7 @@
 
 ## Python 
 
+- [Pukabyte/trailerfin](https://github.com/Pukabyte/trailerfin) - Retrieves IMDB trailers of your movies and imports them as background video themes in Jellyfin using .strm files
 - [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel RestAPI integration for HomeAssistant
 - [corpnewt/EFI-Backup-Restore](https://github.com/corpnewt/EFI-Backup-Restore) - A smallish script that can backup EFI partitions - and eventually restore them (hopefully).
 - [pflajszer/ticktick-exporter](https://github.com/pflajszer/ticktick-exporter) - 
@@ -489,7 +491,7 @@
 - [iMicknl/ha-sagemcom-fast](https://github.com/iMicknl/ha-sagemcom-fast) - Home Assistant integration to enable presence detection via Sagemcom F@st routers.
 - [Darklyter/StashPlexAgent.bundle](https://github.com/Darklyter/StashPlexAgent.bundle) - Plex agent for Stash metadata
 - [Limych/ha-average](https://github.com/Limych/ha-average) - Average Sensor for Home Assistant
-- [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
+- [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [dylandoamaral/trakt-integration](https://github.com/dylandoamaral/trakt-integration) - A Trakt integration for Home Assistant compatible with upcoming media card
 - [rix1337/Quasarr](https://github.com/rix1337/Quasarr) - Quasarr connects JDownloader with Radarr, Sonarr and LazyLibrarian. It also decrypts links protected by CAPTCHAs.
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
@@ -646,7 +648,6 @@
 ## Shell 
 
 - [feederbox826/stash-s6](https://github.com/feederbox826/stash-s6) - stashapp/stash docker rewrite
-- [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [koter84/HomeAssistant_Blueprints_Update](https://github.com/koter84/HomeAssistant_Blueprints_Update) - This is a script to automatically check for updates for your HA Blueprints
 - [SpaceinvaderOne/TailVault](https://github.com/SpaceinvaderOne/TailVault) - A simple Apline container to be used by tailscale ssh for a backup location on a remote server
 - [SpaceinvaderOne/Unraid-Rsync-Backup-and-Sync-Tool](https://github.com/SpaceinvaderOne/Unraid-Rsync-Backup-and-Sync-Tool) - Backup script for Unraid using rsync, supports local/remote, hardlink versioning, and deletion tracking
@@ -706,6 +707,7 @@
 
 ## TypeScript 
 
+- [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
 - [gmcouto/mediaddrr](https://github.com/gmcouto/mediaddrr) - A webhook middleware for improving autobrr integration with arr instances
 - [KartoffelChipss/Jellyfin-Cover-Maker](https://github.com/KartoffelChipss/Jellyfin-Cover-Maker) - Easily create covers and posters for your Jellyfin libraries!
 - [autobrr/qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React.
