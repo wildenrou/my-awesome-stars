@@ -70,6 +70,7 @@
 
 ## C# # 
 
+- [Fovty/HoverTrailer](https://github.com/Fovty/HoverTrailer) - A modern Netflix-style hover trailer preview plugin for Jellyfin that displays movie trailers on hover
 - [StergiosBinopoulos/jellyfin-plugin-bettermix](https://github.com/StergiosBinopoulos/jellyfin-plugin-bettermix) - A Jellyfin plugin for better Instant Mix.
 - [BitlessByte0/prowlarr-abb](https://github.com/BitlessByte0/prowlarr-abb) - 
 - [Light1Knight/jellyzam-plugin](https://github.com/Light1Knight/jellyzam-plugin) - Jellyfin plugin for music identification using Shazam API with automatic file organization
