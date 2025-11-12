@@ -54,7 +54,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## C 
 
@@ -70,6 +70,8 @@
 
 ## C# # 
 
+- [caleb-venner/JellyPy](https://github.com/caleb-venner/JellyPy) - Event Driven Media Management Jellyfin plugin.
+- [kirtan3d/Jellyfin.Plugin.AssignThemeSong](https://github.com/kirtan3d/Jellyfin.Plugin.AssignThemeSong) - 
 - [Fovty/HoverTrailer](https://github.com/Fovty/HoverTrailer) - A modern Netflix-style hover trailer preview plugin for Jellyfin that displays movie trailers on hover
 - [StergiosBinopoulos/jellyfin-plugin-bettermix](https://github.com/StergiosBinopoulos/jellyfin-plugin-bettermix) - A Jellyfin plugin for better Instant Mix.
 - [BitlessByte0/prowlarr-abb](https://github.com/BitlessByte0/prowlarr-abb) - 
@@ -708,6 +710,7 @@
 
 ## TypeScript 
 
+- [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
 - [gmcouto/mediaddrr](https://github.com/gmcouto/mediaddrr) - A webhook middleware for improving autobrr integration with arr instances
 - [KartoffelChipss/Jellyfin-Cover-Maker](https://github.com/KartoffelChipss/Jellyfin-Cover-Maker) - Easily create covers and posters for your Jellyfin libraries!
