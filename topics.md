@@ -70,6 +70,7 @@
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
+- [library](#library)
 - [linux](#linux)
 - [llm](#llm)
 - [mac](#mac)
@@ -734,6 +735,10 @@
 
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
+## library 
+
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
+
 ## linux 
 
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
@@ -1116,7 +1121,6 @@
 - [kohrar/Wyze-Firmwares](https://github.com/kohrar/Wyze-Firmwares) - Official Wyze Cam firmware files
 - [gtxaspec/wz_mini_hacks](https://github.com/gtxaspec/wz_mini_hacks) - wz camera mods... make your camera better.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [jeroenterheerdt/HAsmartirrigation](https://github.com/jeroenterheerdt/HAsmartirrigation) - Smart Irrigation custom component for Home Assistant
 - [MattTW/BlinkMonitorProtocol](https://github.com/MattTW/BlinkMonitorProtocol) - Unofficial documentation for the Blink Wire-Free HD Home Monitoring & Alert System
 - [muniter/halinuxcompanion](https://github.com/muniter/halinuxcompanion) - HomeAssistant Linux Companion
@@ -1296,6 +1300,7 @@
 - [StealthIQ/Bluestrike](https://github.com/StealthIQ/Bluestrike) - Bluestrike: CLI tool to hack Bluetooth devices through speaker jamming, traffic spoofing & device hijacking (In the making)
 - [parvez/network_scanner](https://github.com/parvez/network_scanner) - This Home Assistant integration provides a network scanner that identifies all devices on your local network. Utilizing the provided IP range and MAC address mappings, it gives each identified device 
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Home Assistant Google Home custom component
 - [ualex73/monitor_docker](https://github.com/ualex73/monitor_docker) - Monitor Docker containers from Home Assistant
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
