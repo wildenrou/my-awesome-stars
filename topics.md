@@ -361,7 +361,7 @@
 
 ## database 
 
-- [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Movie and Video Game Theme Song Database.
+- [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Theme song database for movies, tv shows, and video games.
 
 ## deep-learning 
 
@@ -1112,7 +1112,7 @@
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search) - Official repository for Fluent Search, use to report issues or ask for a new feature
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
+- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [jlesage/docker-mkvtoolnix](https://github.com/jlesage/docker-mkvtoolnix) - Docker container for MKVToolNix
 - [alexa-samples/skill-sample-nodejs-audio-player](https://github.com/alexa-samples/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills
 - [HarleyL7/unRAID-CoralTPU-Guide](https://github.com/HarleyL7/unRAID-CoralTPU-Guide) - 
@@ -1293,7 +1293,7 @@
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [majutsushi/apple-books-covers](https://github.com/majutsushi/apple-books-covers) - A Calibre plugin to download high-resolution covers from the Apple Books store
 - [LizardByte/Themerr-plex](https://github.com/LizardByte/Themerr-plex) - Plugin for Plex Media Server that adds theme songs to movies using ThemerrDB.
-- [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Movie and Video Game Theme Song Database.
+- [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Theme song database for movies, tv shows, and video games.
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [O365/python-o365](https://github.com/O365/python-o365) - A simple python library to interact with Microsoft Graph and Office 365 API
 - [eschava/psmqtt](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT
@@ -1527,7 +1527,7 @@
 
 ## website 
 
-- [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Movie and Video Game Theme Song Database.
+- [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Theme song database for movies, tv shows, and video games.
 - [RealFascinated/sharex-php-uploader](https://github.com/RealFascinated/sharex-php-uploader) - This is a PHP script that lets you easily upload screenshots taken with the ShareX app to your website. ShareX is a popular screenshot tool for Windows that allows you to take screenshots, annotate th
 
 ## windows 
