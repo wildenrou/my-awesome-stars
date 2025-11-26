@@ -255,7 +255,6 @@
 - [TaylorJns/Actual-Budget-iOS-Widget](https://github.com/TaylorJns/Actual-Budget-iOS-Widget) - An iOS widget for Actual Budget. Requires ‘actual-http-api’ repo.
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
 - [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [thiagobruch/HA_Addons](https://github.com/thiagobruch/HA_Addons) - 
 - [Vansmak/mediarr-card](https://github.com/Vansmak/mediarr-card) - custom home assistant card
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
@@ -362,7 +361,6 @@
 - [bpc-clone/bpc_chrome_support](https://github.com/bpc-clone/bpc_chrome_support) - 
 - [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search) - Official repository for Fluent Search, use to report issues or ask for a new feature
 - [HarleyL7/unRAID-CoralTPU-Guide](https://github.com/HarleyL7/unRAID-CoralTPU-Guide) - 
-- [kohrar/Wyze-Firmwares](https://github.com/kohrar/Wyze-Firmwares) - Official Wyze Cam firmware files
 - [leofabri/hassio_appliance-status-monitor](https://github.com/leofabri/hassio_appliance-status-monitor) - 🔌 Detect the state of your appliances based on their power consumption ✨
 - [Philippe734/Simple.NFS.GUI](https://github.com/Philippe734/Simple.NFS.GUI) - GUI tool for NFS for Linux. Set a machine as Client/Server in a local network easily with this front-end for NFS.
 - [jazzmonger/Willow-Dashboard](https://github.com/jazzmonger/Willow-Dashboard) - Near realtime Dashboard for Willow server
@@ -695,6 +693,7 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [JamesCoyle/HistoryExtension](https://github.com/JamesCoyle/HistoryExtension) - 
 - [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop) - Use Home Assistant Assist on the desktop. Compatible with Windows, MacOS, and Linux
 
