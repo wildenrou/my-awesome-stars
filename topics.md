@@ -28,6 +28,7 @@
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
+- [command-line](#command-line)
 - [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -326,6 +327,11 @@
 - [jcwillox/hassio-rclone-backup](https://github.com/jcwillox/hassio-rclone-backup) - Home Assistant addon to automatically sync backups to remote locations using Rclone
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+## command-line 
+
+- [anthonyraymond/joal](https://github.com/anthonyraymond/joal) - An open source command line RatioMaster with an optional WebUI.
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 
 ## computer-science 
 
