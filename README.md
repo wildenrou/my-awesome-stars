@@ -298,6 +298,7 @@
 - [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
 - [RossMcMillan92/lovelace-collapsable-cards](https://github.com/RossMcMillan92/lovelace-collapsable-cards) - A custom Lovelace card that hides other cards behind a dropdown toggle
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
+- [elax46/custom-brand-icons](https://github.com/elax46/custom-brand-icons) - Custom brand icons for Home Assistant
 - [azuwis/zigbee2mqtt-networkmap](https://github.com/azuwis/zigbee2mqtt-networkmap) - Home Assistant Custom Card to show Zigbee2mqtt network map
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
@@ -368,7 +369,6 @@
 - [music-assistant/support](https://github.com/music-assistant/support) - Music Assistant issue tracker
 - [dimagoltsman/generic-remote-control-card](https://github.com/dimagoltsman/generic-remote-control-card) - Generic Remote control card for HACS
 - [Purfview/whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
-- [elax46/custom-brand-icons](https://github.com/elax46/custom-brand-icons) - Custom brand icons for Home Assistant
 - [djiesr/Hydro-Quebec_Open_Data](https://github.com/djiesr/Hydro-Quebec_Open_Data) - Add Open Data from Hydro-Quebec to your Home Assistant
 - [Makememo/MemoAI](https://github.com/Makememo/MemoAI) - MemoAI Video to translated text, subtitles and notes made easy.
 - [A75G/docker-templates](https://github.com/A75G/docker-templates) - Unraid Docker Templates
@@ -417,7 +417,7 @@
 ## Python 
 
 - [Pukabyte/trailerfin](https://github.com/Pukabyte/trailerfin) - Retrieves IMDB trailers of your movies and imports them as background video themes in Jellyfin using .strm files
-- [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel RestAPI integration for HomeAssistant
+- [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel (https://beszel.dev) RestAPI integration for HomeAssistant
 - [corpnewt/EFI-Backup-Restore](https://github.com/corpnewt/EFI-Backup-Restore) - A smallish script that can backup EFI partitions - and eventually restore them (hopefully).
 - [pflajszer/ticktick-exporter](https://github.com/pflajszer/ticktick-exporter) - 
 - [helv-io/ha-bluebubbles](https://github.com/helv-io/ha-bluebubbles) - A Home Assistant custom integration for sending iMessages via a BlueBubbles server
