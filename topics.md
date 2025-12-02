@@ -187,7 +187,7 @@
 
 ## api 
 
-- [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel RestAPI integration for HomeAssistant
+- [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel (https://beszel.dev) RestAPI integration for HomeAssistant
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [qoomon/gmail-rss-feed](https://github.com/qoomon/gmail-rss-feed) - Google Scripts Project to generate a RSS feed based on labeled emails in your GMail Account
@@ -820,7 +820,7 @@
 
 ## monitoring 
 
-- [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel RestAPI integration for HomeAssistant
+- [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel (https://beszel.dev) RestAPI integration for HomeAssistant
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
@@ -1361,7 +1361,7 @@
 
 ## rest-api 
 
-- [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel RestAPI integration for HomeAssistant
+- [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel (https://beszel.dev) RestAPI integration for HomeAssistant
 
 ## reverse-engineering 
 
