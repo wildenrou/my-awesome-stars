@@ -373,7 +373,7 @@
 - [djiesr/Hydro-Quebec_Open_Data](https://github.com/djiesr/Hydro-Quebec_Open_Data) - Add Open Data from Hydro-Quebec to your Home Assistant
 - [Makememo/MemoAI](https://github.com/Makememo/MemoAI) - MemoAI Video to translated text, subtitles and notes made easy.
 - [A75G/docker-templates](https://github.com/A75G/docker-templates) - Unraid Docker Templates
-- [hydroqc/hass-blueprint-hydroqc](https://github.com/hydroqc/hass-blueprint-hydroqc) - 
+- [hydroqc/hass-blueprint-hydroqc-deprecated](https://github.com/hydroqc/hass-blueprint-hydroqc-deprecated) - 
 - [kshoichi/HomeAssistantApplianceCard](https://github.com/kshoichi/HomeAssistantApplianceCard) - Yaml for a lovelace appliance card
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
