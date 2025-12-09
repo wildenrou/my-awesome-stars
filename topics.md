@@ -978,7 +978,7 @@
 - [Vansmak/mediarr-card](https://github.com/Vansmak/mediarr-card) - custom home assistant card
 - [wildenrou/movie-theme-clipper](https://github.com/wildenrou/movie-theme-clipper) - Automatically generates theme clips from movie collections using AI analysis
 - [madmachinations/home-assistant-alexa-shopping-list](https://github.com/madmachinations/home-assistant-alexa-shopping-list) - A custom component for Home Assistant which synchronises your Alexa Shopping List
-- [apteryxxyz/jellyfin-air-times](https://github.com/apteryxxyz/jellyfin-air-times) - Localise Jellyfin series air times.
+- [k0d13/jellyfin-air-times](https://github.com/k0d13/jellyfin-air-times) - Localise Jellyfin series air times.
 - [eebette/jellyfin-tools](https://github.com/eebette/jellyfin-tools) - Non-plugin tools for helping manage a Jellyfin library.
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [JosephAbbey/ha_calendar_export](https://github.com/JosephAbbey/ha_calendar_export) - 
@@ -1203,7 +1203,7 @@
 - [SpaceinvaderOne/Macinabox](https://github.com/SpaceinvaderOne/Macinabox) - Unraid docker image to help install MacOS vms
 - [vaparr/backuparr](https://github.com/vaparr/backuparr) - Backup dockers from unraid efficiently
 - [BinsonBuzz/unraid_rclone_mount](https://github.com/BinsonBuzz/unraid_rclone_mount) - scripts to create rclone mounts on gdrive
-- [hydroqc/hass-blueprint-hydroqc](https://github.com/hydroqc/hass-blueprint-hydroqc) - 
+- [hydroqc/hass-blueprint-hydroqc-deprecated](https://github.com/hydroqc/hass-blueprint-hydroqc-deprecated) - 
 - [elecnix/ticktick-scenes](https://github.com/elecnix/ticktick-scenes) - TickTick Scenes for Home Assistant
 - [malhashemi/Obsidian-Outlook](https://github.com/malhashemi/Obsidian-Outlook) - 
 - [hsand/pia-wg](https://github.com/hsand/pia-wg) - A WireGuard configuration utility for Private Internet Access
