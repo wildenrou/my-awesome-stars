@@ -53,6 +53,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [gaming](#gaming)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -491,6 +492,11 @@
 ## gaming 
 
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
+
+## generative-ai 
+
+- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - A home assistant generative agent integration based on langchain and langgraph.
+- [nicolodiamante/dispatch](https://github.com/nicolodiamante/dispatch) - Revamp your morning routine and supercharge productivity with Dispatch. The ultimate Apple Shortcut powered by ChatGPT and ElevenLabs.
 
 ## git 
 
