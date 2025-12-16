@@ -307,7 +307,6 @@
 - [malhashemi/Obsidian-Outlook](https://github.com/malhashemi/Obsidian-Outlook) - 
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [chrschorn/one-click-ticktick](https://github.com/chrschorn/one-click-ticktick) - Chrome extension for instantly creating new TickTick tasks in just one click
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Podginator/TickGPTick](https://github.com/Podginator/TickGPTick) - TickGPTick Integration
 - [benjypng/chrome-extension-logseq-quickcapture](https://github.com/benjypng/chrome-extension-logseq-quickcapture) - chrome-extension-logseq-quickcapture
 - [inwaar/node-red-contrib-gree-hvac](https://github.com/inwaar/node-red-contrib-gree-hvac) - Provides a node for controlling Gree HVAC (Heating, ventilation, and air conditioning).
@@ -504,6 +503,7 @@
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [Sian-Lee-SA/Home-Assistant-Switch-Manager](https://github.com/Sian-Lee-SA/Home-Assistant-Switch-Manager) - Switch manager is a centralised component to handle button pushes for your wireless switches. This includes anything passed through the event bus. The component relies on switch blueprints which is ea
 - [hugobloem/stateful_scenes](https://github.com/hugobloem/stateful_scenes) - Stateful Scenes in Home Assistant (Home Kit scene compatible)
+- [calibrain/calibre-web-automated-book-downloader](https://github.com/calibrain/calibre-web-automated-book-downloader) - 
 - [KBlixt/subcleaner](https://github.com/KBlixt/subcleaner) - removes ads from subtitle files cleanly.
 - [Hantick/ticktick-home-assistant](https://github.com/Hantick/ticktick-home-assistant) - Home Assistant TickTick Integration
 - [AlexxIT/PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
@@ -751,7 +751,6 @@
 - [gbendy/sonarrToRSS](https://github.com/gbendy/sonarrToRSS) - Converts Sonarr webhooks to an RSS feed and webpage
 - [t0bst4r/home-assistant-matter-hub](https://github.com/t0bst4r/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
 - [Luligu/matterbridge-hass](https://github.com/Luligu/matterbridge-hass) - Matterbridge Home Assistant plugin
-- [calibrain/calibre-web-automated-book-downloader](https://github.com/calibrain/calibre-web-automated-book-downloader) - 
 - [thlucas1/spotifyplus_card](https://github.com/thlucas1/spotifyplus_card) - Home Assistant UI card that supports features unique to the SpotifyPlus custom integration.
 - [mikevanes/spotify-card-v2](https://github.com/mikevanes/spotify-card-v2) - Spotify playlist card for Home Assistant card
 - [Qwyntex/doubleshift](https://github.com/Qwyntex/doubleshift) - Obsidian Plugin to open the command palette by pressing shift twice
@@ -796,6 +795,7 @@
 - [kyaustad/raidash](https://github.com/kyaustad/raidash) - Simple, stylized dashboard for your UnRaid server with shortcuts and basic stats
 - [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 
