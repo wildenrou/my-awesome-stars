@@ -913,6 +913,8 @@
 
 ## others 
 
+- [Kha-kis/arr-dashboard](https://github.com/Kha-kis/arr-dashboard) - Unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances
+- [Druidblack/jellyfin_ratings](https://github.com/Druidblack/jellyfin_ratings) - Replaces jellyfish ratings with ratings from various sources (IMDb, Trakt, Imdb, Letterboxd, Tomato, Popcorn, Metacritic, RogerEbert, and MyAnimeList) obtained from mdblist.com
 - [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library
 - [caleb-venner/JellyPy](https://github.com/caleb-venner/JellyPy) - Event Driven Media Management Jellyfin plugin.
 - [kirtan3d/Jellyfin.Plugin.AssignThemeSong](https://github.com/kirtan3d/Jellyfin.Plugin.AssignThemeSong) - A Jellyfin plugin that allows you to download theme songs from YouTube or upload custom MP3 files for your movies and TV shows.
