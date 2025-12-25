@@ -423,6 +423,7 @@
 
 ## Python 
 
+- [LunalFresh/MetaMender](https://github.com/LunalFresh/MetaMender) - MetaMender is a lightweight, AI-powered metadata enhancer for Jellyfin.   It enriches your media library by rewriting short or missing overviews for music items using OpenAI — no servers, no Docker, n
 - [Pukabyte/trailerfin](https://github.com/Pukabyte/trailerfin) - Retrieves IMDB trailers of your movies and imports them as background video themes in Jellyfin using .strm files
 - [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel (https://beszel.dev) RestAPI integration for HomeAssistant
 - [corpnewt/EFI-Backup-Restore](https://github.com/corpnewt/EFI-Backup-Restore) - A smallish script that can backup EFI partitions - and eventually restore them (hopefully).
