@@ -480,7 +480,7 @@
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [linaspurinis/mdblistarr](https://github.com/linaspurinis/mdblistarr) - Companion app for mdblist.com for Radarr and Sonarr integration
 - [zotify-dev/zotify](https://github.com/zotify-dev/zotify) - A fast and customizable music and podcast downloader.
-- [majutsushi/apple-books-covers](https://github.com/majutsushi/apple-books-covers) - A Calibre plugin to download high-resolution covers from the Apple Books store
+- [janlarres/apple-books-covers](https://github.com/janlarres/apple-books-covers) - A Calibre plugin to download high-resolution covers from the Apple Books store
 - [netplexflix/Movie-Recommendations-for-Plex](https://github.com/netplexflix/Movie-Recommendations-for-Plex) - Analyzes your Plex Movie watch history and recommends unwatched movies to watch on Plex, and movies to add to Radarr. Optionally labels them and adds them to Radarr.
 - [FifiTheBulldog/ios-settings-urls](https://github.com/FifiTheBulldog/ios-settings-urls) - A collection of iOS Settings URLs
 - [OHF-Voice/speech-to-phrase](https://github.com/OHF-Voice/speech-to-phrase) - Fast and personalized local speech-to-text
