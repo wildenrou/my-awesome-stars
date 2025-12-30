@@ -720,7 +720,7 @@
 - [Kha-kis/arr-dashboard](https://github.com/Kha-kis/arr-dashboard) - Unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances
 - [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
-- [gmcouto/mediaddrr](https://github.com/gmcouto/mediaddrr) - A webhook middleware for improving autobrr integration with arr instances
+- [gmcouto/mediaddrr](https://github.com/gmcouto/mediaddrr) - Your autobrr companion for a arr library that grows by itself.
 - [KartoffelChipss/Jellyfin-Cover-Maker](https://github.com/KartoffelChipss/Jellyfin-Cover-Maker) - Easily create covers and posters for your Jellyfin libraries!
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
