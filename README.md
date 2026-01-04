@@ -269,7 +269,7 @@
 - [fabricionaweb/un.recyclarr](https://github.com/fabricionaweb/un.recyclarr) - Run Recyclarr binary on Unraid
 - [DumbWareio/DumbPad](https://github.com/DumbWareio/DumbPad) - A Dumb Pad with collaborative editing, fuzzy search, & markdown preview functionality
 - [CallMeBruce/nightwalker](https://github.com/CallMeBruce/nightwalker) - A dark but not black qBittorrent WebUI
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with Many New Features! Fully automate and simplify your eBook set up!
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [ad3m3r5/scratch-map](https://github.com/ad3m3r5/scratch-map) - An open-source scratch-off style map to track your travels.
 - [bsharper/atv-desktop-remote](https://github.com/bsharper/atv-desktop-remote) - A simple app to allow you to control an Apple TV from your desktop
 - [thurasw/airwave](https://github.com/thurasw/airwave) - Share Files between iOS and Windows without hassle.
