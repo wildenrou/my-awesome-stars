@@ -411,7 +411,7 @@
 - [RealFascinated/sharex-php-uploader](https://github.com/RealFascinated/sharex-php-uploader) - This is a PHP script that lets you easily upload screenshots taken with the ShareX app to your website. ShareX is a popular screenshot tool for Windows that allows you to take screenshots, annotate th
 - [nuxencs/seasonpackarr](https://github.com/nuxencs/seasonpackarr) - A companion app for autobrr that automagically hardlinks downloaded episodes into a season folder when a season pack is announced, eliminating the need for re-downloading existing episodes.
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
-- [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server - configurable
+- [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [pierlon/scrcpy-docker](https://github.com/pierlon/scrcpy-docker) - Easily run scrcpy with Docker
 - [ualex73/monitor_docker](https://github.com/ualex73/monitor_docker) - Monitor Docker containers from Home Assistant
