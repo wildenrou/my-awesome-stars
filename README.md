@@ -204,7 +204,7 @@
 
 - [autobrr/dashbrr](https://github.com/autobrr/dashbrr) - A sleek, modern dashboard for monitoring and managing your media stack services.
 - [autobrr/tqm](https://github.com/autobrr/tqm) - TQM: Torrent Queue Manager, a tool to manage torrents in your clients.
-- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [dianlight/srat](https://github.com/dianlight/srat) - SRAT (SambaNAS REST Administration Tool) is a new system designed to provide a simplified user interface for configuring SAMBA. It has been developed to work within Home Assistant.
 - [jcwillox/hassio-rclone-backup](https://github.com/jcwillox/hassio-rclone-backup) - Home Assistant addon to automatically sync backups to remote locations using Rclone
@@ -443,6 +443,7 @@
 - [ice413/hass-photoprism](https://github.com/ice413/hass-photoprism) - Home assistant integration for photoprism
 - [watkins-matt/home-assistant-google-keep-sync](https://github.com/watkins-matt/home-assistant-google-keep-sync) - Custom component for Home Assistant that enables bidirectional synchronization with Google Keep lists.
 - [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible) - A custom component to enable using S3 compatible endpoints for home assistant backups
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [TheLinuxGuy/free-unraid](https://github.com/TheLinuxGuy/free-unraid) - Achieving a free (opensource) alternative to unraid for media server (homelab) use.
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - A powerful custom Home Assistant integration that provides comprehensive device management capabilities, allowing users to modify device attributes, reorganize entities, create virtual devices, and me
 - [jeroenterheerdt/grillbuddy](https://github.com/jeroenterheerdt/grillbuddy) - Grill Buddy for Home Assistant
@@ -703,7 +704,6 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [JamesCoyle/HistoryExtension](https://github.com/JamesCoyle/HistoryExtension) - 
 - [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop) - Use Home Assistant Assist on the desktop. Compatible with Windows, MacOS, and Linux
 
