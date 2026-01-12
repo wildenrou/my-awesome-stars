@@ -1105,7 +1105,7 @@
 - [t0bst4r/home-assistant-matter-hub](https://github.com/t0bst4r/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
 - [Luligu/matterbridge-home-assistant-addon](https://github.com/Luligu/matterbridge-home-assistant-addon) - Official Matterbridge Home Assistant Add-on
 - [Luligu/matterbridge-hass](https://github.com/Luligu/matterbridge-hass) - Matterbridge Home Assistant plugin
-- [calibrain/calibre-web-automated-book-downloader](https://github.com/calibrain/calibre-web-automated-book-downloader) - 
+- [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
 - [KBlixt/subcleaner](https://github.com/KBlixt/subcleaner) - removes ads from subtitle files cleanly.
 - [Hantick/ticktick-home-assistant](https://github.com/Hantick/ticktick-home-assistant) - Home Assistant TickTick Integration
 - [vadimgrn/usbip-win2](https://github.com/vadimgrn/usbip-win2) - USB/IP Client for Windows
