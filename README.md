@@ -71,6 +71,7 @@
 
 ## C# # 
 
+- [verybadsoldier/Jellyfin.Plugin.DateAddedAdvanced](https://github.com/verybadsoldier/Jellyfin.Plugin.DateAddedAdvanced) - Jellyfin Plugin that allows fore more fine-grained control over DateAdded attributes for database entries
 - [caleb-venner/JellyPy](https://github.com/caleb-venner/JellyPy) - Event Driven Media Management Jellyfin plugin.
 - [kirtan3d/Jellyfin.Plugin.AssignThemeSong](https://github.com/kirtan3d/Jellyfin.Plugin.AssignThemeSong) - A Jellyfin plugin that allows you to download theme songs from YouTube or upload custom MP3 files for your movies and TV shows.
 - [Fovty/HoverTrailer](https://github.com/Fovty/HoverTrailer) - A modern Netflix-style hover trailer preview plugin for Jellyfin that displays movie trailers on hover
@@ -196,6 +197,7 @@
 - [hassio-addons/addon-mqtt-io](https://github.com/hassio-addons/addon-mqtt-io) - MQTT IO - Home Assistant Community Add-ons
 - [linuxserver/docker-spotube](https://github.com/linuxserver/docker-spotube) - Web accessible Spotube inside a Debian Container
 - [jehy/hass-addons](https://github.com/jehy/hass-addons) - This is a repository for my own home assistant addons
+- [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [nwithan8/hassio-addons](https://github.com/nwithan8/hassio-addons) - Repository of maintained Home Assistant Add-Ons
 - [pierlon/scrcpy-docker](https://github.com/pierlon/scrcpy-docker) - Easily run scrcpy with Docker
@@ -425,6 +427,8 @@
 
 ## Python 
 
+- [kgelinas/Mysa_HA](https://github.com/kgelinas/Mysa_HA) - A high-performance, native cloud integration for Mysa Thermostats in Home Assistant. Features real-time MQTT control, support for V2 hardware, and instant UI feedback.
+- [alams154/music-assistant-alexa-skill-prototype](https://github.com/alams154/music-assistant-alexa-skill-prototype) - This project demonstrates the use of Alexa Audio Player for skills, using the ASK Python SDK
 - [LunalFresh/MetaMender](https://github.com/LunalFresh/MetaMender) - MetaMender is a lightweight, AI-powered metadata enhancer for Jellyfin.   It enriches your media library by rewriting short or missing overviews for music items using OpenAI — no servers, no Docker, n
 - [Pukabyte/trailerfin](https://github.com/Pukabyte/trailerfin) - Retrieves IMDB trailers of your movies and imports them as background video themes in Jellyfin using .strm files
 - [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel (https://beszel.dev) RestAPI integration for HomeAssistant
@@ -688,7 +692,6 @@
 - [AdRoll/AirControl](https://github.com/AdRoll/AirControl) - Control AirPlay Mirroring from the command line.
 - [jlesage/docker-mkvtoolnix](https://github.com/jlesage/docker-mkvtoolnix) - Docker container for MKVToolNix
 - [gtxaspec/wz_mini_hacks](https://github.com/gtxaspec/wz_mini_hacks) - wz camera mods... make your camera better.
-- [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server
 - [t0bst4r/matterbridge-home-assistant-addon](https://github.com/t0bst4r/matterbridge-home-assistant-addon) - 
 - [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [binhex/arch-qbittorrentvpn](https://github.com/binhex/arch-qbittorrentvpn) - Docker build script for Arch Linux base with qBittorrent, Privoxy and OpenVPN
@@ -720,6 +723,7 @@
 
 ## TypeScript 
 
+- [akhilmulpurii/jellyfin-theme-music-manager](https://github.com/akhilmulpurii/jellyfin-theme-music-manager) - 
 - [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
 - [Kha-kis/arr-dashboard](https://github.com/Kha-kis/arr-dashboard) - Unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances
 - [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library
