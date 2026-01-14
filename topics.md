@@ -606,6 +606,7 @@
 
 ## home-assistant 
 
+- [bourquep/mysa2mqtt](https://github.com/bourquep/mysa2mqtt) - Expose Mysa smart thermostats to home automation platforms via MQTT.
 - [lavinir/hassio-onedrive-backup](https://github.com/lavinir/hassio-onedrive-backup) - 
 - [helv-io/ha-bluebubbles](https://github.com/helv-io/ha-bluebubbles) - A Home Assistant custom integration for sending iMessages via a BlueBubbles server
 - [vgcouso/ha-tracker](https://github.com/vgcouso/ha-tracker) - HA Tracker allows advanced management of user tracking, their positions and zones through which they pass
@@ -930,6 +931,8 @@
 
 ## others 
 
+- [mescon/Healarr](https://github.com/mescon/Healarr) - Health Evaluation And Library Auto-Recovery for *arr - Media library corruption detection and automatic remediation
+- [TaraHome/taraassistant-public](https://github.com/TaraHome/taraassistant-public) - 
 - [akhilmulpurii/jellyfin-theme-music-manager](https://github.com/akhilmulpurii/jellyfin-theme-music-manager) - 
 - [verybadsoldier/Jellyfin.Plugin.DateAddedAdvanced](https://github.com/verybadsoldier/Jellyfin.Plugin.DateAddedAdvanced) - Jellyfin Plugin that allows fore more fine-grained control over DateAdded attributes for database entries
 - [kgelinas/Mysa_HA](https://github.com/kgelinas/Mysa_HA) - A high-performance, native cloud integration for Mysa Thermostats in Home Assistant. Features real-time MQTT control, support for V2 hardware, and instant UI feedback.
@@ -965,7 +968,7 @@
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) - A Jellyfin plugin to inject Javascript
 - [jeffc/hassmic](https://github.com/jeffc/hassmic) - An application for Home Assistant that allows you to use an android device as a voice assist satellite
 - [pflajszer/ticktick-exporter](https://github.com/pflajszer/ticktick-exporter) - 
-- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
+- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper) - A helper for the BlueBubbles macOS Server App to hook into private APIs
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [chozeur/KVM-QEMU-Sonoma-Hackintosh](https://github.com/chozeur/KVM-QEMU-Sonoma-Hackintosh) - This repo aims to guide you through the setup of a macOS Sonoma 14.3 virtual machine. We'll deploy it using KVM and QEMU under an UNRAID server.
