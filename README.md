@@ -204,6 +204,7 @@
 
 ## Go 
 
+- [mescon/Healarr](https://github.com/mescon/Healarr) - Health Evaluation And Library Auto-Recovery for *arr - Media library corruption detection and automatic remediation
 - [autobrr/dashbrr](https://github.com/autobrr/dashbrr) - A sleek, modern dashboard for monitoring and managing your media stack services.
 - [autobrr/tqm](https://github.com/autobrr/tqm) - TQM: Torrent Queue Manager, a tool to manage torrents in your clients.
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
@@ -356,6 +357,7 @@
 
 ## Others 
 
+- [TaraHome/taraassistant-public](https://github.com/TaraHome/taraassistant-public) - 
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [Andrecall/esphome-sonicare](https://github.com/Andrecall/esphome-sonicare) - Esphome packages
 - [chozeur/KVM-QEMU-Sonoma-Hackintosh](https://github.com/chozeur/KVM-QEMU-Sonoma-Hackintosh) - This repo aims to guide you through the setup of a macOS Sonoma 14.3 virtual machine. We'll deploy it using KVM and QEMU under an UNRAID server.
@@ -723,6 +725,7 @@
 
 ## TypeScript 
 
+- [bourquep/mysa2mqtt](https://github.com/bourquep/mysa2mqtt) - Expose Mysa smart thermostats to home automation platforms via MQTT.
 - [akhilmulpurii/jellyfin-theme-music-manager](https://github.com/akhilmulpurii/jellyfin-theme-music-manager) - 
 - [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
 - [Kha-kis/arr-dashboard](https://github.com/Kha-kis/arr-dashboard) - Unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances
@@ -735,7 +738,7 @@
 - [Abdo-reda/obsidian-sticky-notes-plugin](https://github.com/Abdo-reda/obsidian-sticky-notes-plugin) - Obsidian Sticky Notes Plugin
 - [Superkikim/nexus-ai-chat-importer](https://github.com/Superkikim/nexus-ai-chat-importer) - 
 - [jeffc/hassmic](https://github.com/jeffc/hassmic) - An application for Home Assistant that allows you to use an android device as a voice assist satellite
-- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
+- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
 - [streamyfin/optimized-versions-server](https://github.com/streamyfin/optimized-versions-server) - A streamyfin companion server program to transcode videos into a supported format before downloading
 - [ntoporcov/iQbit](https://github.com/ntoporcov/iQbit) - 
