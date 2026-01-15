@@ -204,6 +204,7 @@
 
 ## Go 
 
+- [ruaan-deysel/unraid-management-agent](https://github.com/ruaan-deysel/unraid-management-agent) - Go-based Unraid plugin providing REST API and WebSocket interfaces for real-time system monitoring, Docker/VM control, and comprehensive hardware metrics
 - [mescon/Healarr](https://github.com/mescon/Healarr) - Health Evaluation And Library Auto-Recovery for *arr - Media library corruption detection and automatic remediation
 - [autobrr/dashbrr](https://github.com/autobrr/dashbrr) - A sleek, modern dashboard for monitoring and managing your media stack services.
 - [autobrr/tqm](https://github.com/autobrr/tqm) - TQM: Torrent Queue Manager, a tool to manage torrents in your clients.
@@ -725,6 +726,8 @@
 
 ## TypeScript 
 
+- [t-mart/mousehole](https://github.com/t-mart/mousehole) - A background service to update a seedbox IP for MAM
+- [EvansMatthew97/rclone-icloud-authenticator](https://github.com/EvansMatthew97/rclone-icloud-authenticator) - Rclone iCloud Drive (icloudddrive) authenticator
 - [bourquep/mysa2mqtt](https://github.com/bourquep/mysa2mqtt) - Expose Mysa smart thermostats to home automation platforms via MQTT.
 - [akhilmulpurii/jellyfin-theme-music-manager](https://github.com/akhilmulpurii/jellyfin-theme-music-manager) - 
 - [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
@@ -808,7 +811,7 @@
 
 - [jellyfin-labs/jellyamp](https://github.com/jellyfin-labs/jellyamp) - Desktop client for listening to music from a Jellyfin server
 - [kyaustad/raidash](https://github.com/kyaustad/raidash) - Simple, stylized dashboard for your UnRaid server with shortcuts and basic stats
-- [fingerthief/recommendarr](https://github.com/fingerthief/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
+- [TannerMidd/recommendarr](https://github.com/TannerMidd/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
