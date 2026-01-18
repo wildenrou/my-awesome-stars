@@ -315,6 +315,7 @@
 - [malhashemi/Obsidian-Outlook](https://github.com/malhashemi/Obsidian-Outlook) - 
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [chrschorn/one-click-ticktick](https://github.com/chrschorn/one-click-ticktick) - Chrome extension for instantly creating new TickTick tasks in just one click
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Podginator/TickGPTick](https://github.com/Podginator/TickGPTick) - TickGPTick Integration
 - [benjypng/chrome-extension-logseq-quickcapture](https://github.com/benjypng/chrome-extension-logseq-quickcapture) - chrome-extension-logseq-quickcapture
 - [inwaar/node-red-contrib-gree-hvac](https://github.com/inwaar/node-red-contrib-gree-hvac) - Provides a node for controlling Gree HVAC (Heating, ventilation, and air conditioning).
@@ -430,7 +431,7 @@
 
 ## Python 
 
-- [kgelinas/Mysa_HA](https://github.com/kgelinas/Mysa_HA) - A high-performance, native cloud integration for Mysa Thermostats in Home Assistant. Features real-time MQTT control, support for V2 hardware, and instant UI feedback.
+- [kgelinas/Mysa_HA](https://github.com/kgelinas/Mysa_HA) - High-performance Home Assistant integration for Mysa Thermostats with real-time MQTT control and instant UI feedback.
 - [alams154/music-assistant-alexa-skill-prototype](https://github.com/alams154/music-assistant-alexa-skill-prototype) - This project demonstrates the use of Alexa Audio Player for skills, using the ASK Python SDK
 - [LunalFresh/MetaMender](https://github.com/LunalFresh/MetaMender) - MetaMender is a lightweight, AI-powered metadata enhancer for Jellyfin.   It enriches your media library by rewriting short or missing overviews for music items using OpenAI — no servers, no Docker, n
 - [Pukabyte/trailerfin](https://github.com/Pukabyte/trailerfin) - Retrieves IMDB trailers of your movies and imports them as background video themes in Jellyfin using .strm files
@@ -813,7 +814,6 @@
 - [kyaustad/raidash](https://github.com/kyaustad/raidash) - Simple, stylized dashboard for your UnRaid server with shortcuts and basic stats
 - [TannerMidd/recommendarr](https://github.com/TannerMidd/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
 
