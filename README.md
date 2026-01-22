@@ -481,7 +481,7 @@
 - [kamaradclimber/geovelo-homeassistant](https://github.com/kamaradclimber/geovelo-homeassistant) - An integration for homeassistant to expose information about geovelo account
 - [cleverdevil/squishy](https://github.com/cleverdevil/squishy) - Transcode content from your Jellyfin or Plex Media Server libraries. Dead simple hardware accelerated transcoding without the fuss.
 - [Nawfay/themerr-normalize](https://github.com/Nawfay/themerr-normalize) - Lower and normalize volume of theme songs for Jellyfin/Plex
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery details of devices
 - [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant
 - [b1ggi/plex-nfo-creator](https://github.com/b1ggi/plex-nfo-creator) - Create .nfo files from Plex containing imdb/tmdb/tvdb links for Jellyfin migration
 - [wilmardo/migrate-plex-to-jellyfin](https://github.com/wilmardo/migrate-plex-to-jellyfin) - Migrate watched status from Plex to Jellyfin
