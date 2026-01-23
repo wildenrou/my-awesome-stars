@@ -434,6 +434,7 @@
 
 ## Python 
 
+- [codyc1515/ha-icalendar](https://github.com/codyc1515/ha-icalendar) - Generates an iCalendar (.ics) link that you can use to view your Home Assistant calendars in another app
 - [TaraHome/taraassistant-public](https://github.com/TaraHome/taraassistant-public) - 
 - [kgelinas/Mysa_HA](https://github.com/kgelinas/Mysa_HA) - High-performance Home Assistant integration for Mysa Thermostats with real-time MQTT control and instant UI feedback.
 - [alams154/music-assistant-alexa-skill-prototype](https://github.com/alams154/music-assistant-alexa-skill-prototype) - This project demonstrates the use of Alexa Audio Player for skills, using the ASK Python SDK
@@ -731,6 +732,8 @@
 
 ## TypeScript 
 
+- [GerardPolloRebozado/social-to-mealie](https://github.com/GerardPolloRebozado/social-to-mealie) - Import social media post to your mealie instances for now only compatible with instagram reels
+- [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [t-mart/mousehole](https://github.com/t-mart/mousehole) - A background service to update a seedbox IP for MAM
