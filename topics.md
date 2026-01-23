@@ -614,6 +614,7 @@
 
 ## home-assistant 
 
+- [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
 - [bourquep/mysa2mqtt](https://github.com/bourquep/mysa2mqtt) - Expose Mysa smart thermostats to home automation platforms via MQTT.
 - [kgelinas/Mysa_HA](https://github.com/kgelinas/Mysa_HA) - High-performance Home Assistant integration for Mysa Thermostats with real-time MQTT control and instant UI feedback.
 - [lavinir/hassio-onedrive-backup](https://github.com/lavinir/hassio-onedrive-backup) - 
@@ -951,6 +952,8 @@
 
 ## others 
 
+- [codyc1515/ha-icalendar](https://github.com/codyc1515/ha-icalendar) - Generates an iCalendar (.ics) link that you can use to view your Home Assistant calendars in another app
+- [GerardPolloRebozado/social-to-mealie](https://github.com/GerardPolloRebozado/social-to-mealie) - Import social media post to your mealie instances for now only compatible with instagram reels
 - [jyourstone/jellyfin-musictags-plugin](https://github.com/jyourstone/jellyfin-musictags-plugin) - A Jellyfin plugin that automatically extracts metadata from audio files - such as ID3 tags, Vorbis comments, and more - and converts them into standard Jellyfin tags.
 - [Rusketh/JellyMusic](https://github.com/Rusketh/JellyMusic) - A work in progress Alexa Skill for Jellyfin music
 - [crucifix86/JellyTV](https://github.com/crucifix86/JellyTV) - A cross-platform Jellyfin/Emby TV client built with AvaloniaUI featuring Emby-style library tiles and TV-optimized 10-foot UI
