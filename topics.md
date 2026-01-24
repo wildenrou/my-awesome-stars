@@ -1009,7 +1009,7 @@
 - [saltpi/iPlay](https://github.com/saltpi/iPlay) - Enjoy Media Everywhere, On Every Platform 👀
 - [ntoporcov/iQbit](https://github.com/ntoporcov/iQbit) - 
 - [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
-- [Loriage/Beszel-Swift-App](https://github.com/Loriage/Beszel-Swift-App) - 
+- [Loriage/Beszel-Swift-App](https://github.com/Loriage/Beszel-Swift-App) - Beszel Companion is an unofficial native iOS client for the Beszel server monitoring platform.
 - [Vito0912/abs-autoconverter](https://github.com/Vito0912/abs-autoconverter) - 
 - [Vito0912/absToolbox](https://github.com/Vito0912/absToolbox) - A collection of tools designed to assist with Audiobookshelf-related tasks.
 - [bengalih/ABS-scripts](https://github.com/bengalih/ABS-scripts) - Various scripts and tools for managing Audiobookshelf libraries and other assorted audiobook management
