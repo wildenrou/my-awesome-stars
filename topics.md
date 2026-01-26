@@ -1213,7 +1213,6 @@
 - [marc365/Windows-DesktopRecorder](https://github.com/marc365/Windows-DesktopRecorder) - Desktop audio recorder for what you're playing.
 - [LimeDrive/ygg-rss-proxy](https://github.com/LimeDrive/ygg-rss-proxy) - Proxy pour le flux RSS de YGGTorrent.
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
-- [t0bst4r/matterbridge-home-assistant-addon](https://github.com/t0bst4r/matterbridge-home-assistant-addon) - 
 - [DyonR/bitmagnet-unraid](https://github.com/DyonR/bitmagnet-unraid) - A guide on how to setup bitmagnet on Unraid
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [custom-cards/spotify-card](https://github.com/custom-cards/spotify-card) - Spotify playlist card for Home Assistant card
