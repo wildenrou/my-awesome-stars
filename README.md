@@ -440,6 +440,8 @@
 
 ## Python 
 
+- [malmeloo/hass-FindMy](https://github.com/malmeloo/hass-FindMy) - Custom Home Assistant integration for Apple's FindMy network.
+- [Jozwiaczek/iphone-alarms-sync](https://github.com/Jozwiaczek/iphone-alarms-sync) - iOS alarms synchronisation custom component for Home Assistant
 - [iluvdata/august_access_codes](https://github.com/iluvdata/august_access_codes) - August Access Codes:  August Lock Codes in Home Assistant
 - [raman325/lock_code_manager](https://github.com/raman325/lock_code_manager) - Lock code manager for locks integrated with Home Assistant
 - [codyc1515/ha-icalendar](https://github.com/codyc1515/ha-icalendar) - Generates an iCalendar (.ics) link that you can use to view your Home Assistant calendars in another app
@@ -739,6 +741,7 @@
 
 ## TypeScript 
 
+- [troinine/ha-weather-forecast-card](https://github.com/troinine/ha-weather-forecast-card) - ☀️ Slightly improved weather forecast card for Home Assistant
 - [GerardPolloRebozado/social-to-mealie](https://github.com/GerardPolloRebozado/social-to-mealie) - Import social media post to your mealie instances for now only compatible with instagram reels
 - [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
