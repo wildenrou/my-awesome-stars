@@ -807,7 +807,7 @@
 ## llm 
 
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
-- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - Jellyfin plugin for AudioMuse-AI
+- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
@@ -876,7 +876,7 @@
 
 ## music 
 
-- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - Jellyfin plugin for AudioMuse-AI
+- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [stengland/alexa-mpd-skill](https://github.com/stengland/alexa-mpd-skill) - A simple Alexa skill for controlling MPD
@@ -935,7 +935,7 @@
 ## open-source 
 
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
-- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - Jellyfin plugin for AudioMuse-AI
+- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
@@ -959,6 +959,8 @@
 
 ## others 
 
+- [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
+- [thor2002ro/unraid_kernel](https://github.com/thor2002ro/unraid_kernel) - Kernel repository for UNRAID(unofficial)
 - [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
 - [fundor333/calibre-hardcover-sync](https://github.com/fundor333/calibre-hardcover-sync) - 
 - [johnpwhite/unraid-plg-zram](https://github.com/johnpwhite/unraid-plg-zram) - A plugin to configure and monitor zram on Unraid v7.2+
@@ -1060,7 +1062,7 @@
 - [antontanderup/mediocre-hass-media-player-cards](https://github.com/antontanderup/mediocre-hass-media-player-cards) - Media Player Cards for Homeassistant.
 - [dohnutt/unraid-gui-responsive](https://github.com/dohnutt/unraid-gui-responsive) - Style overrides for Unraid GUI for responsive design
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
-- [markbeep/AudioBookRequest](https://github.com/markbeep/AudioBookRequest) - Audiobook request management/wishlist for Plex/Audiobookshelf/Jellyfin
+- [markbeep/AudioBookRequest](https://github.com/markbeep/AudioBookRequest) - Minimal and lightweight audiobook request management/wishlist for Plex/Audiobookshelf/Jellyfin
 - [pnp/sp-formatter](https://github.com/pnp/sp-formatter) - SharePoint formatter Chromium Edge and Google Chrome browser extension
 - [jacepark12/ticktick-mcp](https://github.com/jacepark12/ticktick-mcp) - MCP server that interacts with TickTick (Dida 365) via the TickTick Open API
 - [apocaliss92/scrypted-frigate-bridge](https://github.com/apocaliss92/scrypted-frigate-bridge) - 
@@ -1472,7 +1474,7 @@
 ## self-hosted 
 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
-- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - Jellyfin plugin for AudioMuse-AI
+- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
