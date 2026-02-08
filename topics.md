@@ -613,6 +613,7 @@
 
 ## home-assistant 
 
+- [iXanadu/ha-semantic-memory](https://github.com/iXanadu/ha-semantic-memory) - Persistent semantic memory for Home Assistant voice assistants — FastAPI + pgvector + Ollama embeddings
 - [Jozwiaczek/iphone-alarms-sync](https://github.com/Jozwiaczek/iphone-alarms-sync) - iOS alarms synchronisation custom component for Home Assistant
 - [troinine/ha-weather-forecast-card](https://github.com/troinine/ha-weather-forecast-card) - ☀️ Slightly improved weather forecast card for Home Assistant
 - [saihgupr/HomeAssistantVersionControl](https://github.com/saihgupr/HomeAssistantVersionControl) - Automatic backup, history tracking, and instant restore for your Home Assistant configuration.
@@ -959,6 +960,7 @@
 
 ## others 
 
+- [regulatedsyntax/qbfrt](https://github.com/regulatedsyntax/qbfrt) - qBittorrent fastresume tools
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [thor2002ro/unraid_kernel](https://github.com/thor2002ro/unraid_kernel) - Kernel repository for UNRAID(unofficial)
 - [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
