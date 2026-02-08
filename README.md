@@ -444,6 +444,7 @@
 
 ## Python 
 
+- [iXanadu/ha-semantic-memory](https://github.com/iXanadu/ha-semantic-memory) - Persistent semantic memory for Home Assistant voice assistants — FastAPI + pgvector + Ollama embeddings
 - [fundor333/calibre-hardcover-sync](https://github.com/fundor333/calibre-hardcover-sync) - 
 - [malmeloo/hass-FindMy](https://github.com/malmeloo/hass-FindMy) - Custom Home Assistant integration for Apple's FindMy network.
 - [Jozwiaczek/iphone-alarms-sync](https://github.com/Jozwiaczek/iphone-alarms-sync) - iOS alarms synchronisation custom component for Home Assistant
@@ -673,6 +674,7 @@
 
 ## Rust 
 
+- [regulatedsyntax/qbfrt](https://github.com/regulatedsyntax/qbfrt) - qBittorrent fastresume tools
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
