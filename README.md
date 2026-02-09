@@ -152,6 +152,7 @@
 
 ## C++ 
 
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -253,6 +254,7 @@
 
 ## HTML 
 
+- [loteran/hardlink-manager](https://github.com/loteran/hardlink-manager) - hardlink-manager
 - [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext) - 
 - [BoKKeR/UnraidAPI-RE](https://github.com/BoKKeR/UnraidAPI-RE) - A WIP open source Node JS API for controlling UNraid
 
@@ -444,6 +446,7 @@
 
 ## Python 
 
+- [ludodefgh/montreal-snow-removal](https://github.com/ludodefgh/montreal-snow-removal) - Home Assistant integration for Montreal snow removal tracking using Planif-Neige API
 - [iXanadu/ha-semantic-memory](https://github.com/iXanadu/ha-semantic-memory) - Persistent semantic memory for Home Assistant voice assistants — FastAPI + pgvector + Ollama embeddings
 - [fundor333/calibre-hardcover-sync](https://github.com/fundor333/calibre-hardcover-sync) - 
 - [malmeloo/hass-FindMy](https://github.com/malmeloo/hass-FindMy) - Custom Home Assistant integration for Apple's FindMy network.
@@ -469,7 +472,7 @@
 - [ollo69/ha-smartthinq-sensors](https://github.com/ollo69/ha-smartthinq-sensors) - HomeAssistant custom integration for SmartThinQ LG devices
 - [soloam/ha-fireflyiii-integration](https://github.com/soloam/ha-fireflyiii-integration) - FireflyIII Integration for Home Assistant
 - [wildenrou/home-assistant-fileflows](https://github.com/wildenrou/home-assistant-fileflows) - Custom FileFlows integration for Home Assistant
-- [mhaowork/amblegpt](https://github.com/mhaowork/amblegpt) - Video surveilance footage analyst powered by GPT-4o
+- [mhaowork/amblegpt](https://github.com/mhaowork/amblegpt) - Video surveilance footage analyst powered by GPT
 - [ice413/hass-photoprism](https://github.com/ice413/hass-photoprism) - Home assistant integration for photoprism
 - [watkins-matt/home-assistant-google-keep-sync](https://github.com/watkins-matt/home-assistant-google-keep-sync) - Custom component for Home Assistant that enables bidirectional synchronization with Google Keep lists.
 - [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible) - A custom component to enable using S3 compatible endpoints for home assistant backups
