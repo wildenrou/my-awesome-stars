@@ -124,6 +124,7 @@
 - [craigstjean/ObsidianCalendarSync](https://github.com/craigstjean/ObsidianCalendarSync) - Tool to sync an Outlook calendar to Obsidian Full Calendar markdown files
 - [net-daemon/netdaemon](https://github.com/net-daemon/netdaemon) - An application daemon for Home Assistant written in .NET
 - [FaithBeam/YMouseButtonControl](https://github.com/FaithBeam/YMouseButtonControl) - X-Mouse Button Control clone
+- [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search) - Official repository for Fluent Search, use to report issues or ask for a new feature
 - [LAB02-Research/DeepL-Translator](https://github.com/LAB02-Research/DeepL-Translator) - Windows GUI client for the DeepL translation API, both free and pro. Supports text, documents and webpages.
 - [builtbybel/xd-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) - The successor to xp-AntiSpy, designed for the modern Windows experience
 - [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy: No Bloat, No Problem!
@@ -388,7 +389,6 @@
 - [itimpi/MyMediaForAlexa](https://github.com/itimpi/MyMediaForAlexa) - XML template for installingMyMediaForAlexa on unRAID
 - [twonth/winning-at-windows](https://github.com/twonth/winning-at-windows) - tools for customizing the appearance and functionality of Windows
 - [bpc-clone/bpc_chrome_support](https://github.com/bpc-clone/bpc_chrome_support) - 
-- [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search) - Official repository for Fluent Search, use to report issues or ask for a new feature
 - [HarleyL7/unRAID-CoralTPU-Guide](https://github.com/HarleyL7/unRAID-CoralTPU-Guide) - 
 - [leofabri/hassio_appliance-status-monitor](https://github.com/leofabri/hassio_appliance-status-monitor) - 🔌 Detect the state of your appliances based on their power consumption ✨
 - [Philippe734/Simple.NFS.GUI](https://github.com/Philippe734/Simple.NFS.GUI) - GUI tool for NFS for Linux. Set a machine as Client/Server in a local network easily with this front-end for NFS.
@@ -538,7 +538,7 @@
 - [Limych/ha-average](https://github.com/Limych/ha-average) - Average Sensor for Home Assistant
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 - [dylandoamaral/trakt-integration](https://github.com/dylandoamaral/trakt-integration) - A Trakt integration for Home Assistant compatible with upcoming media card
-- [rix1337/Quasarr](https://github.com/rix1337/Quasarr) - Quasarr connects JDownloader with Radarr, Sonarr and LazyLibrarian. It also decrypts links protected by CAPTCHAs.
+- [rix1337/Quasarr](https://github.com/rix1337/Quasarr) - Quasarr connects JDownloader with Radarr, Sonarr, Lidarr and LazyLibrarian. It also decrypts links protected by CAPTCHAs.
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [Sian-Lee-SA/Home-Assistant-Switch-Manager](https://github.com/Sian-Lee-SA/Home-Assistant-Switch-Manager) - Switch manager is a centralised component to handle button pushes for your wireless switches. This includes anything passed through the event bus. The component relies on switch blueprints which is ea
 - [hugobloem/stateful_scenes](https://github.com/hugobloem/stateful_scenes) - Stateful Scenes in Home Assistant (Home Kit scene compatible)
