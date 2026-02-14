@@ -445,7 +445,7 @@
 ## Python 
 
 - [ludodefgh/montreal-snow-removal](https://github.com/ludodefgh/montreal-snow-removal) - Home Assistant integration for Montreal snow removal tracking using Planif-Neige API
-- [iXanadu/ha-semantic-memory](https://github.com/iXanadu/ha-semantic-memory) - Persistent semantic memory for Home Assistant voice assistants — FastAPI + pgvector + Ollama embeddings
+- [iXanadu/ha-semantic-memory](https://github.com/iXanadu/ha-semantic-memory) - [DEPRECATED] Persistent semantic memory for Home Assistant voice assistants — superseded by engram
 - [fundor333/calibre-hardcover-sync](https://github.com/fundor333/calibre-hardcover-sync) - 
 - [malmeloo/hass-FindMy](https://github.com/malmeloo/hass-FindMy) - Custom Home Assistant integration for Apple's FindMy network.
 - [Jozwiaczek/iphone-alarms-sync](https://github.com/Jozwiaczek/iphone-alarms-sync) - iOS alarms synchronisation custom component for Home Assistant
