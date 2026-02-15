@@ -202,7 +202,6 @@
 
 - [Obamium69/hassio-beszel_agent](https://github.com/Obamium69/hassio-beszel_agent) - 
 - [hassio-addons/addon-mqtt-io](https://github.com/hassio-addons/addon-mqtt-io) - MQTT IO - Home Assistant Community Add-ons
-- [Luligu/matterbridge-home-assistant-addon](https://github.com/Luligu/matterbridge-home-assistant-addon) - Official Matterbridge Home Assistant Add-on
 - [linuxserver/docker-spotube](https://github.com/linuxserver/docker-spotube) - Web accessible Spotube inside a Debian Container
 - [jehy/hass-addons](https://github.com/jehy/hass-addons) - This is a repository for my own home assistant addons
 - [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server
@@ -383,6 +382,7 @@
 - [RatingPosterDB/Jellyfin.Plugin.RPDB](https://github.com/RatingPosterDB/Jellyfin.Plugin.RPDB) - Jellyfin Plugin for Rating Poster Database
 - [fejich/unraid-fclones](https://github.com/fejich/unraid-fclones) - This is a unRAID plugin for the fclones binary executable
 - [litinoveweedle/hassio-addons](https://github.com/litinoveweedle/hassio-addons) - 
+- [Luligu/matterbridge-home-assistant-addon](https://github.com/Luligu/matterbridge-home-assistant-addon) - Official Matterbridge Home Assistant Add-on
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
 - [itimpi/MyMediaForAlexa](https://github.com/itimpi/MyMediaForAlexa) - XML template for installingMyMediaForAlexa on unRAID
 - [twonth/winning-at-windows](https://github.com/twonth/winning-at-windows) - tools for customizing the appearance and functionality of Windows
