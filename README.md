@@ -19,6 +19,7 @@
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
+- [Handlebars](#handlebars)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -152,6 +153,7 @@
 
 ## C++ 
 
+- [DerekSeaman/irk-capture](https://github.com/DerekSeaman/irk-capture) - An ESPHome package to capture Apple and Android Bluetooth IRKs
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -255,6 +257,10 @@
 - [loteran/hardlink-manager](https://github.com/loteran/hardlink-manager) - hardlink-manager
 - [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext) - 
 - [BoKKeR/UnraidAPI-RE](https://github.com/BoKKeR/UnraidAPI-RE) - A WIP open source Node JS API for controlling UNraid
+
+## Handlebars 
+
+- [thenextbutton/home_assistant](https://github.com/thenextbutton/home_assistant) - A collection of my home assistant blueprints
 
 ## Java 
 
