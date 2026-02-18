@@ -968,6 +968,8 @@
 
 ## others 
 
+- [thenextbutton/home_assistant](https://github.com/thenextbutton/home_assistant) - A collection of my home assistant blueprints
+- [DerekSeaman/irk-capture](https://github.com/DerekSeaman/irk-capture) - An ESPHome package to capture Apple and Android Bluetooth IRKs
 - [ludodefgh/montreal-snow-removal](https://github.com/ludodefgh/montreal-snow-removal) - Home Assistant integration for Montreal snow removal tracking using Planif-Neige API
 - [loteran/hardlink-manager](https://github.com/loteran/hardlink-manager) - hardlink-manager
 - [regulatedsyntax/qbfrt](https://github.com/regulatedsyntax/qbfrt) - qBittorrent fastresume tools
