@@ -94,7 +94,7 @@
 - [FoxxMD/slsk-batchdl](https://github.com/FoxxMD/slsk-batchdl) - A batch downloader for Soulseek
 - [builtbybel/Appcopier](https://github.com/builtbybel/Appcopier) - Back up key things on your Windows PC, perform a reset or simply go back in time.
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
-- [k0d13/jellyfin-air-times](https://github.com/k0d13/jellyfin-air-times) - Localise Jellyfin series air times.
+- [K0D13/jellyfin-air-times](https://github.com/K0D13/jellyfin-air-times) - Localise Jellyfin series air times.
 - [TypNull/Tubifarry](https://github.com/TypNull/Tubifarry) - Tubifarry is a Lidarr plugin that enhances your music library by fetching music from YouTube, integrating with Slskd for Soulseek access, automating Spotify playlist imports, converting files, and ret
 - [NooNameR/Jellyfin.Plugin.LocalPosters](https://github.com/NooNameR/Jellyfin.Plugin.LocalPosters) - 
 - [audiamus/BookLibConnect](https://github.com/audiamus/BookLibConnect) - A standalone Audible downloader and decrypter
