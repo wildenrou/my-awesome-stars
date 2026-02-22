@@ -1067,7 +1067,7 @@
 - [Vansmak/mediarr-card](https://github.com/Vansmak/mediarr-card) - custom home assistant card
 - [wildenrou/movie-theme-clipper](https://github.com/wildenrou/movie-theme-clipper) - Automatically generates theme clips from movie collections using AI analysis
 - [madmachinations/home-assistant-alexa-shopping-list](https://github.com/madmachinations/home-assistant-alexa-shopping-list) - A custom component for Home Assistant which synchronises your Alexa Shopping List
-- [k0d13/jellyfin-air-times](https://github.com/k0d13/jellyfin-air-times) - Localise Jellyfin series air times.
+- [K0D13/jellyfin-air-times](https://github.com/K0D13/jellyfin-air-times) - Localise Jellyfin series air times.
 - [eebette/jellyfin-tools](https://github.com/eebette/jellyfin-tools) - Non-plugin tools for helping manage a Jellyfin library.
 - [josephabbey/ha_calendar_export](https://github.com/josephabbey/ha_calendar_export) - 
 - [antontanderup/mediocre-hass-media-player-cards](https://github.com/antontanderup/mediocre-hass-media-player-cards) - Media Player Cards for Homeassistant.
