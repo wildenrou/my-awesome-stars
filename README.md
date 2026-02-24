@@ -511,7 +511,6 @@
 - [b1ggi/plex-nfo-creator](https://github.com/b1ggi/plex-nfo-creator) - Create .nfo files from Plex containing imdb/tmdb/tvdb links for Jellyfin migration
 - [wilmardo/migrate-plex-to-jellyfin](https://github.com/wilmardo/migrate-plex-to-jellyfin) - Migrate watched status from Plex to Jellyfin
 - [ghomasHudson/Jellyfin-Auto-Collections](https://github.com/ghomasHudson/Jellyfin-Auto-Collections) - Automatically make jellyfin collections from IMDB, Letterboxd lists and more.
-- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [kamilkosek/jellyplist](https://github.com/kamilkosek/jellyplist) - A  utility to help you sync playlists from spotify to your jellyfin server
 - [MxMarx/lidarr-beets](https://github.com/MxMarx/lidarr-beets) - lidarr script for grabbing gazelle metadata and running beets
 - [zhattention/ticktick-ai](https://github.com/zhattention/ticktick-ai) - 🎯 AI-powered voice assistant for TickTick, enabling natural language task management through speech. Built with OpenAI's speech recognition and TickTick's API integration, this assistant helps you man
@@ -709,7 +708,6 @@
 - [SpaceinvaderOne/unraid_vm_icons](https://github.com/SpaceinvaderOne/unraid_vm_icons) - To download and install custom vm icons onto an Unraid server
 - [shinji257/unraid_pkgs](https://github.com/shinji257/unraid_pkgs) - 
 - [ich777/un-get](https://github.com/ich777/un-get) - 
-- [plexguide/Unraid_Intel-ARC_Deployment](https://github.com/plexguide/Unraid_Intel-ARC_Deployment) - Unraid - Comprehensive Guide to Enabling AV1 Encoding, Plex Deployment & GPU Management with Tdarr on Unraid 7.0+
 - [ich777/docker-rustdesk-server-aio](https://github.com/ich777/docker-rustdesk-server-aio) - 
 - [masterwishx/ca.mover.tuning](https://github.com/masterwishx/ca.mover.tuning) - 
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
@@ -848,7 +846,6 @@
 
 - [jellyfin-labs/jellyamp](https://github.com/jellyfin-labs/jellyamp) - Desktop client for listening to music from a Jellyfin server
 - [kyaustad/raidash](https://github.com/kyaustad/raidash) - Simple, stylized dashboard for your UnRaid server with shortcuts and basic stats
-- [TannerMidd/recommendarr](https://github.com/TannerMidd/recommendarr) - An LLM driven recommendation system based on Radarr and Sonarr library or watch history information
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 
