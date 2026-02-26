@@ -862,7 +862,7 @@
 ## mcp 
 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [ruaan-deysel/unraid-management-agent](https://github.com/ruaan-deysel/unraid-management-agent) - Go-based Unraid plugin providing REST API and WebSocket interfaces for real-time system monitoring, Docker/VM control, and comprehensive hardware metrics
+- [ruaan-deysel/unraid-management-agent](https://github.com/ruaan-deysel/unraid-management-agent) - Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agen
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 
@@ -965,6 +965,8 @@
 
 ## others 
 
+- [pascalgoedeke/ha_tuya_ble](https://github.com/pascalgoedeke/ha_tuya_ble) - Fingerbot Touch support for HA Tuya BLE
+- [UwUDev/ygege](https://github.com/UwUDev/ygege) - High-performance indexer for YGG Torrent written in Rust
 - [agittins/bermuda](https://github.com/agittins/bermuda) - Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
 - [thenextbutton/home_assistant](https://github.com/thenextbutton/home_assistant) - A collection of my home assistant blueprints
 - [DerekSeaman/irk-capture](https://github.com/DerekSeaman/irk-capture) - An ESPHome package to capture Apple and Android Bluetooth IRKs
@@ -1065,7 +1067,7 @@
 - [Vansmak/mediarr-card](https://github.com/Vansmak/mediarr-card) - custom home assistant card
 - [wildenrou/movie-theme-clipper](https://github.com/wildenrou/movie-theme-clipper) - Automatically generates theme clips from movie collections using AI analysis
 - [madmachinations/home-assistant-alexa-shopping-list](https://github.com/madmachinations/home-assistant-alexa-shopping-list) - A custom component for Home Assistant which synchronises your Alexa Shopping List
-- [K0D13/jellyfin-air-times](https://github.com/K0D13/jellyfin-air-times) - Localise Jellyfin series air times.
+- [k0d13/jellyfin-air-times](https://github.com/k0d13/jellyfin-air-times) - Localise Jellyfin series air times.
 - [eebette/jellyfin-tools](https://github.com/eebette/jellyfin-tools) - Non-plugin tools for helping manage a Jellyfin library.
 - [josephabbey/ha_calendar_export](https://github.com/josephabbey/ha_calendar_export) - 
 - [antontanderup/mediocre-hass-media-player-cards](https://github.com/antontanderup/mediocre-hass-media-player-cards) - Media Player Cards for Homeassistant.
@@ -1447,7 +1449,7 @@
 
 ## rest-api 
 
-- [ruaan-deysel/unraid-management-agent](https://github.com/ruaan-deysel/unraid-management-agent) - Go-based Unraid plugin providing REST API and WebSocket interfaces for real-time system monitoring, Docker/VM control, and comprehensive hardware metrics
+- [ruaan-deysel/unraid-management-agent](https://github.com/ruaan-deysel/unraid-management-agent) - Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agen
 - [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel (https://beszel.dev) RestAPI integration for HomeAssistant
 
 ## reverse-engineering 
