@@ -617,6 +617,7 @@
 
 ## home-assistant 
 
+- [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) - Jellyfin Custom Integration for Home Assistant
 - [brewmarsh/family-bell](https://github.com/brewmarsh/family-bell) - A Home Assistant integration for scheduling recurring announcements on smart speakers, similar to Google's "Family Bell".
 - [alex-jung/ha-departures-card](https://github.com/alex-jung/ha-departures-card) - Home Assistant Dashboard card to show departure time of public transports.
 - [iXanadu/ha-semantic-memory](https://github.com/iXanadu/ha-semantic-memory) - [DEPRECATED] Persistent semantic memory for Home Assistant voice assistants — superseded by engram
@@ -918,6 +919,7 @@
 
 ## obsidian 
 
+- [Talal-A/obsidian-paperless](https://github.com/Talal-A/obsidian-paperless) - 
 - [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [Abdo-reda/obsidian-sticky-notes-plugin](https://github.com/Abdo-reda/obsidian-sticky-notes-plugin) - Obsidian Sticky Notes Plugin
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
@@ -933,6 +935,7 @@
 
 ## obsidian-plugin 
 
+- [Talal-A/obsidian-paperless](https://github.com/Talal-A/obsidian-paperless) - 
 - [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [Abdo-reda/obsidian-sticky-notes-plugin](https://github.com/Abdo-reda/obsidian-sticky-notes-plugin) - Obsidian Sticky Notes Plugin
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
@@ -967,6 +970,7 @@
 
 ## others 
 
+- [Eugene-Musika/ha_tuya_ble](https://github.com/Eugene-Musika/ha_tuya_ble) - Home Assistant support for Tuya BLE devices
 - [wildenrou/STM-webscrap-for-HomeAssistant](https://github.com/wildenrou/STM-webscrap-for-HomeAssistant) - STM Metro Status is a Python project for residents of the Montreal region using Home Assistant. This script scrapes the STM website to get the real-time status of Montreal's metro lines and updates Ho
 - [pascalgoedeke/ha_tuya_ble](https://github.com/pascalgoedeke/ha_tuya_ble) - Fingerbot Touch support for HA Tuya BLE
 - [UwUDev/ygege](https://github.com/UwUDev/ygege) - High-performance indexer for YGG Torrent written in Rust
@@ -1000,7 +1004,7 @@
 - [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
 - [ranaldsgift/KefinTweaks](https://github.com/ranaldsgift/KefinTweaks) - An essential collection of Jellyfin Tweaks that you always knew you needed
 - [Kha-kis/arr-dashboard](https://github.com/Kha-kis/arr-dashboard) - Unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances
-- [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library
+- [immich-power-tools/immich-power-tools](https://github.com/immich-power-tools/immich-power-tools) - Power tools for organizing your immich library
 - [caleb-venner/JellyPy](https://github.com/caleb-venner/JellyPy) - Event Driven Media Management Jellyfin plugin.
 - [kirtan3d/Jellyfin.Plugin.AssignThemeSong](https://github.com/kirtan3d/Jellyfin.Plugin.AssignThemeSong) - A Jellyfin plugin that allows you to download theme songs from YouTube or upload custom MP3 files for your movies and TV shows.
 - [Fovty/HoverTrailer](https://github.com/Fovty/HoverTrailer) - Adds seamless, Netflix-style video previews to the Jellyfin web interface.
