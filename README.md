@@ -40,6 +40,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -378,6 +379,7 @@
 
 ## Others 
 
+- [illigtr/hydroqc](https://github.com/illigtr/hydroqc) - Home Assistant Tools for Hydro Quebec Rate D - Winter Credit Optoin
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [Andrecall/esphome-sonicare](https://github.com/Andrecall/esphome-sonicare) - Esphome packages
 - [chozeur/KVM-QEMU-Sonoma-Hackintosh](https://github.com/chozeur/KVM-QEMU-Sonoma-Hackintosh) - This repo aims to guide you through the setup of a macOS Sonoma 14.3 virtual machine. We'll deploy it using KVM and QEMU under an UNRAID server.
@@ -450,6 +452,9 @@
 
 ## Python 
 
+- [Dregi56/digital_pendulum](https://github.com/Dregi56/digital_pendulum) - Speaking clock for Home Assistant and Alexa
+- [zopanix/bromont-ha-integration](https://github.com/zopanix/bromont-ha-integration) - A Home Assistant custom integration that provides real-time ski conditions from Bromont Mountain (Ski Bromont) in Quebec, Canada.
+- [moerk-o/WhenHub](https://github.com/moerk-o/WhenHub) - Home Assistant integration for tracking dates of multi-day trips (e.g. vacations), one-time or recurring events (like birthdays), and special holidays like DST dates. Provides various sensors includin
 - [Eugene-Musika/ha_tuya_ble](https://github.com/Eugene-Musika/ha_tuya_ble) - Home Assistant support for Tuya BLE devices
 - [wildenrou/STM-webscrap-for-HomeAssistant](https://github.com/wildenrou/STM-webscrap-for-HomeAssistant) - STM Metro Status is a Python project for residents of the Montreal region using Home Assistant. This script scrapes the STM website to get the real-time status of Montreal's metro lines and updates Ho
 - [brewmarsh/family-bell](https://github.com/brewmarsh/family-bell) - A Home Assistant integration for scheduling recurring announcements on smart speakers, similar to Google's "Family Bell".
@@ -757,6 +762,10 @@
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [MartinPham/FindMySync](https://github.com/MartinPham/FindMySync) - 
 - [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock) - Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
