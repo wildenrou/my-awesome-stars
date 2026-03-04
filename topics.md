@@ -617,6 +617,7 @@
 
 ## home-assistant 
 
+- [moerk-o/WhenHub](https://github.com/moerk-o/WhenHub) - Home Assistant integration for tracking dates of multi-day trips (e.g. vacations), one-time or recurring events (like birthdays), and special holidays like DST dates. Provides various sensors includin
 - [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) - Jellyfin Custom Integration for Home Assistant
 - [brewmarsh/family-bell](https://github.com/brewmarsh/family-bell) - A Home Assistant integration for scheduling recurring announcements on smart speakers, similar to Google's "Family Bell".
 - [alex-jung/ha-departures-card](https://github.com/alex-jung/ha-departures-card) - Home Assistant Dashboard card to show departure time of public transports.
@@ -850,6 +851,7 @@
 
 ## malware 
 
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 
 ## markdown 
@@ -970,6 +972,9 @@
 
 ## others 
 
+- [Dregi56/digital_pendulum](https://github.com/Dregi56/digital_pendulum) - Speaking clock for Home Assistant and Alexa
+- [zopanix/bromont-ha-integration](https://github.com/zopanix/bromont-ha-integration) - A Home Assistant custom integration that provides real-time ski conditions from Bromont Mountain (Ski Bromont) in Quebec, Canada.
+- [illigtr/hydroqc](https://github.com/illigtr/hydroqc) - Home Assistant Tools for Hydro Quebec Rate D - Winter Credit Optoin
 - [Eugene-Musika/ha_tuya_ble](https://github.com/Eugene-Musika/ha_tuya_ble) - Home Assistant support for Tuya BLE devices
 - [wildenrou/STM-webscrap-for-HomeAssistant](https://github.com/wildenrou/STM-webscrap-for-HomeAssistant) - STM Metro Status is a Python project for residents of the Montreal region using Home Assistant. This script scrapes the STM website to get the real-time status of Montreal's metro lines and updates Ho
 - [pascalgoedeke/ha_tuya_ble](https://github.com/pascalgoedeke/ha_tuya_ble) - Fingerbot Touch support for HA Tuya BLE
@@ -1363,6 +1368,7 @@
 
 ## privacy 
 
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
