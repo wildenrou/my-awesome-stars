@@ -709,6 +709,7 @@
 
 ## Shell 
 
+- [lmagyar/homeassistant-addon-tailscale](https://github.com/lmagyar/homeassistant-addon-tailscale) - Adds some functionality to the Tailscale Home Assistant Community Add-on https://github.com/hassio-addons/addon-tailscale
 - [feederbox826/stash-s6](https://github.com/feederbox826/stash-s6) - stashapp/stash docker rewrite
 - [koter84/HomeAssistant_Blueprints_Update](https://github.com/koter84/HomeAssistant_Blueprints_Update) - This is a script to automatically check for updates for your HA Blueprints
 - [SpaceinvaderOne/TailVault](https://github.com/SpaceinvaderOne/TailVault) - A simple Apline container to be used by tailscale ssh for a backup location on a remote server
@@ -769,6 +770,7 @@
 
 ## TypeScript 
 
+- [emaspa/unraidclaw](https://github.com/emaspa/unraidclaw) - Unraid plugin + OpenClaw AI agent tools for managing Unraid servers
 - [Talal-A/obsidian-paperless](https://github.com/Talal-A/obsidian-paperless) - 
 - [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) - Jellyfin Custom Integration for Home Assistant
 - [alex-jung/ha-departures-card](https://github.com/alex-jung/ha-departures-card) - Home Assistant Dashboard card to show departure time of public transports.
