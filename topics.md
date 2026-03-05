@@ -617,6 +617,7 @@
 
 ## home-assistant 
 
+- [lmagyar/homeassistant-addon-tailscale](https://github.com/lmagyar/homeassistant-addon-tailscale) - Adds some functionality to the Tailscale Home Assistant Community Add-on https://github.com/hassio-addons/addon-tailscale
 - [moerk-o/WhenHub](https://github.com/moerk-o/WhenHub) - Home Assistant integration for tracking dates of multi-day trips (e.g. vacations), one-time or recurring events (like birthdays), and special holidays like DST dates. Provides various sensors includin
 - [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) - Jellyfin Custom Integration for Home Assistant
 - [brewmarsh/family-bell](https://github.com/brewmarsh/family-bell) - A Home Assistant integration for scheduling recurring announcements on smart speakers, similar to Google's "Family Bell".
@@ -972,6 +973,7 @@
 
 ## others 
 
+- [emaspa/unraidclaw](https://github.com/emaspa/unraidclaw) - Unraid plugin + OpenClaw AI agent tools for managing Unraid servers
 - [Dregi56/digital_pendulum](https://github.com/Dregi56/digital_pendulum) - Speaking clock for Home Assistant and Alexa
 - [zopanix/bromont-ha-integration](https://github.com/zopanix/bromont-ha-integration) - A Home Assistant custom integration that provides real-time ski conditions from Bromont Mountain (Ski Bromont) in Quebec, Canada.
 - [illigtr/hydroqc](https://github.com/illigtr/hydroqc) - Home Assistant Tools for Hydro Quebec Rate D - Winter Credit Optoin
