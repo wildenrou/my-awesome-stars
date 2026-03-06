@@ -973,6 +973,7 @@
 
 ## others 
 
+- [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - 
 - [emaspa/unraidclaw](https://github.com/emaspa/unraidclaw) - Unraid plugin + OpenClaw AI agent tools for managing Unraid servers
 - [Dregi56/digital_pendulum](https://github.com/Dregi56/digital_pendulum) - Speaking clock for Home Assistant and Alexa
 - [zopanix/bromont-ha-integration](https://github.com/zopanix/bromont-ha-integration) - A Home Assistant custom integration that provides real-time ski conditions from Bromont Mountain (Ski Bromont) in Quebec, Canada.
@@ -1617,6 +1618,7 @@
 
 ## userscript 
 
+- [Tetrax-10/imdb-tmdb-letterboxd-linker](https://github.com/Tetrax-10/imdb-tmdb-letterboxd-linker) - Opens the corresponding IMDb, TMDB, or Letterboxd page for movies, TV shows and people.
 - [Druidblack/jellyfin_ratings](https://github.com/Druidblack/jellyfin_ratings) - Replaces jellyfish ratings with ratings from various sources (IMDb, Trakt, Imdb, Letterboxd, Tomato, Popcorn, Metacritic, RogerEbert, and MyAnimeList) obtained from mdblist.com
 
 ## video 
