@@ -273,6 +273,8 @@
 
 ## JavaScript 
 
+- [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - 
+- [Tetrax-10/imdb-tmdb-letterboxd-linker](https://github.com/Tetrax-10/imdb-tmdb-letterboxd-linker) - Opens the corresponding IMDb, TMDB, or Letterboxd page for movies, TV shows and people.
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Sonarr & Radarr Media Library Insights
 - [saihgupr/HomeAssistantVersionControl](https://github.com/saihgupr/HomeAssistantVersionControl) - Automatic backup, history tracking, and instant restore for your Home Assistant configuration.
 - [Rusketh/JellyMusic](https://github.com/Rusketh/JellyMusic) - A work in progress Alexa Skill for Jellyfin music
