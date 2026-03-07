@@ -454,6 +454,8 @@
 
 ## Python 
 
+- [malmeloo/hass-FindMy](https://github.com/malmeloo/hass-FindMy) - Custom Home Assistant integration for Apple's FindMy network.
+- [biemster/FindMy](https://github.com/biemster/FindMy) - Query Apple's Find My network
 - [Dregi56/digital_pendulum](https://github.com/Dregi56/digital_pendulum) - Speaking clock for Home Assistant and Alexa
 - [zopanix/bromont-ha-integration](https://github.com/zopanix/bromont-ha-integration) - A Home Assistant custom integration that provides real-time ski conditions from Bromont Mountain (Ski Bromont) in Quebec, Canada.
 - [moerk-o/WhenHub](https://github.com/moerk-o/WhenHub) - Home Assistant integration for tracking dates of multi-day trips (e.g. vacations), one-time or recurring events (like birthdays), and special holidays like DST dates. Provides various sensors includin
@@ -465,7 +467,6 @@
 - [ludodefgh/montreal-snow-removal](https://github.com/ludodefgh/montreal-snow-removal) - Home Assistant integration for Montreal snow removal tracking using Planif-Neige API
 - [iXanadu/ha-semantic-memory](https://github.com/iXanadu/ha-semantic-memory) - [DEPRECATED] Persistent semantic memory for Home Assistant voice assistants — superseded by engram
 - [fundor333/calibre-hardcover-sync](https://github.com/fundor333/calibre-hardcover-sync) - 
-- [malmeloo/hass-FindMy](https://github.com/malmeloo/hass-FindMy) - Custom Home Assistant integration for Apple's FindMy network.
 - [Jozwiaczek/iphone-alarms-sync](https://github.com/Jozwiaczek/iphone-alarms-sync) - iOS alarms synchronisation custom component for Home Assistant
 - [iluvdata/august_access_codes](https://github.com/iluvdata/august_access_codes) - August Access Codes:  August Lock Codes in Home Assistant
 - [raman325/lock_code_manager](https://github.com/raman325/lock_code_manager) - Lock code manager for locks integrated with Home Assistant
