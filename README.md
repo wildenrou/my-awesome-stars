@@ -392,7 +392,7 @@
 - [RatingPosterDB/Jellyfin.Plugin.RPDB](https://github.com/RatingPosterDB/Jellyfin.Plugin.RPDB) - Jellyfin Plugin for Rating Poster Database
 - [fejich/unraid-fclones](https://github.com/fejich/unraid-fclones) - This is a unRAID plugin for the fclones binary executable
 - [litinoveweedle/hassio-addons](https://github.com/litinoveweedle/hassio-addons) - 
-- [Luligu/matterbridge-home-assistant-addon](https://github.com/Luligu/matterbridge-home-assistant-addon) - Official Matterbridge Home Assistant Add-on
+- [Luligu/matterbridge-home-assistant-addon](https://github.com/Luligu/matterbridge-home-assistant-addon) - Matterbridge Home Assistant Application
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
 - [itimpi/MyMediaForAlexa](https://github.com/itimpi/MyMediaForAlexa) - XML template for installingMyMediaForAlexa on unRAID
 - [twonth/winning-at-windows](https://github.com/twonth/winning-at-windows) - tools for customizing the appearance and functionality of Windows
