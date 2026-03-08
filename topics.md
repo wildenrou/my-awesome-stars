@@ -1179,7 +1179,7 @@
 - [CallMeBruce/nightwalker](https://github.com/CallMeBruce/nightwalker) - A dark but not black qBittorrent WebUI
 - [isaacrlevin/presencelight](https://github.com/isaacrlevin/presencelight) - PresenceLight is a solution to broadcast your various statuses to light bulbs.
 - [t0bst4r/home-assistant-matter-hub](https://github.com/t0bst4r/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
-- [Luligu/matterbridge-home-assistant-addon](https://github.com/Luligu/matterbridge-home-assistant-addon) - Official Matterbridge Home Assistant Add-on
+- [Luligu/matterbridge-home-assistant-addon](https://github.com/Luligu/matterbridge-home-assistant-addon) - Matterbridge Home Assistant Application
 - [Luligu/matterbridge-hass](https://github.com/Luligu/matterbridge-hass) - Matterbridge Home Assistant plugin
 - [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
 - [KBlixt/subcleaner](https://github.com/KBlixt/subcleaner) - removes ads from subtitle files cleanly.
