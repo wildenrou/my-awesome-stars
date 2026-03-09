@@ -617,6 +617,7 @@
 
 ## home-assistant 
 
+- [rodpayne/home-assistant_person_location](https://github.com/rodpayne/home-assistant_person_location) - Combine the status of multiple device trackers; make presence detection not so binary; reverse geocode and make distance calculations.
 - [lmagyar/homeassistant-addon-tailscale](https://github.com/lmagyar/homeassistant-addon-tailscale) - Adds some functionality to the Tailscale Home Assistant Community Add-on https://github.com/hassio-addons/addon-tailscale
 - [moerk-o/WhenHub](https://github.com/moerk-o/WhenHub) - Home Assistant integration for tracking dates of multi-day trips (e.g. vacations), one-time or recurring events (like birthdays), and special holidays like DST dates. Provides various sensors includin
 - [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) - Jellyfin Custom Integration for Home Assistant
@@ -973,6 +974,7 @@
 
 ## others 
 
+- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A fork of FindMySync - A macOS utility (compatible with Sequoia and Tahoe) to decrypt the local Find My cache and post device locations to a Home Assistant endpoint.
 - [malmeloo/hass-FindMy](https://github.com/malmeloo/hass-FindMy) - Custom Home Assistant integration for Apple's FindMy network.
 - [biemster/FindMy](https://github.com/biemster/FindMy) - Query Apple's Find My network
 - [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - 
@@ -983,7 +985,7 @@
 - [Eugene-Musika/ha_tuya_ble](https://github.com/Eugene-Musika/ha_tuya_ble) - Home Assistant support for Tuya BLE devices
 - [wildenrou/STM-webscrap-for-HomeAssistant](https://github.com/wildenrou/STM-webscrap-for-HomeAssistant) - STM Metro Status is a Python project for residents of the Montreal region using Home Assistant. This script scrapes the STM website to get the real-time status of Montreal's metro lines and updates Ho
 - [pascalgoedeke/ha_tuya_ble](https://github.com/pascalgoedeke/ha_tuya_ble) - Fingerbot Touch support for HA Tuya BLE
-- [UwUDev/ygege](https://github.com/UwUDev/ygege) - High-performance indexer for YGG Torrent written in Rust
+- [UwUDev/ygege](https://github.com/UwUDev/ygege) - High-performance indexer for services using the U2P system written in Rust
 - [agittins/bermuda](https://github.com/agittins/bermuda) - Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
 - [thenextbutton/home_assistant](https://github.com/thenextbutton/home_assistant) - A collection of my home assistant blueprints
 - [DerekSeaman/irk-capture](https://github.com/DerekSeaman/irk-capture) - An ESPHome package to capture Apple and Android Bluetooth IRKs
