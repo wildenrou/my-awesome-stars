@@ -617,6 +617,7 @@
 
 ## home-assistant 
 
+- [owenvoke/hass-bazarr](https://github.com/owenvoke/hass-bazarr) - A Bazarr integration for Home Assistant
 - [rodpayne/home-assistant_person_location](https://github.com/rodpayne/home-assistant_person_location) - Combine the status of multiple device trackers; make presence detection not so binary; reverse geocode and make distance calculations.
 - [lmagyar/homeassistant-addon-tailscale](https://github.com/lmagyar/homeassistant-addon-tailscale) - Adds some functionality to the Tailscale Home Assistant Community Add-on https://github.com/hassio-addons/addon-tailscale
 - [moerk-o/WhenHub](https://github.com/moerk-o/WhenHub) - Home Assistant integration for tracking dates of multi-day trips (e.g. vacations), one-time or recurring events (like birthdays), and special holidays like DST dates. Provides various sensors includin
@@ -974,6 +975,11 @@
 
 ## others 
 
+- [atnplex/cloudflared-unraid](https://github.com/atnplex/cloudflared-unraid) - Native Unraid plugin for Cloudflare Tunnel (cloudflared).
+- [JosephMcGrath1999/HA_Prowlarr](https://github.com/JosephMcGrath1999/HA_Prowlarr) - Home assistant Prowlarr integration
+- [KBH-Reeper/GlassFin](https://github.com/KBH-Reeper/GlassFin) - Jellyfin Theme designed around transparency and to resemble glass
+- [Druidblack/Jellyfin.Plugin.ArtworkMultiSource](https://github.com/Druidblack/Jellyfin.Plugin.ArtworkMultiSource) - A plugin that receives images of posters and logos from themoviedb and tvdb sites and sorts them together.  The first images are in the language of the library, then in English.
+- [Druidblack/Jellyfin.Plugin.MDBList_Ratings](https://github.com/Druidblack/Jellyfin.Plugin.MDBList_Ratings) - Jellyfin plugin for getting ratings from a website mdblist.com for movies and TV series.
 - [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A fork of FindMySync - A macOS utility (compatible with Sequoia and Tahoe) to decrypt the local Find My cache and post device locations to a Home Assistant endpoint.
 - [malmeloo/hass-FindMy](https://github.com/malmeloo/hass-FindMy) - Custom Home Assistant integration for Apple's FindMy network.
 - [biemster/FindMy](https://github.com/biemster/FindMy) - Query Apple's Find My network
