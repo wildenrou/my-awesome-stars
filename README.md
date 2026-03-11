@@ -91,7 +91,7 @@
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) - A Jellyfin plugin to inject Javascript
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [bfordham/jellyfin-plugin-bookshelf](https://github.com/bfordham/jellyfin-plugin-bookshelf) - 
 - [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
 - [FoxxMD/slsk-batchdl](https://github.com/FoxxMD/slsk-batchdl) - A batch downloader for Soulseek
@@ -178,6 +178,7 @@
 
 ## CSS 
 
+- [masterwishx/folder.view.custom.css](https://github.com/masterwishx/folder.view.custom.css) - Customized CSS for the Folder.View plugin by scolcipitato.
 - [KBH-Reeper/GlassFin](https://github.com/KBH-Reeper/GlassFin) - Jellyfin Theme designed around transparency and to resemble glass
 - [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [dohnutt/unraid-gui-responsive](https://github.com/dohnutt/unraid-gui-responsive) - Style overrides for Unraid GUI for responsive design
@@ -279,7 +280,6 @@
 
 - [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - 
 - [Tetrax-10/imdb-tmdb-letterboxd-linker](https://github.com/Tetrax-10/imdb-tmdb-letterboxd-linker) - Opens the corresponding IMDb, TMDB, or Letterboxd page for movies, TV shows and people.
-- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Sonarr & Radarr Media Library Insights
 - [saihgupr/HomeAssistantVersionControl](https://github.com/saihgupr/HomeAssistantVersionControl) - Automatic backup, history tracking, and instant restore for your Home Assistant configuration.
 - [Rusketh/JellyMusic](https://github.com/Rusketh/JellyMusic) - A work in progress Alexa Skill for Jellyfin music
 - [ranaldsgift/KefinTweaks](https://github.com/ranaldsgift/KefinTweaks) - An essential collection of Jellyfin Tweaks that you always knew you needed
@@ -475,6 +475,7 @@
 - [iXanadu/ha-semantic-memory](https://github.com/iXanadu/ha-semantic-memory) - [DEPRECATED] Persistent semantic memory for Home Assistant voice assistants — superseded by engram
 - [fundor333/calibre-hardcover-sync](https://github.com/fundor333/calibre-hardcover-sync) - 
 - [Jozwiaczek/iphone-alarms-sync](https://github.com/Jozwiaczek/iphone-alarms-sync) - iOS alarms synchronisation custom component for Home Assistant
+- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Sonarr & Radarr Media Library Insights
 - [iluvdata/august_access_codes](https://github.com/iluvdata/august_access_codes) - August Access Codes:  August Lock Codes in Home Assistant
 - [raman325/lock_code_manager](https://github.com/raman325/lock_code_manager) - Lock code manager for locks integrated with Home Assistant
 - [codyc1515/ha-icalendar](https://github.com/codyc1515/ha-icalendar) - Generates an iCalendar (.ics) link that you can use to view your Home Assistant calendars in another app
@@ -719,6 +720,7 @@
 
 ## Shell 
 
+- [TRaSH-/userScripts-and-Configs](https://github.com/TRaSH-/userScripts-and-Configs) - Collection of (unRAID) userscripts
 - [lmagyar/homeassistant-addon-tailscale](https://github.com/lmagyar/homeassistant-addon-tailscale) - Adds some functionality to the Tailscale Home Assistant Community Add-on https://github.com/hassio-addons/addon-tailscale
 - [feederbox826/stash-s6](https://github.com/feederbox826/stash-s6) - stashapp/stash docker rewrite
 - [koter84/HomeAssistant_Blueprints_Update](https://github.com/koter84/HomeAssistant_Blueprints_Update) - This is a script to automatically check for updates for your HA Blueprints
