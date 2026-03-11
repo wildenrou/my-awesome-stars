@@ -330,7 +330,7 @@
 
 ## cli 
 
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [fiso64/slsk-batchdl](https://github.com/fiso64/slsk-batchdl) - Advanced download tool for Soulseek.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
@@ -916,7 +916,7 @@
 
 ## npm 
 
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 ## objective-c 
 
@@ -975,6 +975,8 @@
 
 ## others 
 
+- [masterwishx/folder.view.custom.css](https://github.com/masterwishx/folder.view.custom.css) - Customized CSS for the Folder.View plugin by scolcipitato.
+- [TRaSH-/userScripts-and-Configs](https://github.com/TRaSH-/userScripts-and-Configs) - Collection of (unRAID) userscripts
 - [atnplex/cloudflared-unraid](https://github.com/atnplex/cloudflared-unraid) - Native Unraid plugin for Cloudflare Tunnel (cloudflared).
 - [JosephMcGrath1999/HA_Prowlarr](https://github.com/JosephMcGrath1999/HA_Prowlarr) - Home assistant Prowlarr integration
 - [KBH-Reeper/GlassFin](https://github.com/KBH-Reeper/GlassFin) - Jellyfin Theme designed around transparency and to resemble glass
@@ -1362,7 +1364,7 @@
 
 ## package-manager 
 
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 ## php 
 
@@ -1674,7 +1676,7 @@
 
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [Benisgo/Symbolic11](https://github.com/Benisgo/Symbolic11) - Symbolic11 is a user-friendly GUI tool for creating symbolic, hard, and junction links on Windows 10 and 11. The tool features a modern design inspired by Windows 11 and streamlines the link creation 
