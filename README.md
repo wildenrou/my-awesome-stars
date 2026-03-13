@@ -520,7 +520,7 @@
 - [jacepark12/ticktick-mcp](https://github.com/jacepark12/ticktick-mcp) - MCP server that interacts with TickTick (Dida 365) via the TickTick Open API
 - [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
-- [kennethsible/mkvpriority](https://github.com/kennethsible/mkvpriority) - Automatically Prioritize Audio/Subtitle Tracks in MKV Files
+- [kennethsible/mkvpriority](https://github.com/kennethsible/mkvpriority) - Assigns priority scores to audio and subtitle tracks in MKV files
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [gchehab/Apple_iBooks](https://github.com/gchehab/Apple_iBooks) - Calibre plugin to copy ebooks to Apple iBooks/Books mac os application
