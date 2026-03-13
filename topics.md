@@ -1110,7 +1110,7 @@
 - [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) - Docker container for HandBrake
 - [audiamus/BookLibConnect](https://github.com/audiamus/BookLibConnect) - A standalone Audible downloader and decrypter
 - [audiamus/AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) - Convert Audible aax files to mp3 and m4a/m4b
-- [kennethsible/mkvpriority](https://github.com/kennethsible/mkvpriority) - Automatically Prioritize Audio/Subtitle Tracks in MKV Files
+- [kennethsible/mkvpriority](https://github.com/kennethsible/mkvpriority) - Assigns priority scores to audio and subtitle tracks in MKV files
 - [SpaceinvaderOne/unraid_vm_icons](https://github.com/SpaceinvaderOne/unraid_vm_icons) - To download and install custom vm icons onto an Unraid server
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [gchehab/Apple_iBooks](https://github.com/gchehab/Apple_iBooks) - Calibre plugin to copy ebooks to Apple iBooks/Books mac os application
