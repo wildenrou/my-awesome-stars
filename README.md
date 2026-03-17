@@ -75,6 +75,7 @@
 
 ## C# # 
 
+- [Noir1992/jellyfin-trickplay-folder-cleaner](https://github.com/Noir1992/jellyfin-trickplay-folder-cleaner) - This is a Jellyfin plugin that deletes .trickplay folders that no longer have a corresponding media file.
 - [Druidblack/Jellyfin.Plugin.ArtworkMultiSource](https://github.com/Druidblack/Jellyfin.Plugin.ArtworkMultiSource) - A plugin that receives images of posters and logos from themoviedb and tvdb sites and sorts them together.  The first images are in the language of the library, then in English.
 - [Druidblack/Jellyfin.Plugin.MDBList_Ratings](https://github.com/Druidblack/Jellyfin.Plugin.MDBList_Ratings) - Jellyfin plugin for getting ratings from a website mdblist.com for movies and TV series.
 - [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
@@ -207,6 +208,7 @@
 
 ## Dockerfile 
 
+- [MrSuicideParrot/hassio-speedtest-addon](https://github.com/MrSuicideParrot/hassio-speedtest-addon) - SpeedTest Home Assistant addon
 - [Obamium69/hassio-beszel_agent](https://github.com/Obamium69/hassio-beszel_agent) - 
 - [hassio-addons/addon-mqtt-io](https://github.com/hassio-addons/addon-mqtt-io) - MQTT IO - Home Assistant Community Add-ons
 - [linuxserver/docker-spotube](https://github.com/linuxserver/docker-spotube) - Web accessible Spotube inside a Debian Container
@@ -222,6 +224,7 @@
 
 ## Go 
 
+- [desertwitch/sesmon](https://github.com/desertwitch/sesmon) - sesmon is a monitoring and alerting daemon for SES-capable SCSI enclosures.
 - [kenyonj/airbridge](https://github.com/kenyonj/airbridge) - Anything → Everywhere: Bridge DLNA audio streams to AirPlay & Chromecast
 - [lalomorales22/snapchat-bridge](https://github.com/lalomorales22/snapchat-bridge) - A Matrix-Snapchat bridge that enables bidirectional messaging between Matrix and Snapchat
 - [ruaan-deysel/unraid-management-agent](https://github.com/ruaan-deysel/unraid-management-agent) - Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agen
@@ -270,7 +273,6 @@
 
 ## Java 
 
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [snapcast/snapdroid](https://github.com/snapcast/snapdroid) - Snapcast client for Android
 - [anthonyraymond/joal](https://github.com/anthonyraymond/joal) - An open source command line RatioMaster with an optional WebUI.
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
@@ -458,6 +460,7 @@
 
 ## Python 
 
+- [nikf86/homekit-tv-remote](https://github.com/nikf86/homekit-tv-remote) - HAP-native remote control for HomeKit TVs in Home Assistant with Custom Input & App Switching and functional iOS / iPadOS Remote widget with input change
 - [owenvoke/hass-bazarr](https://github.com/owenvoke/hass-bazarr) - A Bazarr integration for Home Assistant
 - [JosephMcGrath1999/HA_Prowlarr](https://github.com/JosephMcGrath1999/HA_Prowlarr) - Home assistant Prowlarr integration
 - [rodpayne/home-assistant_person_location](https://github.com/rodpayne/home-assistant_person_location) - Combine the status of multiple device trackers; make presence detection not so binary; reverse geocode and make distance calculations.
@@ -873,7 +876,7 @@
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome with Google Drive support.
 - [epfromer/pst-extractor](https://github.com/epfromer/pst-extractor) - Extract objects from MS Outlook/Exchange PST files
-- [lucasvtiradentes/gcal-sync](https://github.com/lucasvtiradentes/gcal-sync) - 🔄  sync github commits to google calendar and track your coding activity
+- [lucasvtiradentes/gcal-sync](https://github.com/lucasvtiradentes/gcal-sync) - 🔄  sync your github commits to google calendar
 
 ## Vue 
 
