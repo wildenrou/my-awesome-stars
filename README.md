@@ -704,6 +704,7 @@
 
 ## Rust 
 
+- [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 - [UwUDev/ygege](https://github.com/UwUDev/ygege) - High-performance indexer for services using the U2P system written in Rust
 - [regulatedsyntax/qbfrt](https://github.com/regulatedsyntax/qbfrt) - qBittorrent fastresume tools
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
@@ -854,7 +855,7 @@
 - [PascalLuginbuehl/home-assistant-tray-menu](https://github.com/PascalLuginbuehl/home-assistant-tray-menu) - An app to interact with Home Assistant in the Windows System Tray
 - [Nerivec/z2m-ember-helper](https://github.com/Nerivec/z2m-ember-helper) - Get a better understanding of your Zigbee network using Zigbee2MQTT with Ember driver (for EmberZNet-based adapter).
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps that share a single folder of plain text and SQLite.
+- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps.
 - [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
