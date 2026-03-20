@@ -705,7 +705,6 @@
 ## Rust 
 
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
-- [UwUDev/ygege](https://github.com/UwUDev/ygege) - High-performance indexer for services using the U2P system written in Rust
 - [regulatedsyntax/qbfrt](https://github.com/regulatedsyntax/qbfrt) - qBittorrent fastresume tools
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
