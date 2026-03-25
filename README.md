@@ -116,7 +116,7 @@
 - [SenorSmartyPants/jellyfin-plugin-refreshsparse](https://github.com/SenorSmartyPants/jellyfin-plugin-refreshsparse) - Refresh Sparse items Plugin for Jellyfin
 - [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
 - [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - HA Add-on / Docker container that solves indoor positions with mqtt data received from multiple ESPresense nodes
-- [fiso64/slsk-batchdl](https://github.com/fiso64/slsk-batchdl) - Advanced download tool for Soulseek.
+- [fiso64/sldl](https://github.com/fiso64/sldl) - Advanced download tool for Soulseek.
 - [Benisgo/Symbolic11](https://github.com/Benisgo/Symbolic11) - Symbolic11 is a user-friendly GUI tool for creating symbolic, hard, and junction links on Windows 10 and 11. The tool features a modern design inspired by Windows 11 and streamlines the link creation 
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
@@ -506,7 +506,7 @@
 - [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible) - A custom component to enable using S3 compatible endpoints for home assistant backups
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [TheLinuxGuy/free-unraid](https://github.com/TheLinuxGuy/free-unraid) - Achieving a free (opensource) alternative to unraid for media server (homelab) use.
-- [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - A powerful custom Home Assistant integration that provides comprehensive device management capabilities, allowing users to modify device attributes, reorganize entities, create virtual devices, and me
+- [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one.
 - [jeroenterheerdt/grillbuddy](https://github.com/jeroenterheerdt/grillbuddy) - Grill Buddy for Home Assistant
 - [maxexcloo/beszel-homeassistant-integration](https://github.com/maxexcloo/beszel-homeassistant-integration) - Beszel Integration for Home Assistant
 - [sbenodiz/ai_agent_ha](https://github.com/sbenodiz/ai_agent_ha) - A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant insta
