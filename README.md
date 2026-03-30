@@ -874,7 +874,7 @@
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
-- [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome with Google Drive support.
+- [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.
 - [epfromer/pst-extractor](https://github.com/epfromer/pst-extractor) - Extract objects from MS Outlook/Exchange PST files
 - [lucasvtiradentes/gcal-sync](https://github.com/lucasvtiradentes/gcal-sync) - 🔄  sync your github commits to google calendar
 
