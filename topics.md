@@ -308,7 +308,7 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
-- [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome with Google Drive support.
+- [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.
 - [corbindavenport/wikipedia-search](https://github.com/corbindavenport/wikipedia-search) - Search Wikipedia from the browser search bar and context menu
 
 ## chrome-extension 
@@ -323,7 +323,7 @@
 - [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, H
 - [chrschorn/one-click-ticktick](https://github.com/chrschorn/one-click-ticktick) - Chrome extension for instantly creating new TickTick tasks in just one click
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
-- [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome with Google Drive support.
+- [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.
 - [corbindavenport/wikipedia-search](https://github.com/corbindavenport/wikipedia-search) - Search Wikipedia from the browser search bar and context menu
 
 ## cli 
@@ -1402,6 +1402,7 @@
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
+- [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.
 
 ## pwa 
 
@@ -1613,7 +1614,7 @@
 - [jbrodriguez/unbalance](https://github.com/jbrodriguez/unbalance) - Go/React/Tailwind app to move folders/files between Unraid disks
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [LBF38/obsidian-syncthing-integration](https://github.com/LBF38/obsidian-syncthing-integration) - Obsidian plugin for Syncthing integration
-- [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome with Google Drive support.
+- [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.
 - [lucasvtiradentes/gcal-sync](https://github.com/lucasvtiradentes/gcal-sync) - 🔄  sync your github commits to google calendar
 
 ## ubuntu 
