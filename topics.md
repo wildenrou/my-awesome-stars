@@ -975,6 +975,7 @@
 
 ## others 
 
+- [ruaan-deysel/vault](https://github.com/ruaan-deysel/vault) - Unraid Backup Management Software
 - [nikf86/homekit-tv-remote](https://github.com/nikf86/homekit-tv-remote) - HAP-native remote control for HomeKit TVs in Home Assistant with Custom Input & App Switching and functional iOS / iPadOS Remote widget with input change
 - [Noir1992/jellyfin-trickplay-folder-cleaner](https://github.com/Noir1992/jellyfin-trickplay-folder-cleaner) - This is a Jellyfin plugin that deletes .trickplay folders that no longer have a corresponding media file.
 - [desertwitch/sesmon](https://github.com/desertwitch/sesmon) - sesmon is a monitoring and alerting daemon for SES-capable SCSI enclosures.
