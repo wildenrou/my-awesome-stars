@@ -975,6 +975,9 @@
 
 ## others 
 
+- [MiranoVerhoef/BeszelAgentManager](https://github.com/MiranoVerhoef/BeszelAgentManager) - BeszelAgentManager is a Windows GUI helper that installs and manages the Beszel agent.
+- [FizzyMUC/jellyfin-oscars-plugin](https://github.com/FizzyMUC/jellyfin-oscars-plugin) - A Jellyfin plugin that automatically tags movies that were nominated for or won an Oscar.
+- [finder39/dockge](https://github.com/finder39/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [ruaan-deysel/vault](https://github.com/ruaan-deysel/vault) - Unraid Backup Management Software
 - [nikf86/homekit-tv-remote](https://github.com/nikf86/homekit-tv-remote) - HAP-native remote control for HomeKit TVs in Home Assistant with Custom Input & App Switching and functional iOS / iPadOS Remote widget with input change
 - [Noir1992/jellyfin-trickplay-folder-cleaner](https://github.com/Noir1992/jellyfin-trickplay-folder-cleaner) - This is a Jellyfin plugin that deletes .trickplay folders that no longer have a corresponding media file.
