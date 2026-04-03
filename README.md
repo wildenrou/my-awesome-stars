@@ -75,6 +75,7 @@
 
 ## C# # 
 
+- [SirFfej/Jellyfin.Plugin.Audiobookshelf](https://github.com/SirFfej/Jellyfin.Plugin.Audiobookshelf) - 
 - [n00bcodr/JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - A Jellyfin Plugin to force a few settings without modification of any web files.
 - [Jellyfin-PG/JellyFrame](https://github.com/Jellyfin-PG/JellyFrame) - 
 - [FizzyMUC/jellyfin-oscars-plugin](https://github.com/FizzyMUC/jellyfin-oscars-plugin) - A Jellyfin plugin that automatically tags movies that were nominated for or won an Oscar.
@@ -467,6 +468,8 @@
 
 ## Python 
 
+- [JordanBourgault/quebec-garbage-collection](https://github.com/JordanBourgault/quebec-garbage-collection) - Reverse engineer the quebec garbage collection website to extract the next dates for eventual integration with Home Assistant
+- [mtheli/philips_sonicare_ble](https://github.com/mtheli/philips_sonicare_ble) - Philips Sonicare BLE integration for Home Assistant — real-time brushing data via Bluetooth or ESP32 bridge
 - [MiranoVerhoef/BeszelAgentManager](https://github.com/MiranoVerhoef/BeszelAgentManager) - BeszelAgentManager is a Windows GUI helper that installs and manages the Beszel agent.
 - [nikf86/homekit-tv-remote](https://github.com/nikf86/homekit-tv-remote) - HAP-native remote control for HomeKit TVs in Home Assistant with Custom Input & App Switching and functional iOS / iPadOS Remote widget with input change
 - [owenvoke/hass-bazarr](https://github.com/owenvoke/hass-bazarr) - A Bazarr integration for Home Assistant
