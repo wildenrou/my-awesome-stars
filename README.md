@@ -17,6 +17,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Handlebars](#handlebars)
@@ -226,6 +227,10 @@
 
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
 
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
 ## Go 
 
 - [ruaan-deysel/vault](https://github.com/ruaan-deysel/vault) - Unraid Backup Management Software
@@ -268,6 +273,7 @@
 
 ## HTML 
 
+- [kroeberd/mediastarr](https://github.com/kroeberd/mediastarr) - Automated media search for Sonarr & Radarr — finds missing content and quality upgrades on a configurable schedule. Web dashboard, first-run wizard, SQLite history, multi-instance support, Discord not
 - [BobHasNoSoul/jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods) - This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision
 - [Jellyfin-PG/Mod-Manager](https://github.com/Jellyfin-PG/Mod-Manager) - A mod manager, both css and js mods for jellyfin 10.11+
 - [loteran/hardlink-manager](https://github.com/loteran/hardlink-manager) - hardlink-manager
@@ -468,6 +474,7 @@
 
 ## Python 
 
+- [mattiagosetto9/ha-voice-assistant-manager](https://github.com/mattiagosetto9/ha-voice-assistant-manager) - Home Assistant custom integration to manage Google Assistant, Alexa, and HomeKit entity exposure
 - [JordanBourgault/quebec-garbage-collection](https://github.com/JordanBourgault/quebec-garbage-collection) - Reverse engineer the quebec garbage collection website to extract the next dates for eventual integration with Home Assistant
 - [mtheli/philips_sonicare_ble](https://github.com/mtheli/philips_sonicare_ble) - Philips Sonicare BLE integration for Home Assistant — real-time brushing data via Bluetooth or ESP32 bridge
 - [MiranoVerhoef/BeszelAgentManager](https://github.com/MiranoVerhoef/BeszelAgentManager) - BeszelAgentManager is a Windows GUI helper that installs and manages the Beszel agent.
@@ -721,7 +728,6 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [jdthomas/mysa_rs](https://github.com/jdthomas/mysa_rs) - Simple service to poll mysa for temperature and humidity and push to mqtt
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
@@ -781,6 +787,7 @@
 
 ## Swift 
 
+- [bytePatrol/FollowMyFriends](https://github.com/bytePatrol/FollowMyFriends) - Bridge Apple Find My friend locations to Home Assistant via MQTT — native macOS app, no cloud required
 - [cleverdevil/iCloudBridge](https://github.com/cleverdevil/iCloudBridge) - A macOS menu bar application that exposes selected parts of your iCloud data via a REST API.
 - [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A fork of FindMySync - A macOS utility (compatible with Sequoia and Tahoe) to decrypt the local Find My cache and post device locations to a Home Assistant endpoint.
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
