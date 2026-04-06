@@ -496,7 +496,7 @@
 - [iXanadu/ha-semantic-memory](https://github.com/iXanadu/ha-semantic-memory) - [DEPRECATED] Persistent semantic memory for Home Assistant voice assistants — superseded by engram
 - [fundor333/calibre-hardcover-sync](https://github.com/fundor333/calibre-hardcover-sync) - 
 - [Jozwiaczek/iphone-alarms-sync](https://github.com/Jozwiaczek/iphone-alarms-sync) - iOS alarms synchronisation custom component for Home Assistant
-- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Sonarr & Radarr Media Library Insights
+- [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [iluvdata/august_access_codes](https://github.com/iluvdata/august_access_codes) - August Access Codes:  August Lock Codes in Home Assistant
 - [raman325/lock_code_manager](https://github.com/raman325/lock_code_manager) - Lock code manager for locks integrated with Home Assistant
 - [codyc1515/ha-icalendar](https://github.com/codyc1515/ha-icalendar) - Generates an iCalendar (.ics) link that you can use to view your Home Assistant calendars in another app
