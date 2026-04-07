@@ -701,7 +701,6 @@
 - [craibo/ha_strava](https://github.com/craibo/ha_strava) - Strava Activities and Summary data integration for Home Assistant
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [PiotrMachowski/Home-Assistant-Taskbar-Menu](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - This application is a simple Home Assistant client for Windows. It can display Lovelace views, control entities and show persistent notifications.
-- [nwithan8/hassio-addons](https://github.com/nwithan8/hassio-addons) - Repository of maintained Home Assistant Add-Ons
 - [myhomeiot/esphome-components](https://github.com/myhomeiot/esphome-components) - A collection of my ESPHome components
 - [Deejayfool/hass-shutter-card](https://github.com/Deejayfool/hass-shutter-card) - Shutter card for Home Assistant Lovelace UI
 - [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Home Assistant Google Home custom component
@@ -1009,7 +1008,6 @@
 - [masterwishx/folder.view.custom.css](https://github.com/masterwishx/folder.view.custom.css) - Customized CSS for the Folder.View plugin by scolcipitato.
 - [TRaSH-/userScripts-and-Configs](https://github.com/TRaSH-/userScripts-and-Configs) - Collection of (unRAID) userscripts
 - [atnplex/cloudflared-unraid](https://github.com/atnplex/cloudflared-unraid) - Native Unraid plugin for Cloudflare Tunnel (cloudflared).
-- [JosephMcGrath1999/HA_Prowlarr](https://github.com/JosephMcGrath1999/HA_Prowlarr) - Home assistant Prowlarr integration
 - [KBH-Reeper/GlassFin](https://github.com/KBH-Reeper/GlassFin) - Jellyfin Theme designed around transparency and to resemble glass
 - [Druidblack/Jellyfin.Plugin.ArtworkMultiSource](https://github.com/Druidblack/Jellyfin.Plugin.ArtworkMultiSource) - A plugin that receives images of posters and logos from themoviedb and tvdb sites and sorts them together.  The first images are in the language of the library, then in English.
 - [Druidblack/Jellyfin.Plugin.MDBList_Ratings](https://github.com/Druidblack/Jellyfin.Plugin.MDBList_Ratings) - Jellyfin plugin for getting ratings from a website mdblist.com for movies and TV series.
