@@ -220,7 +220,6 @@
 - [jehy/hass-addons](https://github.com/jehy/hass-addons) - This is a repository for my own home assistant addons
 - [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
-- [nwithan8/hassio-addons](https://github.com/nwithan8/hassio-addons) - Repository of maintained Home Assistant Add-Ons
 - [pierlon/scrcpy-docker](https://github.com/pierlon/scrcpy-docker) - Easily run scrcpy with Docker
 
 ## Elixir 
@@ -480,7 +479,6 @@
 - [MiranoVerhoef/BeszelAgentManager](https://github.com/MiranoVerhoef/BeszelAgentManager) - BeszelAgentManager is a Windows GUI helper that installs and manages the Beszel agent.
 - [nikf86/homekit-tv-remote](https://github.com/nikf86/homekit-tv-remote) - HAP-native remote control for HomeKit TVs in Home Assistant with Custom Input & App Switching and functional iOS / iPadOS Remote widget with input change
 - [owenvoke/hass-bazarr](https://github.com/owenvoke/hass-bazarr) - A Bazarr integration for Home Assistant
-- [JosephMcGrath1999/HA_Prowlarr](https://github.com/JosephMcGrath1999/HA_Prowlarr) - Home assistant Prowlarr integration
 - [rodpayne/home-assistant_person_location](https://github.com/rodpayne/home-assistant_person_location) - Combine the status of multiple device trackers; make presence detection not so binary; reverse geocode and make distance calculations.
 - [malmeloo/hass-FindMy](https://github.com/malmeloo/hass-FindMy) - Custom Home Assistant integration for Apple's FindMy network.
 - [biemster/FindMy](https://github.com/biemster/FindMy) - Query Apple's Find My network
