@@ -98,7 +98,7 @@
 - [Light1Knight/jellyzam-plugin](https://github.com/Light1Knight/jellyzam-plugin) - Jellyfin plugin for music identification using Shazam API with automatic file organization
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) - A Jellyfin plugin to inject Javascript
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
-- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin
+- [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [bfordham/jellyfin-plugin-bookshelf](https://github.com/bfordham/jellyfin-plugin-bookshelf) - 
 - [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
@@ -274,6 +274,7 @@
 
 ## HTML 
 
+- [PowerFPV/JellyfinReTrack](https://github.com/PowerFPV/JellyfinReTrack) - Automatically change default file audio tracks to match the original language of the media
 - [kroeberd/mediastarr](https://github.com/kroeberd/mediastarr) - Automated media search for Sonarr & Radarr — finds missing content and quality upgrades on a configurable schedule. Web dashboard, first-run wizard, SQLite history, multi-instance support, Discord not
 - [BobHasNoSoul/jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods) - This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision
 - [Jellyfin-PG/Mod-Manager](https://github.com/Jellyfin-PG/Mod-Manager) - A mod manager, both css and js mods for jellyfin 10.11+
@@ -475,6 +476,7 @@
 
 ## Python 
 
+- [nielash/cloneassistant](https://github.com/nielash/cloneassistant) - Control and monitor your recurring Rclone jobs from Home Assistant dashboards.
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
 - [ZOTX0/Get-Me-A-Theme](https://github.com/ZOTX0/Get-Me-A-Theme) - Automated theme song downloader for Jellyfin, Plex, and Emby. Features a smart name-cleaning engine, auto-updating core, and a modern GUI. Download OSTs for your entire library with one click!
 - [SpaceinvaderOne/a-eye](https://github.com/SpaceinvaderOne/a-eye) - Self-hosted AI photo intelligence tool. Uses local vision models via Ollama to describe, tag, rename, and search your photos. No cloud needed.
@@ -809,6 +811,7 @@
 
 ## TypeScript 
 
+- [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform GUI for rclone & S3.
 - [finder39/dockge](https://github.com/finder39/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [emaspa/unraidclaw](https://github.com/emaspa/unraidclaw) - Unraid plugin + OpenClaw AI agent tools for managing Unraid servers
 - [Talal-A/obsidian-paperless](https://github.com/Talal-A/obsidian-paperless) - 
