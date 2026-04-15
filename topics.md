@@ -1362,7 +1362,7 @@
 - [GadgetReactor/pyHS100](https://github.com/GadgetReactor/pyHS100) - Python Library to control TPLink Switch (HS100 / HS110)
 - [plasticrake/tplink-smarthome-api](https://github.com/plasticrake/tplink-smarthome-api) - TP-Link Smarthome WiFi API
 - [JurajNyiri/pytapo](https://github.com/JurajNyiri/pytapo) - Python library for communication with Tapo Cameras
-- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [dolezsa/thermal_comfort](https://github.com/dolezsa/thermal_comfort) - Thermal Comfort sensor for HA (absolute humidity, heat index, dew point, thermal perception)
 - [EINDEX/logseq-copilot](https://github.com/EINDEX/logseq-copilot) - Logseq Copilot is a Browser extension that allows you to access your Logseq via your browser.
 - [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt
