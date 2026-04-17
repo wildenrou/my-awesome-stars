@@ -627,6 +627,7 @@
 
 ## home-assistant 
 
+- [kdana/ha-obsidian](https://github.com/kdana/ha-obsidian) - View and track your Obsidian notes and tasks directly from your Home Assistant interface
 - [nielash/cloneassistant](https://github.com/nielash/cloneassistant) - Control and monitor your recurring Rclone jobs from Home Assistant dashboards.
 - [mattiagosetto9/ha-voice-assistant-manager](https://github.com/mattiagosetto9/ha-voice-assistant-manager) - Home Assistant custom integration to manage Google Assistant, Alexa, and HomeKit entity exposure
 - [bytePatrol/FollowMyFriends](https://github.com/bytePatrol/FollowMyFriends) - Bridge Apple Find My friend locations to Home Assistant via MQTT — native macOS app, no cloud required
@@ -942,6 +943,7 @@
 
 ## obsidian 
 
+- [kdana/ha-obsidian](https://github.com/kdana/ha-obsidian) - View and track your Obsidian notes and tasks directly from your Home Assistant interface
 - [Talal-A/obsidian-paperless](https://github.com/Talal-A/obsidian-paperless) - 
 - [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [Abdo-reda/obsidian-sticky-notes-plugin](https://github.com/Abdo-reda/obsidian-sticky-notes-plugin) - Obsidian Sticky Notes Plugin
