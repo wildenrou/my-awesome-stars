@@ -436,6 +436,7 @@
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [nicolodiamante/dispatch](https://github.com/nicolodiamante/dispatch) - Revamp your morning routine and supercharge productivity with Dispatch. The ultimate Apple Shortcut powered by ChatGPT and ElevenLabs.
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
+- [flixlix/power-flow-card-plus](https://github.com/flixlix/power-flow-card-plus) - A power distribution card inspired by the official Energy Distribution card for Home Assistant
 - [L1ghtmann/libimobiledevice](https://github.com/L1ghtmann/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [poochie89/SnipDo-Extensions](https://github.com/poochie89/SnipDo-Extensions) - SnipDo extensions and advanced guide
 - [MLBAMGames/NHLGames](https://github.com/MLBAMGames/NHLGames) - Watch NHL.tv, official NHL games streams in HD at 60fps, for free with the NHLGames application on Windows.
@@ -476,6 +477,7 @@
 
 ## Python 
 
+- [kdana/ha-obsidian](https://github.com/kdana/ha-obsidian) - View and track your Obsidian notes and tasks directly from your Home Assistant interface
 - [nielash/cloneassistant](https://github.com/nielash/cloneassistant) - Control and monitor your recurring Rclone jobs from Home Assistant dashboards.
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
 - [ZOTX0/Get-Me-A-Theme](https://github.com/ZOTX0/Get-Me-A-Theme) - Automated theme song downloader for Jellyfin, Plex, and Emby. Features a smart name-cleaning engine, auto-updating core, and a modern GUI. Download OSTs for your entire library with one click!
@@ -896,7 +898,6 @@
 - [mxschll/logseq-ticktick-plugin](https://github.com/mxschll/logseq-ticktick-plugin) - Logseq TickTick Plugin
 - [Olen/lovelace-flower-card](https://github.com/Olen/lovelace-flower-card) - Lovelace Flower Card to match the custom plant integration
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
-- [flixlix/power-flow-card-plus](https://github.com/flixlix/power-flow-card-plus) - A power distribution card inspired by the official Energy Distribution card for Home Assistant
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
