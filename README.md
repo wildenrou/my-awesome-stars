@@ -295,6 +295,8 @@
 
 ## JavaScript 
 
+- [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
+- [axFury/AxFlix-Studio-Bar](https://github.com/axFury/AxFlix-Studio-Bar) - This plugin enhances your Jellyfin interface by adding a beautifully animated row of studios and franchises directly on your Jellyfin home page.
 - [Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid](https://github.com/Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid) - Display IMDb episode ratings in a heatmap-style grid on Jellyfin series pages using the Jellyfin JavaScript Injector. Drop-down menu to avoid spoilers. Linked to the library or IMDb page.
 - [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - 
 - [Tetrax-10/imdb-tmdb-letterboxd-linker](https://github.com/Tetrax-10/imdb-tmdb-letterboxd-linker) - Opens the corresponding IMDb, TMDB, or Letterboxd page for movies, TV shows and people.
@@ -477,6 +479,7 @@
 
 ## Python 
 
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [kdana/ha-obsidian](https://github.com/kdana/ha-obsidian) - View and track your Obsidian notes and tasks directly from your Home Assistant interface
 - [nielash/cloneassistant](https://github.com/nielash/cloneassistant) - Control and monitor your recurring Rclone jobs from Home Assistant dashboards.
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
@@ -749,7 +752,7 @@
 
 - [painteau/unflared](https://github.com/painteau/unflared) - Cloudflare Tunnel native service plugin for Unraid
 - [TRaSH-/userScripts-and-Configs](https://github.com/TRaSH-/userScripts-and-Configs) - Collection of (unRAID) userscripts
-- [lmagyar/homeassistant-addon-tailscale](https://github.com/lmagyar/homeassistant-addon-tailscale) - Adds some functionality to the Tailscale Home Assistant Community Add-on https://github.com/hassio-addons/addon-tailscale
+- [lmagyar/homeassistant-addon-tailscale](https://github.com/lmagyar/homeassistant-addon-tailscale) - Adds some functionality to the Tailscale Home Assistant Community Add-on https://github.com/hassio-addons/app-tailscale
 - [feederbox826/stash-s6](https://github.com/feederbox826/stash-s6) - stashapp/stash docker rewrite
 - [koter84/HomeAssistant_Blueprints_Update](https://github.com/koter84/HomeAssistant_Blueprints_Update) - This is a script to automatically check for updates for your HA Blueprints
 - [SpaceinvaderOne/TailVault](https://github.com/SpaceinvaderOne/TailVault) - A simple Apline container to be used by tailscale ssh for a backup location on a remote server
@@ -813,6 +816,8 @@
 
 ## TypeScript 
 
+- [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
+- [timo95/stash-checker](https://github.com/timo95/stash-checker) - Userscript to check if a Scene/Performer is present in Stash
 - [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform GUI for rclone & S3.
 - [finder39/dockge](https://github.com/finder39/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [emaspa/unraidclaw](https://github.com/emaspa/unraidclaw) - Unraid plugin + OpenClaw AI agent tools for managing Unraid servers
