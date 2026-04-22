@@ -77,6 +77,10 @@
 
 ## C# # 
 
+- [jshafer813/Auto-Tagger](https://github.com/jshafer813/Auto-Tagger) - Auto Tagger for Jellyfin — Automatically applies genre, decade, rating, language, and resolution tags to your media library. Works hand-in-hand with Seasonal Visibility.
+- [alexisometric/jellyshim](https://github.com/alexisometric/jellyshim) - ⚡ JellyShim — Performance optimization plugin for Jellyfin. Smaller assets, compressed images, smarter caching, zero external dependency.
+- [Jellyfin-PG/JellyEmu](https://github.com/Jellyfin-PG/JellyEmu) - Adds support for rom library with emulator js to jellyfin.
+- [b-sullender/Jellyfin.Plugin.TUIMDB](https://github.com/b-sullender/Jellyfin.Plugin.TUIMDB) - The official Jellyfin plugin for TUIMDB metadata.
 - [IAmParadox27/jellyfin-plugin-pages](https://github.com/IAmParadox27/jellyfin-plugin-pages) - Allows plugins to add pages to the main UI
 - [SirFfej/Jellyfin.Plugin.Audiobookshelf](https://github.com/SirFfej/Jellyfin.Plugin.Audiobookshelf) - 
 - [n00bcodr/JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - A Jellyfin Plugin to force a few settings without modification of any web files.
@@ -402,6 +406,7 @@
 
 ## Others 
 
+- [damientkyt/jellyfin-tag-sync](https://github.com/damientkyt/jellyfin-tag-sync) - Retrieve TMDB and AniDB tags and write them to .nfo
 - [atnplex/cloudflared-unraid](https://github.com/atnplex/cloudflared-unraid) - Native Unraid plugin for Cloudflare Tunnel (cloudflared).
 - [illigtr/hydroqc](https://github.com/illigtr/hydroqc) - Home Assistant Tools for Hydro Quebec Rate D - Winter Credit Optoin
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
@@ -478,6 +483,7 @@
 
 ## Python 
 
+- [elfhosted/newtarr](https://github.com/elfhosted/newtarr) - A sane fork of Huntarr v6.6.3 from simpler times
 - [aayusharyan/contactly](https://github.com/aayusharyan/contactly) - Syncs Google and iCloud contacts with PBX database for caller ID name lookup.
 - [SmolinskiP/GLaSSIST](https://github.com/SmolinskiP/GLaSSIST) - Desktop voice-assistant application for Home Assistant with visual animations and VAD (Voice Activity Detection).
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
