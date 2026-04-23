@@ -156,7 +156,7 @@
 ## ai 
 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [LunalFresh/MetaMender](https://github.com/LunalFresh/MetaMender) - MetaMender is a lightweight, AI-powered metadata enhancer for Jellyfin.   It enriches your media library by rewriting short or missing overviews for music items using OpenAI — no servers, no Docker, n
+- [LunalFresh/MetaMender](https://github.com/LunalFresh/MetaMender) - MetaMender is a lightweight, AI-powered metadata enhancer for Jellyfin.   It enriches your media library by rewriting short or missing overviews for music items using OpenAI. No servers, no Docker, no
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
 - [sakowicz/actual-ai](https://github.com/sakowicz/actual-ai) - Categorise transactions in Actual Budget using AI.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -200,7 +200,7 @@
 
 ## api 
 
-- [LunalFresh/MetaMender](https://github.com/LunalFresh/MetaMender) - MetaMender is a lightweight, AI-powered metadata enhancer for Jellyfin.   It enriches your media library by rewriting short or missing overviews for music items using OpenAI — no servers, no Docker, n
+- [LunalFresh/MetaMender](https://github.com/LunalFresh/MetaMender) - MetaMender is a lightweight, AI-powered metadata enhancer for Jellyfin.   It enriches your media library by rewriting short or missing overviews for music items using OpenAI. No servers, no Docker, no
 - [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel (https://beszel.dev) RestAPI integration for HomeAssistant
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [qoomon/gmail-rss-feed](https://github.com/qoomon/gmail-rss-feed) - Google Scripts Project to generate a RSS feed based on labeled emails in your GMail Account
@@ -1006,6 +1006,8 @@
 
 ## others 
 
+- [jaredtrent/jellyfin-mcp](https://github.com/jaredtrent/jellyfin-mcp) - A Jellyfin MCP server
+- [mithbarazak/jellyfin-tag-pipeline](https://github.com/mithbarazak/jellyfin-tag-pipeline) - Normalizing metadata tags on Jellyfin media for use in a machine learning recommendation engine
 - [jshafer813/Auto-Tagger](https://github.com/jshafer813/Auto-Tagger) - Auto Tagger for Jellyfin — Automatically applies genre, decade, rating, language, and resolution tags to your media library. Works hand-in-hand with Seasonal Visibility.
 - [damientkyt/jellyfin-tag-sync](https://github.com/damientkyt/jellyfin-tag-sync) - Retrieve TMDB and AniDB tags and write them to .nfo
 - [alexisometric/jellyshim](https://github.com/alexisometric/jellyshim) - ⚡ JellyShim — Performance optimization plugin for Jellyfin. Smaller assets, compressed images, smarter caching, zero external dependency.
@@ -1040,7 +1042,6 @@
 - [desertwitch/sesmon](https://github.com/desertwitch/sesmon) - sesmon is a monitoring and alerting daemon for SES-capable SCSI enclosures.
 - [masterwishx/folder.view.custom.css](https://github.com/masterwishx/folder.view.custom.css) - Customized CSS for the Folder.View plugin by scolcipitato.
 - [TRaSH-/userScripts-and-Configs](https://github.com/TRaSH-/userScripts-and-Configs) - Collection of (unRAID) userscripts
-- [atnplex/cloudflared-unraid](https://github.com/atnplex/cloudflared-unraid) - Native Unraid plugin for Cloudflare Tunnel (cloudflared).
 - [KBH-Reeper/GlassFin](https://github.com/KBH-Reeper/GlassFin) - Jellyfin Theme designed around transparency and to resemble glass
 - [Druidblack/Jellyfin.Plugin.ArtworkMultiSource](https://github.com/Druidblack/Jellyfin.Plugin.ArtworkMultiSource) - A plugin that receives images of posters and logos from themoviedb and tvdb sites and sorts them together.  The first images are in the language of the library, then in English.
 - [Druidblack/Jellyfin.Plugin.MDBList_Ratings](https://github.com/Druidblack/Jellyfin.Plugin.MDBList_Ratings) - Jellyfin plugin for getting ratings from a website mdblist.com for movies and TV series.
