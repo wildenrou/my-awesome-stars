@@ -96,7 +96,7 @@
 - [verybadsoldier/Jellyfin.Plugin.DateAddedAdvanced](https://github.com/verybadsoldier/Jellyfin.Plugin.DateAddedAdvanced) - Jellyfin Plugin that allows fore more fine-grained control over DateAdded attributes for database entries
 - [caleb-venner/JellyPy](https://github.com/caleb-venner/JellyPy) - Event Driven Media Management Jellyfin plugin.
 - [kirtan3d/Jellyfin.Plugin.AssignThemeSong](https://github.com/kirtan3d/Jellyfin.Plugin.AssignThemeSong) - A Jellyfin plugin that allows you to download theme songs from YouTube or upload custom MP3 files for your movies and TV shows.
-- [Fovty/HoverTrailer](https://github.com/Fovty/HoverTrailer) - Adds seamless, Netflix-style video previews to the Jellyfin web interface.
+- [Fovty/HoverTrailer](https://github.com/Fovty/HoverTrailer) - Netflix-style video previews for Jellyfin
 - [StergiosBinopoulos/jellyfin-plugin-bettermix](https://github.com/StergiosBinopoulos/jellyfin-plugin-bettermix) - A Jellyfin plugin for better Instant Mix.
 - [BitlessByte0/prowlarr-abb](https://github.com/BitlessByte0/prowlarr-abb) - 
 - [Light1Knight/jellyzam-plugin](https://github.com/Light1Knight/jellyzam-plugin) - Jellyfin plugin for music identification using Shazam API with automatic file organization
@@ -207,7 +207,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
 ## Dart 
 
