@@ -1020,7 +1020,7 @@
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [timo95/stash-checker](https://github.com/timo95/stash-checker) - Userscript to check if a Scene/Performer is present in Stash
-- [axFury/AxFlix-Studio-Bar](https://github.com/axFury/AxFlix-Studio-Bar) - This plugin enhances your Jellyfin interface by adding a beautifully animated row of studios and franchises directly on your Jellyfin home page.
+- [axFury/jellyfin-plugin-studio-showcase](https://github.com/axFury/jellyfin-plugin-studio-showcase) - This plugin enhances your Jellyfin interface by adding a beautifully animated row of studios and franchises directly on your Jellyfin home page.
 - [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform GUI for rclone & S3.
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
 - [painteau/unflared](https://github.com/painteau/unflared) - Cloudflare Tunnel native service plugin for Unraid
