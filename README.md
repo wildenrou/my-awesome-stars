@@ -545,7 +545,7 @@
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one.
 - [jeroenterheerdt/grillbuddy](https://github.com/jeroenterheerdt/grillbuddy) - Grill Buddy for Home Assistant
 - [maxexcloo/beszel-homeassistant-integration](https://github.com/maxexcloo/beszel-homeassistant-integration) - Beszel Integration for Home Assistant
-- [sbenodiz/ai_agent_ha-collab-request](https://github.com/sbenodiz/ai_agent_ha-collab-request) - A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant insta
+- [sbenodiz/ai_agent_ha](https://github.com/sbenodiz/ai_agent_ha) - A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant insta
 - [DavidBilodeau1/saguenay_collection](https://github.com/DavidBilodeau1/saguenay_collection) - Home Assistant integration for the city of Saguenay's waste collection schedule
 - [Infraviored/alexa_list_ha_import](https://github.com/Infraviored/alexa_list_ha_import) - 
 - [wildenrou/movie-theme-clipper](https://github.com/wildenrou/movie-theme-clipper) - Automatically generates theme clips from movie collections using AI analysis
