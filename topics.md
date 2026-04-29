@@ -161,7 +161,7 @@
 - [sakowicz/actual-ai](https://github.com/sakowicz/actual-ai) - Categorise transactions in Actual Budget using AI.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [sbenodiz/ai_agent_ha-collab-request](https://github.com/sbenodiz/ai_agent_ha-collab-request) - A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant insta
+- [sbenodiz/ai_agent_ha](https://github.com/sbenodiz/ai_agent_ha) - A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant insta
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [LAB02-Research/DeepL-Translator](https://github.com/LAB02-Research/DeepL-Translator) - Windows GUI client for the DeepL translation API, both free and pro. Supports text, documents and webpages.
@@ -667,7 +667,7 @@
 - [watkins-matt/home-assistant-google-keep-sync](https://github.com/watkins-matt/home-assistant-google-keep-sync) - Custom component for Home Assistant that enables bidirectional synchronization with Google Keep lists.
 - [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible) - A custom component to enable using S3 compatible endpoints for home assistant backups
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one.
-- [sbenodiz/ai_agent_ha-collab-request](https://github.com/sbenodiz/ai_agent_ha-collab-request) - A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant insta
+- [sbenodiz/ai_agent_ha](https://github.com/sbenodiz/ai_agent_ha) - A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant insta
 - [energywave/multinotify](https://github.com/energywave/multinotify) - Multinotify service for Home Assistant
 - [jlvcm/ha-actualbudget](https://github.com/jlvcm/ha-actualbudget) - Actual Budget integration for Home Assistant
 - [wbyoung/movement](https://github.com/wbyoung/movement) - Distance and mode of transit tracking for Home Assistant
