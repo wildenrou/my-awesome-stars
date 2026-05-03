@@ -217,6 +217,7 @@
 
 ## automation 
 
+- [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
 - [ZOTX0/Get-Me-A-Theme](https://github.com/ZOTX0/Get-Me-A-Theme) - Automated theme song downloader for Jellyfin, Plex, and Emby. Features a smart name-cleaning engine, auto-updating core, and a modern GUI. Download OSTs for your entire library with one click!
 - [helv-io/ha-bluebubbles](https://github.com/helv-io/ha-bluebubbles) - A Home Assistant custom integration for sending iMessages via a BlueBubbles server
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -539,6 +540,7 @@
 
 ## github 
 
+- [rtuszik/starwarden](https://github.com/rtuszik/starwarden) - Export GitHub Stars to LinkWarden
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [lucasvtiradentes/gcal-sync](https://github.com/lucasvtiradentes/gcal-sync) - 🔄  sync your github commits to google calendar
@@ -609,7 +611,7 @@
 - [Poeschl-HomeAssistant-Addons/git-exporter](https://github.com/Poeschl-HomeAssistant-Addons/git-exporter) - Export all of your Home Assistant configuration to a git repository of your choice
 - [linuxserver/docker-spotube](https://github.com/linuxserver/docker-spotube) - Web accessible Spotube inside a Debian Container
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [fronzbot/blinkpy](https://github.com/fronzbot/blinkpy) - A Python library for the Blink Camera system
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -633,6 +635,7 @@
 
 ## home-assistant 
 
+- [dkwolf1/ha-ziggo-modem](https://github.com/dkwolf1/ha-ziggo-modem) - Home Assistant integration for Ziggo (Sagemcom) modems with cable diagnostics, DOCSIS signal monitoring and local API support
 - [kdana/ha-obsidian](https://github.com/kdana/ha-obsidian) - View and track your Obsidian notes and tasks directly from your Home Assistant interface
 - [nielash/cloneassistant](https://github.com/nielash/cloneassistant) - Control and monitor your recurring Rclone jobs from Home Assistant dashboards.
 - [mattiagosetto9/ha-voice-assistant-manager](https://github.com/mattiagosetto9/ha-voice-assistant-manager) - Home Assistant custom integration to manage Google Assistant, Alexa, and HomeKit entity exposure
@@ -703,7 +706,7 @@
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [jehy/hass-addons](https://github.com/jehy/hass-addons) - This is a repository for my own home assistant addons
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [SecKatie/ha-wyzeapi](https://github.com/SecKatie/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
 - [leofabri/hassio_appliance-status-monitor](https://github.com/leofabri/hassio_appliance-status-monitor) - 🔌 Detect the state of your appliances based on their power consumption ✨
@@ -768,9 +771,11 @@
 
 ## iot 
 
+- [dkwolf1/ha-ziggo-modem](https://github.com/dkwolf1/ha-ziggo-modem) - Home Assistant integration for Ziggo (Sagemcom) modems with cable diagnostics, DOCSIS signal monitoring and local API support
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [eschava/psmqtt](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT
 - [StealthIQ/Bluestrike](https://github.com/StealthIQ/Bluestrike) - Bluestrike: CLI tool to hack Bluetooth devices through speaker jamming, traffic spoofing & device hijacking (In the making)
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [ldotlopez/python-hnap](https://github.com/ldotlopez/python-hnap) - Generic HNAP client and specialized clients for  motion sensorts, sirens, routers, water detectors and more.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
@@ -841,6 +846,7 @@
 
 ## llm 
 
+- [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
@@ -908,6 +914,7 @@
 
 ## monitoring 
 
+- [dkwolf1/ha-ziggo-modem](https://github.com/dkwolf1/ha-ziggo-modem) - Home Assistant integration for Ziggo (Sagemcom) modems with cable diagnostics, DOCSIS signal monitoring and local API support
 - [nielash/cloneassistant](https://github.com/nielash/cloneassistant) - Control and monitor your recurring Rclone jobs from Home Assistant dashboards.
 - [kroeberd/mediastarr](https://github.com/kroeberd/mediastarr) - Automated media search for Sonarr & Radarr — finds missing content and quality upgrades on a configurable schedule. Web dashboard, first-run wizard, SQLite history, multi-instance support, Discord not
 - [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel (https://beszel.dev) RestAPI integration for HomeAssistant
@@ -1007,6 +1014,7 @@
 
 ## others 
 
+- [irfansofyana/linkwarden-mcp-server](https://github.com/irfansofyana/linkwarden-mcp-server) - An MCP Server for Linkwarden
 - [jaredtrent/jellyfin-mcp](https://github.com/jaredtrent/jellyfin-mcp) - A Jellyfin MCP server
 - [mithbarazak/jellyfin-tag-pipeline](https://github.com/mithbarazak/jellyfin-tag-pipeline) - Normalizing metadata tags on Jellyfin media for use in a machine learning recommendation engine
 - [jshafer813/Auto-Tagger](https://github.com/jshafer813/Auto-Tagger) - Auto Tagger for Jellyfin — Automatically applies genre, decade, rating, language, and resolution tags to your media library. Works hand-in-hand with Seasonal Visibility.
@@ -1469,6 +1477,7 @@
 
 ## python 
 
+- [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
 - [nielash/cloneassistant](https://github.com/nielash/cloneassistant) - Control and monitor your recurring Rclone jobs from Home Assistant dashboards.
 - [ZOTX0/Get-Me-A-Theme](https://github.com/ZOTX0/Get-Me-A-Theme) - Automated theme song downloader for Jellyfin, Plex, and Emby. Features a smart name-cleaning engine, auto-updating core, and a modern GUI. Download OSTs for your entire library with one click!
 - [soloam/ha-fireflyiii-integration](https://github.com/soloam/ha-fireflyiii-integration) - FireflyIII Integration for Home Assistant
