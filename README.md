@@ -194,7 +194,6 @@
 - [KBH-Reeper/GlassFin](https://github.com/KBH-Reeper/GlassFin) - Jellyfin Theme designed around transparency and to resemble glass
 - [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [dohnutt/unraid-gui-responsive](https://github.com/dohnutt/unraid-gui-responsive) - Style overrides for Unraid GUI for responsive design
-- [Hogster/BPS](https://github.com/Hogster/BPS) - A BLE positioning sytem for Homeassistant providing realtime tracking indoors. Dependent on the Bermuda component built by @agattins.
 - [ccmorris/unraid-gui-responsive](https://github.com/ccmorris/unraid-gui-responsive) - Style overrides for Unraid GUI for responsive design
 - [loof2736/scyfin](https://github.com/loof2736/scyfin) - Custom theme for Jellyfin WebUI
 - [Druidblack/jellyfin-icon-metadata](https://github.com/Druidblack/jellyfin-icon-metadata) - Adds metadata provider icons to  jellyfin
@@ -318,6 +317,7 @@
 - [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
 - [thiagobruch/HA_Addons](https://github.com/thiagobruch/HA_Addons) - 
 - [Vansmak/mediarr-card](https://github.com/Vansmak/mediarr-card) - custom home assistant card
+- [Hogster/BPS](https://github.com/Hogster/BPS) - A BLE positioning sytem for Homeassistant providing realtime tracking indoors. Dependent on the Bermuda component built by @agattins.
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [BobHasNoSoul/Jellyfin-PauseScreen](https://github.com/BobHasNoSoul/Jellyfin-PauseScreen) - a pause screen for jellyfin that adds the logo and the disc and the description when paused that dissapears when playback is resumed or the video is exited.
 - [fastxl2024/mass-search-card](https://github.com/fastxl2024/mass-search-card) - 
@@ -484,6 +484,7 @@
 
 ## Python 
 
+- [Perrotn/homeassistant-stm](https://github.com/Perrotn/homeassistant-stm) - Home Assistant integration for STM (Société de transport de Montréal) real-time transit data
 - [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
 - [rtuszik/starwarden](https://github.com/rtuszik/starwarden) - Export GitHub Stars to LinkWarden
 - [dkwolf1/ha-ziggo-modem](https://github.com/dkwolf1/ha-ziggo-modem) - Home Assistant integration for Ziggo (Sagemcom) modems with cable diagnostics, DOCSIS signal monitoring and local API support
