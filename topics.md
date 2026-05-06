@@ -641,6 +641,7 @@
 
 ## home-assistant 
 
+- [GaillardTom/SherbrookePoubelle-HA](https://github.com/GaillardTom/SherbrookePoubelle-HA) - Integration pour le calendrier des poubelles dans home assistant pour la ville de sherbrooke.
 - [Perrotn/homeassistant-stm](https://github.com/Perrotn/homeassistant-stm) - Home Assistant integration for STM (Société de transport de Montréal) real-time transit data
 - [dkwolf1/ha-ziggo-modem](https://github.com/dkwolf1/ha-ziggo-modem) - Home Assistant integration for Ziggo (Sagemcom) modems with cable diagnostics, DOCSIS signal monitoring and local API support
 - [kdana/ha-obsidian](https://github.com/kdana/ha-obsidian) - View and track your Obsidian notes and tasks directly from your Home Assistant interface
@@ -1021,6 +1022,7 @@
 
 ## others 
 
+- [matheusvellone/actual-ical](https://github.com/matheusvellone/actual-ical) - Expose your Actual Scheduled Transactions in iCal format
 - [irfansofyana/linkwarden-mcp-server](https://github.com/irfansofyana/linkwarden-mcp-server) - An MCP Server for Linkwarden
 - [jaredtrent/jellyfin-mcp](https://github.com/jaredtrent/jellyfin-mcp) - A Jellyfin MCP server
 - [mithbarazak/jellyfin-tag-pipeline](https://github.com/mithbarazak/jellyfin-tag-pipeline) - Normalizing metadata tags on Jellyfin media for use in a machine learning recommendation engine
@@ -1262,7 +1264,7 @@
 - [Darklyter/StashPlexAgent.bundle](https://github.com/Darklyter/StashPlexAgent.bundle) - Plex agent for Stash metadata
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [SpaceinvaderOne/Custom-Tabs-Super](https://github.com/SpaceinvaderOne/Custom-Tabs-Super) - 
-- [rix1337/Quasarr](https://github.com/rix1337/Quasarr) - Quasarr connects JDownloader with Radarr, Sonarr, Lidarr and LazyLibrarian. It also decrypts links protected by CAPTCHAs.
+- [rix1337/Quasarr](https://github.com/rix1337/Quasarr) - Quasarr connects JDownloader with Radarr, Sonarr, Lidarr and Magazarr. It also decrypts links protected by CAPTCHAs.
 - [CallMeBruce/nightwalker](https://github.com/CallMeBruce/nightwalker) - A dark but not black qBittorrent WebUI
 - [isaacrlevin/presencelight](https://github.com/isaacrlevin/presencelight) - PresenceLight is a solution to broadcast your various statuses to light bulbs.
 - [t0bst4r/home-assistant-matter-hub](https://github.com/t0bst4r/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
