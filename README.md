@@ -785,7 +785,7 @@
 - [alexklibisz/bdv2s3](https://github.com/alexklibisz/bdv2s3) - backup docker volume to s3
 - [SpaceinvaderOne/Custom-Tabs-Super](https://github.com/SpaceinvaderOne/Custom-Tabs-Super) - 
 - [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Poeschl-HomeAssistant-Addons/git-exporter](https://github.com/Poeschl-HomeAssistant-Addons/git-exporter) - Export all of your Home Assistant configuration to a git repository of your choice
 - [binhex/arch-libreoffice](https://github.com/binhex/arch-libreoffice) - Docker build script for Arch Linux base with LibreOffice Fresh
 - [ngencokamin/sh-imessage-setup](https://github.com/ngencokamin/sh-imessage-setup) - Script to set up bbctl automatically for sh-imessage bridge
