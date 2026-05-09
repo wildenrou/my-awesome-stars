@@ -299,6 +299,7 @@
 
 ## JavaScript 
 
+- [KipK/ha_entity_explorer](https://github.com/KipK/ha_entity_explorer) - A standalone web application to explore and visualize data history of any Home Assistant entity and its attributes
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
 - [axFury/jellyfin-plugin-studio-showcase](https://github.com/axFury/jellyfin-plugin-studio-showcase) - This plugin enhances your Jellyfin interface by adding a beautifully animated row of studios and franchises directly on your Jellyfin home page.
 - [Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid](https://github.com/Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid) - Display IMDb episode ratings in a heatmap-style grid on Jellyfin series pages using the Jellyfin JavaScript Injector. Drop-down menu to avoid spoilers. Linked to the library or IMDb page.
@@ -640,7 +641,7 @@
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
 - [outadoc/immich-home-assistant](https://github.com/outadoc/immich-home-assistant) - Home Assistant component to display random pictures from your Immich library.
 - [codeproject/CodeProject.AI-HomeAssist-ObjectDetect](https://github.com/codeproject/CodeProject.AI-HomeAssist-ObjectDetect) - Home Assistant custom component for using CodeProject.AI Server object detection
-- [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a Docker application to download and manage trailers for your Radarr and Sonarr libraries.
+- [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a Docker application to download and manage trailers for your Media libraries.
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
