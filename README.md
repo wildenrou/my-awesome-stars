@@ -905,7 +905,7 @@
 - [ciotlosm/lovelace-thermostat-dark-card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - 🌡 Thermostat card with a round and black feel to it
 - [PascalLuginbuehl/home-assistant-tray-menu](https://github.com/PascalLuginbuehl/home-assistant-tray-menu) - An app to interact with Home Assistant in the Windows System Tray
 - [Nerivec/z2m-ember-helper](https://github.com/Nerivec/z2m-ember-helper) - Get a better understanding of your Zigbee network using Zigbee2MQTT with Ember driver (for EmberZNet-based adapter).
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps.
 - [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
