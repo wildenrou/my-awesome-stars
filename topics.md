@@ -532,6 +532,7 @@
 
 ## gaming 
 
+- [Jellyfin-PG/JellyEmu](https://github.com/Jellyfin-PG/JellyEmu) - Adds support for rom library with emulator js to jellyfin.
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 
 ## generative-ai 
@@ -1034,7 +1035,6 @@
 - [damientkyt/jellyfin-tag-sync](https://github.com/damientkyt/jellyfin-tag-sync) - Retrieve TMDB and AniDB tags and write them to .nfo
 - [alexisometric/jellyshim](https://github.com/alexisometric/jellyshim) - ⚡ JellyShim — Performance optimization plugin for Jellyfin. Smaller assets, compressed images, smarter caching, zero external dependency.
 - [elfhosted/newtarr](https://github.com/elfhosted/newtarr) - A sane fork of Huntarr v6.6.3 from simpler times
-- [Jellyfin-PG/JellyEmu](https://github.com/Jellyfin-PG/JellyEmu) - Adds support for rom library with emulator js to jellyfin.
 - [b-sullender/Jellyfin.Plugin.TUIMDB](https://github.com/b-sullender/Jellyfin.Plugin.TUIMDB) - The official Jellyfin plugin for TUIMDB metadata.
 - [aayusharyan/contactly](https://github.com/aayusharyan/contactly) - Syncs Google and iCloud contacts with PBX database for caller ID name lookup.
 - [SmolinskiP/GLaSSIST](https://github.com/SmolinskiP/GLaSSIST) - Desktop voice-assistant application for Home Assistant with visual animations and VAD (Voice Activity Detection).
