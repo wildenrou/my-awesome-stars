@@ -584,7 +584,7 @@
 - [kamilkosek/jellyplist](https://github.com/kamilkosek/jellyplist) - A  utility to help you sync playlists from spotify to your jellyfin server
 - [MxMarx/lidarr-beets](https://github.com/MxMarx/lidarr-beets) - lidarr script for grabbing gazelle metadata and running beets
 - [zhattention/ticktick-ai](https://github.com/zhattention/ticktick-ai) - 🎯 AI-powered voice assistant for TickTick, enabling natural language task management through speech. Built with OpenAI's speech recognition and TickTick's API integration, this assistant helps you man
-- [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and AI
+- [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and LLM
 - [barrelltitor/beef-to-espanso](https://github.com/barrelltitor/beef-to-espanso) - Converts a Beeftext backup file (`Beeftext.btbackup`) into Espanso YAML format.
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [linaspurinis/mdblistarr](https://github.com/linaspurinis/mdblistarr) - Companion app for mdblist.com for Radarr and Sonarr integration
