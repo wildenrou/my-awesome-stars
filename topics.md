@@ -1609,7 +1609,7 @@
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
-- [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and AI
+- [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and LLM
 - [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
