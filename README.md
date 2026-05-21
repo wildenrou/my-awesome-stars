@@ -485,6 +485,14 @@
 
 ## Python 
 
+- [D-N91/home-assistant-global-health-score](https://github.com/D-N91/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
+- [alex-jung/ha-departures](https://github.com/alex-jung/ha-departures) - Home Assistant custom component to get departure times of public transport in more as 60 countries.
+- [DomoticaFacile/battery_monitor](https://github.com/DomoticaFacile/battery_monitor) - Custom integration to monitor all battery entities present in Home Assistant and have an immediate overview.
+- [tsunglung/UberEats](https://github.com/tsunglung/UberEats) - Uber Eats for Home Assistant
+- [hiall-fyi/ha-cleanup](https://github.com/hiall-fyi/ha-cleanup) - 🧹 Home Assistant cleanup script - Remove orphaned entities, clean registries, purge old database records
+- [wildenrou/HA_Prowlarr](https://github.com/wildenrou/HA_Prowlarr) - Home assistant Prowlarr integration
+- [wildenrou/dlink_mydlink_water](https://github.com/wildenrou/dlink_mydlink_water) - Home Assistant custom integration for D-Link mydlink DCH-S162 / DCH-S163 water leak sensors.
+- [JTechCzech/mydlink-HA-integration](https://github.com/JTechCzech/mydlink-HA-integration) - Integration into Home Assistant to add D-Link devices
 - [ErikFontanel/ticktick-habits-home-assistant](https://github.com/ErikFontanel/ticktick-habits-home-assistant) - Custom integration that exposes TickTick Habits as a Home Assistant To-do list
 - [M4RC-XX/homeassistant_ticktick_todo](https://github.com/M4RC-XX/homeassistant_ticktick_todo) - Unofficial but powerful Home Assistant integration for TickTick. This integration uses the native todo platform to bring your tasks directly into your smart home dashboard.
 - [gregt1993/Health_Bridge](https://github.com/gregt1993/Health_Bridge) - Home Assistant integration to work alongside the Health Assistant Link app
