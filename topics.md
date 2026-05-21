@@ -114,6 +114,7 @@
 - [python3](#python3)
 - [qt](#qt)
 - [rag](#rag)
+- [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -224,6 +225,7 @@
 
 ## automation 
 
+- [hiall-fyi/ha-cleanup](https://github.com/hiall-fyi/ha-cleanup) - 🧹 Home Assistant cleanup script - Remove orphaned entities, clean registries, purge old database records
 - [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
 - [ZOTX0/Get-Me-A-Theme](https://github.com/ZOTX0/Get-Me-A-Theme) - Automated theme song downloader for Jellyfin, Plex, and Emby. Features a smart name-cleaning engine, auto-updating core, and a modern GUI. Download OSTs for your entire library with one click!
 - [helv-io/ha-bluebubbles](https://github.com/helv-io/ha-bluebubbles) - A Home Assistant custom integration for sending iMessages via a BlueBubbles server
@@ -610,6 +612,7 @@
 
 ## hacktoberfest 
 
+- [D-N91/home-assistant-global-health-score](https://github.com/D-N91/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - HA Add-on / Docker container that solves indoor positions with mqtt data received from multiple ESPresense nodes
@@ -648,6 +651,11 @@
 
 ## home-assistant 
 
+- [D-N91/home-assistant-global-health-score](https://github.com/D-N91/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
+- [alex-jung/ha-departures](https://github.com/alex-jung/ha-departures) - Home Assistant custom component to get departure times of public transport in more as 60 countries.
+- [DomoticaFacile/battery_monitor](https://github.com/DomoticaFacile/battery_monitor) - Custom integration to monitor all battery entities present in Home Assistant and have an immediate overview.
+- [tsunglung/UberEats](https://github.com/tsunglung/UberEats) - Uber Eats for Home Assistant
+- [hiall-fyi/ha-cleanup](https://github.com/hiall-fyi/ha-cleanup) - 🧹 Home Assistant cleanup script - Remove orphaned entities, clean registries, purge old database records
 - [M4RC-XX/homeassistant_ticktick_todo](https://github.com/M4RC-XX/homeassistant_ticktick_todo) - Unofficial but powerful Home Assistant integration for TickTick. This integration uses the native todo platform to bring your tasks directly into your smart home dashboard.
 - [KipK/ha_entity_explorer](https://github.com/KipK/ha_entity_explorer) - A standalone web application to explore and visualize data history of any Home Assistant entity and its attributes
 - [GaillardTom/SherbrookePoubelle-HA](https://github.com/GaillardTom/SherbrookePoubelle-HA) - Integration pour le calendrier des poubelles dans home assistant pour la ville de sherbrooke.
@@ -932,6 +940,7 @@
 
 ## monitoring 
 
+- [D-N91/home-assistant-global-health-score](https://github.com/D-N91/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
 - [dkwolf1/ha-ziggo-modem](https://github.com/dkwolf1/ha-ziggo-modem) - Home Assistant integration for Ziggo (Sagemcom) modems with cable diagnostics, DOCSIS signal monitoring and local API support
 - [nielash/cloneassistant](https://github.com/nielash/cloneassistant) - Control and monitor your recurring Rclone jobs from Home Assistant dashboards.
 - [kroeberd/mediastarr](https://github.com/kroeberd/mediastarr) - Automated media search for Sonarr & Radarr — finds missing content and quality upgrades on a configurable schedule. Web dashboard, first-run wizard, SQLite history, multi-instance support, Discord not
@@ -1033,6 +1042,9 @@
 
 ## others 
 
+- [wildenrou/HA_Prowlarr](https://github.com/wildenrou/HA_Prowlarr) - Home assistant Prowlarr integration
+- [wildenrou/dlink_mydlink_water](https://github.com/wildenrou/dlink_mydlink_water) - Home Assistant custom integration for D-Link mydlink DCH-S162 / DCH-S163 water leak sensors.
+- [JTechCzech/mydlink-HA-integration](https://github.com/JTechCzech/mydlink-HA-integration) - Integration into Home Assistant to add D-Link devices
 - [gregt1993/Health_Bridge](https://github.com/gregt1993/Health_Bridge) - Home Assistant integration to work alongside the Health Assistant Link app
 - [pickpppcc/qbittorrent-mcp](https://github.com/pickpppcc/qbittorrent-mcp) - 
 - [s-stefanov/actual-mcp](https://github.com/s-stefanov/actual-mcp) - Model Context Protocol for Actual Budget API
@@ -1499,6 +1511,8 @@
 
 ## python 
 
+- [D-N91/home-assistant-global-health-score](https://github.com/D-N91/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
+- [hiall-fyi/ha-cleanup](https://github.com/hiall-fyi/ha-cleanup) - 🧹 Home Assistant cleanup script - Remove orphaned entities, clean registries, purge old database records
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
 - [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
 - [nielash/cloneassistant](https://github.com/nielash/cloneassistant) - Control and monitor your recurring Rclone jobs from Home Assistant dashboards.
@@ -1549,6 +1563,10 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [wgeorgecook/plex-recommendation](https://github.com/wgeorgecook/plex-recommendation) - RAG Powered Recommendation Engine Using Your Plex Data
 
+## rails 
+
+- [alex-jung/ha-departures](https://github.com/alex-jung/ha-departures) - Home Assistant custom component to get departure times of public transport in more as 60 countries.
+
 ## raspberry-pi 
 
 - [lwbeam/water_sensors](https://github.com/lwbeam/water_sensors) - Python script to monitor orphaned D-Link DCH-S160 water sensor.
@@ -1573,6 +1591,7 @@
 
 ## rest-api 
 
+- [alex-jung/ha-departures](https://github.com/alex-jung/ha-departures) - Home Assistant custom component to get departure times of public transport in more as 60 countries.
 - [ruaan-deysel/unraid-management-agent](https://github.com/ruaan-deysel/unraid-management-agent) - Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agen
 - [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel (https://beszel.dev) RestAPI integration for HomeAssistant
 
