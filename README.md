@@ -433,7 +433,6 @@
 - [BigBobbas/ESP32-S3-Box3-Custom-ESPHome](https://github.com/BigBobbas/ESP32-S3-Box3-Custom-ESPHome) - Custom ESPHome config for ESP32-S3-Box-3 with sensors and touchscreen
 - [DyonR/bitmagnet-unraid](https://github.com/DyonR/bitmagnet-unraid) - A guide on how to setup bitmagnet on Unraid
 - [music-assistant/support](https://github.com/music-assistant/support) - Music Assistant issue tracker
-- [dimagoltsman/generic-remote-control-card](https://github.com/dimagoltsman/generic-remote-control-card) - Generic Remote control card for HACS
 - [Purfview/whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
 - [djiesr/Hydro-Quebec_Open_Data](https://github.com/djiesr/Hydro-Quebec_Open_Data) - Add Open Data from Hydro-Quebec to your Home Assistant
 - [Makememo/MemoAI](https://github.com/Makememo/MemoAI) - MemoAI Video to translated text, subtitles and notes made easy.
@@ -809,6 +808,7 @@
 - [jlesage/docker-mkvtoolnix](https://github.com/jlesage/docker-mkvtoolnix) - Docker container for MKVToolNix
 - [gtxaspec/wz_mini_hacks](https://github.com/gtxaspec/wz_mini_hacks) - wz camera mods... make your camera better.
 - [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
+- [dimagoltsman/generic-remote-control-card](https://github.com/dimagoltsman/generic-remote-control-card) - Generic Remote control card for HACS
 - [binhex/arch-qbittorrentvpn](https://github.com/binhex/arch-qbittorrentvpn) - Docker build script for Arch Linux base with qBittorrent, Privoxy and OpenVPN
 - [pssc/ha-addon-lms](https://github.com/pssc/ha-addon-lms) - Logitech Media Server Addon for Home Assistant
 - [kristopolous/TickTick](https://github.com/kristopolous/TickTick) - JSON in your Bash scripts
