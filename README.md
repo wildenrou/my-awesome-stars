@@ -484,7 +484,7 @@
 
 ## Python 
 
-- [D-N91/home-assistant-global-health-score](https://github.com/D-N91/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
+- [HA-Pulse/home-assistant-global-health-score](https://github.com/HA-Pulse/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
 - [alex-jung/ha-departures](https://github.com/alex-jung/ha-departures) - Home Assistant custom component to get departure times of public transport in more as 60 countries.
 - [DomoticaFacile/battery_monitor](https://github.com/DomoticaFacile/battery_monitor) - Custom integration to monitor all battery entities present in Home Assistant and have an immediate overview.
 - [tsunglung/UberEats](https://github.com/tsunglung/UberEats) - Uber Eats for Home Assistant
