@@ -612,7 +612,7 @@
 
 ## hacktoberfest 
 
-- [D-N91/home-assistant-global-health-score](https://github.com/D-N91/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
+- [HA-Pulse/home-assistant-global-health-score](https://github.com/HA-Pulse/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - HA Add-on / Docker container that solves indoor positions with mqtt data received from multiple ESPresense nodes
@@ -651,7 +651,7 @@
 
 ## home-assistant 
 
-- [D-N91/home-assistant-global-health-score](https://github.com/D-N91/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
+- [HA-Pulse/home-assistant-global-health-score](https://github.com/HA-Pulse/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
 - [alex-jung/ha-departures](https://github.com/alex-jung/ha-departures) - Home Assistant custom component to get departure times of public transport in more as 60 countries.
 - [DomoticaFacile/battery_monitor](https://github.com/DomoticaFacile/battery_monitor) - Custom integration to monitor all battery entities present in Home Assistant and have an immediate overview.
 - [tsunglung/UberEats](https://github.com/tsunglung/UberEats) - Uber Eats for Home Assistant
@@ -940,7 +940,7 @@
 
 ## monitoring 
 
-- [D-N91/home-assistant-global-health-score](https://github.com/D-N91/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
+- [HA-Pulse/home-assistant-global-health-score](https://github.com/HA-Pulse/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
 - [dkwolf1/ha-ziggo-modem](https://github.com/dkwolf1/ha-ziggo-modem) - Home Assistant integration for Ziggo (Sagemcom) modems with cable diagnostics, DOCSIS signal monitoring and local API support
 - [nielash/cloneassistant](https://github.com/nielash/cloneassistant) - Control and monitor your recurring Rclone jobs from Home Assistant dashboards.
 - [kroeberd/mediastarr](https://github.com/kroeberd/mediastarr) - Automated media search for Sonarr & Radarr — finds missing content and quality upgrades on a configurable schedule. Web dashboard, first-run wizard, SQLite history, multi-instance support, Discord not
@@ -1511,7 +1511,7 @@
 
 ## python 
 
-- [D-N91/home-assistant-global-health-score](https://github.com/D-N91/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
+- [HA-Pulse/home-assistant-global-health-score](https://github.com/HA-Pulse/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
 - [hiall-fyi/ha-cleanup](https://github.com/hiall-fyi/ha-cleanup) - 🧹 Home Assistant cleanup script - Remove orphaned entities, clean registries, purge old database records
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
 - [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
