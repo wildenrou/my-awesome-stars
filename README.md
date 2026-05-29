@@ -240,7 +240,7 @@
 
 - [irfansofyana/linkwarden-mcp-server](https://github.com/irfansofyana/linkwarden-mcp-server) - An MCP Server for Linkwarden
 - [jaredtrent/jellyfin-mcp](https://github.com/jaredtrent/jellyfin-mcp) - A Jellyfin MCP server
-- [ruaan-deysel/vault](https://github.com/ruaan-deysel/vault) - Unraid Backup Management Software
+- [ruaan-deysel/vault](https://github.com/ruaan-deysel/vault) - Vault is a backup and restore daemon for Unraid servers. It protects Docker containers, VMs, ZFS datasets, folders, and plugins by backing them up to different storage destinations — local disk, SFTP,
 - [desertwitch/sesmon](https://github.com/desertwitch/sesmon) - sesmon is a monitoring and alerting daemon for SES-capable SCSI enclosures.
 - [kenyonj/airbridge](https://github.com/kenyonj/airbridge) - Anything → Everywhere: Bridge DLNA audio streams to AirPlay & Chromecast
 - [lalomorales22/snapchat-bridge](https://github.com/lalomorales22/snapchat-bridge) - A Matrix-Snapchat bridge that enables bidirectional messaging between Matrix and Snapchat
