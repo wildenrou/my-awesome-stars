@@ -79,7 +79,6 @@
 
 - [jshafer813/Auto-Tagger](https://github.com/jshafer813/Auto-Tagger) - Auto Tagger for Jellyfin — Automatically applies genre, decade, rating, language, and resolution tags to your media library. Works hand-in-hand with Seasonal Visibility.
 - [damientkyt/jellyfin-tag-sync](https://github.com/damientkyt/jellyfin-tag-sync) - Retrieve TMDB and AniDB tags and write them to .nfo
-- [alexisometric/jellyshim](https://github.com/alexisometric/jellyshim) - ⚡ JellyShim — Performance optimization plugin for Jellyfin. Smaller assets, compressed images, smarter caching, zero external dependency.
 - [Jellyfin-PG/JellyEmu](https://github.com/Jellyfin-PG/JellyEmu) - Adds support for rom library with emulator js to jellyfin.
 - [b-sullender/Jellyfin.Plugin.TUIMDB](https://github.com/b-sullender/Jellyfin.Plugin.TUIMDB) - The official Jellyfin plugin for TUIMDB metadata.
 - [IAmParadox27/jellyfin-plugin-pages](https://github.com/IAmParadox27/jellyfin-plugin-pages) - Allows plugins to add pages to the main UI
