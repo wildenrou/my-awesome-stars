@@ -1043,6 +1043,7 @@
 
 ## others 
 
+- [binhex/arch-trimarr](https://github.com/binhex/arch-trimarr) - 
 - [wildenrou/HA_Prowlarr](https://github.com/wildenrou/HA_Prowlarr) - Home assistant Prowlarr integration
 - [wildenrou/dlink_mydlink_water](https://github.com/wildenrou/dlink_mydlink_water) - Home Assistant custom integration for D-Link mydlink DCH-S162 / DCH-S163 water leak sensors.
 - [JTechCzech/mydlink-HA-integration](https://github.com/JTechCzech/mydlink-HA-integration) - Integration into Home Assistant to add D-Link devices
