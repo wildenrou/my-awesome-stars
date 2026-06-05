@@ -140,6 +140,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [text-to-speech](#text-to-speech)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
@@ -651,6 +652,7 @@
 
 ## home-assistant 
 
+- [slaxor505/home-assistant-openplantbook](https://github.com/slaxor505/home-assistant-openplantbook) - Open.Plantbook.io plants' care database integration with Home-Assistant
 - [HA-Pulse/home-assistant-global-health-score](https://github.com/HA-Pulse/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
 - [alex-jung/ha-departures](https://github.com/alex-jung/ha-departures) - Home Assistant custom component to get departure times of public transport in more as 60 countries.
 - [DomoticaFacile/battery_monitor](https://github.com/DomoticaFacile/battery_monitor) - Custom integration to monitor all battery entities present in Home Assistant and have an immediate overview.
@@ -1043,6 +1045,10 @@
 
 ## others 
 
+- [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) - 
+- [zachatrocity/docker-beeper](https://github.com/zachatrocity/docker-beeper) - A self hosted beeper desktop app running in your web browser
+- [HarshLabs/jellyfin-plugin-native-trickplay](https://github.com/HarshLabs/jellyfin-plugin-native-trickplay) - 
+- [AlphaGit/jellyfin-mcp-server](https://github.com/AlphaGit/jellyfin-mcp-server) - MCP Server to manage a jellyfin server
 - [binhex/arch-trimarr](https://github.com/binhex/arch-trimarr) - 
 - [wildenrou/HA_Prowlarr](https://github.com/wildenrou/HA_Prowlarr) - Home assistant Prowlarr integration
 - [wildenrou/dlink_mydlink_water](https://github.com/wildenrou/dlink_mydlink_water) - Home Assistant custom integration for D-Link mydlink DCH-S162 / DCH-S163 water leak sensors.
@@ -1607,6 +1613,7 @@
 
 ## rust 
 
+- [ricardodantas/tickit-sync](https://github.com/ricardodantas/tickit-sync) - Self-hosted sync server for Tickit task manager
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1721,6 +1728,10 @@
 ## text-to-speech 
 
 - [nicolodiamante/dispatch](https://github.com/nicolodiamante/dispatch) - Revamp your morning routine and supercharge productivity with Dispatch. The ultimate Apple Shortcut powered by ChatGPT and ElevenLabs.
+
+## tui 
+
+- [ricardodantas/tickit-sync](https://github.com/ricardodantas/tickit-sync) - Self-hosted sync server for Tickit task manager
 
 ## typescript 
 
