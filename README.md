@@ -77,6 +77,7 @@
 
 ## C# # 
 
+- [strain08/LGSTrayEx](https://github.com/strain08/LGSTrayEx) - A tray app used to track battery levels of wireless Logitech mouse.
 - [HarshLabs/jellyfin-plugin-native-trickplay](https://github.com/HarshLabs/jellyfin-plugin-native-trickplay) - 
 - [jshafer813/Auto-Tagger](https://github.com/jshafer813/Auto-Tagger) - Auto Tagger for Jellyfin — Automatically applies genre, decade, rating, language, and resolution tags to your media library. Works hand-in-hand with Seasonal Visibility.
 - [damientkyt/jellyfin-tag-sync](https://github.com/damientkyt/jellyfin-tag-sync) - Retrieve TMDB and AniDB tags and write them to .nfo
@@ -129,7 +130,7 @@
 - [SenorSmartyPants/jellyfin-plugin-refreshsparse](https://github.com/SenorSmartyPants/jellyfin-plugin-refreshsparse) - Refresh Sparse items Plugin for Jellyfin
 - [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
 - [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - HA Add-on / Docker container that solves indoor positions with mqtt data received from multiple ESPresense nodes
-- [fiso64/sldl](https://github.com/fiso64/sldl) - Advanced download tool for Soulseek.
+- [fiso64/sockseek](https://github.com/fiso64/sockseek) - Advanced download tool for Soulseek. (Formerly sldl)
 - [Benisgo/Symbolic11](https://github.com/Benisgo/Symbolic11) - Symbolic11 is a user-friendly GUI tool for creating symbolic, hard, and junction links on Windows 10 and 11. The tool features a modern design inspired by Windows 11 and streamlines the link creation 
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
@@ -485,6 +486,7 @@
 
 ## Python 
 
+- [Baptiste-mrch/LogitechGHub_MQTT_batteries](https://github.com/Baptiste-mrch/LogitechGHub_MQTT_batteries) - Retrieve batteries status of Logitech devices through G Hub into MQTT (useful in HomeAssistant)
 - [slaxor505/home-assistant-openplantbook](https://github.com/slaxor505/home-assistant-openplantbook) - Open.Plantbook.io plants' care database integration with Home-Assistant
 - [AlphaGit/jellyfin-mcp-server](https://github.com/AlphaGit/jellyfin-mcp-server) - MCP Server to manage a jellyfin server
 - [HA-Pulse/home-assistant-global-health-score](https://github.com/HA-Pulse/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
@@ -850,6 +852,8 @@
 
 ## TypeScript 
 
+- [max-ng/datamoat](https://github.com/max-ng/datamoat) - Export, back up, search, analyze, and reuse ChatGPT / Claude / Codex / Cursor / DeepSeek / Qwen data + skills + attachments locally
+- [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) - A Model Context Protocol (MCP) server that connects to Strava API, providing tools to access Strava data through LLMs
 - [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) - 
 - [s-stefanov/actual-mcp](https://github.com/s-stefanov/actual-mcp) - Model Context Protocol for Actual Budget API
 - [matheusvellone/actual-ical](https://github.com/matheusvellone/actual-ical) - Expose your Actual Scheduled Transactions in iCal format
@@ -865,7 +869,7 @@
 - [troinine/ha-weather-forecast-card](https://github.com/troinine/ha-weather-forecast-card) - ☀️ Slightly improved weather forecast card for Home Assistant
 - [GerardPolloRebozado/social-to-mealie](https://github.com/GerardPolloRebozado/social-to-mealie) - Import social media post to your mealie instances for now only compatible with instagram reels
 - [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [t-mart/mousehole](https://github.com/t-mart/mousehole) - A background service to update a seedbox IP for MAM
 - [EvansMatthew97/rclone-icloud-authenticator](https://github.com/EvansMatthew97/rclone-icloud-authenticator) - Rclone iCloud Drive (icloudddrive) authenticator
