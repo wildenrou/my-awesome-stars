@@ -123,14 +123,14 @@
 - [Whisparr/Whisparr](https://github.com/Whisparr/Whisparr) - 
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Automatically detect and skip intro/credit sequences in Jellyfin
 - [danieladov/jellyfin-plugin-themesongs](https://github.com/danieladov/jellyfin-plugin-themesongs) - Downloads TV Show Theme Songs for your library
-- [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+- [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [cleverdevil/plexyfin](https://github.com/cleverdevil/plexyfin) - A Jellyfin plug-in to integrate with a Plex Media Server
 - [johnpc/jellyfin-plugin-smart-collections](https://github.com/johnpc/jellyfin-plugin-smart-collections) - 
 - [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import) - Import playlists from Spotify in Jellyfin
 - [SenorSmartyPants/jellyfin-plugin-refreshsparse](https://github.com/SenorSmartyPants/jellyfin-plugin-refreshsparse) - Refresh Sparse items Plugin for Jellyfin
 - [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
 - [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - HA Add-on / Docker container that solves indoor positions with mqtt data received from multiple ESPresense nodes
-- [fiso64/sockseek](https://github.com/fiso64/sockseek) - Advanced download tool for Soulseek. (Formerly sldl)
+- [fiso64/sockseek](https://github.com/fiso64/sockseek) - Advanced download tool for Soulseek, soon a client.
 - [Benisgo/Symbolic11](https://github.com/Benisgo/Symbolic11) - Symbolic11 is a user-friendly GUI tool for creating symbolic, hard, and junction links on Windows 10 and 11. The tool features a modern design inspired by Windows 11 and streamlines the link creation 
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
@@ -303,6 +303,7 @@
 
 ## JavaScript 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [KipK/ha_entity_explorer](https://github.com/KipK/ha_entity_explorer) - A standalone web application to explore and visualize data history of any Home Assistant entity and its attributes
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
 - [axFury/jellyfin-plugin-studio-showcase](https://github.com/axFury/jellyfin-plugin-studio-showcase) - This plugin enhances your Jellyfin interface by adding a beautifully animated row of studios and franchises directly on your Jellyfin home page.
@@ -486,6 +487,8 @@
 
 ## Python 
 
+- [HomeVox/housekeeping-addon](https://github.com/HomeVox/housekeeping-addon) - Housekeeping add-on for Home Assistant: audit and apply fixes for entities, devices, and areas (cleanup, dedupe,   rename, and area assignment rules).
+- [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [Baptiste-mrch/LogitechGHub_MQTT_batteries](https://github.com/Baptiste-mrch/LogitechGHub_MQTT_batteries) - Retrieve batteries status of Logitech devices through G Hub into MQTT (useful in HomeAssistant)
 - [slaxor505/home-assistant-openplantbook](https://github.com/slaxor505/home-assistant-openplantbook) - Open.Plantbook.io plants' care database integration with Home-Assistant
 - [AlphaGit/jellyfin-mcp-server](https://github.com/AlphaGit/jellyfin-mcp-server) - MCP Server to manage a jellyfin server
