@@ -163,6 +163,7 @@
 
 ## ai 
 
+- [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [LunalFresh/MetaMender](https://github.com/LunalFresh/MetaMender) - MetaMender is a lightweight, AI-powered metadata enhancer for Jellyfin.   It enriches your media library by rewriting short or missing overviews for music items using OpenAI. No servers, no Docker, no
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
@@ -318,6 +319,7 @@
 
 ## chrome 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [foray1010/Popup-my-Bookmarks](https://github.com/foray1010/Popup-my-Bookmarks) - A browser extension that providing a more efficient way to view and manage your bookmarks menu
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [JamesCoyle/DownloadsExtension](https://github.com/JamesCoyle/DownloadsExtension) - A replacement for the default Chrome downloads shelf
@@ -331,6 +333,7 @@
 
 ## chrome-extension 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [bogenpirat/remote-torrent-adder](https://github.com/bogenpirat/remote-torrent-adder) - A handy Chrome extension to add torrent files to torrent clients
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [ni554n/redium](https://github.com/ni554n/redium) - Chrome extension for automatically unblocking member-only Medium articles through free proxies
@@ -346,14 +349,16 @@
 
 ## claude-code 
 
+- [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
 - [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
 
 ## cli 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-- [fiso64/sockseek](https://github.com/fiso64/sockseek) - Advanced download tool for Soulseek. (Formerly sldl)
+- [fiso64/sockseek](https://github.com/fiso64/sockseek) - Advanced download tool for Soulseek, soon a client.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 
@@ -432,6 +437,7 @@
 
 ## docker 
 
+- [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
@@ -505,6 +511,7 @@
 
 ## firefox 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -603,6 +610,7 @@
 
 ## graphql 
 
+- [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [ruaan-deysel/ha-unraid](https://github.com/ruaan-deysel/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
 
@@ -818,6 +826,7 @@
 
 ## javascript 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [Jellyfin-PG/Mod-Manager](https://github.com/Jellyfin-PG/Mod-Manager) - A mod manager, both css and js mods for jellyfin 10.11+
 - [Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid](https://github.com/Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid) - Display IMDb episode ratings in a heatmap-style grid on Jellyfin series pages using the Jellyfin JavaScript Injector. Drop-down menu to avoid spoilers. Linked to the library or IMDb page.
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
@@ -874,6 +883,7 @@
 
 ## llm 
 
+- [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
@@ -928,6 +938,7 @@
 
 ## mcp 
 
+- [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
@@ -1041,10 +1052,12 @@
 
 ## osint 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
 ## others 
 
+- [HomeVox/housekeeping-addon](https://github.com/HomeVox/housekeeping-addon) - Housekeeping add-on for Home Assistant: audit and apply fixes for entities, devices, and areas (cleanup, dedupe,   rename, and area assignment rules).
 - [max-ng/datamoat](https://github.com/max-ng/datamoat) - Export, back up, search, analyze, and reuse ChatGPT / Claude / Codex / Cursor / DeepSeek / Qwen data + skills + attachments locally
 - [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) - A Model Context Protocol (MCP) server that connects to Strava API, providing tools to access Strava data through LLMs
 - [strain08/LGSTrayEx](https://github.com/strain08/LGSTrayEx) - A tray app used to track battery levels of wireless Logitech mouse.
@@ -1522,6 +1535,7 @@
 
 ## python 
 
+- [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [HA-Pulse/home-assistant-global-health-score](https://github.com/HA-Pulse/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
 - [hiall-fyi/ha-cleanup](https://github.com/hiall-fyi/ha-cleanup) - 🧹 Home Assistant cleanup script - Remove orphaned entities, clean registries, purge old database records
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
@@ -1637,6 +1651,7 @@
 
 ## self-hosted 
 
+- [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [slimcdk/subsarr](https://github.com/slimcdk/subsarr) - Subsarr lets you self-host the full Subscene archive and use it as a subtitle source in Bazarr
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
@@ -1811,7 +1826,7 @@
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
-- [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+- [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [Benisgo/Symbolic11](https://github.com/Benisgo/Symbolic11) - Symbolic11 is a user-friendly GUI tool for creating symbolic, hard, and junction links on Windows 10 and 11. The tool features a modern design inspired by Windows 11 and streamlines the link creation 
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
