@@ -77,6 +77,7 @@
 
 ## C# # 
 
+- [LavX/jellyfin-plugin-bazarr-plus](https://github.com/LavX/jellyfin-plugin-bazarr-plus) - Jellyfin 10.11+ subtitle provider plugin that proxies searches and downloads to a self-hosted Bazarr+ instance over an OpenSubtitles-compatible REST API.
 - [strain08/LGSTrayEx](https://github.com/strain08/LGSTrayEx) - A tray app used to track battery levels of wireless Logitech mouse.
 - [HarshLabs/jellyfin-plugin-native-trickplay](https://github.com/HarshLabs/jellyfin-plugin-native-trickplay) - 
 - [jshafer813/Auto-Tagger](https://github.com/jshafer813/Auto-Tagger) - Auto Tagger for Jellyfin — Automatically applies genre, decade, rating, language, and resolution tags to your media library. Works hand-in-hand with Seasonal Visibility.
@@ -195,7 +196,6 @@
 
 - [masterwishx/folder.view.custom.css](https://github.com/masterwishx/folder.view.custom.css) - Customized CSS for the Folder.View plugin by scolcipitato.
 - [KBH-Reeper/GlassFin](https://github.com/KBH-Reeper/GlassFin) - Jellyfin Theme designed around transparency and to resemble glass
-- [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [dohnutt/unraid-gui-responsive](https://github.com/dohnutt/unraid-gui-responsive) - Style overrides for Unraid GUI for responsive design
 - [ccmorris/unraid-gui-responsive](https://github.com/ccmorris/unraid-gui-responsive) - Style overrides for Unraid GUI for responsive design
 - [loof2736/scyfin](https://github.com/loof2736/scyfin) - Custom theme for Jellyfin WebUI
@@ -458,6 +458,7 @@
 - [Lazaros-Chalkidis/unraid-streamviewer](https://github.com/Lazaros-Chalkidis/unraid-streamviewer) - Media stream monitor plugin for Unraid. Dashboard widget for Plex, Jellyfin and Emby.
 - [johnpwhite/unraid-plg-zram](https://github.com/johnpwhite/unraid-plg-zram) - A plugin to configure and monitor zram on Unraid v7.2+
 - [unraid/unraid-tailscale](https://github.com/unraid/unraid-tailscale) - Installs Tailscale as an unRAID plugin. This allows connection via Tailscale even if the array is stopped.
+- [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [mmatongo/unraid-cloudflared](https://github.com/mmatongo/unraid-cloudflared) - Installs Cloudflared as an unRAID plugin.
 - [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
@@ -487,6 +488,8 @@
 
 ## Python 
 
+- [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an i
+- [snazzybean/roommind](https://github.com/snazzybean/roommind) - Intelligent room climate control for Home Assistant — self-learning MPC, proportional valve control, solar gain modeling
 - [HomeVox/housekeeping-addon](https://github.com/HomeVox/housekeeping-addon) - Housekeeping add-on for Home Assistant: audit and apply fixes for entities, devices, and areas (cleanup, dedupe,   rename, and area assignment rules).
 - [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [Baptiste-mrch/LogitechGHub_MQTT_batteries](https://github.com/Baptiste-mrch/LogitechGHub_MQTT_batteries) - Retrieve batteries status of Logitech devices through G Hub into MQTT (useful in HomeAssistant)
@@ -787,6 +790,7 @@
 
 ## Shell 
 
+- [hernandito/unRAID-Docker-Reports](https://github.com/hernandito/unRAID-Docker-Reports) - 
 - [binhex/arch-trimarr](https://github.com/binhex/arch-trimarr) - 
 - [painteau/unflared](https://github.com/painteau/unflared) - Cloudflare Tunnel native service plugin for Unraid
 - [TRaSH-/userScripts-and-Configs](https://github.com/TRaSH-/userScripts-and-Configs) - Collection of (unRAID) userscripts
@@ -855,6 +859,7 @@
 
 ## TypeScript 
 
+- [itz4blitz/Logarr](https://github.com/itz4blitz/Logarr) - Aggregates logs from all your servers, automatically detects and ranks issues by impact, and helps you track them to resolution—all from a single dashboard
 - [max-ng/datamoat](https://github.com/max-ng/datamoat) - Export, back up, search, analyze, and reuse ChatGPT / Claude / Codex / Cursor / DeepSeek / Qwen data + skills + attachments locally
 - [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) - A Model Context Protocol (MCP) server that connects to Strava API, providing tools to access Strava data through LLMs
 - [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) - 
