@@ -490,6 +490,7 @@
 
 ## electron 
 
+- [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - JellyTunes - Sync your Jellyfin music library to USB drives and SD cards. FLAC-to-MP3 conversion, selective sync, per-device history.
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
 - [jellyfin-labs/jellyamp](https://github.com/jellyfin-labs/jellyamp) - Desktop client for listening to music from a Jellyfin server
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -668,6 +669,8 @@
 
 ## home-assistant 
 
+- [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
+- [olivierplante/ec-weather](https://github.com/olivierplante/ec-weather) - Environment Canada weather integration for Home Assistant. Current conditions, 48-hour hourly and 7-day daily forecasts, weather alerts, and air quality (AQHI). Includes a built-in Lovelace card with 
 - [snazzybean/roommind](https://github.com/snazzybean/roommind) - Intelligent room climate control for Home Assistant — self-learning MPC, proportional valve control, solar gain modeling
 - [slaxor505/home-assistant-openplantbook](https://github.com/slaxor505/home-assistant-openplantbook) - Open.Plantbook.io plants' care database integration with Home-Assistant
 - [HA-Pulse/home-assistant-global-health-score](https://github.com/HA-Pulse/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
@@ -975,6 +978,7 @@
 
 ## music 
 
+- [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - JellyTunes - Sync your Jellyfin music library to USB drives and SD cards. FLAC-to-MP3 conversion, selective sync, per-device history.
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
@@ -1039,6 +1043,7 @@
 
 ## open-source 
 
+- [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - JellyTunes - Sync your Jellyfin music library to USB drives and SD cards. FLAC-to-MP3 conversion, selective sync, per-device history.
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
@@ -1066,6 +1071,11 @@
 
 ## others 
 
+- [nachtschatt3n/alexa-shopping-list-sync](https://github.com/nachtschatt3n/alexa-shopping-list-sync) - Bidirectional sync between the Amazon Alexa shopping list and Home Assistant's native todo entity. HACS-compatible.
+- [lmagyar/homeassistant-addon-tailscale-beta](https://github.com/lmagyar/homeassistant-addon-tailscale-beta) - [BETA] Adds some functionality to the Tailscale Home Assistant Community Add-on https://github.com/hassio-addons/addon-tailscale
+- [matthewhadley/homeassistant-beszel-agent](https://github.com/matthewhadley/homeassistant-beszel-agent) - 
+- [bnevets27/HA-Environment-Canada-Alerts](https://github.com/bnevets27/HA-Environment-Canada-Alerts) - Home Assistant custom integration that fetches detailed Environment Canada weather alerts
+- [Peuuuur-Noel/unraid-web-push-notification](https://github.com/Peuuuur-Noel/unraid-web-push-notification) - An Unraid plugin to add browser push notifications.
 - [hernandito/unRAID-Docker-Reports](https://github.com/hernandito/unRAID-Docker-Reports) - 
 - [HomeVox/housekeeping-addon](https://github.com/HomeVox/housekeeping-addon) - Housekeeping add-on for Home Assistant: audit and apply fixes for entities, devices, and areas (cleanup, dedupe,   rename, and area assignment rules).
 - [max-ng/datamoat](https://github.com/max-ng/datamoat) - Export, back up, search, analyze, and reuse ChatGPT / Claude / Codex / Cursor / DeepSeek / Qwen data + skills + attachments locally
@@ -1545,6 +1555,7 @@
 
 ## python 
 
+- [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
 - [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an i
 - [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [HA-Pulse/home-assistant-global-health-score](https://github.com/HA-Pulse/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
@@ -1674,7 +1685,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [Tiendil/feeds.fun](https://github.com/Tiendil/feeds.fun) - News reader with tags, scoring, and LLM
-- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
+- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your sports and fitness data
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
@@ -1712,7 +1723,7 @@
 
 ## statistics 
 
-- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
+- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your sports and fitness data
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 
 ## svelte 
