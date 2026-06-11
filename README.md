@@ -455,12 +455,13 @@
 
 ## PHP 
 
+- [Peuuuur-Noel/unraid-web-push-notification](https://github.com/Peuuuur-Noel/unraid-web-push-notification) - An Unraid plugin to add browser push notifications.
 - [Lazaros-Chalkidis/unraid-streamviewer](https://github.com/Lazaros-Chalkidis/unraid-streamviewer) - Media stream monitor plugin for Unraid. Dashboard widget for Plex, Jellyfin and Emby.
 - [johnpwhite/unraid-plg-zram](https://github.com/johnpwhite/unraid-plg-zram) - A plugin to configure and monitor zram on Unraid v7.2+
 - [unraid/unraid-tailscale](https://github.com/unraid/unraid-tailscale) - Installs Tailscale as an unRAID plugin. This allows connection via Tailscale even if the array is stopped.
 - [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [mmatongo/unraid-cloudflared](https://github.com/mmatongo/unraid-cloudflared) - Installs Cloudflared as an unRAID plugin.
-- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
+- [robiningelbrecht/statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your sports and fitness data
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [Commifreak/unraid-appdata.backup](https://github.com/Commifreak/unraid-appdata.backup) - UNRAID AppData backup plugin
@@ -488,6 +489,10 @@
 
 ## Python 
 
+- [nachtschatt3n/alexa-shopping-list-sync](https://github.com/nachtschatt3n/alexa-shopping-list-sync) - Bidirectional sync between the Amazon Alexa shopping list and Home Assistant's native todo entity. HACS-compatible.
+- [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
+- [bnevets27/HA-Environment-Canada-Alerts](https://github.com/bnevets27/HA-Environment-Canada-Alerts) - Home Assistant custom integration that fetches detailed Environment Canada weather alerts
+- [olivierplante/ec-weather](https://github.com/olivierplante/ec-weather) - Environment Canada weather integration for Home Assistant. Current conditions, 48-hour hourly and 7-day daily forecasts, weather alerts, and air quality (AQHI). Includes a built-in Lovelace card with 
 - [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an i
 - [snazzybean/roommind](https://github.com/snazzybean/roommind) - Intelligent room climate control for Home Assistant — self-learning MPC, proportional valve control, solar gain modeling
 - [HomeVox/housekeeping-addon](https://github.com/HomeVox/housekeeping-addon) - Housekeeping add-on for Home Assistant: audit and apply fixes for entities, devices, and areas (cleanup, dedupe,   rename, and area assignment rules).
@@ -790,6 +795,8 @@
 
 ## Shell 
 
+- [lmagyar/homeassistant-addon-tailscale-beta](https://github.com/lmagyar/homeassistant-addon-tailscale-beta) - [BETA] Adds some functionality to the Tailscale Home Assistant Community Add-on https://github.com/hassio-addons/addon-tailscale
+- [matthewhadley/homeassistant-beszel-agent](https://github.com/matthewhadley/homeassistant-beszel-agent) - 
 - [hernandito/unRAID-Docker-Reports](https://github.com/hernandito/unRAID-Docker-Reports) - 
 - [binhex/arch-trimarr](https://github.com/binhex/arch-trimarr) - 
 - [painteau/unflared](https://github.com/painteau/unflared) - Cloudflare Tunnel native service plugin for Unraid
@@ -859,6 +866,7 @@
 
 ## TypeScript 
 
+- [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - JellyTunes - Sync your Jellyfin music library to USB drives and SD cards. FLAC-to-MP3 conversion, selective sync, per-device history.
 - [itz4blitz/Logarr](https://github.com/itz4blitz/Logarr) - Aggregates logs from all your servers, automatically detects and ranks issues by impact, and helps you track them to resolution—all from a single dashboard
 - [max-ng/datamoat](https://github.com/max-ng/datamoat) - Export, back up, search, analyze, and reuse ChatGPT / Claude / Codex / Cursor / DeepSeek / Qwen data + skills + attachments locally
 - [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) - A Model Context Protocol (MCP) server that connects to Strava API, providing tools to access Strava data through LLMs
