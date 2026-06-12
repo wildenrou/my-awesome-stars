@@ -1071,6 +1071,7 @@
 
 ## others 
 
+- [jaannnis/arr-clean-not-a-custom-format-score](https://github.com/jaannnis/arr-clean-not-a-custom-format-score) - auto remove "Not a Custom Format upgrade for [...]" from sonarr and radarr
 - [nachtschatt3n/alexa-shopping-list-sync](https://github.com/nachtschatt3n/alexa-shopping-list-sync) - Bidirectional sync between the Amazon Alexa shopping list and Home Assistant's native todo entity. HACS-compatible.
 - [lmagyar/homeassistant-addon-tailscale-beta](https://github.com/lmagyar/homeassistant-addon-tailscale-beta) - [BETA] Adds some functionality to the Tailscale Home Assistant Community Add-on https://github.com/hassio-addons/addon-tailscale
 - [matthewhadley/homeassistant-beszel-agent](https://github.com/matthewhadley/homeassistant-beszel-agent) - 
