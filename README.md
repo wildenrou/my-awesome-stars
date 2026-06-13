@@ -307,7 +307,7 @@
 - [KipK/ha_entity_explorer](https://github.com/KipK/ha_entity_explorer) - A standalone web application to explore and visualize data history of any Home Assistant entity and its attributes
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
 - [axFury/jellyfin-plugin-studio-showcase](https://github.com/axFury/jellyfin-plugin-studio-showcase) - This plugin enhances your Jellyfin interface by adding a beautifully animated row of studios and franchises directly on your Jellyfin home page.
-- [Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid](https://github.com/Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid) - Display IMDb episode ratings in a heatmap-style grid on Jellyfin series pages using the Jellyfin JavaScript Injector. Drop-down menu to avoid spoilers. Linked to the library or IMDb page.
+- [Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid](https://github.com/Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid) - Display IMDb or JF episode ratings in a heatmap-style grid on Jellyfin series pages using the Jellyfin JavaScript Injector. Drop-down menu to avoid spoilers. Linked to the episode page.
 - [Tetrax-10/imdb-tmdb-letterboxd-linker](https://github.com/Tetrax-10/imdb-tmdb-letterboxd-linker) - Opens the corresponding IMDb, TMDB, or Letterboxd page for movies, TV shows and people.
 - [saihgupr/HomeAssistantVersionControl](https://github.com/saihgupr/HomeAssistantVersionControl) - Automatic backup, history tracking, and instant restore for your Home Assistant configuration.
 - [Rusketh/JellyMusic](https://github.com/Rusketh/JellyMusic) - A work in progress Alexa Skill for Jellyfin music
@@ -489,6 +489,7 @@
 
 ## Python 
 
+- [luuquangvu/blueprints-updater](https://github.com/luuquangvu/blueprints-updater) - Automatically update Home Assistant blueprints via native update entities
 - [jaannnis/arr-clean-not-a-custom-format-score](https://github.com/jaannnis/arr-clean-not-a-custom-format-score) - auto remove "Not a Custom Format upgrade for [...]" from sonarr and radarr
 - [nachtschatt3n/alexa-shopping-list-sync](https://github.com/nachtschatt3n/alexa-shopping-list-sync) - Bidirectional sync between the Amazon Alexa shopping list and Home Assistant's native todo entity. HACS-compatible.
 - [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
@@ -513,7 +514,7 @@
 - [M4RC-XX/homeassistant_ticktick_todo](https://github.com/M4RC-XX/homeassistant_ticktick_todo) - Unofficial but powerful Home Assistant integration for TickTick. This integration uses the native todo platform to bring your tasks directly into your smart home dashboard.
 - [gregt1993/Health_Bridge](https://github.com/gregt1993/Health_Bridge) - Home Assistant integration to work alongside the Health Assistant Link app
 - [pickpppcc/qbittorrent-mcp](https://github.com/pickpppcc/qbittorrent-mcp) - 
-- [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
+- [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/registry/plugins
 - [GaillardTom/SherbrookePoubelle-HA](https://github.com/GaillardTom/SherbrookePoubelle-HA) - Integration pour le calendrier des poubelles dans home assistant pour la ville de sherbrooke.
 - [Perrotn/homeassistant-stm](https://github.com/Perrotn/homeassistant-stm) - Home Assistant integration for STM (Société de transport de Montréal) real-time transit data
@@ -671,7 +672,7 @@
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
 - [outadoc/immich-home-assistant](https://github.com/outadoc/immich-home-assistant) - Home Assistant component to display random pictures from your Immich library.
 - [codeproject/CodeProject.AI-HomeAssist-ObjectDetect](https://github.com/codeproject/CodeProject.AI-HomeAssist-ObjectDetect) - Home Assistant custom component for using CodeProject.AI Server object detection
-- [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a Docker application to download and manage trailers for your Media libraries.
+- [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a self hosted app to download and manage trailers for your Media libraries.
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
