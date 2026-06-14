@@ -225,6 +225,7 @@
 - [MrSuicideParrot/hassio-speedtest-addon](https://github.com/MrSuicideParrot/hassio-speedtest-addon) - SpeedTest Home Assistant addon
 - [Obamium69/hassio-beszel_agent](https://github.com/Obamium69/hassio-beszel_agent) - 
 - [hassio-addons/addon-mqtt-io](https://github.com/hassio-addons/addon-mqtt-io) - MQTT IO - Home Assistant Community Add-ons
+- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [linuxserver/docker-spotube](https://github.com/linuxserver/docker-spotube) - Web accessible Spotube inside a Debian Container
 - [jehy/hass-addons](https://github.com/jehy/hass-addons) - This is a repository for my own home assistant addons
 - [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server
@@ -304,7 +305,6 @@
 ## JavaScript 
 
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [KipK/ha_entity_explorer](https://github.com/KipK/ha_entity_explorer) - A standalone web application to explore and visualize data history of any Home Assistant entity and its attributes
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
 - [axFury/jellyfin-plugin-studio-showcase](https://github.com/axFury/jellyfin-plugin-studio-showcase) - This plugin enhances your Jellyfin interface by adding a beautifully animated row of studios and franchises directly on your Jellyfin home page.
 - [Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid](https://github.com/Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid) - Display IMDb or JF episode ratings in a heatmap-style grid on Jellyfin series pages using the Jellyfin JavaScript Injector. Drop-down menu to avoid spoilers. Linked to the episode page.
@@ -516,6 +516,7 @@
 - [pickpppcc/qbittorrent-mcp](https://github.com/pickpppcc/qbittorrent-mcp) - 
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/registry/plugins
+- [KipK/ha_entity_explorer](https://github.com/KipK/ha_entity_explorer) - A standalone web application to explore and visualize data history of any Home Assistant entity and its attributes
 - [GaillardTom/SherbrookePoubelle-HA](https://github.com/GaillardTom/SherbrookePoubelle-HA) - Integration pour le calendrier des poubelles dans home assistant pour la ville de sherbrooke.
 - [Perrotn/homeassistant-stm](https://github.com/Perrotn/homeassistant-stm) - Home Assistant integration for STM (Société de transport de Montréal) real-time transit data
 - [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
@@ -672,7 +673,7 @@
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
 - [outadoc/immich-home-assistant](https://github.com/outadoc/immich-home-assistant) - Home Assistant component to display random pictures from your Immich library.
 - [codeproject/CodeProject.AI-HomeAssist-ObjectDetect](https://github.com/codeproject/CodeProject.AI-HomeAssist-ObjectDetect) - Home Assistant custom component for using CodeProject.AI Server object detection
-- [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a self hosted app to download and manage trailers for your Media libraries.
+- [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a self-hosted app to download and manage trailers for your media libraries.
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
@@ -821,7 +822,6 @@
 - [dkaser/unraid-tailscale](https://github.com/dkaser/unraid-tailscale) - Installs Tailscale as an unRAID plugin. This allows connection via Tailscale even if the array is stopped.
 - [alexklibisz/bdv2s3](https://github.com/alexklibisz/bdv2s3) - backup docker volume to s3
 - [SpaceinvaderOne/Custom-Tabs-Super](https://github.com/SpaceinvaderOne/Custom-Tabs-Super) - 
-- [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Poeschl-HomeAssistant-Addons/git-exporter](https://github.com/Poeschl-HomeAssistant-Addons/git-exporter) - Export all of your Home Assistant configuration to a git repository of your choice
 - [binhex/arch-libreoffice](https://github.com/binhex/arch-libreoffice) - Docker build script for Arch Linux base with LibreOffice Fresh
