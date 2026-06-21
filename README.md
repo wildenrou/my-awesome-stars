@@ -93,7 +93,7 @@
 - [Noir1992/jellyfin-trickplay-folder-cleaner](https://github.com/Noir1992/jellyfin-trickplay-folder-cleaner) - This is a Jellyfin plugin that deletes .trickplay folders that no longer have a corresponding media file.
 - [Druidblack/Jellyfin.Plugin.ArtworkMultiSource](https://github.com/Druidblack/Jellyfin.Plugin.ArtworkMultiSource) - A plugin that receives images of posters and logos from themoviedb and tvdb sites and sorts them together.  The first images are in the language of the library, then in English.
 - [Druidblack/Jellyfin.Plugin.MDBList_Ratings](https://github.com/Druidblack/Jellyfin.Plugin.MDBList_Ratings) - Jellyfin plugin for getting ratings from a website mdblist.com for movies and TV series.
-- [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - 
+- [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - Companion server plugin for all Moonfin clients
 - [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
 - [pelluch/jellyfin-plugin-disable-user-data](https://github.com/pelluch/jellyfin-plugin-disable-user-data) - A plugin to selectively disable user data from some parts of Jellyfin
 - [jyourstone/jellyfin-musictags-plugin](https://github.com/jyourstone/jellyfin-musictags-plugin) - A Jellyfin plugin that automatically extracts metadata from audio files - such as ID3 tags, Vorbis comments, and more - and converts them into standard Jellyfin tags.
@@ -263,7 +263,7 @@
 - [FrenchGithubUser/Dasharr](https://github.com/FrenchGithubUser/Dasharr) - Dashboard of your indexers' usage
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
-- [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A very simple webhook server launching shell scripts.
+- [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A minimalist, powerful webhook server designed to easily trigger shell scripts and run external processes via HTTP requests.
 - [wgeorgecook/plex-recommendation](https://github.com/wgeorgecook/plex-recommendation) - RAG Powered Recommendation Engine Using Your Plex Data
 - [joshuar/go-hass-agent](https://github.com/joshuar/go-hass-agent) - A Home Assistant, native app for desktop/laptop devices.
 - [bitxeno/atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
