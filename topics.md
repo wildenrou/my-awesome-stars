@@ -165,6 +165,7 @@
 ## ai 
 
 - [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [LunalFresh/MetaMender](https://github.com/LunalFresh/MetaMender) - MetaMender is a lightweight, AI-powered metadata enhancer for Jellyfin.   It enriches your media library by rewriting short or missing overviews for music items using OpenAI. No servers, no Docker, no
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
@@ -683,6 +684,7 @@
 - [GaillardTom/SherbrookePoubelle-HA](https://github.com/GaillardTom/SherbrookePoubelle-HA) - Integration pour le calendrier des poubelles dans home assistant pour la ville de sherbrooke.
 - [Perrotn/homeassistant-stm](https://github.com/Perrotn/homeassistant-stm) - Home Assistant integration for STM (Société de transport de Montréal) real-time transit data
 - [dkwolf1/ha-ziggo-modem](https://github.com/dkwolf1/ha-ziggo-modem) - Home Assistant integration for Ziggo (Sagemcom) modems with cable diagnostics, DOCSIS signal monitoring and local API support
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [kdana/ha-obsidian](https://github.com/kdana/ha-obsidian) - View and track your Obsidian notes and tasks directly from your Home Assistant interface
 - [nielash/cloneassistant](https://github.com/nielash/cloneassistant) - Control and monitor your recurring Rclone jobs from Home Assistant dashboards.
 - [mattiagosetto9/ha-voice-assistant-manager](https://github.com/mattiagosetto9/ha-voice-assistant-manager) - Home Assistant custom integration to manage Google Assistant, Alexa, and HomeKit entity exposure
@@ -896,6 +898,7 @@
 - [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger) - Simplify tagging in Obsidian. Instantly analyze and tag your document with one click for efficient note organization.
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -952,6 +955,7 @@
 - [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [ruaan-deysel/unraid-management-agent](https://github.com/ruaan-deysel/unraid-management-agent) - Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agen
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1105,7 +1109,6 @@
 - [aayusharyan/contactly](https://github.com/aayusharyan/contactly) - Syncs Google and iCloud contacts with PBX database for caller ID name lookup.
 - [SmolinskiP/GLaSSIST](https://github.com/SmolinskiP/GLaSSIST) - Desktop voice-assistant application for Home Assistant with visual animations and VAD (Voice Activity Detection).
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [timo95/stash-checker](https://github.com/timo95/stash-checker) - Userscript to check if a Scene/Performer is present in Stash
 - [axFury/jellyfin-plugin-studio-showcase](https://github.com/axFury/jellyfin-plugin-studio-showcase) - This plugin enhances your Jellyfin interface by adding a beautifully animated row of studios and franchises directly on your Jellyfin home page.
 - [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform GUI for rclone & S3.
