@@ -678,7 +678,7 @@
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [SecKatie/ha-wyzeapi](https://github.com/SecKatie/ha-wyzeapi) - Home Assistant Integration for Wyze devices.
-- [jeroenterheerdt/HAsmartirrigation](https://github.com/jeroenterheerdt/HAsmartirrigation) - Smart Irrigation custom component for Home Assistant
+- [altmenorg/HAsmartirrigation](https://github.com/altmenorg/HAsmartirrigation) - Smart Irrigation custom component for Home Assistant
 - [MattTW/BlinkMonitorProtocol](https://github.com/MattTW/BlinkMonitorProtocol) - Unofficial documentation for the Blink Wire-Free HD Home Monitoring & Alert System
 - [fronzbot/blinkpy](https://github.com/fronzbot/blinkpy) - A Python library for the Blink Camera system
 - [muniter/halinuxcompanion](https://github.com/muniter/halinuxcompanion) - HomeAssistant Linux Companion
