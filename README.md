@@ -467,7 +467,7 @@
 - [Commifreak/unraid-appdata.backup](https://github.com/Commifreak/unraid-appdata.backup) - UNRAID AppData backup plugin
 - [brandonzylstra/Unraid-NerdUtilities](https://github.com/brandonzylstra/Unraid-NerdUtilities) - The packages Unraid forgot.
 - [RealFascinated/sharex-php-uploader](https://github.com/RealFascinated/sharex-php-uploader) - This is a PHP script that lets you easily upload screenshots taken with the ShareX app to your website. ShareX is a popular screenshot tool for Windows that allows you to take screenshots, annotate th
-- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
+- [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
