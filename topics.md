@@ -1235,7 +1235,7 @@
 - [TheLinuxGuy/free-unraid](https://github.com/TheLinuxGuy/free-unraid) - Achieving a free (opensource) alternative to unraid for media server (homelab) use.
 - [paldab/commafeed-sync](https://github.com/paldab/commafeed-sync) - 
 - [jeroenterheerdt/grillbuddy](https://github.com/jeroenterheerdt/grillbuddy) - Grill Buddy for Home Assistant
-- [maxexcloo/beszel-homeassistant-integration](https://github.com/maxexcloo/beszel-homeassistant-integration) - Beszel Integration for Home Assistant
+- [maxexcloo/homeassistant-beszel-integration](https://github.com/maxexcloo/homeassistant-beszel-integration) - Beszel Integration for Home Assistant
 - [SpaceinvaderOne/TailVault](https://github.com/SpaceinvaderOne/TailVault) - A simple Apline container to be used by tailscale ssh for a backup location on a remote server
 - [SpaceinvaderOne/Unraid-Rsync-Backup-and-Sync-Tool](https://github.com/SpaceinvaderOne/Unraid-Rsync-Backup-and-Sync-Tool) - Backup script for Unraid using rsync, supports local/remote, hardlink versioning, and deletion tracking
 - [SpaceinvaderOne/Dump_GPU_vBIOS](https://github.com/SpaceinvaderOne/Dump_GPU_vBIOS) - Script to dump the vbios from any GPU even if primary gpu on an Unraid Server
