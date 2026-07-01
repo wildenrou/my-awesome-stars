@@ -1223,7 +1223,7 @@
 - [mmatongo/unraid-cloudflared](https://github.com/mmatongo/unraid-cloudflared) - Installs Cloudflared as an unRAID plugin.
 - [dreulavelle/Prowlarr-Indexers](https://github.com/dreulavelle/Prowlarr-Indexers) - Prowlarr Indexers used by Cardigann
 - [bfordham/jellyfin-plugin-bookshelf](https://github.com/bfordham/jellyfin-plugin-bookshelf) - 
-- [jellyfin/jellyfin-plugin-bookshelf](https://github.com/jellyfin/jellyfin-plugin-bookshelf) - 
+- [jellyfin-archive/jellyfin-plugin-bookshelf](https://github.com/jellyfin-archive/jellyfin-plugin-bookshelf) - 
 - [FoxxMD/slsk-batchdl](https://github.com/FoxxMD/slsk-batchdl) - A batch downloader for Soulseek
 - [dvankley/firefly-plaid-connector-2](https://github.com/dvankley/firefly-plaid-connector-2) - Connector to pull Plaid financial data into the Firefly finance tool
 - [wildenrou/home-assistant-fileflows](https://github.com/wildenrou/home-assistant-fileflows) - Custom FileFlows integration for Home Assistant
