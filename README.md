@@ -89,6 +89,7 @@
 - [SirFfej/Jellyfin.Plugin.Audiobookshelf](https://github.com/SirFfej/Jellyfin.Plugin.Audiobookshelf) - 
 - [n00bcodr/JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - A Jellyfin Plugin to force a few settings without modification of any web files.
 - [Jellyfin-PG/JellyFrame](https://github.com/Jellyfin-PG/JellyFrame) - 
+- [MiranoVerhoef/BeszelAgentManager](https://github.com/MiranoVerhoef/BeszelAgentManager) - BeszelAgentManager is a Windows GUI helper that installs and manages the Beszel agent.
 - [FizzyMUC/jellyfin-oscars-plugin](https://github.com/FizzyMUC/jellyfin-oscars-plugin) - A Jellyfin plugin that automatically tags movies that were nominated for or won an Oscar.
 - [Noir1992/jellyfin-trickplay-folder-cleaner](https://github.com/Noir1992/jellyfin-trickplay-folder-cleaner) - This is a Jellyfin plugin that deletes .trickplay folders that no longer have a corresponding media file.
 - [Druidblack/Jellyfin.Plugin.ArtworkMultiSource](https://github.com/Druidblack/Jellyfin.Plugin.ArtworkMultiSource) - A plugin that receives images of posters and logos from themoviedb and tvdb sites and sorts them together.  The first images are in the language of the library, then in English.
@@ -535,7 +536,6 @@
 - [mattiagosetto9/ha-voice-assistant-manager](https://github.com/mattiagosetto9/ha-voice-assistant-manager) - Home Assistant custom integration to manage Google Assistant, Alexa, and HomeKit entity exposure
 - [JordanBourgault/quebec-garbage-collection](https://github.com/JordanBourgault/quebec-garbage-collection) - Reverse engineer the quebec garbage collection website to extract the next dates for eventual integration with Home Assistant
 - [mtheli/philips_sonicare_ble](https://github.com/mtheli/philips_sonicare_ble) - Philips Sonicare BLE integration for Home Assistant — real-time brushing data via Bluetooth or ESP32 bridge
-- [MiranoVerhoef/BeszelAgentManager](https://github.com/MiranoVerhoef/BeszelAgentManager) - BeszelAgentManager is a Windows GUI helper that installs and manages the Beszel agent.
 - [nikf86/homekit-tv-remote](https://github.com/nikf86/homekit-tv-remote) - HAP-native remote control for HomeKit TVs in Home Assistant with Custom Input & App Switching and functional iOS / iPadOS Remote widget with input change
 - [owenvoke/hass-bazarr](https://github.com/owenvoke/hass-bazarr) - A Bazarr integration for Home Assistant
 - [rodpayne/home-assistant_person_location](https://github.com/rodpayne/home-assistant_person_location) - Combine the status of multiple device trackers; make presence detection not so binary; reverse geocode and make distance calculations.
