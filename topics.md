@@ -679,7 +679,7 @@
 
 ## home-assistant 
 
-- [luuquangvu/blueprints-updater](https://github.com/luuquangvu/blueprints-updater) - Automatically update Home Assistant blueprints via native update entities
+- [luuquangvu/blueprints-updater](https://github.com/luuquangvu/blueprints-updater) - Automatically update Home Assistant blueprints via native update entities.
 - [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
 - [olivierplante/ec-weather](https://github.com/olivierplante/ec-weather) - Environment Canada weather integration for Home Assistant. Current conditions, 48-hour hourly and 7-day daily forecasts, weather alerts, and air quality (AQHI). Includes a built-in Lovelace card with 
 - [snazzybean/roommind](https://github.com/snazzybean/roommind) - Intelligent room climate control for Home Assistant — self-learning MPC, proportional valve control, solar gain modeling
@@ -1156,6 +1156,7 @@
 - [Eugene-Musika/ha_tuya_ble](https://github.com/Eugene-Musika/ha_tuya_ble) - Home Assistant support for Tuya BLE devices
 - [wildenrou/STM-webscrap-for-HomeAssistant](https://github.com/wildenrou/STM-webscrap-for-HomeAssistant) - STM Metro Status is a Python project for residents of the Montreal region using Home Assistant. This script scrapes the STM website to get the real-time status of Montreal's metro lines and updates Ho
 - [pascalgoedeke/ha_tuya_ble](https://github.com/pascalgoedeke/ha_tuya_ble) - Fingerbot Touch support for HA Tuya BLE
+- [UwUDev/francisca](https://github.com/UwUDev/francisca) - High-performance indexer for services using the U2P system written in Rust
 - [agittins/bermuda](https://github.com/agittins/bermuda) - Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
 - [thenextbutton/home_assistant](https://github.com/thenextbutton/home_assistant) - A collection of my home assistant blueprints
 - [DerekSeaman/irk-capture](https://github.com/DerekSeaman/irk-capture) - An ESPHome package to capture Apple and Android Bluetooth IRKs
