@@ -490,7 +490,7 @@
 
 ## Python 
 
-- [luuquangvu/blueprints-updater](https://github.com/luuquangvu/blueprints-updater) - Automatically update Home Assistant blueprints via native update entities
+- [luuquangvu/blueprints-updater](https://github.com/luuquangvu/blueprints-updater) - Automatically update Home Assistant blueprints via native update entities.
 - [jaannnis/arr-clean-not-a-custom-format-score](https://github.com/jaannnis/arr-clean-not-a-custom-format-score) - auto remove "Not a Custom Format upgrade for [...]" from sonarr and radarr
 - [nachtschatt3n/alexa-shopping-list-sync](https://github.com/nachtschatt3n/alexa-shopping-list-sync) - Bidirectional sync between the Amazon Alexa shopping list and Home Assistant's native todo entity. HACS-compatible.
 - [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
@@ -781,6 +781,7 @@
 
 - [ricardodantas/tickit-sync](https://github.com/ricardodantas/tickit-sync) - Self-hosted sync server for Tickit task manager
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
+- [UwUDev/francisca](https://github.com/UwUDev/francisca) - High-performance indexer for services using the U2P system written in Rust
 - [regulatedsyntax/qbfrt](https://github.com/regulatedsyntax/qbfrt) - qBittorrent fastresume tools
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
