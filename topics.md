@@ -336,6 +336,7 @@
 
 ## chrome-extension 
 
+- [dantraynor/tailchrome](https://github.com/dantraynor/tailchrome) - Tailscale browser extension for Chrome, Firefox, and other browsers
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [bogenpirat/remote-torrent-adder](https://github.com/bogenpirat/remote-torrent-adder) - A handy Chrome extension to add torrent files to torrent clients
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -604,6 +605,7 @@
 
 ## golang 
 
+- [dantraynor/tailchrome](https://github.com/dantraynor/tailchrome) - Tailscale browser extension for Chrome, Firefox, and other browsers
 - [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud.
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -1835,6 +1837,7 @@
 
 ## vpn 
 
+- [dantraynor/tailchrome](https://github.com/dantraynor/tailchrome) - Tailscale browser extension for Chrome, Firefox, and other browsers
 - [binhex/arch-qbittorrentvpn](https://github.com/binhex/arch-qbittorrentvpn) - Docker build script for Arch Linux base with qBittorrent, Privoxy and OpenVPN
 
 ## vue 
