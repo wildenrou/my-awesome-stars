@@ -871,6 +871,7 @@
 
 ## TypeScript 
 
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [dantraynor/tailchrome](https://github.com/dantraynor/tailchrome) - Tailscale browser extension for Chrome, Firefox, and other browsers
 - [nloui/paperless-mcp](https://github.com/nloui/paperless-mcp) - An MCP (Model Context Protocol) server for interacting with a Paperless-NGX API server. This server provides tools for managing documents, tags, correspondents, and document types in your Paperless-NG
 - [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - JellyTunes - Sync your Jellyfin music library to USB drives and SD cards. FLAC-to-MP3 conversion, selective sync, per-device history.
