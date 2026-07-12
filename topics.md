@@ -70,6 +70,7 @@
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
+- [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -166,6 +167,7 @@
 
 ## ai 
 
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
@@ -451,6 +453,7 @@
 
 ## docker 
 
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an i
 - [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
@@ -818,6 +821,10 @@
 - [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart integration with SmartThings API Support.
 - [postlund/dlink_hnap](https://github.com/postlund/dlink_hnap) - Experimental integration to Home Assistant supporting D-Link devices
 
+## image-processing 
+
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
+
 ## ios 
 
 - [Jozwiaczek/iphone-alarms-sync](https://github.com/Jozwiaczek/iphone-alarms-sync) - iOS alarms synchronisation custom component for Home Assistant
@@ -1059,6 +1066,7 @@
 
 ## open-source 
 
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - JellyTunes - Sync your Jellyfin music library to USB drives and SD cards. FLAC-to-MP3 conversion, selective sync, per-device history.
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
@@ -1547,6 +1555,7 @@
 
 ## privacy 
 
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -1656,6 +1665,7 @@
 
 ## rest-api 
 
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [alex-jung/ha-departures](https://github.com/alex-jung/ha-departures) - Home Assistant custom component to get departure times of public transport in more as 60 countries.
 - [ruaan-deysel/unraid-management-agent](https://github.com/ruaan-deysel/unraid-management-agent) - Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agen
 - [Ronjar/beszel-ha](https://github.com/Ronjar/beszel-ha) - Beszel (https://beszel.dev) RestAPI integration for HomeAssistant
@@ -1691,6 +1701,7 @@
 
 ## self-hosted 
 
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an i
 - [LavX/jellyfin-plugin-bazarr-plus](https://github.com/LavX/jellyfin-plugin-bazarr-plus) - Jellyfin 10.11+ subtitle provider plugin that proxies searches and downloads to a self-hosted Bazarr+ instance over an OpenSubtitles-compatible REST API.
 - [itz4blitz/Logarr](https://github.com/itz4blitz/Logarr) - Aggregates logs from all your servers, automatically detects and ranks issues by impact, and helps you track them to resolution—all from a single dashboard
@@ -1797,6 +1808,7 @@
 
 ## typescript 
 
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -1825,6 +1837,7 @@
 
 ## video 
 
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and optionally replaces the files via sonarr and radarr
