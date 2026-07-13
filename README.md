@@ -78,6 +78,7 @@
 
 ## C# # 
 
+- [alxnbl/onenote-md-exporter](https://github.com/alxnbl/onenote-md-exporter) - ConsoleApp to export OneNote notebooks to Markdown formats
 - [LavX/jellyfin-plugin-bazarr-plus](https://github.com/LavX/jellyfin-plugin-bazarr-plus) - Jellyfin 10.11+ subtitle provider plugin that proxies searches and downloads to a self-hosted Bazarr+ instance over an OpenSubtitles-compatible REST API.
 - [strain08/LGSTrayEx](https://github.com/strain08/LGSTrayEx) - A tray app used to track battery levels of wireless Logitech mouse.
 - [HarshLabs/jellyfin-plugin-native-trickplay](https://github.com/HarshLabs/jellyfin-plugin-native-trickplay) - 
@@ -305,6 +306,7 @@
 
 ## JavaScript 
 
+- [mohammadfarooqi/canlii-mcp](https://github.com/mohammadfarooqi/canlii-mcp) - Local MCP server for Canadian legal research via CanLII API — search cases, browse legislation, check citations. Works with Claude Desktop & Claude Code.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
 - [axFury/jellyfin-plugin-studio-showcase](https://github.com/axFury/jellyfin-plugin-studio-showcase) - This plugin enhances your Jellyfin interface by adding a beautifully animated row of studios and franchises directly on your Jellyfin home page.
@@ -871,6 +873,7 @@
 
 ## TypeScript 
 
+- [Alhwyn/canlii-mcp](https://github.com/Alhwyn/canlii-mcp) - canlii mcp for people in law in canada
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [dantraynor/tailchrome](https://github.com/dantraynor/tailchrome) - Tailscale browser extension for Chrome, Firefox, and other browsers
 - [nloui/paperless-mcp](https://github.com/nloui/paperless-mcp) - An MCP (Model Context Protocol) server for interacting with a Paperless-NGX API server. This server provides tools for managing documents, tags, correspondents, and document types in your Paperless-NG
