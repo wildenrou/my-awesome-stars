@@ -963,7 +963,7 @@
 - [eightHundreds/obsidian-dida-sync](https://github.com/eightHundreds/obsidian-dida-sync) - 滴答清单同步到obsidian(ticktick sync to obsidian)
 - [LBF38/obsidian-syncthing-integration](https://github.com/LBF38/obsidian-syncthing-integration) - Obsidian plugin for Syncthing integration
 - [mddevils/floccus-bookmarks-to-markdown](https://github.com/mddevils/floccus-bookmarks-to-markdown) - 
-- [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) - 
+- [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) - Bidirectional synchronization between Obsidian and TickTick. Mobile compatible.
 - [viduycheung/ticktick-obsidian](https://github.com/viduycheung/ticktick-obsidian) - 
 - [plasticrake/tplink-smarthome-api](https://github.com/plasticrake/tplink-smarthome-api) - TP-Link Smarthome WiFi API
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
