@@ -1050,6 +1050,7 @@
 - [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
 - [eightHundreds/obsidian-dida-sync](https://github.com/eightHundreds/obsidian-dida-sync) - 滴答清单同步到obsidian(ticktick sync to obsidian)
 - [LBF38/obsidian-syncthing-integration](https://github.com/LBF38/obsidian-syncthing-integration) - Obsidian plugin for Syncthing integration
+- [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) - Bidirectional synchronization between Obsidian and TickTick. Mobile compatible.
 
 ## obsidian-md 
 
@@ -1069,6 +1070,7 @@
 - [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
 - [eightHundreds/obsidian-dida-sync](https://github.com/eightHundreds/obsidian-dida-sync) - 滴答清单同步到obsidian(ticktick sync to obsidian)
 - [LBF38/obsidian-syncthing-integration](https://github.com/LBF38/obsidian-syncthing-integration) - Obsidian plugin for Syncthing integration
+- [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) - Bidirectional synchronization between Obsidian and TickTick. Mobile compatible.
 
 ## open-source 
 
@@ -1497,7 +1499,6 @@
 - [malhashemi/Obsidian-Outlook](https://github.com/malhashemi/Obsidian-Outlook) - 
 - [hsand/pia-wg](https://github.com/hsand/pia-wg) - A WireGuard configuration utility for Private Internet Access
 - [mddevils/floccus-bookmarks-to-markdown](https://github.com/mddevils/floccus-bookmarks-to-markdown) - 
-- [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) - 
 - [viduycheung/ticktick-obsidian](https://github.com/viduycheung/ticktick-obsidian) - 
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [kshoichi/HomeAssistantApplianceCard](https://github.com/kshoichi/HomeAssistantApplianceCard) - Yaml for a lovelace appliance card
