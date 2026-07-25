@@ -464,7 +464,7 @@
 - [unraid/unraid-tailscale](https://github.com/unraid/unraid-tailscale) - Installs Tailscale as an unRAID plugin. This allows connection via Tailscale even if the array is stopped.
 - [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [mmatongo/unraid-cloudflared](https://github.com/mmatongo/unraid-cloudflared) - Installs Cloudflared as an unRAID plugin.
-- [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) - Self-hosted, open-source dashboard for your sports and fitness data
+- [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) - Dreeve is a self-hosted, open-source dashboard for your sports and fitness data
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [Commifreak/unraid-appdata.backup](https://github.com/Commifreak/unraid-appdata.backup) - UNRAID AppData backup plugin
@@ -492,6 +492,8 @@
 
 ## Python 
 
+- [kennym/find-my-timeline](https://github.com/kennym/find-my-timeline) - Track the location of your Apple Devices in Find My. Everything stored locally!
+- [heckpiet/find-my-timeline-unraid](https://github.com/heckpiet/find-my-timeline-unraid) - a fork for the Unraid Community Apps Store
 - [luuquangvu/blueprints-updater](https://github.com/luuquangvu/blueprints-updater) - Automatically update Home Assistant blueprints via native update entities.
 - [jaannnis/arr-clean-not-a-custom-format-score](https://github.com/jaannnis/arr-clean-not-a-custom-format-score) - auto remove "Not a Custom Format upgrade for [...]" from sonarr and radarr
 - [nachtschatt3n/alexa-shopping-list-sync](https://github.com/nachtschatt3n/alexa-shopping-list-sync) - Bidirectional sync between the Amazon Alexa shopping list and Home Assistant's native todo entity. HACS-compatible.
@@ -624,7 +626,7 @@
 - [FifiTheBulldog/ios-settings-urls](https://github.com/FifiTheBulldog/ios-settings-urls) - A collection of iOS Settings URLs
 - [OHF-Voice/speech-to-phrase](https://github.com/OHF-Voice/speech-to-phrase) - Fast and personalized local speech-to-text
 - [v6ak/sonicare-ble-hacs](https://github.com/v6ak/sonicare-ble-hacs) - Sonicare BLE HACS integration
-- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - A home assistant generative agent integration based on langchain and langgraph.
+- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - AI agent for Home Assistant — talk to your home, create automations in plain English, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.
 - [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
 - [RonSchofield/hass-chs](https://github.com/RonSchofield/hass-chs) - Canadian Hydrographic Service Water Levels integration into Home Assistant
 - [normcyr/home-assistant-montreal-aqi](https://github.com/normcyr/home-assistant-montreal-aqi) - Home Assistant custom component to get the air quality index for the city of Montréal, Québec (Canada)
