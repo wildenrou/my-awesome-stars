@@ -421,7 +421,7 @@
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-- [LizardByte/Themerr-jellyfin](https://github.com/LizardByte/Themerr-jellyfin) - Plugin for Jellyfin that adds theme songs to movies and tv shows using ThemerrDB.
+- [LizardByte/Themerr-jellyfin](https://github.com/LizardByte/Themerr-jellyfin) - Jellyfin theme song plugin using ThemerrDB.
 - [stevencohn/OneMore](https://github.com/stevencohn/OneMore) - A OneNote add-in with simple, yet powerful and useful features
 
 ## css 
@@ -496,7 +496,7 @@
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container) - Run the Backblaze personal backup client in a docker container
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
-- [LizardByte/Themerr-jellyfin](https://github.com/LizardByte/Themerr-jellyfin) - Plugin for Jellyfin that adds theme songs to movies and tv shows using ThemerrDB.
+- [LizardByte/Themerr-jellyfin](https://github.com/LizardByte/Themerr-jellyfin) - Jellyfin theme song plugin using ThemerrDB.
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 
 ## dotnet 
@@ -1636,7 +1636,7 @@
 - [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa) - 🏠🤖 Python API for TP-Link smarthome products
 - [jmcollin78/versatile_thermostat](https://github.com/jmcollin78/versatile_thermostat) - A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-- [LizardByte/Themerr-jellyfin](https://github.com/LizardByte/Themerr-jellyfin) - Plugin for Jellyfin that adds theme songs to movies and tv shows using ThemerrDB.
+- [LizardByte/Themerr-jellyfin](https://github.com/LizardByte/Themerr-jellyfin) - Jellyfin theme song plugin using ThemerrDB.
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
