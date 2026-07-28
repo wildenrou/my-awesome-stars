@@ -171,7 +171,7 @@
 
 - [mohammadfarooqi/canlii-mcp](https://github.com/mohammadfarooqi/canlii-mcp) - Local MCP server for Canadian legal research via CanLII API — search cases, browse legislation, check citations. Works with Claude Desktop & Claude Code.
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
-- [dinglebear-ai/unraid-mcp](https://github.com/dinglebear-ai/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
+- [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [LunalFresh/MetaMender](https://github.com/LunalFresh/MetaMender) - MetaMender is a lightweight, AI-powered metadata enhancer for Jellyfin.   It enriches your media library by rewriting short or missing overviews for music items using OpenAI. No servers, no Docker, no
@@ -368,7 +368,7 @@
 
 ## claude-code 
 
-- [dinglebear-ai/unraid-mcp](https://github.com/dinglebear-ai/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
+- [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
 - [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
@@ -463,7 +463,7 @@
 
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
 - [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an i
-- [dinglebear-ai/unraid-mcp](https://github.com/dinglebear-ai/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
+- [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
@@ -513,7 +513,7 @@
 
 ## electron 
 
-- [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - JellyTunes - Sync your Jellyfin music library to USB drives and SD cards. FLAC-to-MP3 conversion, selective sync, per-device history.
+- [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - Take your Jellyfin music offline on MP3 players and storage devices
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
 - [jellyfin-labs/jellyamp](https://github.com/jellyfin-labs/jellyamp) - Desktop client for listening to music from a Jellyfin server
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -643,7 +643,7 @@
 
 ## graphql 
 
-- [dinglebear-ai/unraid-mcp](https://github.com/dinglebear-ai/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
+- [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [ruaan-deysel/ha-unraid](https://github.com/ruaan-deysel/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
 
@@ -923,7 +923,7 @@
 
 ## llm 
 
-- [dinglebear-ai/unraid-mcp](https://github.com/dinglebear-ai/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
+- [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
@@ -983,7 +983,7 @@
 - [mohammadfarooqi/canlii-mcp](https://github.com/mohammadfarooqi/canlii-mcp) - Local MCP server for Canadian legal research via CanLII API — search cases, browse legislation, check citations. Works with Claude Desktop & Claude Code.
 - [Alhwyn/canlii-mcp](https://github.com/Alhwyn/canlii-mcp) - canlii mcp for people in law in canada
 - [nloui/paperless-mcp](https://github.com/nloui/paperless-mcp) - An MCP (Model Context Protocol) server for interacting with a Paperless-NGX API server. This server provides tools for managing documents, tags, correspondents, and document types in your Paperless-NG
-- [dinglebear-ai/unraid-mcp](https://github.com/dinglebear-ai/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
+- [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
@@ -1012,7 +1012,7 @@
 
 ## music 
 
-- [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - JellyTunes - Sync your Jellyfin music library to USB drives and SD cards. FLAC-to-MP3 conversion, selective sync, per-device history.
+- [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - Take your Jellyfin music offline on MP3 players and storage devices
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
@@ -1081,7 +1081,7 @@
 ## open-source 
 
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
-- [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - JellyTunes - Sync your Jellyfin music library to USB drives and SD cards. FLAC-to-MP3 conversion, selective sync, per-device history.
+- [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - Take your Jellyfin music offline on MP3 players and storage devices
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
@@ -1604,7 +1604,7 @@
 
 - [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
 - [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an i
-- [dinglebear-ai/unraid-mcp](https://github.com/dinglebear-ai/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
+- [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [HA-Pulse/home-assistant-global-health-score](https://github.com/HA-Pulse/home-assistant-global-health-score) - The open standard for Home Assistant instance health monitoring.
 - [hiall-fyi/ha-cleanup](https://github.com/hiall-fyi/ha-cleanup) - 🧹 Home Assistant cleanup script - Remove orphaned entities, clean registries, purge old database records
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
@@ -1725,7 +1725,7 @@
 - [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an i
 - [LavX/jellyfin-plugin-bazarr-plus](https://github.com/LavX/jellyfin-plugin-bazarr-plus) - Jellyfin 10.11+ subtitle provider plugin that proxies searches and downloads to a self-hosted Bazarr+ instance over an OpenSubtitles-compatible REST API.
 - [itz4blitz/Logarr](https://github.com/itz4blitz/Logarr) - Aggregates logs from all your servers, automatically detects and ranks issues by impact, and helps you track them to resolution—all from a single dashboard
-- [dinglebear-ai/unraid-mcp](https://github.com/dinglebear-ai/unraid-mcp) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
+- [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [slimcdk/subsarr](https://github.com/slimcdk/subsarr) - Subsarr lets you self-host the full Subscene archive and use it as a subtitle source in Bazarr
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
