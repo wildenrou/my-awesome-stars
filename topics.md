@@ -1111,6 +1111,7 @@
 
 ## others 
 
+- [Caleb68864/SlingMD](https://github.com/Caleb68864/SlingMD) - Tools for Use with ObsidianMD
 - [kennym/find-my-timeline](https://github.com/kennym/find-my-timeline) - Track the location of your Apple Devices in Find My. Everything stored locally!
 - [heckpiet/find-my-timeline-unraid](https://github.com/heckpiet/find-my-timeline-unraid) - a fork for the Unraid Community Apps Store
 - [gouwsxander/Apple-Intelligence-API](https://github.com/gouwsxander/Apple-Intelligence-API) - A Web API for Apple Intelligence
