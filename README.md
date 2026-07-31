@@ -78,6 +78,7 @@
 
 ## C# # 
 
+- [gabryk91/Indexarr](https://github.com/gabryk91/Indexarr) - Prowlarr indexer automatic dashboard
 - [Caleb68864/SlingMD](https://github.com/Caleb68864/SlingMD) - Tools for Use with ObsidianMD
 - [alxnbl/onenote-md-exporter](https://github.com/alxnbl/onenote-md-exporter) - ConsoleApp to export OneNote notebooks to Markdown formats
 - [LavX/jellyfin-plugin-bazarr-plus](https://github.com/LavX/jellyfin-plugin-bazarr-plus) - Jellyfin 10.11+ subtitle provider plugin that proxies searches and downloads to a self-hosted Bazarr+ instance over an OpenSubtitles-compatible REST API.
@@ -307,6 +308,7 @@
 
 ## JavaScript 
 
+- [ezwep/chatgpt-exporter](https://github.com/ezwep/chatgpt-exporter) - Self-hosted ChatGPT backup tool — export all your conversations, projects (with files), and custom GPTs as JSON, Markdown and HTML. Zero dependencies, runs locally with a web UI.
 - [mohammadfarooqi/canlii-mcp](https://github.com/mohammadfarooqi/canlii-mcp) - Local MCP server for Canadian legal research via CanLII API — search cases, browse legislation, check citations. Works with Claude Desktop & Claude Code.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray) - Run Obsidian from the system tray for customisable window management & global quick notes
@@ -546,7 +548,7 @@
 - [rodpayne/home-assistant_person_location](https://github.com/rodpayne/home-assistant_person_location) - Combine the status of multiple device trackers; make presence detection not so binary; reverse geocode and make distance calculations.
 - [malmeloo/hass-FindMy](https://github.com/malmeloo/hass-FindMy) - Custom Home Assistant integration for Apple's FindMy network.
 - [biemster/FindMy](https://github.com/biemster/FindMy) - Query Apple's Find My network
-- [Dregi56/digital_pendulum](https://github.com/Dregi56/digital_pendulum) - Speaking clock for Home Assistant and Alexa
+- [Dregi56/digital_pendulum](https://github.com/Dregi56/digital_pendulum) - Speaking clock for Home Assistant and Alexa or any other media_player device
 - [zopanix/bromont-ha-integration](https://github.com/zopanix/bromont-ha-integration) - A Home Assistant custom integration that provides real-time ski conditions from Bromont Mountain (Ski Bromont) in Quebec, Canada.
 - [moerk-o/WhenHub](https://github.com/moerk-o/WhenHub) - Home Assistant integration for tracking dates of multi-day trips (e.g. vacations), one-time or recurring events (like birthdays), and special holidays like DST dates. Provides various sensors includin
 - [Eugene-Musika/ha_tuya_ble](https://github.com/Eugene-Musika/ha_tuya_ble) - Home Assistant support for Tuya BLE devices
