@@ -694,6 +694,7 @@
 
 ## home-assistant 
 
+- [ideaalab/gui-recorder](https://github.com/ideaalab/gui-recorder) - Home Assistant custom component: manage recorder config and DB maintenance from a sidebar GUI panel (SQLite only)
 - [luuquangvu/blueprints-updater](https://github.com/luuquangvu/blueprints-updater) - Automatically update Home Assistant blueprints via native update entities.
 - [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
 - [olivierplante/ec-weather](https://github.com/olivierplante/ec-weather) - Environment Canada weather integration for Home Assistant. Current conditions, 48-hour hourly and 7-day daily forecasts, weather alerts, and air quality (AQHI). Includes a built-in Lovelace card with 
