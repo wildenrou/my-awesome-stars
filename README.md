@@ -308,6 +308,7 @@
 
 ## JavaScript 
 
+- [ideaalab/gui-recorder](https://github.com/ideaalab/gui-recorder) - Home Assistant custom component: manage recorder config and DB maintenance from a sidebar GUI panel (SQLite only)
 - [ezwep/chatgpt-exporter](https://github.com/ezwep/chatgpt-exporter) - Self-hosted ChatGPT backup tool — export all your conversations, projects (with files), and custom GPTs as JSON, Markdown and HTML. Zero dependencies, runs locally with a web UI.
 - [mohammadfarooqi/canlii-mcp](https://github.com/mohammadfarooqi/canlii-mcp) - Local MCP server for Canadian legal research via CanLII API — search cases, browse legislation, check citations. Works with Claude Desktop & Claude Code.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
