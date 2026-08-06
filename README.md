@@ -79,6 +79,7 @@
 
 ## C# # 
 
+- [Kuschel-code/JellyfinUpscalerPlugin](https://github.com/Kuschel-code/JellyfinUpscalerPlugin) - JellyfinUpscalerPlugin
 - [gabryk91/Indexarr](https://github.com/gabryk91/Indexarr) - Prowlarr indexer automatic dashboard
 - [Caleb68864/SlingMD](https://github.com/Caleb68864/SlingMD) - Tools for Use with ObsidianMD
 - [alxnbl/onenote-md-exporter](https://github.com/alxnbl/onenote-md-exporter) - ConsoleApp to export OneNote notebooks to Markdown formats
@@ -526,7 +527,7 @@
 - [gregt1993/Health_Bridge](https://github.com/gregt1993/Health_Bridge) - Home Assistant integration to work alongside the Health Assistant Link app
 - [pickpppcc/qbittorrent-mcp](https://github.com/pickpppcc/qbittorrent-mcp) - 
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
-- [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/registry/plugins
+- [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/registry/plugins
 - [KipK/ha_entity_explorer](https://github.com/KipK/ha_entity_explorer) - A standalone web application to explore and visualize data history of any Home Assistant entity and its attributes
 - [GaillardTom/SherbrookePoubelle-HA](https://github.com/GaillardTom/SherbrookePoubelle-HA) - Integration pour le calendrier des poubelles dans home assistant pour la ville de sherbrooke.
 - [Perrotn/homeassistant-stm](https://github.com/Perrotn/homeassistant-stm) - Home Assistant integration for STM (Société de transport de Montréal) real-time transit data
