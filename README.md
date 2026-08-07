@@ -367,7 +367,7 @@
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
 - [Deejayfool/hass-shutter-card](https://github.com/Deejayfool/hass-shutter-card) - Shutter card for Home Assistant Lovelace UI
 - [jbfournot/BIXI-Siri-Shortcuts](https://github.com/jbfournot/BIXI-Siri-Shortcuts) - Ce dépôt est lié à cet article que j'ai publié sur Medium : J'automatise, tu automatises, nous … sur mon, ton, nos iDevice. J'avais le besoin très régulier de connaître le nombre de BIXI, vélos en lib
-- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
+- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules.
 - [tsightler/ring-mqtt](https://github.com/tsightler/ring-mqtt) - Ring devices to MQTT Bridge
 - [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
 - [RossMcMillan92/lovelace-collapsable-cards](https://github.com/RossMcMillan92/lovelace-collapsable-cards) - A custom Lovelace card that hides other cards behind a dropdown toggle
