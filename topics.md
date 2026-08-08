@@ -428,6 +428,7 @@
 
 ## css 
 
+- [tromoSM/better-jellyfin-ui](https://github.com/tromoSM/better-jellyfin-ui) - a better user interface for jellyfin.
 - [Jellyfin-PG/Mod-Manager](https://github.com/Jellyfin-PG/Mod-Manager) - A mod manager, both css and js mods for jellyfin 10.11+
 - [Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid](https://github.com/Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid) - Display IMDb or JF episode ratings in a heatmap-style grid on Jellyfin series pages using the Jellyfin JavaScript Injector. Drop-down menu to avoid spoilers. Linked to the episode page.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -1858,6 +1859,7 @@
 
 ## ui 
 
+- [tromoSM/better-jellyfin-ui](https://github.com/tromoSM/better-jellyfin-ui) - a better user interface for jellyfin.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## userscript 
