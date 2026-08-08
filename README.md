@@ -199,6 +199,7 @@
 
 ## CSS 
 
+- [tromoSM/better-jellyfin-ui](https://github.com/tromoSM/better-jellyfin-ui) - a better user interface for jellyfin.
 - [masterwishx/folder.view.custom.css](https://github.com/masterwishx/folder.view.custom.css) - Customized CSS for the Folder.View plugin by scolcipitato.
 - [KBH-Reeper/GlassFin](https://github.com/KBH-Reeper/GlassFin) - Jellyfin Theme designed around transparency and to resemble glass
 - [dohnutt/unraid-gui-responsive](https://github.com/dohnutt/unraid-gui-responsive) - Style overrides for Unraid GUI for responsive design
