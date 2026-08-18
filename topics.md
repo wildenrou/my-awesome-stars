@@ -719,6 +719,7 @@
 - [mattiagosetto9/ha-voice-assistant-manager](https://github.com/mattiagosetto9/ha-voice-assistant-manager) - Home Assistant custom integration to manage Google Assistant, Alexa, and HomeKit entity exposure
 - [bytePatrol/FollowMyFriends](https://github.com/bytePatrol/FollowMyFriends) - Bridge Apple Find My friend locations to Home Assistant via MQTT — native macOS app, no cloud required
 - [mtheli/philips_sonicare_ble](https://github.com/mtheli/philips_sonicare_ble) - Philips Sonicare BLE integration for Home Assistant — real-time brushing data via Bluetooth or ESP32 bridge
+- [nikf86/homekit-tv-remote](https://github.com/nikf86/homekit-tv-remote) - HAP-native remote control for HomeKit TVs in Home Assistant with Custom Input & App Switching and functional iOS / iPadOS Remote widget with input change
 - [MrSuicideParrot/hassio-speedtest-addon](https://github.com/MrSuicideParrot/hassio-speedtest-addon) - SpeedTest Home Assistant addon
 - [owenvoke/hass-bazarr](https://github.com/owenvoke/hass-bazarr) - A Bazarr integration for Home Assistant
 - [rodpayne/home-assistant_person_location](https://github.com/rodpayne/home-assistant_person_location) - Combine the status of multiple device trackers; make presence detection not so binary; reverse geocode and make distance calculations.
@@ -1179,7 +1180,6 @@
 - [finder39/dockge](https://github.com/finder39/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [ruaan-deysel/vault](https://github.com/ruaan-deysel/vault) - Vault is a backup and restore daemon for Unraid servers. It protects Docker containers, VMs, ZFS datasets, folders, and plugins by backing them up to different storage destinations — local disk, SFTP,
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
-- [nikf86/homekit-tv-remote](https://github.com/nikf86/homekit-tv-remote) - HAP-native remote control for HomeKit TVs in Home Assistant with Custom Input & App Switching and functional iOS / iPadOS Remote widget with input change
 - [Noir1992/jellyfin-trickplay-folder-cleaner](https://github.com/Noir1992/jellyfin-trickplay-folder-cleaner) - This is a Jellyfin plugin that deletes .trickplay folders that no longer have a corresponding media file.
 - [desertwitch/sesmon](https://github.com/desertwitch/sesmon) - sesmon is a monitoring and alerting daemon for SES-capable SCSI enclosures.
 - [masterwishx/folder.view.custom.css](https://github.com/masterwishx/folder.view.custom.css) - Customized CSS for the Folder.View plugin by scolcipitato.
