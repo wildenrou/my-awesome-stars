@@ -832,7 +832,7 @@
 - [moralmunky/Home-Assistant-Mail-And-Packages](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) - Home Assistant integration providing day of package counts and USPS informed delivery images.
 - [custom-components/ble_monitor](https://github.com/custom-components/ble_monitor) - BLE monitor for passive BLE sensors
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
-- [hassio-addons/addon-motioneye](https://github.com/hassio-addons/addon-motioneye) - motionEye - Home Assistant Community Add-ons
+- [hassio-addons/app-motioneye](https://github.com/hassio-addons/app-motioneye) - motionEye - Home Assistant Community Apps
 - [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart integration with SmartThings API Support.
 - [postlund/dlink_hnap](https://github.com/postlund/dlink_hnap) - Experimental integration to Home Assistant supporting D-Link devices
 
@@ -1122,6 +1122,7 @@
 
 ## others 
 
+- [iamfoz/backblaze-64-personal-wine-container](https://github.com/iamfoz/backblaze-64-personal-wine-container) - Run the Backblaze personal backup client in a docker container
 - [Kuschel-code/JellyfinUpscalerPlugin](https://github.com/Kuschel-code/JellyfinUpscalerPlugin) - JellyfinUpscalerPlugin
 - [wizier/airvault](https://github.com/wizier/airvault) - Self-hosted backup server for iPhone
 - [gabryk91/Indexarr](https://github.com/gabryk91/Indexarr) - Prowlarr indexer automatic dashboard
