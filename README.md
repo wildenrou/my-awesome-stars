@@ -237,6 +237,7 @@
 - [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [pierlon/scrcpy-docker](https://github.com/pierlon/scrcpy-docker) - Easily run scrcpy with Docker
+- [hassio-addons/app-motioneye](https://github.com/hassio-addons/app-motioneye) - motionEye - Home Assistant Community Apps
 
 ## Elixir 
 
@@ -391,7 +392,6 @@
 ## Jinja 
 
 - [casse-boubou/addon-rustdesk-server](https://github.com/casse-boubou/addon-rustdesk-server) - RustDesk-Server pour Home Assistant
-- [hassio-addons/addon-motioneye](https://github.com/hassio-addons/addon-motioneye) - motionEye - Home Assistant Community Add-ons
 
 ## Jupyter Notebook 
 
@@ -499,6 +499,7 @@
 
 ## Python 
 
+- [iamfoz/backblaze-64-personal-wine-container](https://github.com/iamfoz/backblaze-64-personal-wine-container) - Run the Backblaze personal backup client in a docker container
 - [prestomation/ha-home-keeper](https://github.com/prestomation/ha-home-keeper) - Home Keeper is a Home Assistant plugin for tracking home maintenance and chores with deep HA integration
 - [kennym/find-my-timeline](https://github.com/kennym/find-my-timeline) - Track the location of your Apple Devices in Find My. Everything stored locally!
 - [heckpiet/find-my-timeline-unraid](https://github.com/heckpiet/find-my-timeline-unraid) - a fork for the Unraid Community Apps Store
