@@ -79,6 +79,7 @@
 
 ## C# # 
 
+- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr) - An audiobook and eBook collection manager.
 - [Kuschel-code/JellyfinUpscalerPlugin](https://github.com/Kuschel-code/JellyfinUpscalerPlugin) - JellyfinUpscalerPlugin
 - [gabryk91/Indexarr](https://github.com/gabryk91/Indexarr) - Prowlarr indexer automatic dashboard
 - [Caleb68864/SlingMD](https://github.com/Caleb68864/SlingMD) - Tools for Use with ObsidianMD
@@ -230,7 +231,7 @@
 - [zachatrocity/docker-beeper](https://github.com/zachatrocity/docker-beeper) - A self hosted beeper desktop app running in your web browser
 - [MrSuicideParrot/hassio-speedtest-addon](https://github.com/MrSuicideParrot/hassio-speedtest-addon) - SpeedTest Home Assistant addon
 - [Obamium69/hassio-beszel_agent](https://github.com/Obamium69/hassio-beszel_agent) - 
-- [hassio-addons/addon-mqtt-io](https://github.com/hassio-addons/addon-mqtt-io) - MQTT IO - Home Assistant Community Add-ons
+- [hassio-addons/app-mqtt-io](https://github.com/hassio-addons/app-mqtt-io) - MQTT IO - Home Assistant Community Apps
 - [linuxserver/docker-socket-proxy](https://github.com/linuxserver/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [linuxserver/docker-spotube](https://github.com/linuxserver/docker-spotube) - Web accessible Spotube inside a Debian Container
 - [jehy/hass-addons](https://github.com/jehy/hass-addons) - This is a repository for my own home assistant addons
@@ -499,6 +500,7 @@
 
 ## Python 
 
+- [L3t4l3s/home-tasks](https://github.com/L3t4l3s/home-tasks) - A feature-rich task management integration for Home Assistant
 - [iamfoz/backblaze-64-personal-wine-container](https://github.com/iamfoz/backblaze-64-personal-wine-container) - Run the Backblaze personal backup client in a docker container
 - [prestomation/ha-home-keeper](https://github.com/prestomation/ha-home-keeper) - Home Keeper is a Home Assistant plugin for tracking home maintenance and chores with deep HA integration
 - [kennym/find-my-timeline](https://github.com/kennym/find-my-timeline) - Track the location of your Apple Devices in Find My. Everything stored locally!
