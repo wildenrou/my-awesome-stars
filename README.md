@@ -500,6 +500,8 @@
 
 ## Python 
 
+- [LeonMusCoden/LetterFeed](https://github.com/LeonMusCoden/LetterFeed) - Convert email newsletters into RSS feeds
+- [northernpowerhouse/rotatarr](https://github.com/northernpowerhouse/rotatarr) - Prowlarr indexer fixer
 - [L3t4l3s/home-tasks](https://github.com/L3t4l3s/home-tasks) - A feature-rich task management integration for Home Assistant
 - [iamfoz/backblaze-64-personal-wine-container](https://github.com/iamfoz/backblaze-64-personal-wine-container) - Run the Backblaze personal backup client in a docker container
 - [prestomation/ha-home-keeper](https://github.com/prestomation/ha-home-keeper) - Home Keeper is a Home Assistant plugin for tracking home maintenance and chores with deep HA integration
