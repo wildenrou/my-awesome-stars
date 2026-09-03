@@ -316,6 +316,7 @@
 
 ## JavaScript 
 
+- [ofilis/codex-ha-bridge](https://github.com/ofilis/codex-ha-bridge) - Publishes OpenAI Codex usage limits to Home Assistant via MQTT, including 5-hour and weekly reset times.
 - [Ildana-ai/actual2ics](https://github.com/Ildana-ai/actual2ics) - Your Actual Budget schedules as an .ics calendar feed — local, read-only, no server changes
 - [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 71 tools for transactions, budgets, rules, and
 - [ideaalab/gui-recorder](https://github.com/ideaalab/gui-recorder) - Home Assistant custom component: manage recorder config and DB maintenance from a sidebar GUI panel (SQLite only)
@@ -506,6 +507,7 @@
 
 ## Python 
 
+- [bjrnptrsn/climate_group_helper](https://github.com/bjrnptrsn/climate_group_helper) - Climate Group Helper for Home Assistant: Control multiple thermostats, ACs and heaters as one.  Includes TRV calibration, window & presence control, schedule automation, and advanced sync modes.  A po
 - [hudsonbrendon/ha-apple-ble](https://github.com/hudsonbrendon/ha-apple-ble) - Home Assistant (HACS) integration for AirPods battery and nearby Apple device presence over BLE
 - [JayDeeCo-Limited/homekit-climate-plus](https://github.com/JayDeeCo-Limited/homekit-climate-plus) - Home Assistant HACS custom component: one Apple HomeKit accessory per climate entity, with linked fan, swing, preset, and sensor services.
 - [LeonMusCoden/LetterFeed](https://github.com/LeonMusCoden/LetterFeed) - Convert email newsletters into RSS feeds
@@ -541,7 +543,7 @@
 - [gregt1993/Health_Bridge](https://github.com/gregt1993/Health_Bridge) - Home Assistant integration to work alongside the Health Assistant Link app
 - [pickpppcc/qbittorrent-mcp](https://github.com/pickpppcc/qbittorrent-mcp) - 
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
-- [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/registry/plugins
+- [hashgraph-online/awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins
 - [KipK/ha_entity_explorer](https://github.com/KipK/ha_entity_explorer) - A standalone web application to explore and visualize data history of any Home Assistant entity and its attributes
 - [GaillardTom/SherbrookePoubelle-HA](https://github.com/GaillardTom/SherbrookePoubelle-HA) - Integration pour le calendrier des poubelles dans home assistant pour la ville de sherbrooke.
 - [Perrotn/homeassistant-stm](https://github.com/Perrotn/homeassistant-stm) - Home Assistant integration for STM (Société de transport de Montréal) real-time transit data
@@ -824,6 +826,7 @@
 
 ## Shell 
 
+- [ambient-home-systems/ha-codex](https://github.com/ambient-home-systems/ha-codex) - Codex app that runs in Home Assistant OS as an app.
 - [lmagyar/homeassistant-addon-tailscale-beta](https://github.com/lmagyar/homeassistant-addon-tailscale-beta) - [BETA] Adds some functionality to the Tailscale Home Assistant Community Add-on https://github.com/hassio-addons/addon-tailscale
 - [matthewhadley/homeassistant-beszel-agent](https://github.com/matthewhadley/homeassistant-beszel-agent) - 
 - [hernandito/unRAID-Docker-Reports](https://github.com/hernandito/unRAID-Docker-Reports) - 
@@ -876,6 +879,7 @@
 
 ## Swift 
 
+- [vgmoose/OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor) - A free program for extracting data (like voicemails) from iPhone and iPad backups.
 - [gouwsxander/Apple-Intelligence-API](https://github.com/gouwsxander/Apple-Intelligence-API) - A Web API for Apple Intelligence
 - [bytePatrol/FollowMyFriends](https://github.com/bytePatrol/FollowMyFriends) - Bridge Apple Find My friend locations to Home Assistant via MQTT — native macOS app, no cloud required
 - [cleverdevil/iCloudBridge](https://github.com/cleverdevil/iCloudBridge) - A macOS menu bar application that exposes selected parts of your iCloud data via a REST API.
