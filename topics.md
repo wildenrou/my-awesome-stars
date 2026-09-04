@@ -184,6 +184,7 @@
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [LAB02-Research/DeepL-Translator](https://github.com/LAB02-Research/DeepL-Translator) - Windows GUI client for the DeepL translation API, both free and pro. Supports text, documents and webpages.
 - [rabrain/ai-chat](https://github.com/rabrain/ai-chat) - Open AI Chat Bot in the Menu Bar: ChatGPT desktop app for Windows, Mac, and Linux
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [Podginator/TickGPTick](https://github.com/Podginator/TickGPTick) - TickGPTick Integration
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -682,7 +683,6 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules.
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -700,6 +700,10 @@
 
 ## home-assistant 
 
+- [naniguggilapu/frigateane](https://github.com/naniguggilapu/frigateane) - Run Frigate object detection on Apple Neural Engine — native macOS app with one-window setup for MQTT/Home Assistant, storage, cameras & models
+- [mrvautin/ha-workouts](https://github.com/mrvautin/ha-workouts) - Home Assistant integration for Garmin, Strava, and Apple Health workout data with long-term statistics charting
+- [NylonDiamond/homeassistant-wrist-assistant](https://github.com/NylonDiamond/homeassistant-wrist-assistant) - Home Assistant custom integration for Wrist Assistant — Home Assistant on your Apple Watch
+- [doctorspreter/HealthPit](https://github.com/doctorspreter/HealthPit) - Healthdata sync with Apple Health, Home Assistant, Gympit etc.
 - [bjrnptrsn/climate_group_helper](https://github.com/bjrnptrsn/climate_group_helper) - Climate Group Helper for Home Assistant: Control multiple thermostats, ACs and heaters as one.  Includes TRV calibration, window & presence control, schedule automation, and advanced sync modes.  A po
 - [Nezz/homeassistant-visionos-theme](https://github.com/Nezz/homeassistant-visionos-theme) - Theme inspired by visionOS for Home Assistant
 - [hudsonbrendon/ha-apple-ble](https://github.com/hudsonbrendon/ha-apple-ble) - Home Assistant (HACS) integration for AirPods battery and nearby Apple device presence over BLE
@@ -884,7 +888,6 @@
 
 ## javascript 
 
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [Jellyfin-PG/Mod-Manager](https://github.com/Jellyfin-PG/Mod-Manager) - A mod manager, both css and js mods for jellyfin 10.11+
 - [Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid](https://github.com/Damocles-fr/jellyfin-imdb-episodes-heatmap-ratings-grid) - Display IMDb or JF episode ratings in a heatmap-style grid on Jellyfin series pages using the Jellyfin JavaScript Injector. Drop-down menu to avoid spoilers. Linked to the episode page.
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
@@ -950,6 +953,7 @@
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [rabrain/ai-chat](https://github.com/rabrain/ai-chat) - Open AI Chat Bot in the Menu Bar: ChatGPT desktop app for Windows, Mac, and Linux
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for ICML 2024 paper, NExT-GPT: Any-to-Any Multimodal Large Language Model
 - [Podginator/TickGPTick](https://github.com/Podginator/TickGPTick) - TickGPTick Integration
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -966,6 +970,7 @@
 
 ## macos 
 
+- [naniguggilapu/frigateane](https://github.com/naniguggilapu/frigateane) - Run Frigate object detection on Apple Neural Engine — native macOS app with one-window setup for MQTT/Home Assistant, storage, cameras & models
 - [bytePatrol/FollowMyFriends](https://github.com/bytePatrol/FollowMyFriends) - Bridge Apple Find My friend locations to Home Assistant via MQTT — native macOS app, no cloud required
 - [airy10/FindMyDevices](https://github.com/airy10/FindMyDevices) - Send FindMy devices and items (AirTag) locations to Home Assistant
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
@@ -1134,6 +1139,10 @@
 
 ## others 
 
+- [andrazspolaric/home-assistant-custom-cards](https://github.com/andrazspolaric/home-assistant-custom-cards) - Custom Home Assistant dashboard cards for air quality monitoring, climate tracking, and smart home controls
+- [bexelbie/presencesync-addon](https://github.com/bexelbie/presencesync-addon) - Track Apple AirTags + devices in Home Assistant — installs as a one-click HA add-on with its own UI panel
+- [marcusadolfsson/appletv-siri-voice](https://github.com/marcusadolfsson/appletv-siri-voice) - Send voice commands to Siri on your Apple TV from Home Assistant
+- [eWeLinkCUBE/CUBE-OS](https://github.com/eWeLinkCUBE/CUBE-OS) - A free self-hosted local system that bridges eWeLink Wi-Fi and multi-brand Zigbee devices into the Matter network for Apple Home, SmartThings, Google Home, Alexa, and Home Assistant.
 - [ambient-home-systems/ha-codex](https://github.com/ambient-home-systems/ha-codex) - Codex app that runs in Home Assistant OS as an app.
 - [ofilis/codex-ha-bridge](https://github.com/ofilis/codex-ha-bridge) - Publishes OpenAI Codex usage limits to Home Assistant via MQTT, including 5-hour and weekly reset times.
 - [Maronato/jellyfin-plugin-polyglot](https://github.com/Maronato/jellyfin-plugin-polyglot) - Multi-language libraries and metadata for Jellyfin
