@@ -379,7 +379,6 @@
 
 ## cli 
 
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [fiso64/sockseek](https://github.com/fiso64/sockseek) - Advanced download tool for Soulseek, soon a client.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -466,6 +465,7 @@
 
 ## docker 
 
+- [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 71 tools for transactions, budgets, rules, and
 - [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr) - An audiobook and eBook collection manager.
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
@@ -700,6 +700,7 @@
 
 ## home-assistant 
 
+- [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [dcybeldesign/ha-mpd-bluetooth-bridge](https://github.com/dcybeldesign/ha-mpd-bluetooth-bridge) - Connect any Bluetooth speaker to Home Assistant as a native media_player, with optional MPD/Music Assistant support.
 - [naniguggilapu/frigateane](https://github.com/naniguggilapu/frigateane) - Run Frigate object detection on Apple Neural Engine — native macOS app with one-window setup for MQTT/Home Assistant, storage, cameras & models
 - [mrvautin/ha-workouts](https://github.com/mrvautin/ha-workouts) - Home Assistant integration for Garmin, Strava, and Apple Health workout data with long-term statistics charting
@@ -1109,6 +1110,7 @@
 
 ## open-source 
 
+- [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
 - [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - Take your Jellyfin music offline on MP3 players and storage devices
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
@@ -1414,7 +1416,7 @@
 - [eskerda/pybikes](https://github.com/eskerda/pybikes) - bike sharing + python = pybikes
 - [openvinotoolkit/stable-diffusion-webui](https://github.com/openvinotoolkit/stable-diffusion-webui) - Stable Diffusion web UI
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
-- [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 v3 - An advanced iDevice tracker that uses Apple iCloud account and HA Mobile App data for presence detection and location based automations.
+- [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 Apple Device Tracker  —  An advanced device tracker that uses Apple iCloud account and HA Mobile App data for presence detection and location based automations.
 - [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [iMicknl/ha-sagemcom-fast](https://github.com/iMicknl/ha-sagemcom-fast) - Home Assistant integration to enable presence detection via Sagemcom F@st routers.
@@ -1576,7 +1578,7 @@
 - [picklepete/pyicloud](https://github.com/picklepete/pyicloud) - A Python + iCloud wrapper to access iPhone and Calendar data.
 - [kkr16/hass-stm-custom-component](https://github.com/kkr16/hass-stm-custom-component) - Custom HomeAssistant component for the STM (Société de transport de Montréal) metro lines status monitoring.
 - [poochie89/SnipDo-Extensions](https://github.com/poochie89/SnipDo-Extensions) - SnipDo extensions and advanced guide
-- [gcobb321/icloud3_v3](https://github.com/gcobb321/icloud3_v3) - iCloud3 v3 - Development Version - iDevice Tracker - This is the development version of new and updated features. It is not the official release of iCloud3 v3.
+- [gcobb321/icloud3_v3](https://github.com/gcobb321/icloud3_v3) - iCloud3  Apple Device Tracker Beta/Prerelease Version — This is the beta/prerelease version with new and updated features. It is not the official release of iCloud3.
 - [prayag17/JellySkin](https://github.com/prayag17/JellySkin) - Vibrante/minimal Jellyfin CSS using custom Icons and more!!, created for Jellyfin web :film_strip:, can be used by just one line.
 - [nicknsy/jellyscrub](https://github.com/nicknsy/jellyscrub) - Smooth mouse-over video scrubbing previews for Jellyfin.
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
@@ -1709,6 +1711,7 @@
 
 ## raspberry-pi 
 
+- [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [lwbeam/water_sensors](https://github.com/lwbeam/water_sensors) - Python script to monitor orphaned D-Link DCH-S160 water sensor.
 
 ## react 
