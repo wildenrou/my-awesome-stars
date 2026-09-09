@@ -700,6 +700,7 @@
 
 ## home-assistant 
 
+- [StrausbergAutomationWorks/LiveTrackViaRail](https://github.com/StrausbergAutomationWorks/LiveTrackViaRail) - Live VIA Rail Canada train tracking for Home Assistant. Real-time positions for the Canadian, Ocean, Skeena, Hudson Bay and Corridor services.
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [dcybeldesign/ha-mpd-bluetooth-bridge](https://github.com/dcybeldesign/ha-mpd-bluetooth-bridge) - Connect any Bluetooth speaker to Home Assistant as a native media_player, with optional MPD/Music Assistant support.
 - [naniguggilapu/frigateane](https://github.com/naniguggilapu/frigateane) - Run Frigate object detection on Apple Neural Engine — native macOS app with one-window setup for MQTT/Home Assistant, storage, cameras & models
@@ -1143,6 +1144,7 @@
 
 ## others 
 
+- [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Community continuation of Calibre-Web-Automated. Attempting to maintain with rapid iteration. Please feel free to help out by filing Issues, Feature Requests, PRs, and chatting in our Discussion.
 - [R3yn4ld/ca.mover.tuning](https://github.com/R3yn4ld/ca.mover.tuning) - 
 - [andrazspolaric/home-assistant-custom-cards](https://github.com/andrazspolaric/home-assistant-custom-cards) - Custom Home Assistant dashboard cards for air quality monitoring, climate tracking, and smart home controls
 - [bexelbie/presencesync-addon](https://github.com/bexelbie/presencesync-addon) - Track Apple AirTags + devices in Home Assistant — installs as a one-click HA add-on with its own UI panel
