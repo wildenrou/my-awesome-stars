@@ -79,6 +79,7 @@
 
 ## C# # 
 
+- [Shadowghost/jellyfin-plugin-segment-recognition](https://github.com/Shadowghost/jellyfin-plugin-segment-recognition) - Media Segment Recognition for Jellyfin
 - [Maronato/jellyfin-plugin-polyglot](https://github.com/Maronato/jellyfin-plugin-polyglot) - Multi-language libraries and metadata for Jellyfin
 - [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr) - An audiobook and eBook collection manager.
 - [Kuschel-code/JellyfinUpscalerPlugin](https://github.com/Kuschel-code/JellyfinUpscalerPlugin) - JellyfinUpscalerPlugin
@@ -94,7 +95,6 @@
 - [b-sullender/Jellyfin.Plugin.TUIMDB](https://github.com/b-sullender/Jellyfin.Plugin.TUIMDB) - The official Jellyfin plugin for TUIMDB metadata.
 - [IAmParadox27/jellyfin-plugin-pages](https://github.com/IAmParadox27/jellyfin-plugin-pages) - Allows plugins to add pages to the main UI
 - [SirFfej/Jellyfin.Plugin.Audiobookshelf](https://github.com/SirFfej/Jellyfin.Plugin.Audiobookshelf) - 
-- [n00bcodr/JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - A Jellyfin Plugin to force a few settings without modification of any web files.
 - [Jellyfin-PG/JellyFrame](https://github.com/Jellyfin-PG/JellyFrame) - 
 - [MiranoVerhoef/BeszelAgentManager](https://github.com/MiranoVerhoef/BeszelAgentManager) - BeszelAgentManager is a Windows GUI helper that installs and manages the Beszel agent.
 - [FizzyMUC/jellyfin-oscars-plugin](https://github.com/FizzyMUC/jellyfin-oscars-plugin) - A Jellyfin plugin that automatically tags movies that were nominated for or won an Oscar.
@@ -298,6 +298,7 @@
 
 - [kroeberd/mediastarr](https://github.com/kroeberd/mediastarr) - Automated media search for Sonarr & Radarr — finds missing content and quality upgrades on a configurable schedule. Web dashboard, first-run wizard, SQLite history, multi-instance support, Discord not
 - [BobHasNoSoul/jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods) - This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision
+- [n00bcodr/JellyfinTweaks](https://github.com/n00bcodr/JellyfinTweaks) - A Jellyfin Plugin to force a few settings without modification of any web files.
 - [Jellyfin-PG/Mod-Manager](https://github.com/Jellyfin-PG/Mod-Manager) - A mod manager, both css and js mods for jellyfin 10.11+
 - [loteran/hardlink-manager](https://github.com/loteran/hardlink-manager) - hardlink-manager
 - [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext) - 
@@ -316,6 +317,7 @@
 
 ## JavaScript 
 
+- [nathan-gs/ha-map-card](https://github.com/nathan-gs/ha-map-card) - A Map Card for Home Assistant
 - [ofilis/codex-ha-bridge](https://github.com/ofilis/codex-ha-bridge) - Publishes OpenAI Codex usage limits to Home Assistant via MQTT, including 5-hour and weekly reset times.
 - [Ildana-ai/actual2ics](https://github.com/Ildana-ai/actual2ics) - Your Actual Budget schedules as an .ics calendar feed — local, read-only, no server changes
 - [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 71 tools for transactions, budgets, rules, and
@@ -511,6 +513,8 @@
 
 ## Python 
 
+- [anym001/healthlog](https://github.com/anym001/healthlog) - Self-hosted Apple Health analysis on your own hardware — no cloud, no tracking
+- [ClusterM/localtuya_rc](https://github.com/ClusterM/localtuya_rc) - Tuya universal remote control device Home Assistant integration
 - [hydroqc/hydroqc-ha](https://github.com/hydroqc/hydroqc-ha) - Intégration Home Assistant pour Hydro-Québec. Surveillez votre consommation électrique, périodes de pointe, pannes et facturation.
 - [Miloud-H/HA-Canada-Post](https://github.com/Miloud-H/HA-Canada-Post) - Canada Post My Mail (Mon Courrier) integration for Home Assistant.
 - [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Community continuation of Calibre-Web-Automated. Attempting to maintain with rapid iteration. Please feel free to help out by filing Issues, Feature Requests, PRs, and chatting in our Discussion.
@@ -885,6 +889,7 @@
 
 ## Svelte 
 
+- [khordapp/khord](https://github.com/khordapp/khord) - 
 - [JamesCoyle/HistoryExtension](https://github.com/JamesCoyle/HistoryExtension) - 
 - [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop) - Use Home Assistant Assist on the desktop. Compatible with Windows, MacOS, and Linux
 
@@ -968,7 +973,7 @@
 - [pnp/sp-formatter](https://github.com/pnp/sp-formatter) - SharePoint formatter Chromium Edge and Google Chrome browser extension
 - [apocaliss92/scrypted-frigate-bridge](https://github.com/apocaliss92/scrypted-frigate-bridge) - 
 - [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) - A MCP server for Home Assistant
-- [bogenpirat/remote-torrent-adder](https://github.com/bogenpirat/remote-torrent-adder) - A handy Chrome extension to add torrent files to torrent clients
+- [bogenpirat/remote-torrent-adder](https://github.com/bogenpirat/remote-torrent-adder) - A handy Chrome/Firefox extension to add torrent files to torrent clients
 - [enymawse/stasharr](https://github.com/enymawse/stasharr) - Enhance your StashDB experience by integrating Whisparr with this UserScript.
 - [spicetify/marketplace](https://github.com/spicetify/marketplace) - Download extensions and themes directly from Spicetify
 - [muckelba/dynamic-lights-homeassistant](https://github.com/muckelba/dynamic-lights-homeassistant) - 💡 Spicetify extension that changes Home Assistant lights based on the album cover color
