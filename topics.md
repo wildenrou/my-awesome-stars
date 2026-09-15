@@ -474,6 +474,7 @@
 - [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an i
 - [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [Domochip/spotifybackup](https://github.com/Domochip/spotifybackup) - Automate a full backup of your Spotify Library every day
@@ -589,7 +590,7 @@
 ## gaming 
 
 - [Jellyfin-PG/Vantage](https://github.com/Jellyfin-PG/Vantage) - An official jellyemu client, built in flutter for android/android tv, and windows.
-- [Jellyfin-PG/JellyEmu](https://github.com/Jellyfin-PG/JellyEmu) - Adds support for rom library with emulator js to jellyfin.
+- [Jellyfin-PG/JellyEmu](https://github.com/Jellyfin-PG/JellyEmu) - Adds support for games to jellyfin.
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 
 ## generative-ai 
@@ -1230,7 +1231,7 @@
 - [TRaSH-/userScripts-and-Configs](https://github.com/TRaSH-/userScripts-and-Configs) - Collection of (unRAID) userscripts
 - [KBH-Reeper/GlassFin](https://github.com/KBH-Reeper/GlassFin) - Jellyfin Theme designed around transparency and to resemble glass
 - [Druidblack/Jellyfin.Plugin.ArtworkMultiSource](https://github.com/Druidblack/Jellyfin.Plugin.ArtworkMultiSource) - A plugin that receives images of posters and logos from themoviedb and tvdb sites and sorts them together.  The first images are in the language of the library, then in English.
-- [Druidblack/Jellyfin.Plugin.MDBList_Ratings](https://github.com/Druidblack/Jellyfin.Plugin.MDBList_Ratings) - Jellyfin plugin for getting ratings from a website mdblist.com for movies and TV series.
+- [Druidblack/Jellyfin.Plugin.MDBList_Ratings](https://github.com/Druidblack/Jellyfin.Plugin.MDBList_Ratings) - Jellyfin plugin for getting ratings from a website mdblist, WhatsOn and Simkl for movies and TV series.
 - [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A fork of FindMySync - A macOS utility (compatible with Sequoia and Tahoe) to decrypt the local Find My cache and post device locations to a Home Assistant endpoint.
 - [malmeloo/hass-FindMy](https://github.com/malmeloo/hass-FindMy) - Custom Home Assistant integration for Apple's FindMy network.
 - [biemster/FindMy](https://github.com/biemster/FindMy) - Query Apple's Find My network
@@ -1795,6 +1796,7 @@
 - [slimcdk/subsarr](https://github.com/slimcdk/subsarr) - Subsarr lets you self-host the full Subscene archive and use it as a subtitle source in Bazarr
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
