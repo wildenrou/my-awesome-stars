@@ -256,7 +256,7 @@
 - [wizier/airvault](https://github.com/wizier/airvault) - Self-hosted backup server for iPhone
 - [irfansofyana/linkwarden-mcp-server](https://github.com/irfansofyana/linkwarden-mcp-server) - An MCP Server for Linkwarden
 - [jaredtrent/jellyfin-mcp](https://github.com/jaredtrent/jellyfin-mcp) - A Jellyfin MCP server
-- [ruaan-deysel/vault](https://github.com/ruaan-deysel/vault) - Vault is a backup and restore daemon for Unraid servers. It protects Docker containers, VMs, ZFS datasets, folders, and plugins by backing them up to different storage destinations — local disk, SFTP,
+- [ruaan-deysel/vault](https://github.com/ruaan-deysel/vault) - Vault is a backup and restore plugin for Unraid servers. It protects Docker containers, VMs, ZFS datasets, folders, and plugins by backing them up to different storage destinations — local disk, SFTP,
 - [desertwitch/sesmon](https://github.com/desertwitch/sesmon) - sesmon is a monitoring and alerting daemon for SES-capable SCSI enclosures.
 - [kenyonj/airbridge](https://github.com/kenyonj/airbridge) - Anything → Everywhere: Bridge DLNA audio streams to AirPlay & Chromecast
 - [lalomorales22/snapchat-bridge](https://github.com/lalomorales22/snapchat-bridge) - A Matrix-Snapchat bridge that enables bidirectional messaging between Matrix and Snapchat
@@ -409,6 +409,7 @@
 
 ## Kotlin 
 
+- [Everbloom-Technologies/phonoleaf-tts-bridge](https://github.com/Everbloom-Technologies/phonoleaf-tts-bridge) - The GPL-3.0 speech component of PhonoLeaf, published to satisfy that licence.
 - [dvankley/firefly-plaid-connector-2](https://github.com/dvankley/firefly-plaid-connector-2) - Connector to pull Plaid financial data into the Firefly finance tool
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
@@ -937,7 +938,7 @@
 - [timo95/stash-checker](https://github.com/timo95/stash-checker) - Userscript to check if a Scene/Performer is present in Stash
 - [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform GUI for rclone & S3.
 - [finder39/dockge](https://github.com/finder39/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [emaspa/unraidclaw](https://github.com/emaspa/unraidclaw) - Unraid plugin + OpenClaw AI agent tools for managing Unraid servers
+- [emaspa/unraidclaw](https://github.com/emaspa/unraidclaw) - AI Agent Gateway for Unraid. Permission-enforcing REST API and MCP server that allows AI agents to manage your server.
 - [Talal-A/obsidian-paperless](https://github.com/Talal-A/obsidian-paperless) - 
 - [alex-jung/ha-departures-card](https://github.com/alex-jung/ha-departures-card) - Home Assistant Dashboard card to show departure time of public transports.
 - [troinine/ha-weather-forecast-card](https://github.com/troinine/ha-weather-forecast-card) - ☀️ Slightly improved weather forecast card for Home Assistant
