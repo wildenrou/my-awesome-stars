@@ -1150,6 +1150,7 @@
 
 ## others 
 
+- [Everbloom-Technologies/phonoleaf-tts-bridge](https://github.com/Everbloom-Technologies/phonoleaf-tts-bridge) - The GPL-3.0 speech component of PhonoLeaf, published to satisfy that licence.
 - [Shadowghost/jellyfin-plugin-segment-recognition](https://github.com/Shadowghost/jellyfin-plugin-segment-recognition) - Media Segment Recognition for Jellyfin
 - [khordapp/khord](https://github.com/khordapp/khord) - 
 - [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Community continuation of Calibre-Web-Automated. Attempting to maintain with rapid iteration. Please feel free to help out by filing Issues, Feature Requests, PRs, and chatting in our Discussion.
@@ -1222,7 +1223,7 @@
 - [MiranoVerhoef/BeszelAgentManager](https://github.com/MiranoVerhoef/BeszelAgentManager) - BeszelAgentManager is a Windows GUI helper that installs and manages the Beszel agent.
 - [FizzyMUC/jellyfin-oscars-plugin](https://github.com/FizzyMUC/jellyfin-oscars-plugin) - A Jellyfin plugin that automatically tags movies that were nominated for or won an Oscar.
 - [finder39/dockge](https://github.com/finder39/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [ruaan-deysel/vault](https://github.com/ruaan-deysel/vault) - Vault is a backup and restore daemon for Unraid servers. It protects Docker containers, VMs, ZFS datasets, folders, and plugins by backing them up to different storage destinations — local disk, SFTP,
+- [ruaan-deysel/vault](https://github.com/ruaan-deysel/vault) - Vault is a backup and restore plugin for Unraid servers. It protects Docker containers, VMs, ZFS datasets, folders, and plugins by backing them up to different storage destinations — local disk, SFTP,
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 - [Noir1992/jellyfin-trickplay-folder-cleaner](https://github.com/Noir1992/jellyfin-trickplay-folder-cleaner) - This is a Jellyfin plugin that deletes .trickplay folders that no longer have a corresponding media file.
 - [desertwitch/sesmon](https://github.com/desertwitch/sesmon) - sesmon is a monitoring and alerting daemon for SES-capable SCSI enclosures.
@@ -1235,7 +1236,7 @@
 - [malmeloo/hass-FindMy](https://github.com/malmeloo/hass-FindMy) - Custom Home Assistant integration for Apple's FindMy network.
 - [biemster/FindMy](https://github.com/biemster/FindMy) - Query Apple's Find My network
 - [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - Companion server plugin for all Moonfin clients
-- [emaspa/unraidclaw](https://github.com/emaspa/unraidclaw) - Unraid plugin + OpenClaw AI agent tools for managing Unraid servers
+- [emaspa/unraidclaw](https://github.com/emaspa/unraidclaw) - AI Agent Gateway for Unraid. Permission-enforcing REST API and MCP server that allows AI agents to manage your server.
 - [Dregi56/digital_pendulum](https://github.com/Dregi56/digital_pendulum) - Speaking clock for Home Assistant and Alexa or any other media_player device
 - [zopanix/bromont-ha-integration](https://github.com/zopanix/bromont-ha-integration) - A Home Assistant custom integration that provides real-time ski conditions from Bromont Mountain (Ski Bromont) in Quebec, Canada.
 - [illigtr/hydroqc](https://github.com/illigtr/hydroqc) - Home Assistant Tools for Hydro Quebec Rate D - Winter Credit Optoin
