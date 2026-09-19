@@ -756,7 +756,7 @@
 - [saihgupr/HomeAssistantVersionControl](https://github.com/saihgupr/HomeAssistantVersionControl) - Automatic backup, history tracking, and instant restore for your Home Assistant configuration.
 - [raman325/lock_code_manager](https://github.com/raman325/lock_code_manager) - Lock code manager for locks integrated with Home Assistant
 - [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass) - The "Third Way" for Home Assistant Automations.
-- [bourquep/mysa2mqtt](https://github.com/bourquep/mysa2mqtt) - Expose Mysa smart thermostats to home automation platforms via MQTT.
+- [bourquep/mysa2mqtt](https://github.com/bourquep/mysa2mqtt) - Expose Mysa smart thermostats to Home Assistant and other home automation platforms via MQTT.
 - [kgelinas/Mysa_HA](https://github.com/kgelinas/Mysa_HA) - High-performance Home Assistant integration for Mysa Thermostats with real-time MQTT control and instant UI feedback.
 - [lavinir/hassio-onedrive-backup](https://github.com/lavinir/hassio-onedrive-backup) - 
 - [helv-io/ha-bluebubbles](https://github.com/helv-io/ha-bluebubbles) - A Home Assistant custom integration for sending iMessages via a BlueBubbles server
@@ -1150,6 +1150,8 @@
 
 ## others 
 
+- [Getslow6/monitor_docker](https://github.com/Getslow6/monitor_docker) - Monitor Docker containers from Home Assistant
+- [RiDDiX/home-assistant-matter-hub](https://github.com/RiDDiX/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
 - [Everbloom-Technologies/phonoleaf-tts-bridge](https://github.com/Everbloom-Technologies/phonoleaf-tts-bridge) - The GPL-3.0 speech component of PhonoLeaf, published to satisfy that licence.
 - [Shadowghost/jellyfin-plugin-segment-recognition](https://github.com/Shadowghost/jellyfin-plugin-segment-recognition) - Media Segment Recognition for Jellyfin
 - [khordapp/khord](https://github.com/khordapp/khord) - 
