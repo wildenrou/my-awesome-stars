@@ -358,7 +358,6 @@
 - [thurasw/airwave](https://github.com/thurasw/airwave) - Share Files between iOS and Windows without hassle.
 - [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [qoomon/gmail-rss-feed](https://github.com/qoomon/gmail-rss-feed) - Google Scripts Project to generate a RSS feed based on labeled emails in your GMail Account
 - [fengtan/gmail-to-rss](https://github.com/fengtan/gmail-to-rss) - Turn a Gmail inbox into an RSS feed
 - [JamesCoyle/DownloadsExtension](https://github.com/JamesCoyle/DownloadsExtension) - A replacement for the default Chrome downloads shelf
@@ -996,6 +995,7 @@
 - [Qwyntex/doubleshift](https://github.com/Qwyntex/doubleshift) - Obsidian Plugin to open the command palette by pressing shift twice
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [jbrodriguez/unbalance](https://github.com/jbrodriguez/unbalance) - Go/React/Tailwind app to move folders/files between Unraid disks
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
