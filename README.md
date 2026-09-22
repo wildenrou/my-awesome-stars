@@ -79,6 +79,9 @@
 
 ## C# # 
 
+- [arition/jellyfin-plugin-preferred-artwork](https://github.com/arition/jellyfin-plugin-preferred-artwork) - proxy artwork providers with language filtering
+- [mdsherinoff/Jellyfin.Plugin.LanguageSort](https://github.com/mdsherinoff/Jellyfin.Plugin.LanguageSort) - Automatically organizes your media files into collections grouped by language without any file or folder reorganisation required.
+- [superuser404notfound/jellyfin-plugin-language-aware-images](https://github.com/superuser404notfound/jellyfin-plugin-language-aware-images) - Drop-in TMDB image provider for Jellyfin: library-language posters with clean English fallback (no more textless), and episode images matched by title for shows with alternative orderings (Bluey, Star
 - [Shadowghost/jellyfin-plugin-segment-recognition](https://github.com/Shadowghost/jellyfin-plugin-segment-recognition) - Media Segment Recognition for Jellyfin
 - [Maronato/jellyfin-plugin-polyglot](https://github.com/Maronato/jellyfin-plugin-polyglot) - Multi-language libraries and metadata for Jellyfin
 - [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr) - An audiobook and eBook collection manager.
@@ -338,7 +341,7 @@
 - [vgcouso/ha-tracker](https://github.com/vgcouso/ha-tracker) - HA Tracker allows advanced management of user tracking, their positions and zones through which they pass
 - [unityfire/alexa-ha](https://github.com/unityfire/alexa-ha) - An Amazon Echo skill for controlling your Home Automation via voice
 - [TaylorJns/Actual-Budget-iOS-Widget](https://github.com/TaylorJns/Actual-Budget-iOS-Widget) - An iOS widget for Actual Budget. Requires ‘actual-http-api’ repo.
-- [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - An unofficial google calendar desktop widget for Windows, Mac and Linux
+- [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - Unofficial Google Calendar desktop widget for Windows, macOS and Linux, built with Electron
 - [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
 - [thiagobruch/HA_Addons](https://github.com/thiagobruch/HA_Addons) - 
 - [Vansmak/mediarr-card](https://github.com/Vansmak/mediarr-card) - custom home assistant card
@@ -433,6 +436,7 @@
 
 ## Others 
 
+- [dlandon/tips.and.tweaks-next](https://github.com/dlandon/tips.and.tweaks-next) - Continued private development of the Unraid Tip and Tweaks plugin by dlandon.
 - [andrazspolaric/home-assistant-custom-cards](https://github.com/andrazspolaric/home-assistant-custom-cards) - Custom Home Assistant dashboard cards for air quality monitoring, climate tracking, and smart home controls
 - [bexelbie/presencesync-addon](https://github.com/bexelbie/presencesync-addon) - Track Apple AirTags + devices in Home Assistant — installs as a one-click HA add-on with its own UI panel
 - [eWeLinkCUBE/CUBE-OS](https://github.com/eWeLinkCUBE/CUBE-OS) - A free self-hosted local system that bridges eWeLink Wi-Fi and multi-brand Zigbee devices into the Matter network for Apple Home, SmartThings, Google Home, Alexa, and Home Assistant.
@@ -715,6 +719,7 @@
 - [outadoc/immich-home-assistant](https://github.com/outadoc/immich-home-assistant) - Home Assistant component to display random pictures from your Immich library.
 - [codeproject/CodeProject.AI-HomeAssist-ObjectDetect](https://github.com/codeproject/CodeProject.AI-HomeAssist-ObjectDetect) - Home Assistant custom component for using CodeProject.AI Server object detection
 - [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a self-hosted app to download and manage trailers for your media libraries.
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
@@ -937,7 +942,7 @@
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
 - [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
 - [timo95/stash-checker](https://github.com/timo95/stash-checker) - Userscript to check if a Scene/Performer is present in Stash
-- [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform GUI for rclone & S3.
+- [rclone/rclone-ui](https://github.com/rclone/rclone-ui) - The cross-platform GUI for rclone & S3.
 - [finder39/dockge](https://github.com/finder39/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [emaspa/unraidclaw](https://github.com/emaspa/unraidclaw) - AI Agent Gateway for Unraid. Permission-enforcing REST API and MCP server that allows AI agents to manage your server.
 - [Talal-A/obsidian-paperless](https://github.com/Talal-A/obsidian-paperless) - 
@@ -998,7 +1003,6 @@
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [jbrodriguez/unbalance](https://github.com/jbrodriguez/unbalance) - Go/React/Tailwind app to move folders/files between Unraid disks
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [rabrain/ai-chat](https://github.com/rabrain/ai-chat) - Open AI Chat Bot in the Menu Bar: ChatGPT desktop app for Windows, Mac, and Linux
 - [leafac/kill-the-newsletter](https://github.com/leafac/kill-the-newsletter) - Convert email newsletters into Atom feeds
 - [custom-cards/spotify-card](https://github.com/custom-cards/spotify-card) - Spotify playlist card for Home Assistant card
