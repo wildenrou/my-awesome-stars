@@ -517,6 +517,7 @@
 
 ## Python 
 
+- [JeanMarc-Labs/ha-config-auditor](https://github.com/JeanMarc-Labs/ha-config-auditor) - Home Assistant Config Auditor (H.A.C.A) Custom Integration
 - [Getslow6/monitor_docker](https://github.com/Getslow6/monitor_docker) - Monitor Docker containers from Home Assistant
 - [anym001/healthlog](https://github.com/anym001/healthlog) - Self-hosted Apple Health analysis on your own hardware — no cloud, no tracking
 - [ClusterM/localtuya_rc](https://github.com/ClusterM/localtuya_rc) - Tuya universal remote control device Home Assistant integration
@@ -924,6 +925,7 @@
 
 ## TypeScript 
 
+- [snapetech/seerrng](https://github.com/snapetech/seerrng) - Seerr fork adding Music and Books, to existing Music & TV Requests.
 - [RiDDiX/home-assistant-matter-hub](https://github.com/RiDDiX/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
 - [coddingtonbear/icloud-md](https://github.com/coddingtonbear/icloud-md) - Your Apple Notes as real Markdown files, on any OS, bidirectionally synced with a `git`-flavored CLI
 - [NylonDiamond/homeassistant-wrist-assistant](https://github.com/NylonDiamond/homeassistant-wrist-assistant) - Home Assistant custom integration for Wrist Assistant — Home Assistant on your Apple Watch
