@@ -325,7 +325,7 @@
 - [ofilis/codex-ha-bridge](https://github.com/ofilis/codex-ha-bridge) - Publishes OpenAI Codex usage limits to Home Assistant via MQTT, including 5-hour and weekly reset times.
 - [Ildana-ai/actual2ics](https://github.com/Ildana-ai/actual2ics) - Your Actual Budget schedules as an .ics calendar feed — local, read-only, no server changes
 - [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 71 tools for transactions, budgets, rules, and
-- [ideaalab/gui-recorder](https://github.com/ideaalab/gui-recorder) - Home Assistant custom component: manage recorder config and DB maintenance from a sidebar GUI panel (SQLite only)
+- [ideaalab-legacy-2026/gui-recorder](https://github.com/ideaalab-legacy-2026/gui-recorder) - Home Assistant custom component: manage recorder config and DB maintenance from a sidebar GUI panel (SQLite only)
 - [ezwep/chatgpt-exporter](https://github.com/ezwep/chatgpt-exporter) - Self-hosted ChatGPT backup tool — export all your conversations, projects (with files), and custom GPTs as JSON, Markdown and HTML. Zero dependencies, runs locally with a web UI.
 - [mohammadfarooqi/canlii-mcp](https://github.com/mohammadfarooqi/canlii-mcp) - Local MCP server for Canadian legal research via CanLII API — search cases, browse legislation, check citations. Works with Claude Desktop & Claude Code.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -897,6 +897,7 @@
 
 ## Svelte 
 
+- [joshmans/unraid-disklocation-next](https://github.com/joshmans/unraid-disklocation-next) - Standalone TypeScript service mapping Unraid drives to a tray/bay layout via unraid-api's GraphQL interface (7.2+) — clean-room successor to unraid-disklocation
 - [khordapp/khord](https://github.com/khordapp/khord) - 
 - [JamesCoyle/HistoryExtension](https://github.com/JamesCoyle/HistoryExtension) - 
 - [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop) - Use Home Assistant Assist on the desktop. Compatible with Windows, MacOS, and Linux
@@ -925,6 +926,7 @@
 
 ## TypeScript 
 
+- [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
 - [snapetech/seerrng](https://github.com/snapetech/seerrng) - Seerr fork adding Music and Books, to existing Music & TV Requests.
 - [RiDDiX/home-assistant-matter-hub](https://github.com/RiDDiX/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
 - [coddingtonbear/icloud-md](https://github.com/coddingtonbear/icloud-md) - Your Apple Notes as real Markdown files, on any OS, bidirectionally synced with a `git`-flavored CLI
