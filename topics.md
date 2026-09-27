@@ -595,7 +595,6 @@
 ## frontend 
 
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
-- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules.
 
 ## game 
 
@@ -699,7 +698,6 @@
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
-- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules.
 - [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -736,7 +734,7 @@
 - [daemon-james/homekit-climate-plus](https://github.com/daemon-james/homekit-climate-plus) - Home Assistant HACS custom component: one Apple HomeKit accessory per climate entity, with linked fan, swing, preset, and sensor services.
 - [L3t4l3s/home-tasks](https://github.com/L3t4l3s/home-tasks) - A feature-rich task management integration for Home Assistant
 - [prestomation/ha-home-keeper](https://github.com/prestomation/ha-home-keeper) - Home Keeper is a Home Assistant plugin for tracking home maintenance and chores with deep HA integration
-- [ideaalab-legacy-2026/gui-recorder](https://github.com/ideaalab-legacy-2026/gui-recorder) - Home Assistant custom component: manage recorder config and DB maintenance from a sidebar GUI panel (SQLite only)
+- [martinandersen84/gui-recorder](https://github.com/martinandersen84/gui-recorder) - Home Assistant custom component: manage recorder config and DB maintenance from a sidebar GUI panel (SQLite only)
 - [luuquangvu/blueprints-updater](https://github.com/luuquangvu/blueprints-updater) - Automatically update Home Assistant blueprints via native update entities.
 - [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
 - [olivierplante/ec-weather](https://github.com/olivierplante/ec-weather) - Environment Canada weather integration for Home Assistant. Current conditions, 48-hour hourly and 7-day daily forecasts, weather alerts, and air quality (AQHI). Includes a built-in Lovelace card with 
