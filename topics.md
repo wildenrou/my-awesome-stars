@@ -61,6 +61,7 @@
 - [framework](#framework)
 - [frontend](#frontend)
 - [game](#game)
+- [games](#games)
 - [gaming](#gaming)
 - [generative-ai](#generative-ai)
 - [git](#git)
@@ -599,6 +600,10 @@
 ## game 
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+## games 
+
+- [snapetech/seerrng](https://github.com/snapetech/seerrng) - Seerr fork adding Music and Books, to existing Music & TV Requests.
 
 ## gaming 
 
@@ -1495,7 +1500,7 @@
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
 - [thurasw/airwave](https://github.com/thurasw/airwave) - Share Files between iOS and Windows without hassle.
 - [benbuck/rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
-- [ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr, readarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
+- [ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr, readarr, whisparr and sportarr download queues and removes downloads if they become stalled or no longer needed.
 - [21hsmw/FlareSolverr](https://github.com/21hsmw/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [fengtan/gmail-to-rss](https://github.com/fengtan/gmail-to-rss) - Turn a Gmail inbox into an RSS feed
 - [pfcao/abookmark](https://github.com/pfcao/abookmark) - Advanced bookmark & tab manager
