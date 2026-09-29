@@ -479,6 +479,7 @@
 
 ## docker 
 
+- [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
 - [snapetech/seerrng](https://github.com/snapetech/seerrng) - Seerr fork adding Music and Books, to existing Music & TV Requests.
 - [anym001/healthlog](https://github.com/anym001/healthlog) - Self-hosted Apple Health analysis on your own hardware — no cloud, no tracking
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
@@ -1177,6 +1178,7 @@
 
 ## others 
 
+- [KruseLuds/halp](https://github.com/KruseLuds/halp) - HALP! (Home Assistant Location & Presence analyzer)
 - [joshmans/unraid-disklocation-next](https://github.com/joshmans/unraid-disklocation-next) - Standalone TypeScript service mapping Unraid drives to a tray/bay layout via unraid-api's GraphQL interface (7.2+) — clean-room successor to unraid-disklocation
 - [dlandon/tips.and.tweaks-next](https://github.com/dlandon/tips.and.tweaks-next) - Continued private development of the Unraid Tip and Tweaks plugin by dlandon.
 - [arition/jellyfin-plugin-preferred-artwork](https://github.com/arition/jellyfin-plugin-preferred-artwork) - proxy artwork providers with language filtering
@@ -1425,7 +1427,7 @@
 - [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import) - Import playlists from Spotify in Jellyfin
 - [kamilkosek/jellyplist](https://github.com/kamilkosek/jellyplist) - A  utility to help you sync playlists from spotify to your jellyfin server
 - [SenorSmartyPants/jellyfin-plugin-refreshsparse](https://github.com/SenorSmartyPants/jellyfin-plugin-refreshsparse) - Refresh Sparse items Plugin for Jellyfin
-- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
+- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Flyoobe is the Control Panel for setting up Windows
 - [tedhinklater/finimalism](https://github.com/tedhinklater/finimalism) - Jellyfin Theme CSS
 - [litinoveweedle/hassio-addons](https://github.com/litinoveweedle/hassio-addons) - 
 - [MxMarx/lidarr-beets](https://github.com/MxMarx/lidarr-beets) - lidarr script for grabbing gazelle metadata and running beets
@@ -1799,6 +1801,7 @@
 
 ## rust 
 
+- [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
 - [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Windows companion for Home Assistant - your PC as an MQTT device with sensors, remote commands and native toast notifications. Native x64 + ARM64, zero YAML.
 - [ricardodantas/tickit-sync](https://github.com/ricardodantas/tickit-sync) - Self-hosted sync server for Tickit task manager
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
