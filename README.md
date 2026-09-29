@@ -140,7 +140,7 @@
 - [johnpc/jellyfin-plugin-smart-collections](https://github.com/johnpc/jellyfin-plugin-smart-collections) - 
 - [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import) - Import playlists from Spotify in Jellyfin
 - [SenorSmartyPants/jellyfin-plugin-refreshsparse](https://github.com/SenorSmartyPants/jellyfin-plugin-refreshsparse) - Refresh Sparse items Plugin for Jellyfin
-- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
+- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Flyoobe is the Control Panel for setting up Windows
 - [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - HA Add-on / Docker container that solves indoor positions with mqtt data received from multiple ESPresense nodes
 - [fiso64/sockseek](https://github.com/fiso64/sockseek) - Advanced download tool for Soulseek, soon a client.
 - [Benisgo/Symbolic11](https://github.com/Benisgo/Symbolic11) - Symbolic11 is a user-friendly GUI tool for creating symbolic, hard, and junction links on Windows 10 and 11. The tool features a modern design inspired by Windows 11 and streamlines the link creation 
@@ -517,6 +517,7 @@
 
 ## Python 
 
+- [KruseLuds/halp](https://github.com/KruseLuds/halp) - HALP! (Home Assistant Location & Presence analyzer)
 - [JeanMarc-Labs/ha-config-auditor](https://github.com/JeanMarc-Labs/ha-config-auditor) - Home Assistant Config Auditor (H.A.C.A) Custom Integration
 - [Getslow6/monitor_docker](https://github.com/Getslow6/monitor_docker) - Monitor Docker containers from Home Assistant
 - [anym001/healthlog](https://github.com/anym001/healthlog) - Self-hosted Apple Health analysis on your own hardware — no cloud, no tracking
@@ -825,6 +826,7 @@
 
 ## Rust 
 
+- [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
 - [ricardodantas/tickit-sync](https://github.com/ricardodantas/tickit-sync) - Self-hosted sync server for Tickit task manager
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 - [UwUDev/francisca](https://github.com/UwUDev/francisca) - High-performance indexer for services using the U2P system written in Rust
