@@ -482,7 +482,7 @@
 
 - [drumandbytes/momentarr](https://github.com/drumandbytes/momentarr) - Caching, serialising proxy for FlareSolverr-compatible Cloudflare solvers — reuses cf_clearance over plain HTTP and runs one browser solve at a time.
 - [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
-- [YunoHost-Apps/seerrng](https://github.com/YunoHost-Apps/seerrng) - Seerr fork adding Music and Books, to existing Music & TV Requests.
+- [snapetech/seerrng](https://github.com/snapetech/seerrng) - Seerr fork adding Music and Books, to existing Music & TV Requests.
 - [anym001/healthlog](https://github.com/anym001/healthlog) - Self-hosted Apple Health analysis on your own hardware — no cloud, no tracking
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 71 tools for transactions, budgets, rules, and
@@ -606,7 +606,7 @@
 
 ## games 
 
-- [YunoHost-Apps/seerrng](https://github.com/YunoHost-Apps/seerrng) - Seerr fork adding Music and Books, to existing Music & TV Requests.
+- [snapetech/seerrng](https://github.com/snapetech/seerrng) - Seerr fork adding Music and Books, to existing Music & TV Requests.
 
 ## gaming 
 
@@ -1079,7 +1079,7 @@
 
 ## music 
 
-- [YunoHost-Apps/seerrng](https://github.com/YunoHost-Apps/seerrng) - Seerr fork adding Music and Books, to existing Music & TV Requests.
+- [snapetech/seerrng](https://github.com/snapetech/seerrng) - Seerr fork adding Music and Books, to existing Music & TV Requests.
 - [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - Take your Jellyfin music offline on MP3 players and storage devices
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -1183,6 +1183,7 @@
 
 ## others 
 
+- [wildenrou/homeassistant-custom-icons](https://github.com/wildenrou/homeassistant-custom-icons) - Add your custom icons to Home Assistant!
 - [UrbanTechIO/air-quality-card](https://github.com/UrbanTechIO/air-quality-card) - A custom Lovelace card for Home Assistant that visualizes air quality data with intuitive color-coded bars. Inspired by the Flower Card by Olen, this component offers a simple yet powerful way to moni
 - [yieldhog/ski-resort-ha](https://github.com/yieldhog/ski-resort-ha) - Home Assistant integration for ski resorts — search 6,000+ mountains by name and get free snow, weather forecasts, terrain stats, lift status, trail maps, and webcams. Anchored on OpenSkiMap, powered 
 - [MDBList/jellyfin-plugin-mdblist](https://github.com/MDBList/jellyfin-plugin-mdblist) - 
