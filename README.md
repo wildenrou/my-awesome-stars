@@ -684,7 +684,7 @@
 - [openvinotoolkit/stable-diffusion-webui](https://github.com/openvinotoolkit/stable-diffusion-webui) - Stable Diffusion web UI
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 Apple Device Tracker  —  An advanced device tracker that uses Apple iCloud account and HA Mobile App data for presence detection and location based automations.
-- [LizardByte/Themerr-plex](https://github.com/LizardByte/Themerr-plex) - Plugin for Plex Media Server that adds theme songs to movies using ThemerrDB.
+- [LizardByte/Themerr-plex](https://github.com/LizardByte/Themerr-plex) - Standalone theme song manager for Plex using ThemerrDB.
 - [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Theme song database for movies, tv shows, and video games.
 - [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant
 - [iMicknl/ha-sagemcom-fast](https://github.com/iMicknl/ha-sagemcom-fast) - Home Assistant integration to enable presence detection via Sagemcom F@st routers.
