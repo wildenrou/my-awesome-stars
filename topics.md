@@ -496,7 +496,7 @@
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [Domochip/spotifybackup](https://github.com/Domochip/spotifybackup) - Automate a full backup of your Spotify Library every day
 - [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
-- [LizardByte/Themerr-plex](https://github.com/LizardByte/Themerr-plex) - Plugin for Plex Media Server that adds theme songs to movies using ThemerrDB.
+- [LizardByte/Themerr-plex](https://github.com/LizardByte/Themerr-plex) - Standalone theme song manager for Plex using ThemerrDB.
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [bitxeno/atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
@@ -1723,7 +1723,7 @@
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
 - [janlarres/apple-books-covers](https://github.com/janlarres/apple-books-covers) - A Calibre plugin to download high-resolution covers from the Apple Books store
-- [LizardByte/Themerr-plex](https://github.com/LizardByte/Themerr-plex) - Plugin for Plex Media Server that adds theme songs to movies using ThemerrDB.
+- [LizardByte/Themerr-plex](https://github.com/LizardByte/Themerr-plex) - Standalone theme song manager for Plex using ThemerrDB.
 - [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Theme song database for movies, tv shows, and video games.
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [O365/python-o365](https://github.com/O365/python-o365) - A simple python library to interact with Microsoft Graph and Office 365 API
