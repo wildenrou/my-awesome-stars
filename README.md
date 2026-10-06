@@ -440,6 +440,7 @@
 
 ## Others 
 
+- [ursubey/Home-Assistant-Alarm-System-Alarmo-Frigate-Presence](https://github.com/ursubey/Home-Assistant-Alarm-System-Alarmo-Frigate-Presence) - Local Home Assistant alarm system: Alarmo, Frigate + mmWave sensor fusion, iCloud3 + BLE presence-based arming/disarming
 - [dlandon/tips.and.tweaks-next](https://github.com/dlandon/tips.and.tweaks-next) - Continued private development of the Unraid Tip and Tweaks plugin by dlandon.
 - [andrazspolaric/home-assistant-custom-cards](https://github.com/andrazspolaric/home-assistant-custom-cards) - Custom Home Assistant dashboard cards for air quality monitoring, climate tracking, and smart home controls
 - [bexelbie/presencesync-addon](https://github.com/bexelbie/presencesync-addon) - Track Apple AirTags + devices in Home Assistant — installs as a one-click HA add-on with its own UI panel
@@ -520,6 +521,8 @@
 
 ## Python 
 
+- [hudsonbrendon/jbl-charge5](https://github.com/hudsonbrendon/jbl-charge5) - Home Assistant integration for the JBL Charge 5 (battery over BLE)
+- [boced66/ha-icalendar](https://github.com/boced66/ha-icalendar) - Generates an iCalendar (.ics) link that you can use to view your Home Assistant calendars in another app
 - [wildenrou/homeassistant-custom-icons](https://github.com/wildenrou/homeassistant-custom-icons) - Add your custom icons to Home Assistant!
 - [Mincka/spotcast](https://github.com/Mincka/spotcast) - Maintained fork. Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
 - [yieldhog/ski-resort-ha](https://github.com/yieldhog/ski-resort-ha) - Home Assistant integration for ski resorts — search 6,000+ mountains by name and get free snow, weather forecasts, terrain stats, lift status, trail maps, and webcams. Anchored on OpenSkiMap, powered 
@@ -684,7 +687,7 @@
 - [openvinotoolkit/stable-diffusion-webui](https://github.com/openvinotoolkit/stable-diffusion-webui) - Stable Diffusion web UI
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 Apple Device Tracker  —  An advanced device tracker that uses Apple iCloud account and HA Mobile App data for presence detection and location based automations.
-- [LizardByte/Themerr-plex](https://github.com/LizardByte/Themerr-plex) - Standalone theme song manager for Plex using ThemerrDB.
+- [LizardByte/Themerr](https://github.com/LizardByte/Themerr) - Standalone theme song manager for Plex and Jellyfin using ThemerrDB.
 - [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Theme song database for movies, tv shows, and video games.
 - [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant
 - [iMicknl/ha-sagemcom-fast](https://github.com/iMicknl/ha-sagemcom-fast) - Home Assistant integration to enable presence detection via Sagemcom F@st routers.
@@ -923,6 +926,7 @@
 - [Loriage/Beszel-Swift-App](https://github.com/Loriage/Beszel-Swift-App) - Beszel Companion is an unofficial native iOS client for the Beszel server monitoring platform.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [MartinPham/FindMySync](https://github.com/MartinPham/FindMySync) - 
 - [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock) - Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
 
