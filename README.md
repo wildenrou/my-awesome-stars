@@ -521,6 +521,7 @@
 
 ## Python 
 
+- [ljmerza/tracking-numbers](https://github.com/ljmerza/tracking-numbers) - Home Assistant tracking numbers sensor for collecting tracking numbers from over 40 providers.
 - [hudsonbrendon/jbl-charge5](https://github.com/hudsonbrendon/jbl-charge5) - Home Assistant integration for the JBL Charge 5 (battery over BLE)
 - [boced66/ha-icalendar](https://github.com/boced66/ha-icalendar) - Generates an iCalendar (.ics) link that you can use to view your Home Assistant calendars in another app
 - [wildenrou/homeassistant-custom-icons](https://github.com/wildenrou/homeassistant-custom-icons) - Add your custom icons to Home Assistant!
@@ -687,7 +688,7 @@
 - [openvinotoolkit/stable-diffusion-webui](https://github.com/openvinotoolkit/stable-diffusion-webui) - Stable Diffusion web UI
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 Apple Device Tracker  —  An advanced device tracker that uses Apple iCloud account and HA Mobile App data for presence detection and location based automations.
-- [LizardByte/Themerr](https://github.com/LizardByte/Themerr) - Standalone theme song manager for Plex and Jellyfin using ThemerrDB.
+- [LizardByte/Themerr](https://github.com/LizardByte/Themerr) - Theme song manager for Plex and Jellyfin using ThemerrDB.
 - [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Theme song database for movies, tv shows, and video games.
 - [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant
 - [iMicknl/ha-sagemcom-fast](https://github.com/iMicknl/ha-sagemcom-fast) - Home Assistant integration to enable presence detection via Sagemcom F@st routers.
@@ -939,7 +940,7 @@
 - [UrbanTechIO/air-quality-card](https://github.com/UrbanTechIO/air-quality-card) - A custom Lovelace card for Home Assistant that visualizes air quality data with intuitive color-coded bars. Inspired by the Flower Card by Olen, this component offers a simple yet powerful way to moni
 - [joseluis9595/lovelace-navbar-card](https://github.com/joseluis9595/lovelace-navbar-card) - Custom lovelace card that displays a bottom nav in mobile devices, and a side nav in desktop devices for easy navigation.
 - [heyhuynhgiabuu/proxypal](https://github.com/heyhuynhgiabuu/proxypal) - A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage.
-- [snapetech/seerrng](https://github.com/snapetech/seerrng) - Seerr fork adding Music and Books, to existing Music & TV Requests.
+- [snapetech/seerrng](https://github.com/snapetech/seerrng) - Seerr fork adding Music, eBooks, Audiobooks, Comics, Magazines, Roms, Games, & Software to existing Music & TV Requests and approval management.
 - [RiDDiX/home-assistant-matter-hub](https://github.com/RiDDiX/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
 - [coddingtonbear/icloud-md](https://github.com/coddingtonbear/icloud-md) - Your Apple Notes as real Markdown files, on any OS, bidirectionally synced with a `git`-flavored CLI
 - [NylonDiamond/homeassistant-wrist-assistant](https://github.com/NylonDiamond/homeassistant-wrist-assistant) - Home Assistant custom integration for Wrist Assistant — Home Assistant on your Apple Watch
