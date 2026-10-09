@@ -234,6 +234,7 @@
 
 ## Dockerfile 
 
+- [hotio/whisparr](https://github.com/hotio/whisparr) - 
 - [zachatrocity/docker-beeper](https://github.com/zachatrocity/docker-beeper) - A self hosted beeper desktop app running in your web browser
 - [MrSuicideParrot/hassio-speedtest-addon](https://github.com/MrSuicideParrot/hassio-speedtest-addon) - SpeedTest Home Assistant addon
 - [Obamium69/hassio-beszel_agent](https://github.com/Obamium69/hassio-beszel_agent) - 
@@ -370,7 +371,7 @@
 - [JamesCoyle/DownloadsExtension](https://github.com/JamesCoyle/DownloadsExtension) - A replacement for the default Chrome downloads shelf
 - [pfcao/abookmark](https://github.com/pfcao/abookmark) - Advanced bookmark & tab manager
 - [Angeloyo/paywallhub-chrome-extension](https://github.com/Angeloyo/paywallhub-chrome-extension) - Chrome extension to remove paywalls, ads, popups and blocked content easily.
-- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex/Jellyfin/Emby.
+- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex, Jellyfin & Emby.
 - [alexa-samples/skill-sample-nodejs-audio-player](https://github.com/alexa-samples/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [stengland/alexa-mpd-skill](https://github.com/stengland/alexa-mpd-skill) - A simple Alexa skill for controlling MPD
