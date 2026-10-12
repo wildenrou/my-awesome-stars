@@ -726,7 +726,7 @@
 
 ## home-assistant 
 
-- [ljmerza/tracking-numbers](https://github.com/ljmerza/tracking-numbers) - Home Assistant tracking numbers sensor for collecting tracking numbers from over 40 providers.
+- [ljmerza/tracking-numbers](https://github.com/ljmerza/tracking-numbers) - Home Assistant tracking numbers sensor for collecting tracking numbers from over 60 providers.
 - [hudsonbrendon/jbl-charge5](https://github.com/hudsonbrendon/jbl-charge5) - Home Assistant integration for the JBL Charge 5 (battery over BLE)
 - [boced66/ha-icalendar](https://github.com/boced66/ha-icalendar) - Generates an iCalendar (.ics) link that you can use to view your Home Assistant calendars in another app
 - [joseluis9595/lovelace-navbar-card](https://github.com/joseluis9595/lovelace-navbar-card) - Custom lovelace card that displays a bottom nav in mobile devices, and a side nav in desktop devices for easy navigation.
@@ -1451,7 +1451,7 @@
 - [fastxl2024/mass-search-card](https://github.com/fastxl2024/mass-search-card) - 
 - [zhattention/ticktick-ai](https://github.com/zhattention/ticktick-ai) - 🎯 AI-powered voice assistant for TickTick, enabling natural language task management through speech. Built with OpenAI's speech recognition and TickTick's API integration, this assistant helps you man
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-- [masterwishx/ca.mover.tuning](https://github.com/masterwishx/ca.mover.tuning) - 
+- [masterwishx/ca.mover.tuning](https://github.com/masterwishx/ca.mover.tuning) - Plugin to fine-tune the operation of the Unraid Mover.
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
 - [wildenrou/widget-do-it](https://github.com/wildenrou/widget-do-it) - 
 - [wildenrou/widget-summarizer](https://github.com/wildenrou/widget-summarizer) - 
