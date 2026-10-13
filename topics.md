@@ -289,7 +289,7 @@
 ## azure 
 
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
 - [VikasSukhija/Downloads](https://github.com/VikasSukhija/Downloads) - AD Health Check, Send HTML Email,  Ping machines, Encrypt Password,Bulk Password,Microsoft Teams,Monitor Certificate expiry, Monitor cert expiry, AD attributes, IP to Hostname, Export AD group, CSV to
 
 ## backend 
@@ -624,7 +624,7 @@
 ## git 
 
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
@@ -921,7 +921,7 @@
 
 ## ipfs 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
 
 ## java 
 
@@ -1236,7 +1236,7 @@
 - [HomeVox/housekeeping-addon](https://github.com/HomeVox/housekeeping-addon) - Housekeeping add-on for Home Assistant: audit and apply fixes for entities, devices, and areas (cleanup, dedupe,   rename, and area assignment rules).
 - [max-ng/datamoat](https://github.com/max-ng/datamoat) - Export, back up, search, analyze, and reuse ChatGPT / Claude / Codex / Cursor / DeepSeek / Qwen data + skills + attachments locally
 - [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) - A Model Context Protocol (MCP) server that connects to Strava API, providing tools to access Strava data through LLMs
-- [strain08/LGSTrayEx](https://github.com/strain08/LGSTrayEx) - A tray app used to track battery levels of wireless Logitech mouse.
+- [strain08/LGSTrayEx](https://github.com/strain08/LGSTrayEx) - A tray app used to track battery levels of wireless Logitech devices.
 - [Baptiste-mrch/LogitechGHub_MQTT_batteries](https://github.com/Baptiste-mrch/LogitechGHub_MQTT_batteries) - Retrieve batteries status of Logitech devices through G Hub into MQTT (useful in HomeAssistant)
 - [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) - 
 - [zachatrocity/docker-beeper](https://github.com/zachatrocity/docker-beeper) - A self hosted beeper desktop app running in your web browser
@@ -2059,7 +2059,7 @@
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [Benisgo/Symbolic11](https://github.com/Benisgo/Symbolic11) - Symbolic11 is a user-friendly GUI tool for creating symbolic, hard, and junction links on Windows 10 and 11. The tool features a modern design inspired by Windows 11 and streamlines the link creation 
 - [builtbybel/xd-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) - The successor to xp-AntiSpy, designed for the modern Windows experience
-- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy
+- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Windows debloater.
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
