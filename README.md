@@ -90,7 +90,7 @@
 - [Caleb68864/SlingMD](https://github.com/Caleb68864/SlingMD) - Tools for Use with ObsidianMD
 - [alxnbl/onenote-md-exporter](https://github.com/alxnbl/onenote-md-exporter) - ConsoleApp to export OneNote notebooks to Markdown formats
 - [LavX/jellyfin-plugin-bazarr-plus](https://github.com/LavX/jellyfin-plugin-bazarr-plus) - Jellyfin 10.11+ subtitle provider plugin that proxies searches and downloads to a self-hosted Bazarr+ instance over an OpenSubtitles-compatible REST API.
-- [strain08/LGSTrayEx](https://github.com/strain08/LGSTrayEx) - A tray app used to track battery levels of wireless Logitech mouse.
+- [strain08/LGSTrayEx](https://github.com/strain08/LGSTrayEx) - A tray app used to track battery levels of wireless Logitech devices.
 - [HarshLabs/jellyfin-plugin-native-trickplay](https://github.com/HarshLabs/jellyfin-plugin-native-trickplay) - 
 - [jshafer813/Auto-Tagger](https://github.com/jshafer813/Auto-Tagger) - Auto Tagger for Jellyfin — Automatically applies genre, decade, rating, language, and resolution tags to your media library. Works hand-in-hand with Seasonal Visibility.
 - [damientkyt/jellyfin-tag-sync](https://github.com/damientkyt/jellyfin-tag-sync) - Retrieve TMDB and AniDB tags and write them to .nfo
@@ -158,7 +158,7 @@
 - [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search) - Official repository for Fluent Search, use to report issues or ask for a new feature
 - [LAB02-Research/DeepL-Translator](https://github.com/LAB02-Research/DeepL-Translator) - Windows GUI client for the DeepL translation API, both free and pro. Supports text, documents and webpages.
 - [builtbybel/xd-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) - The successor to xp-AntiSpy, designed for the modern Windows experience
-- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy
+- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Windows debloater.
 - [andyvorld/LGSTrayBattery](https://github.com/andyvorld/LGSTrayBattery) - A tray app used to track battery levels of wireless Logitech mouse.
 - [PiotrMachowski/Home-Assistant-Taskbar-Menu](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - This application is a simple Home Assistant client for Windows. It can display Lovelace views, control entities and show persistent notifications.
 - [marc365/Windows-DesktopRecorder](https://github.com/marc365/Windows-DesktopRecorder) - Desktop audio recorder for what you're playing.
@@ -296,7 +296,7 @@
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
