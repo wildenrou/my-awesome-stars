@@ -484,7 +484,7 @@
 
 - [drumandbytes/momentarr](https://github.com/drumandbytes/momentarr) - Caching, serialising proxy for FlareSolverr-compatible Cloudflare solvers — reuses cf_clearance over plain HTTP and runs one browser solve at a time.
 - [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
-- [snapetech/seerrng](https://github.com/snapetech/seerrng) - Seerr fork adding Music, eBooks, Audiobooks, Comics, Magazines, Roms, Games, & Software to existing Music & TV Requests and approval management.
+- [snapetech-org/seerrng](https://github.com/snapetech-org/seerrng) - Seerr fork adding Music, eBooks, Audiobooks, Comics, Magazines, Roms, Games, & Software to existing Music & TV Requests and approval management.
 - [anym001/healthlog](https://github.com/anym001/healthlog) - Self-hosted Apple Health analysis on your own hardware — no cloud, no tracking
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 71 tools for transactions, budgets, rules, and
@@ -608,7 +608,7 @@
 
 ## games 
 
-- [snapetech/seerrng](https://github.com/snapetech/seerrng) - Seerr fork adding Music, eBooks, Audiobooks, Comics, Magazines, Roms, Games, & Software to existing Music & TV Requests and approval management.
+- [snapetech-org/seerrng](https://github.com/snapetech-org/seerrng) - Seerr fork adding Music, eBooks, Audiobooks, Comics, Magazines, Roms, Games, & Software to existing Music & TV Requests and approval management.
 
 ## gaming 
 
@@ -1083,7 +1083,7 @@
 
 ## music 
 
-- [snapetech/seerrng](https://github.com/snapetech/seerrng) - Seerr fork adding Music, eBooks, Audiobooks, Comics, Magazines, Roms, Games, & Software to existing Music & TV Requests and approval management.
+- [snapetech-org/seerrng](https://github.com/snapetech-org/seerrng) - Seerr fork adding Music, eBooks, Audiobooks, Comics, Magazines, Roms, Games, & Software to existing Music & TV Requests and approval management.
 - [orainlabs/jellytunes](https://github.com/orainlabs/jellytunes) - Take your Jellyfin music offline on MP3 players and storage devices
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -1194,7 +1194,7 @@
 - [yieldhog/ski-resort-ha](https://github.com/yieldhog/ski-resort-ha) - Home Assistant integration for ski resorts — search 6,000+ mountains by name and get free snow, weather forecasts, terrain stats, lift status, trail maps, and webcams. Anchored on OpenSkiMap, powered 
 - [MDBList/jellyfin-plugin-mdblist](https://github.com/MDBList/jellyfin-plugin-mdblist) - 
 - [KruseLuds/halp](https://github.com/KruseLuds/halp) - HALP! (Home Assistant Location & Presence analyzer)
-- [joshmans/unraid-disklocation-next](https://github.com/joshmans/unraid-disklocation-next) - Standalone TypeScript service mapping Unraid drives to a tray/bay layout via unraid-api's GraphQL interface (7.2+) — clean-room successor to unraid-disklocation
+- [joshmans/unraid-baywatch](https://github.com/joshmans/unraid-baywatch) - Bay Watch (formerly Disk Location Next): a lifeguard for your drive bays - tray/bay map and SMART history for Unraid 7.2+, via unraid-api's GraphQL. Independent of the Disk Location plugin.
 - [dlandon/tips.and.tweaks-next](https://github.com/dlandon/tips.and.tweaks-next) - Continued private development of the Unraid Tip and Tweaks plugin by dlandon.
 - [arition/jellyfin-plugin-preferred-artwork](https://github.com/arition/jellyfin-plugin-preferred-artwork) - proxy artwork providers with language filtering
 - [mdsherinoff/Jellyfin.Plugin.LanguageSort](https://github.com/mdsherinoff/Jellyfin.Plugin.LanguageSort) - Automatically organizes your media files into collections grouped by language without any file or folder reorganisation required.
@@ -1479,6 +1479,7 @@
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 Apple Device Tracker  —  An advanced device tracker that uses Apple iCloud account and HA Mobile App data for presence detection and location based automations.
 - [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [iMicknl/ha-sagemcom-fast](https://github.com/iMicknl/ha-sagemcom-fast) - Home Assistant integration to enable presence detection via Sagemcom F@st routers.
 - [gbendy/sonarrToRSS](https://github.com/gbendy/sonarrToRSS) - Converts Sonarr webhooks to an RSS feed and webpage
 - [Darklyter/StashPlexAgent.bundle](https://github.com/Darklyter/StashPlexAgent.bundle) - Plex agent for Stash metadata
