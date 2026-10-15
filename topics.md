@@ -732,7 +732,7 @@
 - [joseluis9595/lovelace-navbar-card](https://github.com/joseluis9595/lovelace-navbar-card) - Custom lovelace card that displays a bottom nav in mobile devices, and a side nav in desktop devices for easy navigation.
 - [Mincka/spotcast](https://github.com/Mincka/spotcast) - Maintained fork. Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
 - [JeanMarc-Labs/ha-config-auditor](https://github.com/JeanMarc-Labs/ha-config-auditor) - Home Assistant Config Auditor (H.A.C.A) Custom Integration
-- [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Windows companion for Home Assistant - your PC as an MQTT device with sensors, remote commands and native toast notifications. Native x64 + ARM64, zero YAML.
+- [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Windows companion for Home Assistant: your PC as a device with sensors, controls, notifications and file transfer, over its own encrypted integration (no MQTT broker needed). Native x64 + ARM64.
 - [nathan-gs/ha-map-card](https://github.com/nathan-gs/ha-map-card) - A Map Card for Home Assistant
 - [ClusterM/localtuya_rc](https://github.com/ClusterM/localtuya_rc) - Tuya universal remote control device Home Assistant integration
 - [hydroqc/hydroqc-ha](https://github.com/hydroqc/hydroqc-ha) - Intégration Home Assistant pour Hydro-Québec. Surveillez votre consommation électrique, périodes de pointe, pannes et facturation.
@@ -910,7 +910,7 @@
 
 ## iot 
 
-- [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Windows companion for Home Assistant - your PC as an MQTT device with sensors, remote commands and native toast notifications. Native x64 + ARM64, zero YAML.
+- [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Windows companion for Home Assistant: your PC as a device with sensors, controls, notifications and file transfer, over its own encrypted integration (no MQTT broker needed). Native x64 + ARM64.
 - [dkwolf1/ha-ziggo-modem](https://github.com/dkwolf1/ha-ziggo-modem) - Home Assistant integration for Ziggo (Sagemcom) modems with cable diagnostics, DOCSIS signal monitoring and local API support
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [eschava/psmqtt](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT
@@ -1817,7 +1817,7 @@
 ## rust 
 
 - [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
-- [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Windows companion for Home Assistant - your PC as an MQTT device with sensors, remote commands and native toast notifications. Native x64 + ARM64, zero YAML.
+- [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Windows companion for Home Assistant: your PC as a device with sensors, controls, notifications and file transfer, over its own encrypted integration (no MQTT broker needed). Native x64 + ARM64.
 - [ricardodantas/tickit-sync](https://github.com/ricardodantas/tickit-sync) - Self-hosted sync server for Tickit task manager
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
@@ -2025,7 +2025,7 @@
 
 ## windows 
 
-- [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Windows companion for Home Assistant - your PC as an MQTT device with sensors, remote commands and native toast notifications. Native x64 + ARM64, zero YAML.
+- [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Windows companion for Home Assistant: your PC as a device with sensors, controls, notifications and file transfer, over its own encrypted integration (no MQTT broker needed). Native x64 + ARM64.
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - Unofficial Google Calendar desktop widget for Windows, macOS and Linux, built with Electron
