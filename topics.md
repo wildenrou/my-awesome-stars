@@ -482,6 +482,7 @@
 
 ## docker 
 
+- [KirovAir/muxarr](https://github.com/KirovAir/muxarr) - Quick and easy way to strip unwanted audio and subtitle tracks from your media files.
 - [drumandbytes/momentarr](https://github.com/drumandbytes/momentarr) - Caching, serialising proxy for FlareSolverr-compatible Cloudflare solvers — reuses cf_clearance over plain HTTP and runs one browser solve at a time.
 - [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
 - [snapetech-org/seerrng](https://github.com/snapetech-org/seerrng) - Seerr fork adding Music, eBooks, Audiobooks, Comics, Magazines, Roms, Games, & Software to existing Music & TV Requests and approval management.
@@ -531,6 +532,7 @@
 
 ## dotnet 
 
+- [KirovAir/muxarr](https://github.com/KirovAir/muxarr) - Quick and easy way to strip unwanted audio and subtitle tracks from your media files.
 - [LavX/jellyfin-plugin-bazarr-plus](https://github.com/LavX/jellyfin-plugin-bazarr-plus) - Jellyfin 10.11+ subtitle provider plugin that proxies searches and downloads to a self-hosted Bazarr+ instance over an OpenSubtitles-compatible REST API.
 - [IAmParadox27/jellyfin-plugin-pages](https://github.com/IAmParadox27/jellyfin-plugin-pages) - Allows plugins to add pages to the main UI
 - [Jellyfin-PG/Mod-Manager](https://github.com/Jellyfin-PG/Mod-Manager) - A mod manager, both css and js mods for jellyfin 10.11+
@@ -726,6 +728,7 @@
 
 ## home-assistant 
 
+- [KadenThomp36/chronicle-card](https://github.com/KadenThomp36/chronicle-card) - A universal, extensible timeline card for Home Assistant. Display events from any source in a single, interactive timeline.
 - [ljmerza/tracking-numbers](https://github.com/ljmerza/tracking-numbers) - Home Assistant tracking numbers sensor for collecting tracking numbers from over 60 providers.
 - [hudsonbrendon/jbl-charge5](https://github.com/hudsonbrendon/jbl-charge5) - Home Assistant integration for the JBL Charge 5 (battery over BLE)
 - [boced66/ha-icalendar](https://github.com/boced66/ha-icalendar) - Generates an iCalendar (.ics) link that you can use to view your Home Assistant calendars in another app
@@ -1187,6 +1190,8 @@
 
 ## others 
 
+- [davidcoulson/unraid-storage-topology](https://github.com/davidcoulson/unraid-storage-topology) - Unraid plugin: read-only SAS storage topology and enclosure health (controllers, cables, shelves, bays, firmware, per-drive link status)
+- [wildenrou/Jelly-lang-fix](https://github.com/wildenrou/Jelly-lang-fix) - 
 - [hotio/whisparr](https://github.com/hotio/whisparr) - 
 - [ursubey/Home-Assistant-Alarm-System-Alarmo-Frigate-Presence](https://github.com/ursubey/Home-Assistant-Alarm-System-Alarmo-Frigate-Presence) - Local Home Assistant alarm system: Alarmo, Frigate + mmWave sensor fusion, iCloud3 + BLE presence-based arming/disarming
 - [wildenrou/homeassistant-custom-icons](https://github.com/wildenrou/homeassistant-custom-icons) - Add your custom icons to Home Assistant!
