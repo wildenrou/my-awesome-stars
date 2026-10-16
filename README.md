@@ -78,6 +78,8 @@
 
 ## C# # 
 
+- [KirovAir/muxarr](https://github.com/KirovAir/muxarr) - Quick and easy way to strip unwanted audio and subtitle tracks from your media files.
+- [wildenrou/Jelly-lang-fix](https://github.com/wildenrou/Jelly-lang-fix) - 
 - [MDBList/jellyfin-plugin-mdblist](https://github.com/MDBList/jellyfin-plugin-mdblist) - 
 - [arition/jellyfin-plugin-preferred-artwork](https://github.com/arition/jellyfin-plugin-preferred-artwork) - proxy artwork providers with language filtering
 - [mdsherinoff/Jellyfin.Plugin.LanguageSort](https://github.com/mdsherinoff/Jellyfin.Plugin.LanguageSort) - Automatically organizes your media files into collections grouped by language without any file or folder reorganisation required.
@@ -490,6 +492,7 @@
 
 ## PHP 
 
+- [davidcoulson/unraid-storage-topology](https://github.com/davidcoulson/unraid-storage-topology) - Unraid plugin: read-only SAS storage topology and enclosure health (controllers, cables, shelves, bays, firmware, per-drive link status)
 - [Peuuuur-Noel/unraid-web-push-notification](https://github.com/Peuuuur-Noel/unraid-web-push-notification) - An Unraid plugin to add browser push notifications.
 - [johnpwhite/unraid-plg-zram](https://github.com/johnpwhite/unraid-plg-zram) - A plugin to configure and monitor zram on Unraid v7.2+
 - [unraid/unraid-tailscale](https://github.com/unraid/unraid-tailscale) - Installs Tailscale as an unRAID plugin. This allows connection via Tailscale even if the array is stopped.
@@ -939,6 +942,7 @@
 
 ## TypeScript 
 
+- [KadenThomp36/chronicle-card](https://github.com/KadenThomp36/chronicle-card) - A universal, extensible timeline card for Home Assistant. Display events from any source in a single, interactive timeline.
 - [Vaquill-AI/canlii-mcp](https://github.com/Vaquill-AI/canlii-mcp) - MCP server for the CanLII Canadian legal database. Hosted at canlii-mcp.vaquill.ai. Works with Claude, Cursor, VS Code, Windsurf.
 - [UrbanTechIO/air-quality-card](https://github.com/UrbanTechIO/air-quality-card) - A custom Lovelace card for Home Assistant that visualizes air quality data with intuitive color-coded bars. Inspired by the Flower Card by Olen, this component offers a simple yet powerful way to moni
 - [joseluis9595/lovelace-navbar-card](https://github.com/joseluis9595/lovelace-navbar-card) - Custom lovelace card that displays a bottom nav in mobile devices, and a side nav in desktop devices for easy navigation.
