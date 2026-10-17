@@ -325,6 +325,7 @@
 
 ## JavaScript 
 
+- [filipeamorimdev/home-assistant-beszel-agent-integration](https://github.com/filipeamorimdev/home-assistant-beszel-agent-integration) - Home assistant integration with lovelace cards to show your Beszel system stats
 - [nathan-gs/ha-map-card](https://github.com/nathan-gs/ha-map-card) - A Map Card for Home Assistant
 - [ofilis/codex-ha-bridge](https://github.com/ofilis/codex-ha-bridge) - Publishes OpenAI Codex usage limits to Home Assistant via MQTT, including 5-hour and weekly reset times.
 - [Ildana-ai/actual2ics](https://github.com/Ildana-ai/actual2ics) - Your Actual Budget schedules as an .ics calendar feed — local, read-only, no server changes
@@ -473,6 +474,7 @@
 - [BigBobbas/ESP32-S3-Box3-Custom-ESPHome](https://github.com/BigBobbas/ESP32-S3-Box3-Custom-ESPHome) - Custom ESPHome config for ESP32-S3-Box-3 with sensors and touchscreen
 - [DyonR/bitmagnet-unraid](https://github.com/DyonR/bitmagnet-unraid) - A guide on how to setup bitmagnet on Unraid
 - [music-assistant/support](https://github.com/music-assistant/support) - Music Assistant issue tracker
+- [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [Purfview/whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
 - [djiesr/Hydro-Quebec_Open_Data](https://github.com/djiesr/Hydro-Quebec_Open_Data) - Add Open Data from Hydro-Quebec to your Home Assistant
 - [Makememo/MemoAI](https://github.com/Makememo/MemoAI) - MemoAI Video to translated text, subtitles and notes made easy.
@@ -499,6 +501,7 @@
 - [jo-sobo/scriptlogs-unraid-plugin](https://github.com/jo-sobo/scriptlogs-unraid-plugin) - Unraid plugin that adds a dashboard widget to monitor the real-time status and logs of selected User Scripts.
 - [mmatongo/unraid-cloudflared](https://github.com/mmatongo/unraid-cloudflared) - Installs Cloudflared as an unRAID plugin.
 - [dreeveapp/dreeve](https://github.com/dreeveapp/dreeve) - Dreeve is a self-hosted, open-source dashboard for your sports and fitness data
+- [dkaser/unraid-tailscale](https://github.com/dkaser/unraid-tailscale) - Installs Tailscale as an unRAID plugin. This allows connection via Tailscale even if the array is stopped.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [Commifreak/unraid-appdata.backup](https://github.com/Commifreak/unraid-appdata.backup) - UNRAID AppData backup plugin
@@ -887,7 +890,6 @@
 - [masterwishx/ca.mover.tuning](https://github.com/masterwishx/ca.mover.tuning) - Plugin to fine-tune the operation of the Unraid Mover.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [vorlac/unraid-fast-copy](https://github.com/vorlac/unraid-fast-copy) - An optimized parallel copy utility for copying data from an unraid share to a mounted nfs/cifs share
-- [dkaser/unraid-tailscale](https://github.com/dkaser/unraid-tailscale) - Installs Tailscale as an unRAID plugin. This allows connection via Tailscale even if the array is stopped.
 - [alexklibisz/bdv2s3](https://github.com/alexklibisz/bdv2s3) - backup docker volume to s3
 - [SpaceinvaderOne/Custom-Tabs-Super](https://github.com/SpaceinvaderOne/Custom-Tabs-Super) - 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -898,7 +900,6 @@
 - [AdRoll/AirControl](https://github.com/AdRoll/AirControl) - Control AirPlay Mirroring from the command line.
 - [jlesage/docker-mkvtoolnix](https://github.com/jlesage/docker-mkvtoolnix) - Docker container for MKVToolNix
 - [gtxaspec/wz_mini_hacks](https://github.com/gtxaspec/wz_mini_hacks) - wz camera mods... make your camera better.
-- [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [dimagoltsman/generic-remote-control-card](https://github.com/dimagoltsman/generic-remote-control-card) - Generic Remote control card for HACS
 - [binhex/arch-qbittorrentvpn](https://github.com/binhex/arch-qbittorrentvpn) - Docker build script for Arch Linux base with qBittorrent, Privoxy and OpenVPN
 - [pssc/ha-addon-lms](https://github.com/pssc/ha-addon-lms) - Logitech Media Server Addon for Home Assistant
