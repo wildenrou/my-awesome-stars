@@ -728,6 +728,7 @@
 
 ## home-assistant 
 
+- [filipeamorimdev/home-assistant-beszel-agent-integration](https://github.com/filipeamorimdev/home-assistant-beszel-agent-integration) - Home assistant integration with lovelace cards to show your Beszel system stats
 - [KadenThomp36/chronicle-card](https://github.com/KadenThomp36/chronicle-card) - A universal, extensible timeline card for Home Assistant. Display events from any source in a single, interactive timeline.
 - [ljmerza/tracking-numbers](https://github.com/ljmerza/tracking-numbers) - Home Assistant tracking numbers sensor for collecting tracking numbers from over 60 providers.
 - [hudsonbrendon/jbl-charge5](https://github.com/hudsonbrendon/jbl-charge5) - Home Assistant integration for the JBL Charge 5 (battery over BLE)
