@@ -541,7 +541,6 @@
 - [ClusterM/localtuya_rc](https://github.com/ClusterM/localtuya_rc) - Tuya universal remote control device Home Assistant integration
 - [hydroqc/hydroqc-ha](https://github.com/hydroqc/hydroqc-ha) - Intégration Home Assistant pour Hydro-Québec. Surveillez votre consommation électrique, périodes de pointe, pannes et facturation.
 - [Miloud-H/HA-Canada-Post](https://github.com/Miloud-H/HA-Canada-Post) - Canada Post My Mail (Mon Courrier) integration for Home Assistant.
-- [StrausbergAutomationWorks/LiveTrackViaRail](https://github.com/StrausbergAutomationWorks/LiveTrackViaRail) - Live VIA Rail Canada train tracking for Home Assistant. Real-time positions for the Canadian, Ocean, Skeena, Hudson Bay and Corridor services.
 - [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Community continuation of Calibre-Web-Automated. Attempting to maintain with rapid iteration. Please feel free to help out by filing Issues, Feature Requests, PRs, and chatting in our Discussion.
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [marcusadolfsson/appletv-siri-voice](https://github.com/marcusadolfsson/appletv-siri-voice) - Send voice commands to Siri on your Apple TV from Home Assistant
@@ -579,7 +578,7 @@
 - [JTechCzech/mydlink-HA-integration](https://github.com/JTechCzech/mydlink-HA-integration) - Integration into Home Assistant to add D-Link devices
 - [ErikFontanel/ticktick-habits-home-assistant](https://github.com/ErikFontanel/ticktick-habits-home-assistant) - Custom integration that exposes TickTick Habits as a Home Assistant To-do list
 - [M4RC-XX/homeassistant_ticktick_todo](https://github.com/M4RC-XX/homeassistant_ticktick_todo) - Unofficial but powerful Home Assistant integration for TickTick. This integration uses the native todo platform to bring your tasks directly into your smart home dashboard.
-- [gregt1993/Health_Bridge](https://github.com/gregt1993/Health_Bridge) - Home Assistant integration to work alongside the Health Assistant Link app
+- [gregt1993/Health_Bridge](https://github.com/gregt1993/Health_Bridge) - Health Bridge: the Home Assistant integration for Health Assistant Link (Apple Health and Apple Watch to Home Assistant) and Phone Assistant Link (Screen Time). Install through HACS.
 - [pickpppcc/qbittorrent-mcp](https://github.com/pickpppcc/qbittorrent-mcp) - 
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [KipK/ha_entity_explorer](https://github.com/KipK/ha_entity_explorer) - A standalone web application to explore and visualize data history of any Home Assistant entity and its attributes
