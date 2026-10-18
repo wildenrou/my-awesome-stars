@@ -741,7 +741,6 @@
 - [ClusterM/localtuya_rc](https://github.com/ClusterM/localtuya_rc) - Tuya universal remote control device Home Assistant integration
 - [hydroqc/hydroqc-ha](https://github.com/hydroqc/hydroqc-ha) - Intégration Home Assistant pour Hydro-Québec. Surveillez votre consommation électrique, périodes de pointe, pannes et facturation.
 - [Miloud-H/HA-Canada-Post](https://github.com/Miloud-H/HA-Canada-Post) - Canada Post My Mail (Mon Courrier) integration for Home Assistant.
-- [StrausbergAutomationWorks/LiveTrackViaRail](https://github.com/StrausbergAutomationWorks/LiveTrackViaRail) - Live VIA Rail Canada train tracking for Home Assistant. Real-time positions for the Canadian, Ocean, Skeena, Hudson Bay and Corridor services.
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [dcybeldesign/ha-mpd-bluetooth-bridge](https://github.com/dcybeldesign/ha-mpd-bluetooth-bridge) - Connect any Bluetooth speaker to Home Assistant as a native media_player, with optional MPD/Music Assistant support.
 - [naniguggilapu/frigateane](https://github.com/naniguggilapu/frigateane) - Run Frigate object detection on Apple Neural Engine — native macOS app with one-window setup for MQTT/Home Assistant, storage, cameras & models
@@ -766,6 +765,7 @@
 - [tsunglung/UberEats](https://github.com/tsunglung/UberEats) - Uber Eats for Home Assistant
 - [hiall-fyi/ha-cleanup](https://github.com/hiall-fyi/ha-cleanup) - 🧹 Home Assistant cleanup script - Remove orphaned entities, clean registries, purge old database records
 - [M4RC-XX/homeassistant_ticktick_todo](https://github.com/M4RC-XX/homeassistant_ticktick_todo) - Unofficial but powerful Home Assistant integration for TickTick. This integration uses the native todo platform to bring your tasks directly into your smart home dashboard.
+- [gregt1993/Health_Bridge](https://github.com/gregt1993/Health_Bridge) - Health Bridge: the Home Assistant integration for Health Assistant Link (Apple Health and Apple Watch to Home Assistant) and Phone Assistant Link (Screen Time). Install through HACS.
 - [KipK/ha_entity_explorer](https://github.com/KipK/ha_entity_explorer) - A standalone web application to explore and visualize data history of any Home Assistant entity and its attributes
 - [GaillardTom/SherbrookePoubelle-HA](https://github.com/GaillardTom/SherbrookePoubelle-HA) - Integration pour le calendrier des poubelles dans home assistant pour la ville de sherbrooke.
 - [Perrotn/homeassistant-stm](https://github.com/Perrotn/homeassistant-stm) - Home Assistant integration for STM (Société de transport de Montréal) real-time transit data
@@ -902,6 +902,7 @@
 ## ios 
 
 - [vgmoose/OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor) - A free program for extracting data (like voicemails) from iPhone and iPad backups.
+- [gregt1993/Health_Bridge](https://github.com/gregt1993/Health_Bridge) - Health Bridge: the Home Assistant integration for Health Assistant Link (Apple Health and Apple Watch to Home Assistant) and Phone Assistant Link (Screen Time). Install through HACS.
 - [Jozwiaczek/iphone-alarms-sync](https://github.com/Jozwiaczek/iphone-alarms-sync) - iOS alarms synchronisation custom component for Home Assistant
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
@@ -1252,7 +1253,6 @@
 - [wildenrou/HA_Prowlarr](https://github.com/wildenrou/HA_Prowlarr) - Home assistant Prowlarr integration
 - [wildenrou/dlink_mydlink_water](https://github.com/wildenrou/dlink_mydlink_water) - Home Assistant custom integration for D-Link mydlink DCH-S162 / DCH-S163 water leak sensors.
 - [JTechCzech/mydlink-HA-integration](https://github.com/JTechCzech/mydlink-HA-integration) - Integration into Home Assistant to add D-Link devices
-- [gregt1993/Health_Bridge](https://github.com/gregt1993/Health_Bridge) - Home Assistant integration to work alongside the Health Assistant Link app
 - [pickpppcc/qbittorrent-mcp](https://github.com/pickpppcc/qbittorrent-mcp) - 
 - [s-stefanov/actual-mcp](https://github.com/s-stefanov/actual-mcp) - Model Context Protocol for Actual Budget API
 - [matheusvellone/actual-ical](https://github.com/matheusvellone/actual-ical) - Expose your Actual Scheduled Transactions in iCal format
