@@ -780,7 +780,7 @@
 - [MrSuicideParrot/hassio-speedtest-addon](https://github.com/MrSuicideParrot/hassio-speedtest-addon) - SpeedTest Home Assistant addon
 - [owenvoke/hass-bazarr](https://github.com/owenvoke/hass-bazarr) - A Bazarr integration for Home Assistant
 - [rodpayne/home-assistant_person_location](https://github.com/rodpayne/home-assistant_person_location) - Combine the status of multiple device trackers; make presence detection not so binary; reverse geocode and make distance calculations.
-- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A fork of FindMySync - A macOS utility (compatible with Sequoia and Tahoe) to decrypt the local Find My cache and post device locations to a Home Assistant endpoint.
+- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A macOS menu-bar app that decrypts the local Find My cache and publishes devices, items and friends to Home Assistant over MQTT. macOS 14.4 and later.
 - [lmagyar/homeassistant-addon-tailscale](https://github.com/lmagyar/homeassistant-addon-tailscale) - Adds some functionality to the Tailscale Home Assistant Community Add-on https://github.com/hassio-addons/app-tailscale
 - [moerk-o/WhenHub](https://github.com/moerk-o/WhenHub) - Home Assistant integration for tracking dates of multi-day trips (e.g. vacations), one-time or recurring events (like birthdays), and special holidays like DST dates. Provides various sensors includin
 - [zupancicmarko/JellyHA](https://github.com/zupancicmarko/JellyHA) - Jellyfin Custom Integration for Home Assistant
@@ -858,6 +858,7 @@
 - [thlucas1/homeassistantcomponent_spotifyplus](https://github.com/thlucas1/homeassistantcomponent_spotifyplus) - Home Assistant integration for Spotify Player control, services, and soundtouchplus integration support.
 - [ldotlopez/ha-hnap-device](https://github.com/ldotlopez/ha-hnap-device) - Home Assistant component for HNAP devices
 - [vingerha/gtfs2](https://github.com/vingerha/gtfs2) - Support GTFS in Home Assistant GUI-only
+- [zacs/ha-gtfs-rt](https://github.com/zacs/ha-gtfs-rt) - Real-time transit information for Home Assistant
 - [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop) - Use Home Assistant Assist on the desktop. Compatible with Windows, MacOS, and Linux
 - [ciotlosm/lovelace-thermostat-dark-card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - 🌡 Thermostat card with a round and black feel to it
 - [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
@@ -1020,7 +1021,7 @@
 
 - [naniguggilapu/frigateane](https://github.com/naniguggilapu/frigateane) - Run Frigate object detection on Apple Neural Engine — native macOS app with one-window setup for MQTT/Home Assistant, storage, cameras & models
 - [bytePatrol/FollowMyFriends](https://github.com/bytePatrol/FollowMyFriends) - Bridge Apple Find My friend locations to Home Assistant via MQTT — native macOS app, no cloud required
-- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A fork of FindMySync - A macOS utility (compatible with Sequoia and Tahoe) to decrypt the local Find My cache and post device locations to a Home Assistant endpoint.
+- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A macOS menu-bar app that decrypts the local Find My cache and publishes devices, items and friends to Home Assistant over MQTT. macOS 14.4 and later.
 - [airy10/FindMyDevices](https://github.com/airy10/FindMyDevices) - Send FindMy devices and items (AirTag) locations to Home Assistant
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - Unofficial Google Calendar desktop widget for Windows, macOS and Linux, built with Electron
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
@@ -1574,7 +1575,6 @@
 - [custom-cards/spotify-card](https://github.com/custom-cards/spotify-card) - Spotify playlist card for Home Assistant card
 - [waffelheld/dlink-device-tracker](https://github.com/waffelheld/dlink-device-tracker) - Device Tracker for D-Link Routers/APs for Home Assistant using HNAP
 - [ageof/MyDlink-API-Python](https://github.com/ageof/MyDlink-API-Python) - MyDlink Cloud Python API
-- [zacs/ha-gtfs-rt](https://github.com/zacs/ha-gtfs-rt) - Real-time transit information for Home Assistant
 - [doudz/homeassistant-myjdownloader](https://github.com/doudz/homeassistant-myjdownloader) - myjdownloader integration for home assistant
 - [daenny/climate_group](https://github.com/daenny/climate_group) - Home Assistant Climate Group
 - [music-assistant/support](https://github.com/music-assistant/support) - Music Assistant issue tracker
@@ -1911,7 +1911,7 @@
 ## swift 
 
 - [bytePatrol/FollowMyFriends](https://github.com/bytePatrol/FollowMyFriends) - Bridge Apple Find My friend locations to Home Assistant via MQTT — native macOS app, no cloud required
-- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A fork of FindMySync - A macOS utility (compatible with Sequoia and Tahoe) to decrypt the local Find My cache and post device locations to a Home Assistant endpoint.
+- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A macOS menu-bar app that decrypts the local Find My cache and publishes devices, items and friends to Home Assistant over MQTT. macOS 14.4 and later.
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
