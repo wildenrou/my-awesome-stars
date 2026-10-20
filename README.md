@@ -298,7 +298,7 @@
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Platform (for humans and agents)
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
@@ -494,6 +494,8 @@
 
 ## PHP 
 
+- [leone007/unraid-mediaserver-tools](https://github.com/leone007/unraid-mediaserver-tools) - Feature-rich Unraid dashboard plugins: Seedbox, Sysbox, Diskbox, Streambox
+- [jamesfreeman959/unraid-duc](https://github.com/jamesfreeman959/unraid-duc) - The duc disk usage analyzer, built as a plugin for UnRAID
 - [davidcoulson/unraid-storage-topology](https://github.com/davidcoulson/unraid-storage-topology) - Unraid plugin: read-only SAS storage topology and enclosure health (controllers, cables, shelves, bays, firmware, per-drive link status)
 - [Peuuuur-Noel/unraid-web-push-notification](https://github.com/Peuuuur-Noel/unraid-web-push-notification) - An Unraid plugin to add browser push notifications.
 - [johnpwhite/unraid-plg-zram](https://github.com/johnpwhite/unraid-plg-zram) - A plugin to configure and monitor zram on Unraid v7.2+
@@ -545,7 +547,7 @@
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [marcusadolfsson/appletv-siri-voice](https://github.com/marcusadolfsson/appletv-siri-voice) - Send voice commands to Siri on your Apple TV from Home Assistant
 - [mrvautin/ha-workouts](https://github.com/mrvautin/ha-workouts) - Home Assistant integration for Garmin, Strava, and Apple Health workout data with long-term statistics charting
-- [bjrnptrsn/climate_group_helper](https://github.com/bjrnptrsn/climate_group_helper) - Climate Group Helper for Home Assistant: Control multiple thermostats, ACs and heaters as one.  Includes TRV calibration, window & presence control, schedule automation, and advanced sync modes.  A po
+- [bjrnptrsn/climate_group_helper](https://github.com/bjrnptrsn/climate_group_helper) - Climate Group Helper for Home Assistant: Orchestrate single or multiple TRVs, ACs, and heaters. Features a built-in custom Dashboard card, native TRV calibration, window & presence control, schedules,
 - [hudsonbrendon/ha-apple-ble](https://github.com/hudsonbrendon/ha-apple-ble) - Home Assistant (HACS) integration for AirPods battery and nearby Apple device presence over BLE
 - [daemon-james/homekit-climate-plus](https://github.com/daemon-james/homekit-climate-plus) - Home Assistant HACS custom component: one Apple HomeKit accessory per climate entity, with linked fan, swing, preset, and sensor services.
 - [LeonMusCoden/LetterFeed](https://github.com/LeonMusCoden/LetterFeed) - Convert email newsletters into RSS feeds
@@ -685,7 +687,7 @@
 - [FifiTheBulldog/ios-settings-urls](https://github.com/FifiTheBulldog/ios-settings-urls) - A collection of iOS Settings URLs
 - [OHF-Voice/speech-to-phrase](https://github.com/OHF-Voice/speech-to-phrase) - Fast and personalized local speech-to-text
 - [v6ak/sonicare-ble-hacs](https://github.com/v6ak/sonicare-ble-hacs) - Sonicare BLE HACS integration
-- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.
+- [goruck/home-generative-agent](https://github.com/goruck/home-generative-agent) - AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local
 - [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
 - [RonSchofield/hass-chs](https://github.com/RonSchofield/hass-chs) - Canadian Hydrographic Service Water Levels integration into Home Assistant
 - [normcyr/home-assistant-montreal-aqi](https://github.com/normcyr/home-assistant-montreal-aqi) - Home Assistant custom component to get the air quality index for the city of Montréal, Québec (Canada)
@@ -926,7 +928,7 @@
 - [gouwsxander/Apple-Intelligence-API](https://github.com/gouwsxander/Apple-Intelligence-API) - A Web API for Apple Intelligence
 - [bytePatrol/FollowMyFriends](https://github.com/bytePatrol/FollowMyFriends) - Bridge Apple Find My friend locations to Home Assistant via MQTT — native macOS app, no cloud required
 - [cleverdevil/iCloudBridge](https://github.com/cleverdevil/iCloudBridge) - A macOS menu bar application that exposes selected parts of your iCloud data via a REST API.
-- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A fork of FindMySync - A macOS utility (compatible with Sequoia and Tahoe) to decrypt the local Find My cache and post device locations to a Home Assistant endpoint.
+- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A macOS menu-bar app that decrypts the local Find My cache and publishes devices, items and friends to Home Assistant over MQTT. macOS 14.4 and later.
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [airy10/FindMyDevices](https://github.com/airy10/FindMyDevices) - Send FindMy devices and items (AirTag) locations to Home Assistant
 - [Loriage/Beszel-Swift-App](https://github.com/Loriage/Beszel-Swift-App) - Beszel Companion is an unofficial native iOS client for the Beszel server monitoring platform.
