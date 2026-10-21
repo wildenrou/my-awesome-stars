@@ -530,6 +530,7 @@
 
 ## Python 
 
+- [nadeo360/friedafetch](https://github.com/nadeo360/friedafetch) - Frieda – MCP connector for iCloud: calendars, contacts, mail and notes for Home Assistant (HACS integration)
 - [ljmerza/tracking-numbers](https://github.com/ljmerza/tracking-numbers) - Home Assistant tracking numbers sensor for collecting tracking numbers from over 60 providers.
 - [hudsonbrendon/jbl-charge5](https://github.com/hudsonbrendon/jbl-charge5) - Home Assistant integration for the JBL Charge 5 (battery over BLE)
 - [boced66/ha-icalendar](https://github.com/boced66/ha-icalendar) - Generates an iCalendar (.ics) link that you can use to view your Home Assistant calendars in another app
@@ -944,6 +945,7 @@
 
 ## TypeScript 
 
+- [a11delavar/mitra](https://github.com/a11delavar/mitra) - One calendar to plan your events and tasks
 - [KadenThomp36/chronicle-card](https://github.com/KadenThomp36/chronicle-card) - A universal, extensible timeline card for Home Assistant. Display events from any source in a single, interactive timeline.
 - [Vaquill-AI/canlii-mcp](https://github.com/Vaquill-AI/canlii-mcp) - MCP server for the CanLII Canadian legal database. Hosted at canlii-mcp.vaquill.ai. Works with Claude, Cursor, VS Code, Windsurf.
 - [UrbanTechIO/air-quality-card](https://github.com/UrbanTechIO/air-quality-card) - A custom Lovelace card for Home Assistant that visualizes air quality data with intuitive color-coded bars. Inspired by the Flower Card by Olen, this component offers a simple yet powerful way to moni
