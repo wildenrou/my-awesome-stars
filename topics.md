@@ -728,6 +728,7 @@
 
 ## home-assistant 
 
+- [nadeo360/friedafetch](https://github.com/nadeo360/friedafetch) - Frieda – MCP connector for iCloud: calendars, contacts, mail and notes for Home Assistant (HACS integration)
 - [filipeamorimdev/home-assistant-beszel-agent-integration](https://github.com/filipeamorimdev/home-assistant-beszel-agent-integration) - Home assistant integration with lovelace cards to show your Beszel system stats
 - [KadenThomp36/chronicle-card](https://github.com/KadenThomp36/chronicle-card) - A universal, extensible timeline card for Home Assistant. Display events from any source in a single, interactive timeline.
 - [ljmerza/tracking-numbers](https://github.com/ljmerza/tracking-numbers) - Home Assistant tracking numbers sensor for collecting tracking numbers from over 60 providers.
@@ -1055,6 +1056,7 @@
 
 ## mcp 
 
+- [nadeo360/friedafetch](https://github.com/nadeo360/friedafetch) - Frieda – MCP connector for iCloud: calendars, contacts, mail and notes for Home Assistant (HACS integration)
 - [Vaquill-AI/canlii-mcp](https://github.com/Vaquill-AI/canlii-mcp) - MCP server for the CanLII Canadian legal database. Hosted at canlii-mcp.vaquill.ai. Works with Claude, Cursor, VS Code, Windsurf.
 - [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 71 tools for transactions, budgets, rules, and
 - [mohammadfarooqi/canlii-mcp](https://github.com/mohammadfarooqi/canlii-mcp) - Local MCP server for Canadian legal research via CanLII API — search cases, browse legislation, check citations. Works with Claude Desktop & Claude Code.
@@ -1846,6 +1848,7 @@
 
 ## self-hosted 
 
+- [a11delavar/mitra](https://github.com/a11delavar/mitra) - One calendar to plan your events and tasks
 - [anym001/healthlog](https://github.com/anym001/healthlog) - Self-hosted Apple Health analysis on your own hardware — no cloud, no tracking
 - [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr) - An audiobook and eBook collection manager.
 - [ezwep/chatgpt-exporter](https://github.com/ezwep/chatgpt-exporter) - Self-hosted ChatGPT backup tool — export all your conversations, projects (with files), and custom GPTs as JSON, Markdown and HTML. Zero dependencies, runs locally with a web UI.
