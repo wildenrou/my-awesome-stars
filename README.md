@@ -325,6 +325,7 @@
 
 ## JavaScript 
 
+- [masonfox/scurry](https://github.com/masonfox/scurry) - A nimble little mouse that scurries through MyAnonamouse (MAM) and whisks audio and ebook torrents into qBittorrent
 - [filipeamorimdev/home-assistant-beszel-agent-integration](https://github.com/filipeamorimdev/home-assistant-beszel-agent-integration) - Home assistant integration with lovelace cards to show your Beszel system stats
 - [nathan-gs/ha-map-card](https://github.com/nathan-gs/ha-map-card) - A Map Card for Home Assistant
 - [ofilis/codex-ha-bridge](https://github.com/ofilis/codex-ha-bridge) - Publishes OpenAI Codex usage limits to Home Assistant via MQTT, including 5-hour and weekly reset times.
