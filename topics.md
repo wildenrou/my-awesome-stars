@@ -728,6 +728,7 @@
 
 ## home-assistant 
 
+- [dbustosrc/yale-access-manager](https://github.com/dbustosrc/yale-access-manager) - Native Home Assistant access management for compatible Yale/August locks, packaged for HACS.
 - [nadeo360/friedafetch](https://github.com/nadeo360/friedafetch) - Frieda – MCP connector for iCloud: calendars, contacts, mail and notes for Home Assistant (HACS integration)
 - [filipeamorimdev/home-assistant-beszel-agent-integration](https://github.com/filipeamorimdev/home-assistant-beszel-agent-integration) - Home assistant integration with lovelace cards to show your Beszel system stats
 - [KadenThomp36/chronicle-card](https://github.com/KadenThomp36/chronicle-card) - A universal, extensible timeline card for Home Assistant. Display events from any source in a single, interactive timeline.
