@@ -531,6 +531,7 @@
 
 ## Python 
 
+- [dbustosrc/yale-access-manager](https://github.com/dbustosrc/yale-access-manager) - Native Home Assistant access management for compatible Yale/August locks, packaged for HACS.
 - [nadeo360/friedafetch](https://github.com/nadeo360/friedafetch) - Frieda – MCP connector for iCloud: calendars, contacts, mail and notes for Home Assistant (HACS integration)
 - [ljmerza/tracking-numbers](https://github.com/ljmerza/tracking-numbers) - Home Assistant tracking numbers sensor for collecting tracking numbers from over 60 providers.
 - [hudsonbrendon/jbl-charge5](https://github.com/hudsonbrendon/jbl-charge5) - Home Assistant integration for the JBL Charge 5 (battery over BLE)
