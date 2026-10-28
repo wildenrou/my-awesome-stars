@@ -470,7 +470,6 @@
 - [HarleyL7/unRAID-CoralTPU-Guide](https://github.com/HarleyL7/unRAID-CoralTPU-Guide) - 
 - [leofabri/hassio_appliance-status-monitor](https://github.com/leofabri/hassio_appliance-status-monitor) - 🔌 Detect the state of your appliances based on their power consumption ✨
 - [Philippe734/Simple.NFS.GUI](https://github.com/Philippe734/Simple.NFS.GUI) - GUI tool for NFS for Linux. Set a machine as Client/Server in a local network easily with this front-end for NFS.
-- [jazzmonger/Willow-Dashboard](https://github.com/jazzmonger/Willow-Dashboard) - Near realtime Dashboard for Willow server
 - [BigBobbas/ESP32-S3-Box3-Custom-ESPHome](https://github.com/BigBobbas/ESP32-S3-Box3-Custom-ESPHome) - Custom ESPHome config for ESP32-S3-Box-3 with sensors and touchscreen
 - [DyonR/bitmagnet-unraid](https://github.com/DyonR/bitmagnet-unraid) - A guide on how to setup bitmagnet on Unraid
 - [music-assistant/support](https://github.com/music-assistant/support) - Music Assistant issue tracker
@@ -548,7 +547,7 @@
 - [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Community continuation of Calibre-Web-Automated. Attempting to maintain with rapid iteration. Please feel free to help out by filing Issues, Feature Requests, PRs, and chatting in our Discussion.
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [marcusadolfsson/appletv-siri-voice](https://github.com/marcusadolfsson/appletv-siri-voice) - Send voice commands to Siri on your Apple TV from Home Assistant
-- [mrvautin/ha-workouts](https://github.com/mrvautin/ha-workouts) - Home Assistant integration for Garmin, Strava, and Apple Health workout data with long-term statistics charting
+- [mrvautin/ha-workouts](https://github.com/mrvautin/ha-workouts) - Home Assistant integration for Garmin, Coros, Strava, and Apple Health workout & health data — sensors, long-term statistics, and per-km split calendar
 - [bjrnptrsn/climate_group_helper](https://github.com/bjrnptrsn/climate_group_helper) - Climate Group Helper for Home Assistant: Orchestrate single or multiple TRVs, ACs, and heaters. Features a built-in custom Dashboard card, native TRV calibration, window & presence control, schedules,
 - [hudsonbrendon/ha-apple-ble](https://github.com/hudsonbrendon/ha-apple-ble) - Home Assistant (HACS) integration for AirPods battery and nearby Apple device presence over BLE
 - [daemon-james/homekit-climate-plus](https://github.com/daemon-james/homekit-climate-plus) - Home Assistant HACS custom component: one Apple HomeKit accessory per climate entity, with linked fan, swing, preset, and sensor services.
@@ -698,7 +697,7 @@
 - [eskerda/pybikes](https://github.com/eskerda/pybikes) - bike sharing + python = pybikes
 - [openvinotoolkit/stable-diffusion-webui](https://github.com/openvinotoolkit/stable-diffusion-webui) - Stable Diffusion web UI
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
-- [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 Apple Device Tracker  —  An advanced device tracker that uses Apple iCloud account and HA Mobile App data for presence detection and location based automations.
+- [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 — This is an advanced device tracker that uses Apple iCloud account and HA Mobile App data for presence detection and location based automations.
 - [LizardByte/Themerr](https://github.com/LizardByte/Themerr) - Theme song manager for Plex and Jellyfin using ThemerrDB.
 - [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Theme song database for movies, tv shows, and video games.
 - [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant
@@ -830,7 +829,7 @@
 - [kkr16/hass-stm-custom-component](https://github.com/kkr16/hass-stm-custom-component) - Custom HomeAssistant component for the STM (Société de transport de Montréal) metro lines status monitoring.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart integration with SmartThings API Support.
-- [gcobb321/icloud3_v3](https://github.com/gcobb321/icloud3_v3) - iCloud3  Apple Device Tracker Beta/Prerelease Version — This is the beta/prerelease version with new and updated features. It is not the official release of iCloud3.
+- [gcobb321/icloud3_v3](https://github.com/gcobb321/icloud3_v3) - iCloud3 Beta — Beta/Test Version. This is an advanced device tracker that uses Apple iCloud account and HA Mobile App data for presence detection and location based automations.
 - [TitleCardMaker/TitleCardMaker](https://github.com/TitleCardMaker/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [haijeploeg/excludarr](https://github.com/haijeploeg/excludarr) - Excludarr manages your libraries in Radarr/Sonarr. It keeps track of your library and checks if your movies and series are also available on a configured streaming provider. It can exclude the movies 
 - [postlund/dlink_hnap](https://github.com/postlund/dlink_hnap) - Experimental integration to Home Assistant supporting D-Link devices
