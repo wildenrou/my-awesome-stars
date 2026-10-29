@@ -1555,7 +1555,7 @@
 - [codeproject/CodeProject.AI-HomeAssist-ObjectDetect](https://github.com/codeproject/CodeProject.AI-HomeAssist-ObjectDetect) - Home Assistant custom component for using CodeProject.AI Server object detection
 - [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a self-hosted app to download and manage trailers for your media libraries.
 - [gtxaspec/wz_mini_hacks](https://github.com/gtxaspec/wz_mini_hacks) - wz camera mods... make your camera better.
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [meta/zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 - [altmenorg/HAsmartirrigation](https://github.com/altmenorg/HAsmartirrigation) - Smart Irrigation custom component for Home Assistant
 - [MattTW/BlinkMonitorProtocol](https://github.com/MattTW/BlinkMonitorProtocol) - Unofficial documentation for the Blink Wire-Free HD Home Monitoring & Alert System
 - [muniter/halinuxcompanion](https://github.com/muniter/halinuxcompanion) - HomeAssistant Linux Companion
