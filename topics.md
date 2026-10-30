@@ -12,6 +12,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -226,6 +227,10 @@
 ## angular 
 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
+
+## animation 
+
+- [flixlix/power-flow-card-plus](https://github.com/flixlix/power-flow-card-plus) - A power distribution card inspired by the official Energy Distribution card for Home Assistant
 
 ## api 
 
