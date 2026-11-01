@@ -758,7 +758,7 @@
 - [Nezz/homeassistant-visionos-theme](https://github.com/Nezz/homeassistant-visionos-theme) - Theme inspired by visionOS for Home Assistant
 - [hudsonbrendon/ha-apple-ble](https://github.com/hudsonbrendon/ha-apple-ble) - Home Assistant (HACS) integration for AirPods battery and nearby Apple device presence over BLE
 - [daemon-james/homekit-climate-plus](https://github.com/daemon-james/homekit-climate-plus) - Home Assistant HACS custom component: one Apple HomeKit accessory per climate entity, with linked fan, swing, preset, and sensor services.
-- [L3t4l3s/home-tasks](https://github.com/L3t4l3s/home-tasks) - A feature-rich task management integration for Home Assistant
+- [L3t4l3s/home-tasks](https://github.com/L3t4l3s/home-tasks) - Get things done at home — together. Shared to-do lists for Home Assistant with recurring tasks, reminders, people, pictures and voice. Works with Todoist, Google Tasks, CalDAV & Bring.
 - [prestomation/ha-home-keeper](https://github.com/prestomation/ha-home-keeper) - Home Keeper is a Home Assistant plugin for tracking home maintenance and chores with deep HA integration
 - [martinandersen84/gui-recorder](https://github.com/martinandersen84/gui-recorder) - Home Assistant custom component: manage recorder config and DB maintenance from a sidebar GUI panel (SQLite only)
 - [luuquangvu/blueprints-updater](https://github.com/luuquangvu/blueprints-updater) - Automatically update Home Assistant blueprints via native update entities.
@@ -1202,6 +1202,7 @@
 
 ## others 
 
+- [ElementumOrg/sync-my-cookie](https://github.com/ElementumOrg/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
 - [masonfox/scurry](https://github.com/masonfox/scurry) - A nimble little mouse that scurries through MyAnonamouse (MAM) and whisks audio and ebook torrents into qBittorrent
 - [leone007/unraid-mediaserver-tools](https://github.com/leone007/unraid-mediaserver-tools) - Feature-rich Unraid dashboard plugins: Seedbox, Sysbox, Diskbox, Streambox
 - [jamesfreeman959/unraid-duc](https://github.com/jamesfreeman959/unraid-duc) - The duc disk usage analyzer, built as a plugin for UnRAID
@@ -1253,7 +1254,6 @@
 - [bnevets27/HA-Environment-Canada-Alerts](https://github.com/bnevets27/HA-Environment-Canada-Alerts) - Home Assistant custom integration that fetches detailed Environment Canada weather alerts
 - [Peuuuur-Noel/unraid-web-push-notification](https://github.com/Peuuuur-Noel/unraid-web-push-notification) - An Unraid plugin to add browser push notifications.
 - [hernandito/unRAID-Docker-Reports](https://github.com/hernandito/unRAID-Docker-Reports) - 
-- [HomeVox/housekeeping-addon](https://github.com/HomeVox/housekeeping-addon) - Housekeeping add-on for Home Assistant: audit and apply fixes for entities, devices, and areas (cleanup, dedupe,   rename, and area assignment rules).
 - [max-ng/datamoat](https://github.com/max-ng/datamoat) - Export, back up, search, analyze, and reuse ChatGPT / Claude / Codex / Cursor / DeepSeek / Qwen data + skills + attachments locally
 - [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) - A Model Context Protocol (MCP) server that connects to Strava API, providing tools to access Strava data through LLMs
 - [strain08/LGSTrayEx](https://github.com/strain08/LGSTrayEx) - A tray app used to track battery levels of wireless Logitech devices.
