@@ -553,7 +553,7 @@
 - [daemon-james/homekit-climate-plus](https://github.com/daemon-james/homekit-climate-plus) - Home Assistant HACS custom component: one Apple HomeKit accessory per climate entity, with linked fan, swing, preset, and sensor services.
 - [LeonMusCoden/LetterFeed](https://github.com/LeonMusCoden/LetterFeed) - Convert email newsletters into RSS feeds
 - [northernpowerhouse/rotatarr](https://github.com/northernpowerhouse/rotatarr) - Prowlarr indexer fixer
-- [L3t4l3s/home-tasks](https://github.com/L3t4l3s/home-tasks) - A feature-rich task management integration for Home Assistant
+- [L3t4l3s/home-tasks](https://github.com/L3t4l3s/home-tasks) - Get things done at home — together. Shared to-do lists for Home Assistant with recurring tasks, reminders, people, pictures and voice. Works with Todoist, Google Tasks, CalDAV & Bring.
 - [iamfoz/backblaze-64-personal-wine-container](https://github.com/iamfoz/backblaze-64-personal-wine-container) - Run the Backblaze personal backup client in a docker container
 - [prestomation/ha-home-keeper](https://github.com/prestomation/ha-home-keeper) - Home Keeper is a Home Assistant plugin for tracking home maintenance and chores with deep HA integration
 - [kennym/find-my-timeline](https://github.com/kennym/find-my-timeline) - Track the location of your Apple Devices in Find My. Everything stored locally!
@@ -566,7 +566,6 @@
 - [olivierplante/ec-weather](https://github.com/olivierplante/ec-weather) - Environment Canada weather integration for Home Assistant. Current conditions, 48-hour hourly and 7-day daily forecasts, weather alerts, and air quality (AQHI). Includes a built-in Lovelace card with 
 - [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an i
 - [snazzybean/roommind](https://github.com/snazzybean/roommind) - Intelligent room climate control for Home Assistant — self-learning MPC, proportional valve control, solar gain modeling
-- [HomeVox/housekeeping-addon](https://github.com/HomeVox/housekeeping-addon) - Housekeeping add-on for Home Assistant: audit and apply fixes for entities, devices, and areas (cleanup, dedupe,   rename, and area assignment rules).
 - [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [Baptiste-mrch/LogitechGHub_MQTT_batteries](https://github.com/Baptiste-mrch/LogitechGHub_MQTT_batteries) - Retrieve batteries status of Logitech devices through G Hub into MQTT (useful in HomeAssistant)
 - [slaxor505/home-assistant-openplantbook](https://github.com/slaxor505/home-assistant-openplantbook) - Open.Plantbook.io plants' care database integration with Home-Assistant
@@ -946,6 +945,7 @@
 
 ## TypeScript 
 
+- [ElementumOrg/sync-my-cookie](https://github.com/ElementumOrg/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
 - [a11delavar/mitra](https://github.com/a11delavar/mitra) - One calendar to plan your events and tasks
 - [KadenThomp36/chronicle-card](https://github.com/KadenThomp36/chronicle-card) - A universal, extensible timeline card for Home Assistant. Display events from any source in a single, interactive timeline.
 - [Vaquill-AI/canlii-mcp](https://github.com/Vaquill-AI/canlii-mcp) - MCP server for the CanLII Canadian legal database. Hosted at canlii-mcp.vaquill.ai. Works with Claude, Cursor, VS Code, Windsurf.
