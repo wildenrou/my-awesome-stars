@@ -325,6 +325,7 @@
 
 ## JavaScript 
 
+- [adamoberley/HABirdDashboard](https://github.com/adamoberley/HABirdDashboard) - A live bird collage card for your Home Assistant dashboard.
 - [masonfox/scurry](https://github.com/masonfox/scurry) - A nimble little mouse that scurries through MyAnonamouse (MAM) and whisks audio and ebook torrents into qBittorrent
 - [filipeamorimdev/home-assistant-beszel-agent-integration](https://github.com/filipeamorimdev/home-assistant-beszel-agent-integration) - Home assistant integration with lovelace cards to show your Beszel system stats
 - [nathan-gs/ha-map-card](https://github.com/nathan-gs/ha-map-card) - A Map Card for Home Assistant
