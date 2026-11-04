@@ -331,7 +331,7 @@
 - [nathan-gs/ha-map-card](https://github.com/nathan-gs/ha-map-card) - A Map Card for Home Assistant
 - [ofilis/codex-ha-bridge](https://github.com/ofilis/codex-ha-bridge) - Publishes OpenAI Codex usage limits to Home Assistant via MQTT, including 5-hour and weekly reset times.
 - [Ildana-ai/actual2ics](https://github.com/Ildana-ai/actual2ics) - Your Actual Budget schedules as an .ics calendar feed — local, read-only, no server changes
-- [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 84 tools for transactions, budgets, rules, and
+- [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 85 tools for transactions, budgets, rules, and
 - [martinandersen84/gui-recorder](https://github.com/martinandersen84/gui-recorder) - Home Assistant custom component: manage recorder config and DB maintenance from a sidebar GUI panel (SQLite only)
 - [ezwep/chatgpt-exporter](https://github.com/ezwep/chatgpt-exporter) - Self-hosted ChatGPT backup tool — export all your conversations, projects (with files), and custom GPTs as JSON, Markdown and HTML. Zero dependencies, runs locally with a web UI.
 - [mohammadfarooqi/canlii-mcp](https://github.com/mohammadfarooqi/canlii-mcp) - Local MCP server for Canadian legal research via CanLII API — search cases, browse legislation, check citations. Works with Claude Desktop & Claude Code.
@@ -645,7 +645,6 @@
 - [ice413/hass-photoprism](https://github.com/ice413/hass-photoprism) - Home assistant integration for photoprism
 - [watkins-matt/home-assistant-google-keep-sync](https://github.com/watkins-matt/home-assistant-google-keep-sync) - Custom component for Home Assistant that enables bidirectional synchronization with Google Keep lists.
 - [PhantomPhoton/S3-Compatible](https://github.com/PhantomPhoton/S3-Compatible) - A custom component to enable using S3 compatible endpoints for home assistant backups
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [TheLinuxGuy/free-unraid](https://github.com/TheLinuxGuy/free-unraid) - Achieving a free (opensource) alternative to unraid for media server (homelab) use.
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one.
 - [jeroenterheerdt/grillbuddy](https://github.com/jeroenterheerdt/grillbuddy) - Grill Buddy for Home Assistant
@@ -919,6 +918,7 @@
 
 - [joshmans/unraid-baywatch](https://github.com/joshmans/unraid-baywatch) - Bay Watch (formerly Disk Location Next): a lifeguard for your drive bays - tray/bay map and SMART history for Unraid 7.2+, via unraid-api's GraphQL. Independent of the Disk Location plugin.
 - [khordapp/khord](https://github.com/khordapp/khord) - 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [JamesCoyle/HistoryExtension](https://github.com/JamesCoyle/HistoryExtension) - 
 - [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop) - Use Home Assistant Assist on the desktop. Compatible with Windows, MacOS, and Linux
 
