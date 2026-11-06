@@ -1371,7 +1371,7 @@
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) - A Jellyfin plugin to inject Javascript
 - [jeffc/hassmic](https://github.com/jeffc/hassmic) - An application for Home Assistant that allows you to use an android device as a voice assist satellite
 - [pflajszer/ticktick-exporter](https://github.com/pflajszer/ticktick-exporter) - 
-- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
+- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Selfhosted Netflix
 - [BlueBubblesApp/bluebubbles-helper](https://github.com/BlueBubblesApp/bluebubbles-helper) - A helper for the BlueBubbles macOS Server App to hook into private APIs
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [chozeur/KVM-QEMU-Sonoma-Hackintosh](https://github.com/chozeur/KVM-QEMU-Sonoma-Hackintosh) - This repo aims to guide you through the setup of a macOS Sonoma 14.3 virtual machine. We'll deploy it using KVM and QEMU under an UNRAID server.
