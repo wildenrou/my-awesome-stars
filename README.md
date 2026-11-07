@@ -696,7 +696,7 @@
 - [eskerda/pybikes](https://github.com/eskerda/pybikes) - bike sharing + python = pybikes
 - [openvinotoolkit/stable-diffusion-webui](https://github.com/openvinotoolkit/stable-diffusion-webui) - Stable Diffusion web UI
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
-- [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - iCloud3 — This is an advanced device tracker that uses Apple iCloud account and HA Mobile App data for presence detection and location based automations.
+- [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - Device tracker using Apple iCloud account & HA Mobile App data for location-based automations.
 - [LizardByte/Themerr](https://github.com/LizardByte/Themerr) - Theme song manager for Plex and Jellyfin using ThemerrDB.
 - [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Theme song database for movies, tv shows, and video games.
 - [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant
