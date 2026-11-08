@@ -595,7 +595,7 @@
 - [elfhosted/newtarr](https://github.com/elfhosted/newtarr) - A sane fork of Huntarr v6.6.3 from simpler times
 - [aayusharyan/contactly](https://github.com/aayusharyan/contactly) - Syncs Google and iCloud contacts with PBX database for caller ID name lookup.
 - [SmolinskiP/GLaSSIST](https://github.com/SmolinskiP/GLaSSIST) - Desktop voice-assistant application for Home Assistant with visual animations and VAD (Voice Activity Detection).
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 - [kdana/ha-obsidian](https://github.com/kdana/ha-obsidian) - View and track your Obsidian notes and tasks directly from your Home Assistant interface
 - [nielash/cloneassistant](https://github.com/nielash/cloneassistant) - Control and monitor your recurring Rclone jobs from Home Assistant dashboards.
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
@@ -618,7 +618,7 @@
 - [agittins/bermuda](https://github.com/agittins/bermuda) - Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
 - [ludodefgh/montreal-snow-removal](https://github.com/ludodefgh/montreal-snow-removal) - Home Assistant integration for Montreal snow removal tracking using Planif-Neige API
 - [fundor333/calibre-hardcover-sync](https://github.com/fundor333/calibre-hardcover-sync) - 
-- [Jozwiaczek/iphone-alarms-sync](https://github.com/Jozwiaczek/iphone-alarms-sync) - iOS alarms synchronisation custom component for Home Assistant
+- [Jozwiaczek/iphone-alarms-sync](https://github.com/Jozwiaczek/iphone-alarms-sync) - Sync Apple alarms from iPhone, iPad and Mac to Home Assistant with the Shortcuts app
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
 - [iluvdata/august_access_codes](https://github.com/iluvdata/august_access_codes) - August Access Codes:  August Lock Codes in Home Assistant
 - [raman325/lock_code_manager](https://github.com/raman325/lock_code_manager) - Lock code manager for locks integrated with Home Assistant
