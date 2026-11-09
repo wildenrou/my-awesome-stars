@@ -83,6 +83,7 @@
 - [javascript](#javascript)
 - [js](#js)
 - [json](#json)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
@@ -444,7 +445,7 @@
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-- [LizardByte/Themerr-jellyfin](https://github.com/LizardByte/Themerr-jellyfin) - Jellyfin theme song plugin using ThemerrDB.
+- [Themerr/Themerr-jellyfin](https://github.com/Themerr/Themerr-jellyfin) - Jellyfin theme song plugin using ThemerrDB.
 - [stevencohn/OneMore](https://github.com/stevencohn/OneMore) - A OneNote add-in with simple, yet powerful and useful features
 
 ## css 
@@ -862,7 +863,7 @@
 - [PiotrMachowski/Home-Assistant-Taskbar-Menu](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - This application is a simple Home Assistant client for Windows. It can display Lovelace views, control entities and show persistent notifications.
 - [myhomeiot/esphome-components](https://github.com/myhomeiot/esphome-components) - A collection of my ESPHome components
 - [Deejayfool/hass-shutter-card](https://github.com/Deejayfool/hass-shutter-card) - Shutter card for Home Assistant Lovelace UI
-- [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Home Assistant Google Home custom component
+- [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Google Home and Nest speakers: alarms, timers and Bluetooth presence tracking for Home Assistant
 - [thlucas1/homeassistantcomponent_spotifyplus](https://github.com/thlucas1/homeassistantcomponent_spotifyplus) - Home Assistant integration for Spotify Player control, services, and soundtouchplus integration support.
 - [ldotlopez/ha-hnap-device](https://github.com/ldotlopez/ha-hnap-device) - Home Assistant component for HNAP devices
 - [vingerha/gtfs2](https://github.com/vingerha/gtfs2) - Support GTFS in Home Assistant GUI-only
@@ -964,6 +965,10 @@
 ## json 
 
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
+
+## knowledge-graph 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
 ## kotlin 
 
@@ -1762,7 +1767,7 @@
 - [parvez/network_scanner](https://github.com/parvez/network_scanner) - This Home Assistant integration provides a network scanner that identifies all devices on your local network. Utilizing the provided IP range and MAC address mappings, it gives each identified device 
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
-- [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Home Assistant Google Home custom component
+- [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Google Home and Nest speakers: alarms, timers and Bluetooth presence tracking for Home Assistant
 - [ualex73/monitor_docker](https://github.com/ualex73/monitor_docker) - Monitor Docker containers from Home Assistant
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [nielsfaber/scheduler-component](https://github.com/nielsfaber/scheduler-component) - Custom component for HA that enables the creation of scheduler entities
