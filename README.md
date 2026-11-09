@@ -175,7 +175,7 @@
 - [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more.
 - [ankenyr/jellyfin-youtube-metadata-plugin](https://github.com/ankenyr/jellyfin-youtube-metadata-plugin) - Youtube Metadata Plugin for Jellyfin
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-- [LizardByte/Themerr-jellyfin](https://github.com/LizardByte/Themerr-jellyfin) - Jellyfin theme song plugin using ThemerrDB.
+- [Themerr/Themerr-jellyfin](https://github.com/Themerr/Themerr-jellyfin) - Jellyfin theme song plugin using ThemerrDB.
 - [nicknsy/jellyscrub](https://github.com/nicknsy/jellyscrub) - Smooth mouse-over video scrubbing previews for Jellyfin.
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [stevencohn/OneMore](https://github.com/stevencohn/OneMore) - A OneNote add-in with simple, yet powerful and useful features
@@ -753,7 +753,7 @@
 - [git-annex-remote-rclone/git-annex-remote-rclone](https://github.com/git-annex-remote-rclone/git-annex-remote-rclone) - Use rclone supported cloud storage providers with git-annex
 - [ShellCode33/HASS-Desktop-Sensor](https://github.com/ShellCode33/HASS-Desktop-Sensor) - Desktop activity sensor for Home Assistant
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Home Assistant Google Home custom component
+- [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Google Home and Nest speakers: alarms, timers and Bluetooth presence tracking for Home Assistant
 - [LimeDrive/ygg-rss-proxy](https://github.com/LimeDrive/ygg-rss-proxy) - Proxy pour le flux RSS de YGGTorrent.
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [thlucas1/homeassistantcomponent_spotifyplus](https://github.com/thlucas1/homeassistantcomponent_spotifyplus) - Home Assistant integration for Spotify Player control, services, and soundtouchplus integration support.
