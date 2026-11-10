@@ -463,7 +463,7 @@
 
 ## database 
 
-- [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Theme song database for movies, tv shows, and video games.
+- [Themerr/ThemerrDB](https://github.com/Themerr/ThemerrDB) - Theme song database for movies, tv shows, and video games.
 
 ## deep-learning 
 
@@ -1510,7 +1510,7 @@
 - [openvinotoolkit/stable-diffusion-webui](https://github.com/openvinotoolkit/stable-diffusion-webui) - Stable Diffusion web UI
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [gcobb321/icloud3](https://github.com/gcobb321/icloud3) - Device tracker using Apple iCloud account & HA Mobile App data for location-based automations.
-- [LizardByte/Themerr](https://github.com/LizardByte/Themerr) - Theme song manager for Plex and Jellyfin using ThemerrDB.
+- [Themerr/Themerr](https://github.com/Themerr/Themerr) - Theme song manager for Plex and Jellyfin using ThemerrDB.
 - [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [iMicknl/ha-sagemcom-fast](https://github.com/iMicknl/ha-sagemcom-fast) - Home Assistant integration to enable presence detection via Sagemcom F@st routers.
@@ -2050,7 +2050,7 @@
 
 ## website 
 
-- [LizardByte/ThemerrDB](https://github.com/LizardByte/ThemerrDB) - Theme song database for movies, tv shows, and video games.
+- [Themerr/ThemerrDB](https://github.com/Themerr/ThemerrDB) - Theme song database for movies, tv shows, and video games.
 - [RealFascinated/sharex-php-uploader](https://github.com/RealFascinated/sharex-php-uploader) - This is a PHP script that lets you easily upload screenshots taken with the ShareX app to your website. ShareX is a popular screenshot tool for Windows that allows you to take screenshots, annotate th
 
 ## windows 
