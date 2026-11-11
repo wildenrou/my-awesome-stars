@@ -78,6 +78,7 @@
 
 ## C# # 
 
+- [Themearr/themearr](https://github.com/Themearr/themearr) - Automatic movie theme song downloader for Plex, Jellyfin, Emby and Kodi. Reads your movie library from either Plex or Radarr and writes a theme.mp3 into every movie folder. Self-hosted, arr-style: hea
 - [KirovAir/muxarr](https://github.com/KirovAir/muxarr) - Quick and easy way to strip unwanted audio and subtitle tracks from your media files.
 - [wildenrou/Jelly-lang-fix](https://github.com/wildenrou/Jelly-lang-fix) - 
 - [MDBList/jellyfin-plugin-mdblist](https://github.com/MDBList/jellyfin-plugin-mdblist) - 
@@ -530,6 +531,7 @@
 
 ## Python 
 
+- [nadeo360/friedafetch-mail](https://github.com/nadeo360/friedafetch-mail) - Frieda Postfach – inbox rules, push delivery and a daily overview for the Frieda iCloud connector (Home Assistant, HACS)
 - [dbustosrc/yale-access-manager](https://github.com/dbustosrc/yale-access-manager) - Native Home Assistant access management for compatible Yale/August locks, packaged for HACS.
 - [nadeo360/friedafetch](https://github.com/nadeo360/friedafetch) - Frieda – MCP connector for iCloud: calendars, contacts, mail and notes for Home Assistant (HACS integration)
 - [ljmerza/tracking-numbers](https://github.com/ljmerza/tracking-numbers) - Home Assistant tracking numbers sensor for collecting tracking numbers from over 60 providers.
