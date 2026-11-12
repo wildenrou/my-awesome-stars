@@ -237,6 +237,7 @@
 
 ## Dockerfile 
 
+- [ZoeyVid/docker-socket-proxy](https://github.com/ZoeyVid/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [hotio/whisparr](https://github.com/hotio/whisparr) - 
 - [zachatrocity/docker-beeper](https://github.com/zachatrocity/docker-beeper) - A self hosted beeper desktop app running in your web browser
 - [MrSuicideParrot/hassio-speedtest-addon](https://github.com/MrSuicideParrot/hassio-speedtest-addon) - SpeedTest Home Assistant addon
@@ -531,6 +532,10 @@
 
 ## Python 
 
+- [tophat17/LeakWatch](https://github.com/tophat17/LeakWatch) - Know which Unraid/Docker containers should be behind a VPN, and see at a glance whether they actually are.
+- [snfx-johaver/home-assistant-astronomy-suite](https://github.com/snfx-johaver/home-assistant-astronomy-suite) - Home Assistant custom integration for NASA APIs, space weather, NEO tracking, solar activity, ISS tracking, and astronomy dashboard cards
+- [mdeuerlein/homeassistant-icloud-fix](https://github.com/mdeuerlein/homeassistant-icloud-fix) - Unofficial patched version of the Home Assistant Apple iCloud integration.
+- [nukleuz80/ha_brainstorm](https://github.com/nukleuz80/ha_brainstorm) - Brainstorm Hub for Home Assistant: capture ideas and tasks by voice (Alexa, Siri, Assist) with a list card and an interactive mind map card
 - [nadeo360/friedafetch-mail](https://github.com/nadeo360/friedafetch-mail) - Frieda Postfach – inbox rules, push delivery and a daily overview for the Frieda iCloud connector (Home Assistant, HACS)
 - [dbustosrc/yale-access-manager](https://github.com/dbustosrc/yale-access-manager) - Native Home Assistant access management for compatible Yale/August locks, packaged for HACS.
 - [nadeo360/friedafetch](https://github.com/nadeo360/friedafetch) - Frieda – MCP connector for iCloud: calendars, contacts, mail and notes for Home Assistant (HACS integration)
