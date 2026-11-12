@@ -737,6 +737,9 @@
 
 ## home-assistant 
 
+- [snfx-johaver/home-assistant-astronomy-suite](https://github.com/snfx-johaver/home-assistant-astronomy-suite) - Home Assistant custom integration for NASA APIs, space weather, NEO tracking, solar activity, ISS tracking, and astronomy dashboard cards
+- [mdeuerlein/homeassistant-icloud-fix](https://github.com/mdeuerlein/homeassistant-icloud-fix) - Unofficial patched version of the Home Assistant Apple iCloud integration.
+- [nukleuz80/ha_brainstorm](https://github.com/nukleuz80/ha_brainstorm) - Brainstorm Hub for Home Assistant: capture ideas and tasks by voice (Alexa, Siri, Assist) with a list card and an interactive mind map card
 - [nadeo360/friedafetch-mail](https://github.com/nadeo360/friedafetch-mail) - Frieda Postfach – inbox rules, push delivery and a daily overview for the Frieda iCloud connector (Home Assistant, HACS)
 - [adamoberley/HABirdDashboard](https://github.com/adamoberley/HABirdDashboard) - A live bird collage card for your Home Assistant dashboard.
 - [dbustosrc/yale-access-manager](https://github.com/dbustosrc/yale-access-manager) - Native Home Assistant access management for compatible Yale/August locks, packaged for HACS.
@@ -1154,6 +1157,7 @@
 
 ## obsidian 
 
+- [nukleuz80/ha_brainstorm](https://github.com/nukleuz80/ha_brainstorm) - Brainstorm Hub for Home Assistant: capture ideas and tasks by voice (Alexa, Siri, Assist) with a list card and an interactive mind map card
 - [alxnbl/onenote-md-exporter](https://github.com/alxnbl/onenote-md-exporter) - ConsoleApp to export OneNote notebooks to Markdown formats
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
 - [kdana/ha-obsidian](https://github.com/kdana/ha-obsidian) - View and track your Obsidian notes and tasks directly from your Home Assistant interface
@@ -1220,6 +1224,8 @@
 
 ## others 
 
+- [tophat17/LeakWatch](https://github.com/tophat17/LeakWatch) - Know which Unraid/Docker containers should be behind a VPN, and see at a glance whether they actually are.
+- [ZoeyVid/docker-socket-proxy](https://github.com/ZoeyVid/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [ElementumOrg/sync-my-cookie](https://github.com/ElementumOrg/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
 - [masonfox/scurry](https://github.com/masonfox/scurry) - A nimble little mouse that scurries through MyAnonamouse (MAM) and whisks audio and ebook torrents into qBittorrent
 - [leone007/unraid-mediaserver-tools](https://github.com/leone007/unraid-mediaserver-tools) - Feature-rich Unraid dashboard plugins: Seedbox, Sysbox, Diskbox, Streambox
