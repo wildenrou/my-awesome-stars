@@ -329,6 +329,7 @@
 
 - [adamoberley/HABirdDashboard](https://github.com/adamoberley/HABirdDashboard) - A live bird collage card for your Home Assistant dashboard.
 - [masonfox/scurry](https://github.com/masonfox/scurry) - A nimble little mouse that scurries through MyAnonamouse (MAM) and whisks audio and ebook torrents into qBittorrent
+- [jamesfreeman959/unraid-duc](https://github.com/jamesfreeman959/unraid-duc) - The duc disk usage analyzer, built as a plugin for UnRAID
 - [filipeamorimdev/home-assistant-beszel-agent-integration](https://github.com/filipeamorimdev/home-assistant-beszel-agent-integration) - Home assistant integration with lovelace cards to show your Beszel system stats
 - [nathan-gs/ha-map-card](https://github.com/nathan-gs/ha-map-card) - A Map Card for Home Assistant
 - [ofilis/codex-ha-bridge](https://github.com/ofilis/codex-ha-bridge) - Publishes OpenAI Codex usage limits to Home Assistant via MQTT, including 5-hour and weekly reset times.
@@ -497,7 +498,6 @@
 ## PHP 
 
 - [leone007/unraid-mediaserver-tools](https://github.com/leone007/unraid-mediaserver-tools) - Feature-rich Unraid dashboard plugins: Seedbox, Sysbox, Diskbox, Streambox
-- [jamesfreeman959/unraid-duc](https://github.com/jamesfreeman959/unraid-duc) - The duc disk usage analyzer, built as a plugin for UnRAID
 - [davidcoulson/unraid-storage-topology](https://github.com/davidcoulson/unraid-storage-topology) - Unraid plugin: read-only SAS storage topology and enclosure health (controllers, cables, shelves, bays, firmware, per-drive link status)
 - [Peuuuur-Noel/unraid-web-push-notification](https://github.com/Peuuuur-Noel/unraid-web-push-notification) - An Unraid plugin to add browser push notifications.
 - [johnpwhite/unraid-plg-zram](https://github.com/johnpwhite/unraid-plg-zram) - A plugin to configure and monitor zram on Unraid v7.2+
@@ -532,6 +532,7 @@
 
 ## Python 
 
+- [Luca-Bachini-Barr/ha-chaptarr](https://github.com/Luca-Bachini-Barr/ha-chaptarr) - Home Assistant custom integration for Chaptarr (queue, wanted, health, release calendar)
 - [tophat17/LeakWatch](https://github.com/tophat17/LeakWatch) - Know which Unraid/Docker containers should be behind a VPN, and see at a glance whether they actually are.
 - [snfx-johaver/home-assistant-astronomy-suite](https://github.com/snfx-johaver/home-assistant-astronomy-suite) - Home Assistant custom integration for NASA APIs, space weather, NEO tracking, solar activity, ISS tracking, and astronomy dashboard cards
 - [mdeuerlein/homeassistant-icloud-fix](https://github.com/mdeuerlein/homeassistant-icloud-fix) - Unofficial patched version of the Home Assistant Apple iCloud integration.
