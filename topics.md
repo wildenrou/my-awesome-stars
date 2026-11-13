@@ -1224,6 +1224,7 @@
 
 ## others 
 
+- [Luca-Bachini-Barr/ha-chaptarr](https://github.com/Luca-Bachini-Barr/ha-chaptarr) - Home Assistant custom integration for Chaptarr (queue, wanted, health, release calendar)
 - [tophat17/LeakWatch](https://github.com/tophat17/LeakWatch) - Know which Unraid/Docker containers should be behind a VPN, and see at a glance whether they actually are.
 - [ZoeyVid/docker-socket-proxy](https://github.com/ZoeyVid/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [ElementumOrg/sync-my-cookie](https://github.com/ElementumOrg/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
