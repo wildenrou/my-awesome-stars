@@ -1224,6 +1224,7 @@
 
 ## others 
 
+- [bitstorm-labs/jellyfin-theme-songs](https://github.com/bitstorm-labs/jellyfin-theme-songs) - Jellyfin plugin that automatically downloads TV theme songs and saves them as theme.mp3 so every client can play them.
 - [Luca-Bachini-Barr/ha-chaptarr](https://github.com/Luca-Bachini-Barr/ha-chaptarr) - Home Assistant custom integration for Chaptarr (queue, wanted, health, release calendar)
 - [tophat17/LeakWatch](https://github.com/tophat17/LeakWatch) - Know which Unraid/Docker containers should be behind a VPN, and see at a glance whether they actually are.
 - [ZoeyVid/docker-socket-proxy](https://github.com/ZoeyVid/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
