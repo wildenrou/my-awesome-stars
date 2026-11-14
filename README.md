@@ -78,6 +78,7 @@
 
 ## C# # 
 
+- [bitstorm-labs/jellyfin-theme-songs](https://github.com/bitstorm-labs/jellyfin-theme-songs) - Jellyfin plugin that automatically downloads TV theme songs and saves them as theme.mp3 so every client can play them.
 - [Themearr/themearr](https://github.com/Themearr/themearr) - Automatic movie theme song downloader for Plex, Jellyfin, Emby and Kodi. Reads your movie library from either Plex or Radarr and writes a theme.mp3 into every movie folder. Self-hosted, arr-style: hea
 - [KirovAir/muxarr](https://github.com/KirovAir/muxarr) - Quick and easy way to strip unwanted audio and subtitle tracks from your media files.
 - [wildenrou/Jelly-lang-fix](https://github.com/wildenrou/Jelly-lang-fix) - 
