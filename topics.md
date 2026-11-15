@@ -733,7 +733,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [haijeploeg/excludarr](https://github.com/haijeploeg/excludarr) - Excludarr manages your libraries in Radarr/Sonarr. It keeps track of your library and checks if your movies and series are also available on a configured streaming provider. It can exclude the movies 
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 
 ## home-assistant 
 
@@ -1224,6 +1224,7 @@
 
 ## others 
 
+- [ianpleasance/home-assistant-ebay-monitor](https://github.com/ianpleasance/home-assistant-ebay-monitor) - An integration to allow eBay searching, retrieval of bids, watches, and item data
 - [bitstorm-labs/jellyfin-theme-songs](https://github.com/bitstorm-labs/jellyfin-theme-songs) - Jellyfin plugin that automatically downloads TV theme songs and saves them as theme.mp3 so every client can play them.
 - [Luca-Bachini-Barr/ha-chaptarr](https://github.com/Luca-Bachini-Barr/ha-chaptarr) - Home Assistant custom integration for Chaptarr (queue, wanted, health, release calendar)
 - [tophat17/LeakWatch](https://github.com/tophat17/LeakWatch) - Know which Unraid/Docker containers should be behind a VPN, and see at a glance whether they actually are.
@@ -1915,7 +1916,7 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## server 
@@ -2052,7 +2053,7 @@
 ## vuejs 
 
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 
 ## web 
 
