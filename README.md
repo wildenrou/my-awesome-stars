@@ -533,6 +533,7 @@
 
 ## Python 
 
+- [ianpleasance/home-assistant-ebay-monitor](https://github.com/ianpleasance/home-assistant-ebay-monitor) - An integration to allow eBay searching, retrieval of bids, watches, and item data
 - [Luca-Bachini-Barr/ha-chaptarr](https://github.com/Luca-Bachini-Barr/ha-chaptarr) - Home Assistant custom integration for Chaptarr (queue, wanted, health, release calendar)
 - [tophat17/LeakWatch](https://github.com/tophat17/LeakWatch) - Know which Unraid/Docker containers should be behind a VPN, and see at a glance whether they actually are.
 - [snfx-johaver/home-assistant-astronomy-suite](https://github.com/snfx-johaver/home-assistant-astronomy-suite) - Home Assistant custom integration for NASA APIs, space weather, NEO tracking, solar activity, ISS tracking, and astronomy dashboard cards
@@ -1078,7 +1079,7 @@
 - [kyaustad/raidash](https://github.com/kyaustad/raidash) - Simple, stylized dashboard for your UnRaid server with shortcuts and basic stats
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 
 
 ## License
