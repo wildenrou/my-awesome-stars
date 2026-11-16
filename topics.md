@@ -737,6 +737,8 @@
 
 ## home-assistant 
 
+- [Hustlesman/pleatview](https://github.com/Hustlesman/pleatview) - Home Assistant dashboards, cameras and media on Google TV and Android TV: a lightweight TV app plus a Home Assistant integration.
+- [SWFX2324/swamp-fox-labs-ha-apps](https://github.com/SWFX2324/swamp-fox-labs-ha-apps) - Home Assistant apps by Swamp Fox Labs. Ham Radio Dashboard: HF propagation, space weather, DX spots, repeaters, APRS, POTA and satellite passes, with Home Assistant sensors and alerts.
 - [snfx-johaver/home-assistant-astronomy-suite](https://github.com/snfx-johaver/home-assistant-astronomy-suite) - Home Assistant custom integration for NASA APIs, space weather, NEO tracking, solar activity, ISS tracking, and astronomy dashboard cards
 - [mdeuerlein/homeassistant-icloud-fix](https://github.com/mdeuerlein/homeassistant-icloud-fix) - Unofficial patched version of the Home Assistant Apple iCloud integration.
 - [nukleuz80/ha_brainstorm](https://github.com/nukleuz80/ha_brainstorm) - Brainstorm Hub for Home Assistant: capture ideas and tasks by voice (Alexa, Siri, Assist) with a list card and an interactive mind map card
@@ -979,6 +981,7 @@
 
 ## kotlin 
 
+- [Hustlesman/pleatview](https://github.com/Hustlesman/pleatview) - Home Assistant dashboards, cameras and media on Google TV and Android TV: a lightweight TV app plus a Home Assistant integration.
 - [theothernt/AerialViews](https://github.com/theothernt/AerialViews) - A screensaver for Android TV devices including Google TV, Nvidia Shield, and Fire TV. Inspired by Apple TV's video screensaver.
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 
@@ -1139,6 +1142,7 @@
 
 ## nodejs 
 
+- [SWFX2324/swamp-fox-labs-ha-apps](https://github.com/SWFX2324/swamp-fox-labs-ha-apps) - Home Assistant apps by Swamp Fox Labs. Ham Radio Dashboard: HF propagation, space weather, DX spots, repeaters, APRS, POTA and satellite passes, with Home Assistant sensors and alerts.
 - [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 85 tools for transactions, budgets, rules, and
 - [ezwep/chatgpt-exporter](https://github.com/ezwep/chatgpt-exporter) - Self-hosted ChatGPT backup tool — export all your conversations, projects (with files), and custom GPTs as JSON, Markdown and HTML. Zero dependencies, runs locally with a web UI.
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .doc
@@ -1224,6 +1228,8 @@
 
 ## others 
 
+- [KlimasTech/custom-vm-icons](https://github.com/KlimasTech/custom-vm-icons) - Plugin unRAID: wlasne ikony VM - trwale w appdata, automatyczny sync do VM Managera przy starcie
+- [snapetech-org/chaptarrng](https://github.com/snapetech-org/chaptarrng) - Chaptarr fork for SeerrNG ebook and audiobook requests.
 - [ianpleasance/home-assistant-ebay-monitor](https://github.com/ianpleasance/home-assistant-ebay-monitor) - An integration to allow eBay searching, retrieval of bids, watches, and item data
 - [bitstorm-labs/jellyfin-theme-songs](https://github.com/bitstorm-labs/jellyfin-theme-songs) - Jellyfin plugin that automatically downloads TV theme songs and saves them as theme.mp3 so every client can play them.
 - [Luca-Bachini-Barr/ha-chaptarr](https://github.com/Luca-Bachini-Barr/ha-chaptarr) - Home Assistant custom integration for Chaptarr (queue, wanted, health, release calendar)
@@ -1880,6 +1886,7 @@
 
 ## self-hosted 
 
+- [DanCue44/Talearr](https://github.com/DanCue44/Talearr) - Ebook and audiobook collection manager. A drop-in fork of Chaptarr with Hardcover metadata, recordings done right, comics and manga, and Allseerr requests.
 - [Themearr/themearr](https://github.com/Themearr/themearr) - Automatic movie theme song downloader for Plex, Jellyfin, Emby and Kodi. Reads your movie library from either Plex or Radarr and writes a theme.mp3 into every movie folder. Self-hosted, arr-style: hea
 - [a11delavar/mitra](https://github.com/a11delavar/mitra) - One calendar to plan your events and tasks
 - [anym001/healthlog](https://github.com/anym001/healthlog) - Self-hosted Apple Health analysis on your own hardware — no cloud, no tracking
