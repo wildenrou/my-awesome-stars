@@ -861,7 +861,7 @@
 ## Rust 
 
 - [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
-- [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Windows companion for Home Assistant: your PC as a device with sensors, controls, notifications and file transfer, over its own encrypted integration (no MQTT broker needed). Native x64 + ARM64.
+- [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Your computers in Home Assistant: a desktop app for Windows and Linux, a Windows service, a Linux daemon and a Stream Deck plugin, over its own encrypted integration (no MQTT broker needed). x64 and A
 - [ricardodantas/tickit-sync](https://github.com/ricardodantas/tickit-sync) - Self-hosted sync server for Tickit task manager
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 - [UwUDev/francisca](https://github.com/UwUDev/francisca) - High-performance indexer for services using the U2P system written in Rust
@@ -971,7 +971,7 @@
 - [snapetech-org/seerrng](https://github.com/snapetech-org/seerrng) - Seerr fork adding Music, eBooks, Audiobooks, Comics, Magazines, Roms, Games, & Software to existing Music & TV Requests and approval management.
 - [RiDDiX/home-assistant-matter-hub](https://github.com/RiDDiX/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
 - [coddingtonbear/icloud-md](https://github.com/coddingtonbear/icloud-md) - Your Apple Notes as real Markdown files, on any OS, bidirectionally synced with a `git`-flavored CLI
-- [NylonDiamond/homeassistant-wrist-assistant](https://github.com/NylonDiamond/homeassistant-wrist-assistant) - Home Assistant custom integration for Wrist Assistant — Home Assistant on your Apple Watch
+- [NylonDiamond/homeassistant-wrist-assistant](https://github.com/NylonDiamond/homeassistant-wrist-assistant) - Home Assistant custom integration for HouseLit (formerly Wrist Assistant): Home Assistant on your iPhone, Apple Watch, Android and Wear OS
 - [seriouslag/actual-auto-sync](https://github.com/seriouslag/actual-auto-sync) - A background service that automatically runs the bank sync on a scheduled basis on Actual Budget.
 - [Alhwyn/canlii-mcp](https://github.com/Alhwyn/canlii-mcp) - canlii mcp for people in law in canada
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
@@ -1055,7 +1055,7 @@
 - [PascalLuginbuehl/home-assistant-tray-menu](https://github.com/PascalLuginbuehl/home-assistant-tray-menu) - An app to interact with Home Assistant in the Windows System Tray
 - [Nerivec/z2m-ember-helper](https://github.com/Nerivec/z2m-ember-helper) - Get a better understanding of your Zigbee network using Zigbee2MQTT with Ember driver (for EmberZNet-based adapter).
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps.
+- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Where one person's software lives.
 - [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
