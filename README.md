@@ -537,6 +537,7 @@
 
 ## Python 
 
+- [bertel2020/HA-Housekeeper](https://github.com/bertel2020/HA-Housekeeper) - Home Assistant housekeeping: find broken references, orphaned entities and failing automations – fix only after confirmation, with backup and undo.
 - [Hustlesman/pleatview](https://github.com/Hustlesman/pleatview) - Home Assistant dashboards, cameras and media on Google TV and Android TV: a lightweight TV app plus a Home Assistant integration.
 - [ianpleasance/home-assistant-ebay-monitor](https://github.com/ianpleasance/home-assistant-ebay-monitor) - An integration to allow eBay searching, retrieval of bids, watches, and item data
 - [Luca-Bachini-Barr/ha-chaptarr](https://github.com/Luca-Bachini-Barr/ha-chaptarr) - Home Assistant custom integration for Chaptarr (queue, wanted, health, release calendar)
