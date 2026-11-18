@@ -743,6 +743,7 @@
 
 ## home-assistant 
 
+- [bertel2020/HA-Housekeeper](https://github.com/bertel2020/HA-Housekeeper) - Home Assistant housekeeping: find broken references, orphaned entities and failing automations – fix only after confirmation, with backup and undo.
 - [Hustlesman/pleatview](https://github.com/Hustlesman/pleatview) - Home Assistant dashboards, cameras and media on Google TV and Android TV: a lightweight TV app plus a Home Assistant integration.
 - [SWFX2324/swamp-fox-labs-ha-apps](https://github.com/SWFX2324/swamp-fox-labs-ha-apps) - Home Assistant apps by Swamp Fox Labs. Ham Radio Dashboard: HF propagation, space weather, DX spots, repeaters, APRS, POTA and satellite passes, with Home Assistant sensors and alerts.
 - [snfx-johaver/home-assistant-astronomy-suite](https://github.com/snfx-johaver/home-assistant-astronomy-suite) - Home Assistant custom integration for NASA APIs, space weather, NEO tracking, solar activity, ISS tracking, and astronomy dashboard cards
@@ -1085,6 +1086,7 @@
 
 ## mcp 
 
+- [bertel2020/HA-Housekeeper](https://github.com/bertel2020/HA-Housekeeper) - Home Assistant housekeeping: find broken references, orphaned entities and failing automations – fix only after confirmation, with backup and undo.
 - [nadeo360/friedafetch](https://github.com/nadeo360/friedafetch) - Frieda – MCP connector for iCloud: calendars, contacts, mail and notes for Home Assistant (HACS integration)
 - [Vaquill-AI/canlii-mcp](https://github.com/Vaquill-AI/canlii-mcp) - MCP server for the CanLII Canadian legal database. Hosted at canlii-mcp.vaquill.ai. Works with Claude, Cursor, VS Code, Windsurf.
 - [mrvautin/ha-workouts](https://github.com/mrvautin/ha-workouts) - Home Assistant integration for Garmin, Coros, Strava, and Apple Health workout & health data — sensors, long-term statistics, and per-km split calendar
