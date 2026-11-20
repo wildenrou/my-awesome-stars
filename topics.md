@@ -218,6 +218,7 @@
 
 ## android 
 
+- [parawanderer/OpenTagViewer](https://github.com/parawanderer/OpenTagViewer) - Track your AirTags, Apple and Google FindMy devices and custom tags in one place on Android
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [JellyBookOrg/JellyBook](https://github.com/JellyBookOrg/JellyBook) - A nice way to read books and comics from Jellyfin
@@ -469,6 +470,7 @@
 
 ## database 
 
+- [Clahen86/ha-database-doctor](https://github.com/Clahen86/ha-database-doctor) - Keeps your Home Assistant database small and correct – see what fills it, clean up safely, fix wrong energy numbers.
 - [Themerr/ThemerrDB](https://github.com/Themerr/ThemerrDB) - Theme song database for movies, tv shows, and video games.
 
 ## deep-learning 
@@ -742,6 +744,7 @@
 
 ## home-assistant 
 
+- [Clahen86/ha-database-doctor](https://github.com/Clahen86/ha-database-doctor) - Keeps your Home Assistant database small and correct – see what fills it, clean up safely, fix wrong energy numbers.
 - [bertel2020/HA-Housekeeper](https://github.com/bertel2020/HA-Housekeeper) - Home Assistant housekeeping: find broken references, orphaned entities and failing automations – fix only after confirmation, with backup and undo.
 - [Hustlesman/pleatview](https://github.com/Hustlesman/pleatview) - Home Assistant dashboards, cameras and media on Google TV and Android TV: a lightweight TV app plus a Home Assistant integration.
 - [SWFX2324/swamp-fox-labs-ha-apps](https://github.com/SWFX2324/swamp-fox-labs-ha-apps) - Home Assistant apps by Swamp Fox Labs. Ham Radio Dashboard: HF propagation, space weather, DX spots, repeaters, APRS, POTA and satellite passes, with Home Assistant sensors and alerts.
@@ -1262,7 +1265,6 @@
 - [superuser404notfound/jellyfin-plugin-language-aware-images](https://github.com/superuser404notfound/jellyfin-plugin-language-aware-images) - Drop-in TMDB image provider for Jellyfin: library-language posters with clean English fallback (no more textless), and episode images matched by title for shows with alternative orderings (Bluey, Star
 - [Getslow6/monitor_docker](https://github.com/Getslow6/monitor_docker) - Monitor Docker containers from Home Assistant
 - [RiDDiX/home-assistant-matter-hub](https://github.com/RiDDiX/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
-- [Everbloom-Technologies/phonoleaf-tts-bridge](https://github.com/Everbloom-Technologies/phonoleaf-tts-bridge) - The GPL-3.0 speech component of PhonoLeaf, published to satisfy that licence.
 - [Shadowghost/jellyfin-plugin-segment-recognition](https://github.com/Shadowghost/jellyfin-plugin-segment-recognition) - Media Segment Recognition for Jellyfin
 - [khordapp/khord](https://github.com/khordapp/khord) - 
 - [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Community continuation of Calibre-Web-Automated. Attempting to maintain with rapid iteration. Please feel free to help out by filing Issues, Feature Requests, PRs, and chatting in our Discussion.
@@ -1862,6 +1864,7 @@
 
 ## reverse-engineering 
 
+- [parawanderer/OpenTagViewer](https://github.com/parawanderer/OpenTagViewer) - Track your AirTags, Apple and Google FindMy devices and custom tags in one place on Android
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 
