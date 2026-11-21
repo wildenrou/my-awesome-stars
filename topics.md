@@ -744,6 +744,7 @@
 
 ## home-assistant 
 
+- [libstash/n8n-integration](https://github.com/libstash/n8n-integration) - Connect Home Assistant to your n8n instance.
 - [Clahen86/ha-database-doctor](https://github.com/Clahen86/ha-database-doctor) - Keeps your Home Assistant database small and correct – see what fills it, clean up safely, fix wrong energy numbers.
 - [bertel2020/HA-Housekeeper](https://github.com/bertel2020/HA-Housekeeper) - Home Assistant housekeeping: find broken references, orphaned entities and failing automations – fix only after confirmation, with backup and undo.
 - [Hustlesman/pleatview](https://github.com/Hustlesman/pleatview) - Home Assistant dashboards, cameras and media on Google TV and Android TV: a lightweight TV app plus a Home Assistant integration.
@@ -1238,6 +1239,7 @@
 
 ## others 
 
+- [ithinuel/papra](https://github.com/ithinuel/papra) - The minimalistic document archiving platform.
 - [KlimasTech/custom-vm-icons](https://github.com/KlimasTech/custom-vm-icons) - Plugin unRAID: wlasne ikony VM - trwale w appdata, automatyczny sync do VM Managera przy starcie
 - [snapetech-org/chaptarrng](https://github.com/snapetech-org/chaptarrng) - Chaptarr fork for SeerrNG ebook and audiobook requests.
 - [ianpleasance/home-assistant-ebay-monitor](https://github.com/ianpleasance/home-assistant-ebay-monitor) - An integration to allow eBay searching, retrieval of bids, watches, and item data
