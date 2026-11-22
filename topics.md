@@ -524,6 +524,7 @@
 - [RealFascinated/sharex-php-uploader](https://github.com/RealFascinated/sharex-php-uploader) - This is a PHP script that lets you easily upload screenshots taken with the ShareX app to your website. ShareX is a popular screenshot tool for Windows that allows you to take screenshots, annotate th
 - [nuxencs/seasonpackarr](https://github.com/nuxencs/seasonpackarr) - A companion app for autobrr that automagically hardlinks downloaded episodes into a season folder when a season pack is announced, eliminating the need for re-downloading existing episodes.
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
+- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated artwork maker & native Dynamic Overlays for Plex, Jellyfin, Emby & Silo.
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -1597,7 +1598,6 @@
 - [AdRoll/AirControl](https://github.com/AdRoll/AirControl) - Control AirPlay Mirroring from the command line.
 - [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search) - Official repository for Fluent Search, use to report issues or ask for a new feature
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
-- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex, Jellyfin & Emby.
 - [jlesage/docker-mkvtoolnix](https://github.com/jlesage/docker-mkvtoolnix) - Docker container for MKVToolNix
 - [alexa-samples/skill-sample-nodejs-audio-player](https://github.com/alexa-samples/skill-sample-nodejs-audio-player) - An Alexa Skill Sample showing how to play long form audio in 3P-skills
 - [HarleyL7/unRAID-CoralTPU-Guide](https://github.com/HarleyL7/unRAID-CoralTPU-Guide) - 
@@ -1927,6 +1927,7 @@
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [nuxencs/seasonpackarr](https://github.com/nuxencs/seasonpackarr) - A companion app for autobrr that automagically hardlinks downloaded episodes into a season folder when a season pack is announced, eliminating the need for re-downloading existing episodes.
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
+- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated artwork maker & native Dynamic Overlays for Plex, Jellyfin, Emby & Silo.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [rosskouk/asknavidrome](https://github.com/rosskouk/asknavidrome) - An Alexa skill to allow streaming of music from Subsonic API compatible media servers on Amazon Echo devices.
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
