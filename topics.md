@@ -503,6 +503,7 @@
 - [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
 - [snapetech-org/seerrng](https://github.com/snapetech-org/seerrng) - Seerr fork adding Music, eBooks, Audiobooks, Comics, Magazines, Roms, Games, & Software to existing Music & TV Requests and approval management.
 - [anym001/healthlog](https://github.com/anym001/healthlog) - Self-hosted Apple Health analysis on your own hardware — no cloud, no tracking
+- [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Self-hosted Calibre ebook library for browsers and e-readers, with automatic imports, Kobo and KOReader sync, and OPDS. A community continuation of Calibre-Web-Automated.
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 85 tools for transactions, budgets, rules, and
 - [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr) - An audiobook and eBook collection manager.
@@ -1270,7 +1271,6 @@
 - [RiDDiX/home-assistant-matter-hub](https://github.com/RiDDiX/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
 - [Shadowghost/jellyfin-plugin-segment-recognition](https://github.com/Shadowghost/jellyfin-plugin-segment-recognition) - Media Segment Recognition for Jellyfin
 - [khordapp/khord](https://github.com/khordapp/khord) - 
-- [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Community continuation of Calibre-Web-Automated. Attempting to maintain with rapid iteration. Please feel free to help out by filing Issues, Feature Requests, PRs, and chatting in our Discussion.
 - [R3yn4ld/ca.mover.tuning](https://github.com/R3yn4ld/ca.mover.tuning) - 
 - [andrazspolaric/home-assistant-custom-cards](https://github.com/andrazspolaric/home-assistant-custom-cards) - Custom Home Assistant dashboard cards for air quality monitoring, climate tracking, and smart home controls
 - [bexelbie/presencesync-addon](https://github.com/bexelbie/presencesync-addon) - Track Apple AirTags + devices in Home Assistant — installs as a one-click HA add-on with its own UI panel
@@ -1902,6 +1902,7 @@
 - [Themearr/themearr](https://github.com/Themearr/themearr) - Automatic movie theme song downloader for Plex, Jellyfin, Emby and Kodi. Reads your movie library from either Plex or Radarr and writes a theme.mp3 into every movie folder. Self-hosted, arr-style: hea
 - [a11delavar/mitra](https://github.com/a11delavar/mitra) - One calendar to plan your events and tasks
 - [anym001/healthlog](https://github.com/anym001/healthlog) - Self-hosted Apple Health analysis on your own hardware — no cloud, no tracking
+- [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Self-hosted Calibre ebook library for browsers and e-readers, with automatic imports, Kobo and KOReader sync, and OPDS. A community continuation of Calibre-Web-Automated.
 - [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr) - An audiobook and eBook collection manager.
 - [ezwep/chatgpt-exporter](https://github.com/ezwep/chatgpt-exporter) - Self-hosted ChatGPT backup tool — export all your conversations, projects (with files), and custom GPTs as JSON, Markdown and HTML. Zero dependencies, runs locally with a web UI.
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Free, open-source file toolkit for PDFs, images, video and audio. Compress, convert, OCR, remove backgrounds and transcribe on your own server with one Docker command. 200+ tools, local AI, REST API. 
