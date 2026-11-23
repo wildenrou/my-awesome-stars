@@ -563,7 +563,7 @@
 - [ClusterM/localtuya_rc](https://github.com/ClusterM/localtuya_rc) - Tuya universal remote control device Home Assistant integration
 - [hydroqc/hydroqc-ha](https://github.com/hydroqc/hydroqc-ha) - Intégration Home Assistant pour Hydro-Québec. Surveillez votre consommation électrique, périodes de pointe, pannes et facturation.
 - [Miloud-H/HA-Canada-Post](https://github.com/Miloud-H/HA-Canada-Post) - Canada Post My Mail (Mon Courrier) integration for Home Assistant.
-- [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Community continuation of Calibre-Web-Automated. Attempting to maintain with rapid iteration. Please feel free to help out by filing Issues, Feature Requests, PRs, and chatting in our Discussion.
+- [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Self-hosted Calibre ebook library for browsers and e-readers, with automatic imports, Kobo and KOReader sync, and OPDS. A community continuation of Calibre-Web-Automated.
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.
 - [marcusadolfsson/appletv-siri-voice](https://github.com/marcusadolfsson/appletv-siri-voice) - Send voice commands to Siri on your Apple TV from Home Assistant
 - [mrvautin/ha-workouts](https://github.com/mrvautin/ha-workouts) - Home Assistant integration for Garmin, Coros, Strava, and Apple Health workout & health data — sensors, long-term statistics, and per-km split calendar
