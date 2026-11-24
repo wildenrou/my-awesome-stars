@@ -332,6 +332,7 @@
 
 ## JavaScript 
 
+- [bertel2020/HA-Housekeeper](https://github.com/bertel2020/HA-Housekeeper) - Home Assistant housekeeping: find broken references, orphaned entities and failing automations – fix only after confirmation, with backup and undo.
 - [SWFX2324/swamp-fox-labs-ha-apps](https://github.com/SWFX2324/swamp-fox-labs-ha-apps) - Home Assistant apps by Swamp Fox Labs. Ham Radio Dashboard: HF propagation, space weather, DX spots, repeaters, APRS, POTA and satellite passes, with Home Assistant sensors and alerts.
 - [adamoberley/HABirdDashboard](https://github.com/adamoberley/HABirdDashboard) - A live bird collage card for your Home Assistant dashboard.
 - [masonfox/scurry](https://github.com/masonfox/scurry) - A nimble little mouse that scurries through MyAnonamouse (MAM) and whisks audio and ebook torrents into qBittorrent
@@ -539,7 +540,6 @@
 
 - [libstash/n8n-integration](https://github.com/libstash/n8n-integration) - Connect Home Assistant to your n8n instance.
 - [Clahen86/ha-database-doctor](https://github.com/Clahen86/ha-database-doctor) - Keeps your Home Assistant database small and correct – see what fills it, clean up safely, fix wrong energy numbers.
-- [bertel2020/HA-Housekeeper](https://github.com/bertel2020/HA-Housekeeper) - Home Assistant housekeeping: find broken references, orphaned entities and failing automations – fix only after confirmation, with backup and undo.
 - [Hustlesman/pleatview](https://github.com/Hustlesman/pleatview) - Home Assistant dashboards, cameras and media on Google TV and Android TV: a lightweight TV app plus a Home Assistant integration.
 - [ianpleasance/home-assistant-ebay-monitor](https://github.com/ianpleasance/home-assistant-ebay-monitor) - An integration to allow eBay searching, retrieval of bids, watches, and item data
 - [Luca-Bachini-Barr/ha-chaptarr](https://github.com/Luca-Bachini-Barr/ha-chaptarr) - Home Assistant custom integration for Chaptarr (queue, wanted, health, release calendar)
@@ -554,7 +554,7 @@
 - [hudsonbrendon/jbl-charge5](https://github.com/hudsonbrendon/jbl-charge5) - Home Assistant integration for the JBL Charge 5 (battery over BLE)
 - [boced66/ha-icalendar](https://github.com/boced66/ha-icalendar) - Generates an iCalendar (.ics) link that you can use to view your Home Assistant calendars in another app
 - [wildenrou/homeassistant-custom-icons](https://github.com/wildenrou/homeassistant-custom-icons) - Add your custom icons to Home Assistant!
-- [Mincka/spotcast](https://github.com/Mincka/spotcast) - Maintained fork. Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
+- [Mincka/spotcast](https://github.com/Mincka/spotcast) - Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
 - [yieldhog/ski-resort-ha](https://github.com/yieldhog/ski-resort-ha) - Home Assistant integration for ski resorts — search 6,000+ mountains by name and get free snow, weather forecasts, terrain stats, lift status, trail maps, and webcams. Anchored on OpenSkiMap, powered 
 - [KruseLuds/halp](https://github.com/KruseLuds/halp) - HALP! (Home Assistant Location & Presence analyzer)
 - [JeanMarc-Labs/ha-config-auditor](https://github.com/JeanMarc-Labs/ha-config-auditor) - Home Assistant Config Auditor (H.A.C.A) Custom Integration
