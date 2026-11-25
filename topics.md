@@ -260,7 +260,7 @@
 ## automation 
 
 - [Themearr/themearr](https://github.com/Themearr/themearr) - Automatic movie theme song downloader for Plex, Jellyfin, Emby and Kodi. Reads your movie library from either Plex or Radarr and writes a theme.mp3 into every movie folder. Self-hosted, arr-style: hea
-- [Mincka/spotcast](https://github.com/Mincka/spotcast) - Maintained fork. Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
+- [Mincka/spotcast](https://github.com/Mincka/spotcast) - Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
 - [bjrnptrsn/climate_group_helper](https://github.com/bjrnptrsn/climate_group_helper) - Climate Group Helper for Home Assistant: Orchestrate single or multiple TRVs, ACs, and heaters. Features a built-in custom Dashboard card, native TRV calibration, window & presence control, schedules,
 - [hiall-fyi/ha-cleanup](https://github.com/hiall-fyi/ha-cleanup) - 🧹 Home Assistant cleanup script - Remove orphaned entities, clean registries, purge old database records
 - [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
@@ -447,6 +447,7 @@
 
 - [LavX/jellyfin-plugin-bazarr-plus](https://github.com/LavX/jellyfin-plugin-bazarr-plus) - Jellyfin 10.11+ subtitle provider plugin that proxies searches and downloads to a self-hosted Bazarr+ instance over an OpenSubtitles-compatible REST API.
 - [Jellyfin-PG/Mod-Manager](https://github.com/Jellyfin-PG/Mod-Manager) - A mod manager, both css and js mods for jellyfin 10.11+
+- [Fovty/HoverTrailer](https://github.com/Fovty/HoverTrailer) - Netflix-style video previews for Jellyfin
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
@@ -553,6 +554,7 @@
 - [LavX/jellyfin-plugin-bazarr-plus](https://github.com/LavX/jellyfin-plugin-bazarr-plus) - Jellyfin 10.11+ subtitle provider plugin that proxies searches and downloads to a self-hosted Bazarr+ instance over an OpenSubtitles-compatible REST API.
 - [IAmParadox27/jellyfin-plugin-pages](https://github.com/IAmParadox27/jellyfin-plugin-pages) - Allows plugins to add pages to the main UI
 - [Jellyfin-PG/Mod-Manager](https://github.com/Jellyfin-PG/Mod-Manager) - A mod manager, both css and js mods for jellyfin 10.11+
+- [Fovty/HoverTrailer](https://github.com/Fovty/HoverTrailer) - Netflix-style video previews for Jellyfin
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [Benisgo/Symbolic11](https://github.com/Benisgo/Symbolic11) - Symbolic11 is a user-friendly GUI tool for creating symbolic, hard, and junction links on Windows 10 and 11. The tool features a modern design inspired by Windows 11 and streamlines the link creation 
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
@@ -731,7 +733,7 @@
 - [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [philhawthorne/ha-dockermon](https://github.com/philhawthorne/ha-dockermon) - A NodeJS RESTful API which can be used with Home Assistant to report the state of Docker Containers
 - [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa) - 🏠🤖 Python API for TP-Link smarthome products
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder.
@@ -764,7 +766,7 @@
 - [hudsonbrendon/jbl-charge5](https://github.com/hudsonbrendon/jbl-charge5) - Home Assistant integration for the JBL Charge 5 (battery over BLE)
 - [boced66/ha-icalendar](https://github.com/boced66/ha-icalendar) - Generates an iCalendar (.ics) link that you can use to view your Home Assistant calendars in another app
 - [joseluis9595/lovelace-navbar-card](https://github.com/joseluis9595/lovelace-navbar-card) - Custom lovelace card that displays a bottom nav in mobile devices, and a side nav in desktop devices for easy navigation.
-- [Mincka/spotcast](https://github.com/Mincka/spotcast) - Maintained fork. Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
+- [Mincka/spotcast](https://github.com/Mincka/spotcast) - Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
 - [JeanMarc-Labs/ha-config-auditor](https://github.com/JeanMarc-Labs/ha-config-auditor) - Home Assistant Config Auditor (H.A.C.A) Custom Integration
 - [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Your computers in Home Assistant: a desktop app for Windows and Linux, a Windows service, a Linux daemon and a Stream Deck plugin, over its own encrypted integration (no MQTT broker needed). x64 and A
 - [nathan-gs/ha-map-card](https://github.com/nathan-gs/ha-map-card) - A Map Card for Home Assistant
@@ -1003,7 +1005,7 @@
 
 ## laravel 
 
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 
 ## library 
 
@@ -1391,7 +1393,6 @@
 - [immich-power-tools/immich-power-tools](https://github.com/immich-power-tools/immich-power-tools) - Power tools for organizing your immich library
 - [caleb-venner/JellyPy](https://github.com/caleb-venner/JellyPy) - Event Driven Media Management Jellyfin plugin.
 - [kirtan3d/Jellyfin.Plugin.AssignThemeSong](https://github.com/kirtan3d/Jellyfin.Plugin.AssignThemeSong) - A Jellyfin plugin that allows you to download theme songs from YouTube or upload custom MP3 files for your movies and TV shows.
-- [Fovty/HoverTrailer](https://github.com/Fovty/HoverTrailer) - Netflix-style video previews for Jellyfin
 - [Pukabyte/trailerfin](https://github.com/Pukabyte/trailerfin) - Retrieves IMDB trailers of your movies and imports them as background video themes in Jellyfin using .strm files
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
 - [StergiosBinopoulos/jellyfin-plugin-bettermix](https://github.com/StergiosBinopoulos/jellyfin-plugin-bettermix) - A Jellyfin plugin for better Instant Mix.
@@ -1732,7 +1733,7 @@
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [RealFascinated/sharex-php-uploader](https://github.com/RealFascinated/sharex-php-uploader) - This is a PHP script that lets you easily upload screenshots taken with the ShareX app to your website. ShareX is a popular screenshot tool for Windows that allows you to take screenshots, annotate th
 - [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 
 ## postgresql 
 
@@ -1912,6 +1913,7 @@
 - [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [slimcdk/subsarr](https://github.com/slimcdk/subsarr) - Subsarr lets you self-host the full Subscene archive and use it as a subtitle source in Bazarr
 - [Jaredharper1/Sortarr](https://github.com/Jaredharper1/Sortarr) - Media Library Insights
+- [Fovty/HoverTrailer](https://github.com/Fovty/HoverTrailer) - Netflix-style video previews for Jellyfin
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [NeptuneHub/audiomuse-ai-plugin](https://github.com/NeptuneHub/audiomuse-ai-plugin) - AudioMuse-AI Jellyfin Plugin enhances music discovery by using sonic analysis to queue similar songs in real time.
