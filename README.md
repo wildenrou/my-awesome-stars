@@ -63,6 +63,7 @@
 
 ## C 
 
+- [davilaa/ds-sc5b-uas-arbiter](https://github.com/davilaa/ds-sc5b-uas-arbiter) - Unraid plugin for the Sabrent DS-SC5B 5-bay USB enclosure: use all five bays in your Unraid array without UAS resets during parity checks and rebuilds. Auto-built for every Unraid release.
 - [slimcdk/subsarr](https://github.com/slimcdk/subsarr) - Subsarr lets you self-host the full Subscene archive and use it as a subtitle source in Bazarr
 - [thor2002ro/unraid_kernel](https://github.com/thor2002ro/unraid_kernel) - Kernel repository for UNRAID(unofficial)
 - [saltpi/iPlay](https://github.com/saltpi/iPlay) - Enjoy Media Everywhere, On Every Platform 👀
@@ -78,6 +79,7 @@
 
 ## C# # 
 
+- [remotesojourner/papra-companion](https://github.com/remotesojourner/papra-companion) - Adds local email ingestion and AI document processing to Papra
 - [DanCue44/Talearr](https://github.com/DanCue44/Talearr) - Ebook and audiobook collection manager. A drop-in fork of Chaptarr with Hardcover metadata, recordings done right, comics and manga, and Allseerr requests.
 - [snapetech-org/chaptarrng](https://github.com/snapetech-org/chaptarrng) - Chaptarr fork for SeerrNG ebook and audiobook requests.
 - [bitstorm-labs/jellyfin-theme-songs](https://github.com/bitstorm-labs/jellyfin-theme-songs) - Jellyfin plugin that automatically downloads TV theme songs and saves them as theme.mp3 so every client can play them.
@@ -333,6 +335,9 @@
 
 ## JavaScript 
 
+- [juju35/ha-parcel](https://github.com/juju35/ha-parcel) - Home Assistant integration for Parcel: track and add deliveries, with a bundled Lovelace card
+- [JohannDeon/jellyfin-plugin-theme-studio](https://github.com/JohannDeon/jellyfin-plugin-theme-studio) - 
+- [rohasnagpal/legal-ai-skills](https://github.com/rohasnagpal/legal-ai-skills) - Set Up an AI-Powered Full-Service Law Firm in 90 Seconds
 - [bertel2020/HA-Housekeeper](https://github.com/bertel2020/HA-Housekeeper) - Home Assistant housekeeping: find broken references, orphaned entities and failing automations – fix only after confirmation, with backup and undo.
 - [SWFX2324/swamp-fox-labs-ha-apps](https://github.com/SWFX2324/swamp-fox-labs-ha-apps) - Home Assistant apps by Swamp Fox Labs. Ham Radio Dashboard: HF propagation, space weather, DX spots, repeaters, APRS, POTA and satellite passes, with Home Assistant sensors and alerts.
 - [adamoberley/HABirdDashboard](https://github.com/adamoberley/HABirdDashboard) - A live bird collage card for your Home Assistant dashboard.
@@ -503,6 +508,7 @@
 
 ## PHP 
 
+- [johnpwhite/unraid-plg-connections](https://github.com/johnpwhite/unraid-plg-connections) - An Unraid plugin that gives you a single page of all external connections to you box
 - [KlimasTech/custom-vm-icons](https://github.com/KlimasTech/custom-vm-icons) - Plugin unRAID: wlasne ikony VM - trwale w appdata, automatyczny sync do VM Managera przy starcie
 - [leone007/unraid-mediaserver-tools](https://github.com/leone007/unraid-mediaserver-tools) - Feature-rich Unraid dashboard plugins: Seedbox, Sysbox, Diskbox, Streambox
 - [davidcoulson/unraid-storage-topology](https://github.com/davidcoulson/unraid-storage-topology) - Unraid plugin: read-only SAS storage topology and enclosure health (controllers, cables, shelves, bays, firmware, per-drive link status)
@@ -539,6 +545,8 @@
 
 ## Python 
 
+- [SoerenKaiser99/parcel_tracker](https://github.com/SoerenKaiser99/parcel_tracker) - Paket Tracker für Home Assistant: DHL, DPD, GLS, Hermes, UPS sowie Amazon-, eBay- und AliExpress-Bestellungen aus E-Mails – mit eigener Dashboard-Karte, Kalender und Push
+- [ha-parcel-integrations/ha-parcel-aggregator](https://github.com/ha-parcel-integrations/ha-parcel-aggregator) - Roll up every ha-parcel-integrations carrier into one set of Home Assistant sensors and events
 - [libstash/n8n-integration](https://github.com/libstash/n8n-integration) - Connect Home Assistant to your n8n instance.
 - [Clahen86/ha-database-doctor](https://github.com/Clahen86/ha-database-doctor) - Keeps your Home Assistant database small and correct – see what fills it, clean up safely, fix wrong energy numbers.
 - [Hustlesman/pleatview](https://github.com/Hustlesman/pleatview) - Home Assistant dashboards, cameras and media on Google TV and Android TV: a lightweight TV app plus a Home Assistant integration.
@@ -966,6 +974,7 @@
 
 ## TypeScript 
 
+- [open-parcels/open-parcels](https://github.com/open-parcels/open-parcels) - Self-hosted parcel and order tracking: about 90 carriers, shipping-mail parsing, live courier map, delivery calendar, Home Assistant integration
 - [ithinuel/papra](https://github.com/ithinuel/papra) - The minimalistic document archiving platform.
 - [ElementumOrg/sync-my-cookie](https://github.com/ElementumOrg/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
 - [a11delavar/mitra](https://github.com/a11delavar/mitra) - One calendar to plan your events and tasks
