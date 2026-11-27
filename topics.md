@@ -183,6 +183,7 @@
 
 ## ai 
 
+- [rohasnagpal/legal-ai-skills](https://github.com/rohasnagpal/legal-ai-skills) - Set Up an AI-Powered Full-Service Law Firm in 90 Seconds
 - [mohammadfarooqi/canlii-mcp](https://github.com/mohammadfarooqi/canlii-mcp) - Local MCP server for Canadian legal research via CanLII API — search cases, browse legislation, check citations. Works with Claude Desktop & Claude Code.
 - [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
@@ -209,6 +210,7 @@
 
 ## ai-agents 
 
+- [rohasnagpal/legal-ai-skills](https://github.com/rohasnagpal/legal-ai-skills) - Set Up an AI-Powered Full-Service Law Firm in 90 Seconds
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 
@@ -498,6 +500,7 @@
 
 ## docker 
 
+- [open-parcels/open-parcels](https://github.com/open-parcels/open-parcels) - Self-hosted parcel and order tracking: about 90 carriers, shipping-mail parsing, live courier map, delivery calendar, Home Assistant integration
 - [Themearr/themearr](https://github.com/Themearr/themearr) - Automatic movie theme song downloader for Plex, Jellyfin, Emby and Kodi. Reads your movie library from either Plex or Radarr and writes a theme.mp3 into every movie folder. Self-hosted, arr-style: hea
 - [KirovAir/muxarr](https://github.com/KirovAir/muxarr) - Quick and easy way to strip unwanted audio and subtitle tracks from your media files.
 - [drumandbytes/momentarr](https://github.com/drumandbytes/momentarr) - Caching, serialising proxy for FlareSolverr-compatible Cloudflare solvers — reuses cf_clearance over plain HTTP and runs one browser solve at a time.
@@ -748,6 +751,10 @@
 
 ## home-assistant 
 
+- [open-parcels/open-parcels](https://github.com/open-parcels/open-parcels) - Self-hosted parcel and order tracking: about 90 carriers, shipping-mail parsing, live courier map, delivery calendar, Home Assistant integration
+- [juju35/ha-parcel](https://github.com/juju35/ha-parcel) - Home Assistant integration for Parcel: track and add deliveries, with a bundled Lovelace card
+- [SoerenKaiser99/parcel_tracker](https://github.com/SoerenKaiser99/parcel_tracker) - Paket Tracker für Home Assistant: DHL, DPD, GLS, Hermes, UPS sowie Amazon-, eBay- und AliExpress-Bestellungen aus E-Mails – mit eigener Dashboard-Karte, Kalender und Push
+- [ha-parcel-integrations/ha-parcel-aggregator](https://github.com/ha-parcel-integrations/ha-parcel-aggregator) - Roll up every ha-parcel-integrations carrier into one set of Home Assistant sensors and events
 - [libstash/n8n-integration](https://github.com/libstash/n8n-integration) - Connect Home Assistant to your n8n instance.
 - [Clahen86/ha-database-doctor](https://github.com/Clahen86/ha-database-doctor) - Keeps your Home Assistant database small and correct – see what fills it, clean up safely, fix wrong energy numbers.
 - [bertel2020/HA-Housekeeper](https://github.com/bertel2020/HA-Housekeeper) - Home Assistant housekeeping: find broken references, orphaned entities and failing automations – fix only after confirmation, with backup and undo.
@@ -1243,6 +1250,10 @@
 
 ## others 
 
+- [davilaa/ds-sc5b-uas-arbiter](https://github.com/davilaa/ds-sc5b-uas-arbiter) - Unraid plugin for the Sabrent DS-SC5B 5-bay USB enclosure: use all five bays in your Unraid array without UAS resets during parity checks and rebuilds. Auto-built for every Unraid release.
+- [johnpwhite/unraid-plg-connections](https://github.com/johnpwhite/unraid-plg-connections) - An Unraid plugin that gives you a single page of all external connections to you box
+- [remotesojourner/papra-companion](https://github.com/remotesojourner/papra-companion) - Adds local email ingestion and AI document processing to Papra
+- [JohannDeon/jellyfin-plugin-theme-studio](https://github.com/JohannDeon/jellyfin-plugin-theme-studio) - 
 - [ithinuel/papra](https://github.com/ithinuel/papra) - The minimalistic document archiving platform.
 - [KlimasTech/custom-vm-icons](https://github.com/KlimasTech/custom-vm-icons) - Plugin unRAID: wlasne ikony VM - trwale w appdata, automatyczny sync do VM Managera przy starcie
 - [snapetech-org/chaptarrng](https://github.com/snapetech-org/chaptarrng) - Chaptarr fork for SeerrNG ebook and audiobook requests.
@@ -1899,6 +1910,7 @@
 
 ## self-hosted 
 
+- [open-parcels/open-parcels](https://github.com/open-parcels/open-parcels) - Self-hosted parcel and order tracking: about 90 carriers, shipping-mail parsing, live courier map, delivery calendar, Home Assistant integration
 - [DanCue44/Talearr](https://github.com/DanCue44/Talearr) - Ebook and audiobook collection manager. A drop-in fork of Chaptarr with Hardcover metadata, recordings done right, comics and manga, and Allseerr requests.
 - [Themearr/themearr](https://github.com/Themearr/themearr) - Automatic movie theme song downloader for Plex, Jellyfin, Emby and Kodi. Reads your movie library from either Plex or Radarr and writes a theme.mp3 into every movie folder. Self-hosted, arr-style: hea
 - [a11delavar/mitra](https://github.com/a11delavar/mitra) - One calendar to plan your events and tasks
@@ -2019,6 +2031,7 @@
 
 ## typescript 
 
+- [open-parcels/open-parcels](https://github.com/open-parcels/open-parcels) - Self-hosted parcel and order tracking: about 90 carriers, shipping-mail parsing, live courier map, delivery calendar, Home Assistant integration
 - [Vaquill-AI/canlii-mcp](https://github.com/Vaquill-AI/canlii-mcp) - MCP server for the CanLII Canadian legal database. Hosted at canlii-mcp.vaquill.ai. Works with Claude, Cursor, VS Code, Windsurf.
 - [agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) - Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 89 tools for transactions, budgets, rules, and
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
