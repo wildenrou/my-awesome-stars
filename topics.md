@@ -411,7 +411,7 @@
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [fiso64/sockseek](https://github.com/fiso64/sockseek) - Advanced download tool for Soulseek, soon a client.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 
 ## clojure 
@@ -738,7 +738,6 @@
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [philhawthorne/ha-dockermon](https://github.com/philhawthorne/ha-dockermon) - A NodeJS RESTful API which can be used with Home Assistant to report the state of Docker Containers
-- [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa) - 🏠🤖 Python API for TP-Link smarthome products
 - [xiph/rav1e](https://github.com/xiph/rav1e) - The fastest and safest AV1 encoder.
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
@@ -751,6 +750,7 @@
 
 ## home-assistant 
 
+- [SokolskyNikita/mysa-homeassistant](https://github.com/SokolskyNikita/mysa-homeassistant) - Home Assistant / HACS integration for Mysa thermostats, powered by mysa-client. Local HomeKit control with optional cloud features.
 - [open-parcels/open-parcels](https://github.com/open-parcels/open-parcels) - Self-hosted parcel and order tracking: about 90 carriers, shipping-mail parsing, live courier map, delivery calendar, Home Assistant integration
 - [juju35/ha-parcel](https://github.com/juju35/ha-parcel) - Home Assistant integration for Parcel: track and add deliveries, with a bundled Lovelace card
 - [SoerenKaiser99/parcel_tracker](https://github.com/SoerenKaiser99/parcel_tracker) - Paket Tracker für Home Assistant: DHL, DPD, GLS, Hermes, UPS sowie Amazon-, eBay- und AliExpress-Bestellungen aus E-Mails – mit eigener Dashboard-Karte, Kalender und Push
@@ -1037,6 +1037,7 @@
 
 ## llm 
 
+- [crow-hq/llm-wiki-v2](https://github.com/crow-hq/llm-wiki-v2) - Turn your documents into a Markdown wiki you can read, that answers with citations. Works with any LLM provider, Ollama included. CROW: 99.5% right note read vs 79%, 1.6× faster ingest, 63% fewer LLM 
 - [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) - Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications, plugins, rclone, and live telemetry.
 - [roelven/linkwarden-tag-cleanup](https://github.com/roelven/linkwarden-tag-cleanup) - Complete toolkit for cleaning up and maintaining consistent tags in Linkwarden instances with LLM-based auto-tagging
 - [NasAndNora/obsidian-http-mcp](https://github.com/NasAndNora/obsidian-http-mcp) - First HTTP-native MCP server for Obsidian - Compatible with any MCP client (Claude Code, Codex, Gemini, etc.) without stdio bugs
@@ -1087,6 +1088,7 @@
 
 ## markdown 
 
+- [crow-hq/llm-wiki-v2](https://github.com/crow-hq/llm-wiki-v2) - Turn your documents into a Markdown wiki you can read, that answers with citations. Works with any LLM provider, Ollama included. CROW: 99.5% right note read vs 79%, 1.6× faster ingest, 63% fewer LLM 
 - [coddingtonbear/icloud-md](https://github.com/coddingtonbear/icloud-md) - Your Apple Notes as real Markdown files, on any OS, bidirectionally synced with a `git`-flavored CLI
 - [ezwep/chatgpt-exporter](https://github.com/ezwep/chatgpt-exporter) - Self-hosted ChatGPT backup tool — export all your conversations, projects (with files), and custom GPTs as JSON, Markdown and HTML. Zero dependencies, runs locally with a web UI.
 - [alxnbl/onenote-md-exporter](https://github.com/alxnbl/onenote-md-exporter) - ConsoleApp to export OneNote notebooks to Markdown formats
@@ -1100,6 +1102,7 @@
 
 ## mcp 
 
+- [crow-hq/llm-wiki-v2](https://github.com/crow-hq/llm-wiki-v2) - Turn your documents into a Markdown wiki you can read, that answers with citations. Works with any LLM provider, Ollama included. CROW: 99.5% right note read vs 79%, 1.6× faster ingest, 63% fewer LLM 
 - [bertel2020/HA-Housekeeper](https://github.com/bertel2020/HA-Housekeeper) - Home Assistant housekeeping: find broken references, orphaned entities and failing automations – fix only after confirmation, with backup and undo.
 - [nadeo360/friedafetch](https://github.com/nadeo360/friedafetch) - Frieda – MCP connector for iCloud: calendars, contacts, mail and notes for Home Assistant (HACS integration)
 - [Vaquill-AI/canlii-mcp](https://github.com/Vaquill-AI/canlii-mcp) - MCP server for the CanLII Canadian legal database. Hosted at canlii-mcp.vaquill.ai. Works with Claude, Cursor, VS Code, Windsurf.
@@ -1771,7 +1774,7 @@
 
 - [p32929/google-calender-widget](https://github.com/p32929/google-calender-widget) - Unofficial Google Calendar desktop widget for Windows, macOS and Linux, built with Electron
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [EshSub/Productiv](https://github.com/EshSub/Productiv) - A windows application which brings the maximize to new virtual desktop feature in MacBooks to Windows laptops.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
@@ -1787,6 +1790,7 @@
 
 ## python 
 
+- [crow-hq/llm-wiki-v2](https://github.com/crow-hq/llm-wiki-v2) - Turn your documents into a Markdown wiki you can read, that answers with citations. Works with any LLM provider, Ollama included. CROW: 99.5% right note read vs 79%, 1.6× faster ingest, 63% fewer LLM 
 - [JeanMarc-Labs/ha-config-auditor](https://github.com/JeanMarc-Labs/ha-config-auditor) - Home Assistant Config Auditor (H.A.C.A) Custom Integration
 - [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
 - [coaxk/subarr](https://github.com/coaxk/subarr) - The coordination, measurement, and quality layer that subgen never had. A peer service for the *arr family that adds calibrated audio-language detection, provider success leaderboards, and (v1.1) an i
@@ -1838,8 +1842,8 @@
 
 ## rag 
 
+- [crow-hq/llm-wiki-v2](https://github.com/crow-hq/llm-wiki-v2) - Turn your documents into a Markdown wiki you can read, that answers with citations. Works with any LLM provider, Ollama included. CROW: 99.5% right note read vs 79%, 1.6× faster ingest, 63% fewer LLM 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [wgeorgecook/plex-recommendation](https://github.com/wgeorgecook/plex-recommendation) - RAG Powered Recommendation Engine Using Your Plex Data
 
 ## rails 
 
@@ -1910,6 +1914,7 @@
 
 ## self-hosted 
 
+- [crow-hq/llm-wiki-v2](https://github.com/crow-hq/llm-wiki-v2) - Turn your documents into a Markdown wiki you can read, that answers with citations. Works with any LLM provider, Ollama included. CROW: 99.5% right note read vs 79%, 1.6× faster ingest, 63% fewer LLM 
 - [open-parcels/open-parcels](https://github.com/open-parcels/open-parcels) - Self-hosted parcel and order tracking: about 90 carriers, shipping-mail parsing, live courier map, delivery calendar, Home Assistant integration
 - [DanCue44/Talearr](https://github.com/DanCue44/Talearr) - Ebook and audiobook collection manager. A drop-in fork of Chaptarr with Hardcover metadata, recordings done right, comics and manga, and Allseerr requests.
 - [Themearr/themearr](https://github.com/Themearr/themearr) - Automatic movie theme song downloader for Plex, Jellyfin, Emby and Kodi. Reads your movie library from either Plex or Radarr and writes a theme.mp3 into every movie folder. Self-hosted, arr-style: hea
@@ -1962,7 +1967,7 @@
 
 ## shell 
 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## sql 
 
@@ -2018,7 +2023,7 @@
 
 ## terminal 
 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 
 ## text-to-speech 
@@ -2160,7 +2165,7 @@
 ## zsh 
 
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
