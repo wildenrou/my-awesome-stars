@@ -292,7 +292,6 @@
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A minimalist, powerful webhook server designed to easily trigger shell scripts and run external processes via HTTP requests.
-- [wgeorgecook/plex-recommendation](https://github.com/wgeorgecook/plex-recommendation) - RAG Powered Recommendation Engine Using Your Plex Data
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [joshuar/go-hass-agent](https://github.com/joshuar/go-hass-agent) - A Home Assistant, native app for desktop/laptop devices.
 - [bitxeno/atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
@@ -370,7 +369,6 @@
 - [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
 - [thiagobruch/HA_Addons](https://github.com/thiagobruch/HA_Addons) - 
 - [Vansmak/mediarr-card](https://github.com/Vansmak/mediarr-card) - custom home assistant card
-- [Hogster/BPS](https://github.com/Hogster/BPS) - A BLE positioning sytem for Homeassistant providing realtime tracking indoors. Dependent on the Bermuda component built by @agattins.
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [BobHasNoSoul/Jellyfin-PauseScreen](https://github.com/BobHasNoSoul/Jellyfin-PauseScreen) - a pause screen for jellyfin that adds the logo and the disc and the description when paused that dissapears when playback is resumed or the video is exited.
 - [fastxl2024/mass-search-card](https://github.com/fastxl2024/mass-search-card) - 
@@ -545,6 +543,8 @@
 
 ## Python 
 
+- [crow-hq/llm-wiki-v2](https://github.com/crow-hq/llm-wiki-v2) - Turn your documents into a Markdown wiki you can read, that answers with citations. Works with any LLM provider, Ollama included. CROW: 99.5% right note read vs 79%, 1.6× faster ingest, 63% fewer LLM 
+- [SokolskyNikita/mysa-homeassistant](https://github.com/SokolskyNikita/mysa-homeassistant) - Home Assistant / HACS integration for Mysa thermostats, powered by mysa-client. Local HomeKit control with optional cloud features.
 - [SoerenKaiser99/parcel_tracker](https://github.com/SoerenKaiser99/parcel_tracker) - Paket Tracker für Home Assistant: DHL, DPD, GLS, Hermes, UPS sowie Amazon-, eBay- und AliExpress-Bestellungen aus E-Mails – mit eigener Dashboard-Karte, Kalender und Push
 - [ha-parcel-integrations/ha-parcel-aggregator](https://github.com/ha-parcel-integrations/ha-parcel-aggregator) - Roll up every ha-parcel-integrations carrier into one set of Home Assistant sensors and events
 - [libstash/n8n-integration](https://github.com/libstash/n8n-integration) - Connect Home Assistant to your n8n instance.
@@ -690,6 +690,7 @@
 - [jacepark12/ticktick-mcp](https://github.com/jacepark12/ticktick-mcp) - MCP server that interacts with TickTick (Dida 365) via the TickTick Open API
 - [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
+- [Hogster/BPS](https://github.com/Hogster/BPS) - A BLE positioning sytem for Homeassistant providing realtime tracking indoors. Dependent on the Bermuda component built by @agattins.
 - [kennethsible/mkvpriority](https://github.com/kennethsible/mkvpriority) - Assigns priority scores to audio and subtitle tracks in MKV files
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [Woahai321/list-sync](https://github.com/Woahai321/list-sync) - ListSync automates the import of your IMDB & Trakt lists into Overseerr & Jellyseerr, simplifying your movie management. https://discord.gg/Dy5xNzEHKw
@@ -885,6 +886,7 @@
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [jdthomas/mysa_rs](https://github.com/jdthomas/mysa_rs) - Simple service to poll mysa for temperature and humidity and push to mqtt
+- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Where one person's software lives.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
@@ -922,7 +924,7 @@
 - [vorlac/unraid-fast-copy](https://github.com/vorlac/unraid-fast-copy) - An optimized parallel copy utility for copying data from an unraid share to a mounted nfs/cifs share
 - [alexklibisz/bdv2s3](https://github.com/alexklibisz/bdv2s3) - backup docker volume to s3
 - [SpaceinvaderOne/Custom-Tabs-Super](https://github.com/SpaceinvaderOne/Custom-Tabs-Super) - 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Poeschl-HomeAssistant-Addons/git-exporter](https://github.com/Poeschl-HomeAssistant-Addons/git-exporter) - Export all of your Home Assistant configuration to a git repository of your choice
 - [binhex/arch-libreoffice](https://github.com/binhex/arch-libreoffice) - Docker build script for Arch Linux base with LibreOffice Fresh
 - [ngencokamin/sh-imessage-setup](https://github.com/ngencokamin/sh-imessage-setup) - Script to set up bbctl automatically for sh-imessage bridge
@@ -1068,7 +1070,6 @@
 - [PascalLuginbuehl/home-assistant-tray-menu](https://github.com/PascalLuginbuehl/home-assistant-tray-menu) - An app to interact with Home Assistant in the Windows System Tray
 - [Nerivec/z2m-ember-helper](https://github.com/Nerivec/z2m-ember-helper) - Get a better understanding of your Zigbee network using Zigbee2MQTT with Ember driver (for EmberZNet-based adapter).
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Where one person's software lives.
 - [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
